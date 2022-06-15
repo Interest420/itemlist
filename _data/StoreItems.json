@@ -4324,7 +4324,7 @@
       "abr": "fungalhusk",
       "category": "Animals",
       "defname": "AA_FungalHusk",
-      "price": 375
+      "price": -10
     },
     {
       "abr": "gallatross",
@@ -5950,7 +5950,7 @@
       "abr": "anchovy",
       "category": "Raw fish",
       "defname": "VCEF_RawAnchovy",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "angelfish",
@@ -6022,7 +6022,7 @@
       "abr": "bloodleech",
       "category": "Alien raw fish",
       "defname": "VCEF_BloodLeech",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "bluefungus",
@@ -6034,7 +6034,7 @@
       "abr": "borealsardine",
       "category": "Alien raw fish",
       "defname": "VCEF_BorealSardine",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "brownbarrelcactus",
@@ -6118,7 +6118,7 @@
       "abr": "duskysprat",
       "category": "Alien raw fish",
       "defname": "VCEF_DuskySprat",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "eel",
@@ -6802,7 +6802,7 @@
       "abr": "frostleaf",
       "category": "Raw resources",
       "defname": "AB_RawFrostLeaf",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "gemofarcaneinsight",
@@ -6904,7 +6904,7 @@
       "abr": "guppy",
       "category": "Raw fish",
       "defname": "VCEF_RawGuppy",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "habdaklongfin",
@@ -7288,7 +7288,7 @@
       "abr": "mashedpomana",
       "category": "Vegetarian",
       "defname": "TM_RawPomanaMash",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "meat",
@@ -7306,7 +7306,7 @@
       "abr": "minnow",
       "category": "Raw fish",
       "defname": "VCEF_RawMinnow",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "minorarcanegemofacceleration",
@@ -7510,7 +7510,7 @@
       "abr": "propanebag",
       "category": "Alien raw fish",
       "defname": "VCEF_PropaneBag",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "propanefueltank",
@@ -8200,7 +8200,7 @@
       "abr": "sprat",
       "category": "Raw fish",
       "defname": "VCEF_RawSprat",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "staffofblazingpower",
@@ -8320,7 +8320,7 @@
       "abr": "tentacularfruit",
       "category": "Vegetarian",
       "defname": "AB_RawTentacularFruit",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "thrumbow",
@@ -8561,7 +8561,55 @@
       "category": "Manufactured",
       "defname": "RK_WyvernAmmo_SpreadType",
       "price": 92
+    },
+    {
+      "abr": "guestbed",
+      "category": "Furniture",
+      "defname": "BedGuest",
+      "price": 155
+    },
+    {
+      "abr": "guestdoublebed",
+      "category": "Furniture",
+      "defname": "DoubleBedGuest",
+      "price": 292
+    },
+    {
+      "abr": "guestroyalbed",
+      "category": "Furniture",
+      "defname": "RoyalBedGuest",
+      "price": 1450
+    },
+    {
+      "abr": "guesthospitalbed",
+      "category": "Furniture",
+      "defname": "HospitalBedGuest",
+      "price": 658
+    },
+    {
+      "abr": "guestbedroll",
+      "category": "Furniture",
+      "defname": "BedrollGuest",
+      "price": 137
+    },
+    {
+      "abr": "guestdoublebedroll",
+      "category": "Furniture",
+      "defname": "BedrollDoubleGuest",
+      "price": 290
+    },
+    {
+      "abr": "guestslabbed",
+      "category": "Furniture",
+      "defname": "SlabBedGuest",
+      "price": 102
+    },
+    {
+      "abr": "guestslabdoublebed",
+      "category": "Furniture",
+      "defname": "SlabDoubleBedGuest",
+      "price": 288
     }
   ],
-  "total": 1427
+  "total": 1435
 }
