@@ -71,6 +71,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "toxicfallout",
+		"price": 10000,
+		"karmatype": "Doom"
+	},
+	{
 		"abr": "volcanicwinter",
 		"price": 3200,
 		"karmatype": "Doom"
@@ -233,7 +238,7 @@
 	{
 		"abr": "manhunterpack",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "predators",
@@ -416,5 +421,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 83
+	"total": 84
 }
