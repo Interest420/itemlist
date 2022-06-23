@@ -6139,6 +6139,186 @@
       "price": 542
     },
     {
+      "abr": "fakeear",
+      "category": "Prosthetic",
+      "defname": "RK_FakeEar",
+      "price": 152
+    },
+    {
+      "abr": "faketail",
+      "category": "Prosthetic",
+      "defname": "RK_FakeTail",
+      "price": 240
+    },
+    {
+      "abr": "forsakenanglerfish",
+      "category": "Alien raw fish",
+      "defname": "VCEF_ForsakenAnglerfish",
+      "price": 2
+    },
+    {
+      "abr": "frigidswimmer",
+      "category": "Alien raw fish",
+      "defname": "VCEF_FrigidSwimmer",
+      "price": 3
+    },
+    {
+      "abr": "frostleaf",
+      "category": "Raw resources",
+      "defname": "AB_RawFrostLeaf",
+      "price": -10
+    },
+    {
+      "abr": "giantpolarprawn",
+      "category": "Alien raw fish",
+      "defname": "VCEF_GiantPolarPrawn",
+      "price": 2
+    },
+    {
+      "abr": "goldfish",
+      "category": "Raw fish",
+      "defname": "VCEF_RawGoldfish",
+      "price": 3
+    },
+    {
+      "abr": "guppy",
+      "category": "Raw fish",
+      "defname": "VCEF_RawGuppy",
+      "price": -10
+    },
+    {
+      "abr": "habdaklongfin",
+      "category": "Alien raw fish",
+      "defname": "VCEF_HabdakLongfin",
+      "price": 9
+    },
+    {
+      "abr": "haddock",
+      "category": "Raw fish",
+      "defname": "VCEF_RawHaddock",
+      "price": 2
+    },
+    {
+      "abr": "halibut",
+      "category": "Raw fish",
+      "defname": "VCEF_RawHalibut",
+      "price": 3
+    },
+    {
+      "abr": "herring",
+      "category": "Raw fish",
+      "defname": "VCEF_RawHerring",
+      "price": 1
+    },
+    {
+      "abr": "iashiphusfruit",
+      "category": "Vegetarian",
+      "defname": "AB_RawIashiphus",
+      "price": 1
+    },
+    {
+      "abr": "iedtartrap",
+      "category": "Security",
+      "defname": "AB_TrapIED_Tar",
+      "price": 267
+    },
+    {
+      "abr": "jellyfungus",
+      "category": "Alien raw fish",
+      "defname": "VCEF_Jellyfungus",
+      "price": 2
+    },
+    {
+      "abr": "kinghamster",
+      "category": "Animals",
+      "defname": "RK_KingHamster",
+      "price": 750
+    },
+    {
+      "abr": "kinghamsterfur",
+      "category": "Leathers",
+      "defname": "RK_Leather_KingHamster",
+      "price": 4
+    },
+    {
+      "abr": "kinghamstermeat",
+      "category": "Meat",
+      "defname": "Meat_RK_KingHamster",
+      "price": 3
+    },
+    {
+      "abr": "kinghamsterwool",
+      "category": "Wools",
+      "defname": "RK_Wool_KingHamster",
+      "price": 4
+    },
+    {
+      "abr": "koi",
+      "category": "Raw fish",
+      "defname": "VCEF_RawKoi",
+      "price": 4
+    },
+    {
+      "abr": "lobster",
+      "category": "Raw fish",
+      "defname": "VCEF_RawLobster",
+      "price": 9
+    },
+    {
+      "abr": "mackerel",
+      "category": "Raw fish",
+      "defname": "VCEF_RawMackerel",
+      "price": 2
+    },
+    {
+      "abr": "minnow",
+      "category": "Raw fish",
+      "defname": "VCEF_RawMinnow",
+      "price": -10
+    },
+    {
+      "abr": "mudsplashercarp",
+      "category": "Alien raw fish",
+      "defname": "VCEF_MudSplasherCarp",
+      "price": 2
+    },
+    {
+      "abr": "mudstoneblocks",
+      "category": "Stone blocks",
+      "defname": "AB_BlocksMudstone",
+      "price": 1
+    },
+    {
+      "abr": "mushroomstalks",
+      "category": "Raw resources",
+      "defname": "AB_MushroomWoodLog",
+      "price": 2
+    },
+    {
+      "abr": "mutantflatfish",
+      "category": "Alien raw fish",
+      "defname": "VCEF_MutantFlatfish",
+      "price": 1
+    },
+    {
+      "abr": "obsidianblocks",
+      "category": "Stone blocks",
+      "defname": "AB_BlocksObsidian",
+      "price": 2
+    },
+    {
+      "abr": "ocularfish",
+      "category": "Alien raw fish",
+      "defname": "VCEF_OcularFish",
+      "price": 3
+    },
+    {
+      "abr": "oculargasspewer",
+      "category": "Misc",
+      "defname": "AB_OcularGasSpewer",
+      "price": 304
+    },
+    {
       "abr": "ancientmail",
       "category": "Magic apparel",
       "defname": "AncientMail",
@@ -6667,18 +6847,6 @@
       "price": 833
     },
     {
-      "abr": "fakeear",
-      "category": "Prosthetic",
-      "defname": "RK_FakeEar",
-      "price": 152
-    },
-    {
-      "abr": "faketail",
-      "category": "Prosthetic",
-      "defname": "RK_FakeTail",
-      "price": 240
-    },
-    {
       "abr": "fighterskill:burningfury",
       "category": "Scrolls",
       "defname": "SkillOf_BurningFury",
@@ -6787,24 +6955,6 @@
       "price": 4500
     },
     {
-      "abr": "forsakenanglerfish",
-      "category": "Alien raw fish",
-      "defname": "VCEF_ForsakenAnglerfish",
-      "price": 2
-    },
-    {
-      "abr": "frigidswimmer",
-      "category": "Alien raw fish",
-      "defname": "VCEF_FrigidSwimmer",
-      "price": 3
-    },
-    {
-      "abr": "frostleaf",
-      "category": "Raw resources",
-      "defname": "AB_RawFrostLeaf",
-      "price": -10
-    },
-    {
       "abr": "gemofarcaneinsight",
       "category": "Magic artifacts",
       "defname": "GemstoneOfInsight_Magic",
@@ -6823,12 +6973,6 @@
       "price": 2750
     },
     {
-      "abr": "giantpolarprawn",
-      "category": "Alien raw fish",
-      "defname": "VCEF_GiantPolarPrawn",
-      "price": 2
-    },
-    {
       "abr": "giantskeletonmeat",
       "category": "Meat",
       "defname": "Meat_TM_GiantSkeletonR",
@@ -6845,12 +6989,6 @@
       "category": "Melee",
       "defname": "TM_GloryMaul",
       "price": 2825
-    },
-    {
-      "abr": "goldfish",
-      "category": "Raw fish",
-      "defname": "VCEF_RawGoldfish",
-      "price": 3
     },
     {
       "abr": "golemancerspell:awarenessbrand",
@@ -6901,40 +7039,10 @@
       "price": 2500
     },
     {
-      "abr": "guppy",
-      "category": "Raw fish",
-      "defname": "VCEF_RawGuppy",
-      "price": -10
-    },
-    {
-      "abr": "habdaklongfin",
-      "category": "Alien raw fish",
-      "defname": "VCEF_HabdakLongfin",
-      "price": 9
-    },
-    {
-      "abr": "haddock",
-      "category": "Raw fish",
-      "defname": "VCEF_RawHaddock",
-      "price": 2
-    },
-    {
-      "abr": "halibut",
-      "category": "Raw fish",
-      "defname": "VCEF_RawHalibut",
-      "price": 3
-    },
-    {
       "abr": "helmofthevaliant",
       "category": "Magic apparel",
       "defname": "RoyalHelm",
       "price": 975
-    },
-    {
-      "abr": "herring",
-      "category": "Raw fish",
-      "defname": "VCEF_RawHerring",
-      "price": 1
     },
     {
       "abr": "hollowgolem",
@@ -6961,12 +7069,6 @@
       "price": 1008
     },
     {
-      "abr": "iashiphusfruit",
-      "category": "Vegetarian",
-      "defname": "AB_RawIashiphus",
-      "price": 1
-    },
-    {
       "abr": "icespell:alterstorm",
       "category": "Scrolls",
       "defname": "SpellOf_AlterStorm",
@@ -6985,48 +7087,6 @@
       "price": 900
     },
     {
-      "abr": "iedtartrap",
-      "category": "Security",
-      "defname": "AB_TrapIED_Tar",
-      "price": 267
-    },
-    {
-      "abr": "jellyfungus",
-      "category": "Alien raw fish",
-      "defname": "VCEF_Jellyfungus",
-      "price": 2
-    },
-    {
-      "abr": "kinghamster",
-      "category": "Animals",
-      "defname": "RK_KingHamster",
-      "price": 750
-    },
-    {
-      "abr": "kinghamsterfur",
-      "category": "Leathers",
-      "defname": "RK_Leather_KingHamster",
-      "price": 4
-    },
-    {
-      "abr": "kinghamstermeat",
-      "category": "Meat",
-      "defname": "Meat_RK_KingHamster",
-      "price": 3
-    },
-    {
-      "abr": "kinghamsterwool",
-      "category": "Wools",
-      "defname": "RK_Wool_KingHamster",
-      "price": 4
-    },
-    {
-      "abr": "koi",
-      "category": "Raw fish",
-      "defname": "VCEF_RawKoi",
-      "price": 4
-    },
-    {
       "abr": "lightningspell:chargebattery",
       "category": "Scrolls",
       "defname": "SpellOf_ChargeBattery",
@@ -7043,18 +7103,6 @@
       "category": "Animal",
       "defname": "TM_LimestoneGolem",
       "price": 2500
-    },
-    {
-      "abr": "lobster",
-      "category": "Raw fish",
-      "defname": "VCEF_RawLobster",
-      "price": 9
-    },
-    {
-      "abr": "mackerel",
-      "category": "Raw fish",
-      "defname": "VCEF_RawMackerel",
-      "price": 2
     },
     {
       "abr": "magerobe",
@@ -7288,7 +7336,7 @@
       "abr": "mashedpomana",
       "category": "Vegetarian",
       "defname": "TM_RawPomanaMash",
-      "price": -10
+      "price": 0
     },
     {
       "abr": "meat",
@@ -7301,12 +7349,6 @@
       "category": "Animal",
       "defname": "TM_MechaGolem",
       "price": 5000
-    },
-    {
-      "abr": "minnow",
-      "category": "Raw fish",
-      "defname": "VCEF_RawMinnow",
-      "price": -10
     },
     {
       "abr": "minorarcanegemofacceleration",
@@ -7357,30 +7399,6 @@
       "price": 1983
     },
     {
-      "abr": "mudsplashercarp",
-      "category": "Alien raw fish",
-      "defname": "VCEF_MudSplasherCarp",
-      "price": 2
-    },
-    {
-      "abr": "mudstoneblocks",
-      "category": "Stone blocks",
-      "defname": "AB_BlocksMudstone",
-      "price": 1
-    },
-    {
-      "abr": "mushroomstalks",
-      "category": "Raw resources",
-      "defname": "AB_MushroomWoodLog",
-      "price": 2
-    },
-    {
-      "abr": "mutantflatfish",
-      "category": "Alien raw fish",
-      "defname": "VCEF_MutantFlatfish",
-      "price": 1
-    },
-    {
       "abr": "mysterymeat",
       "category": "Meat",
       "defname": "Meat_TM_MinionR",
@@ -7403,24 +7421,6 @@
       "category": "Magic artifacts",
       "defname": "TM_Artifact_NecroticOrb",
       "price": 3000
-    },
-    {
-      "abr": "obsidianblocks",
-      "category": "Stone blocks",
-      "defname": "AB_BlocksObsidian",
-      "price": 2
-    },
-    {
-      "abr": "ocularfish",
-      "category": "Alien raw fish",
-      "defname": "VCEF_OcularFish",
-      "price": 3
-    },
-    {
-      "abr": "oculargasspewer",
-      "category": "Misc",
-      "defname": "AB_OcularGasSpewer",
-      "price": 304
     },
     {
       "abr": "orbofconviction",
@@ -7510,7 +7510,7 @@
       "abr": "propanebag",
       "category": "Alien raw fish",
       "defname": "VCEF_PropaneBag",
-      "price": -10
+      "price": 0
     },
     {
       "abr": "propanefueltank",
@@ -8200,7 +8200,7 @@
       "abr": "sprat",
       "category": "Raw fish",
       "defname": "VCEF_RawSprat",
-      "price": -10
+      "price": 0
     },
     {
       "abr": "staffofblazingpower",
@@ -8320,7 +8320,7 @@
       "abr": "tentacularfruit",
       "category": "Vegetarian",
       "defname": "AB_RawTentacularFruit",
-      "price": -10
+      "price": 0
     },
     {
       "abr": "thrumbow",
