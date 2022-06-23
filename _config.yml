@@ -6,7 +6,7 @@ description: A custom version of Toolkit's item list to support all the latest f
 baseurl: '/itemlist' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ''
-github_username: 'interest420'
+github_username: 'Interest420'
 
 # Item list settings
 #
@@ -68,8 +68,6 @@ mods:
   author: true
 
 # Build settings
-remote_theme: jekyll-theme-hacker
+remote_theme: SirRandoo/Type-on-Strap
 plugins:
   -
-
-theme: jekyll-theme-hacker
