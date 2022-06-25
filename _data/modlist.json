@@ -156,6 +156,12 @@
     "version": null
   },
   {
+    "author": "Roolo",
+    "name": "Search and Destroy",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Peppsen",
     "name": "P-Music",
     "steamId": null,
@@ -165,7 +171,7 @@
     "author": "Jaxe",
     "name": "Interaction Bubbles",
     "steamId": "1516158345",
-    "version": "2.1.0.0"
+    "version": "2.2.0.0"
   },
   {
     "author": "Sarg Bjornson and  AFriend",
@@ -195,7 +201,7 @@
     "author": "m00nl1ght-dev",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.0.0.0"
+    "version": "1.4.0.0"
   },
   {
     "author": "neitsa",
@@ -369,7 +375,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.5.7.5"
+    "version": "2.5.7.6"
   },
   {
     "author": "hodlhodl",
@@ -387,7 +393,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.2.0.5"
+    "version": "6.2.0.7"
   },
   {
     "author": "swemoney",
