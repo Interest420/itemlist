@@ -28,7 +28,7 @@
 	{
 		"abr": "drythunderstorm",
 		"price": 450,
-		"karmatype": "Bad"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "snowgentle",
@@ -188,7 +188,7 @@
 	{
 		"abr": "alphabeavers",
 		"price": 600,
-		"karmatype": "Bad"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "shippartpoison",
@@ -202,7 +202,7 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 700,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -243,7 +243,7 @@
 	{
 		"abr": "predators",
 		"price": 2500,
-		"karmatype": "Bad"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "randomdisease",
@@ -257,7 +257,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 1200,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -312,27 +312,27 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 22664,
+		"price": 22500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveme",
-		"price": 2833,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healall",
-		"price": 17336,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healanypawn",
-		"price": 2000,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healme",
-		"price": 2167,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -357,7 +357,7 @@
 	},
 	{
 		"abr": "fullheal",
-		"price": 2167,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
