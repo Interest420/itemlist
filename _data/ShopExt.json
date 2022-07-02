@@ -1,4 +1,4 @@
-﻿{
+{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -43193,9 +43193,9 @@
       },
       "description": "A mutant of the catgirl species that has developed a semblance of intelligence.",
       "defName": "MG_Catgirl",
-      "enabled": true,
+      "enabled": false,
       "name": "Catgirl",
-      "price": 2500
+      "price": 3000
     },
     {
       "data": {
@@ -43227,7 +43227,7 @@
       "defName": "MG_Wolfgirl",
       "enabled": true,
       "name": "Wolfgirl",
-      "price": 2500
+      "price": 3000
     },
     {
       "data": {
@@ -43259,7 +43259,7 @@
       "defName": "MG_Foxgirl",
       "enabled": true,
       "name": "Foxgirl",
-      "price": 2500
+      "price": 3000
     },
     {
       "data": {
@@ -43291,7 +43291,7 @@
       "defName": "MG_Cowgirl",
       "enabled": true,
       "name": "Cowgirl",
-      "price": 2917
+      "price": 3000
     },
     {
       "data": {
@@ -43323,7 +43323,7 @@
       "defName": "MG_Harpy",
       "enabled": true,
       "name": "Harpy",
-      "price": 2667
+      "price": 3000
     },
     {
       "data": {
@@ -43387,7 +43387,7 @@
       "defName": "MG_Baphomet",
       "enabled": true,
       "name": "Baphomet",
-      "price": 3083
+      "price": 3000
     },
     {
       "data": {
@@ -43419,7 +43419,7 @@
       "defName": "MG_Centaur",
       "enabled": true,
       "name": "Centaur",
-      "price": 2917
+      "price": 3000
     },
     {
       "data": {
@@ -43516,7 +43516,7 @@
       "defName": "MG_Dragon",
       "enabled": true,
       "name": "Dragon",
-      "price": 3667
+      "price": 3000
     },
     {
       "data": {
@@ -43549,7 +43549,7 @@
       "defName": "MG_Thrumbogirl",
       "enabled": true,
       "name": "Thrumbogirl",
-      "price": 3667
+      "price": 3000
     }
   ]
 }
