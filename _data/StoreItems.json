@@ -6590,61 +6590,61 @@
 	},
 	{
 		"abr": "combatform:faceless",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfFaceless"
 	},
 	{
 		"abr": "combatform:gladiator",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfGladiator"
 	},
 	{
 		"abr": "combatpower:psionic",
-		"price": 4750,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfPsionic"
 	},
 	{
 		"abr": "combatstyle:apothecary",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfApothecary"
 	},
 	{
 		"abr": "combatstyle:bladedancer",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfBladedancer"
 	},
 	{
 		"abr": "combatstyle:commander",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfCommander"
 	},
 	{
 		"abr": "combatstyle:deathknight",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfDeathKnight"
 	},
 	{
 		"abr": "combatstyle:monk",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfMonk"
 	},
 	{
 		"abr": "combatstyle:ranger",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfRanger"
 	},
 	{
 		"abr": "combatstyle:sniper",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfSniper"
 	},
@@ -6950,7 +6950,7 @@
 	},
 	{
 		"abr": "fleshgolem",
-		"price": 4500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "TM_FleshGolem"
 	},
@@ -7028,7 +7028,7 @@
 	},
 	{
 		"abr": "granitegolem",
-		"price": 2500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "TM_GraniteGolem"
 	},
@@ -7040,7 +7040,7 @@
 	},
 	{
 		"abr": "hollowgolem",
-		"price": 9167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "TM_HollowGolem"
 	},
@@ -7094,7 +7094,7 @@
 	},
 	{
 		"abr": "limestonegolem",
-		"price": 2500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "TM_LimestoneGolem"
 	},
@@ -7256,7 +7256,7 @@
 	},
 	{
 		"abr": "maharalgolem",
-		"price": 3000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "TM_MaharalGolem"
 	},
@@ -7322,7 +7322,7 @@
 	},
 	{
 		"abr": "marblegolem",
-		"price": 2500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "TM_MarbleGolem"
 	},
@@ -7340,7 +7340,7 @@
 	},
 	{
 		"abr": "mecha-golem",
-		"price": 5000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "TM_MechaGolem"
 	},
@@ -8066,7 +8066,7 @@
 	},
 	{
 		"abr": "sandstonegolem",
-		"price": 2500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "TM_SandstoneGolem"
 	},
@@ -8138,7 +8138,7 @@
 	},
 	{
 		"abr": "slategolem",
-		"price": 2500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "TM_SlateGolem"
 	},
@@ -8228,7 +8228,7 @@
 	},
 	{
 		"abr": "stonegolem",
-		"price": 2500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "TM_StoneGolem"
 	},
@@ -8336,121 +8336,121 @@
 	},
 	{
 		"abr": "tornscript:bard",
-		"price": 2917,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "Torn_BookOfBard"
 	},
 	{
 		"abr": "tornscript:brightmage",
-		"price": 2917,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "Torn_BookOfTheSun"
 	},
 	{
 		"abr": "tornscript:chaos",
-		"price": 2917,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "Torn_BookOfChaos"
 	},
 	{
 		"abr": "tornscript:chronomancy",
-		"price": 2917,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "Torn_BookOfChronomancer"
 	},
 	{
 		"abr": "tornscript:demonology",
-		"price": 2917,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "Torn_BookOfDemons"
 	},
 	{
 		"abr": "tornscript:enchanter",
-		"price": 2917,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "Torn_BookOfEnchanter"
 	},
 	{
 		"abr": "tornscript:fire",
-		"price": 2917,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "Torn_BookOfInnerFire"
 	},
 	{
 		"abr": "tornscript:geomancy",
-		"price": 2917,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "Torn_BookOfEarth"
 	},
 	{
 		"abr": "tornscript:golemancer",
-		"price": 2917,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "Torn_BookOfGolemancy"
 	},
 	{
 		"abr": "tornscript:hemomancy",
-		"price": 2917,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "Torn_BookOfHemomancy"
 	},
 	{
 		"abr": "tornscript:ice",
-		"price": 2917,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "Torn_BookOfHeartOfFrost"
 	},
 	{
 		"abr": "tornscript:lightning",
-		"price": 2917,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "Torn_BookOfStormBorn"
 	},
 	{
 		"abr": "tornscript:nature",
-		"price": 2917,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "Torn_BookOfNature"
 	},
 	{
 		"abr": "tornscript:necromancy",
-		"price": 2917,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "Torn_BookOfUndead"
 	},
 	{
 		"abr": "tornscript:paladin",
-		"price": 2917,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "Torn_BookOfValiant"
 	},
 	{
 		"abr": "tornscript:power",
-		"price": 2917,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "Torn_BookOfArcanist"
 	},
 	{
 		"abr": "tornscript:priest",
-		"price": 2917,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "Torn_BookOfPriest"
 	},
 	{
 		"abr": "tornscript:shaman",
-		"price": 2917,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "Torn_BookOfShamanism"
 	},
 	{
 		"abr": "tornscript:summoning",
-		"price": 2917,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "Torn_BookOfSummoner"
 	},
 	{
 		"abr": "tornscript:technomancy",
-		"price": 2917,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "Torn_BookOfMagitech"
 	},
@@ -8468,13 +8468,13 @@
 	},
 	{
 		"abr": "unfinishedarcanebook",
-		"price": 4392,
+		"price": 4000,
 		"category": "Skill books",
 		"defname": "UnfinishedAdvArcane"
 	},
 	{
 		"abr": "unfinishedmartialbook",
-		"price": 3425,
+		"price": 4000,
 		"category": "Skill books",
 		"defname": "UnfinishedMartial"
 	},
@@ -8555,6 +8555,18 @@
 		"price": 92,
 		"category": "Manufactured",
 		"defname": "RK_WyvernAmmo_SpreadType"
+	},
+	{
+		"abr": "bobeene",
+		"price": 1147,
+		"category": "Animals",
+		"defname": "AA_Bobeene"
+	},
+	{
+		"abr": "giantsunflowerseeds",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "AB_GiantSeeds"
 	},
 	{
 		"abr": "ambusherskill:ambush",
@@ -8869,14 +8881,8 @@
 		"defname": "SkillOf_FallenLeaf"
 	},
 	{
-		"abr": "bobeene",
-		"price": 1147,
-		"category": "Animals",
-		"defname": "AA_Bobeene"
-	},
-	{
 		"abr": "bookofrecipes:chef",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfChef"
 	},
@@ -8984,19 +8990,19 @@
 	},
 	{
 		"abr": "combataugments:chempunk",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfChempunk"
 	},
 	{
 		"abr": "combataugments:railbreaker",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfRailbreaker"
 	},
 	{
 		"abr": "combatform:blossomblader",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfBlossomBlader"
 	},
@@ -9008,67 +9014,67 @@
 	},
 	{
 		"abr": "combatform:dragoon",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfDragoon"
 	},
 	{
 		"abr": "combatform:gunbreaker",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfGunbreaker"
 	},
 	{
 		"abr": "combatform:gunner",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfGunner"
 	},
 	{
 		"abr": "combatform:gunslinger",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfGunslinger"
 	},
 	{
 		"abr": "combatform:holosmith",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfHolosmith"
 	},
 	{
 		"abr": "combatform:mechhunter",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfMechHunter"
 	},
 	{
 		"abr": "combatform:miner",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfMiner"
 	},
 	{
 		"abr": "combatform:mystic",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfMystic"
 	},
 	{
 		"abr": "combatform:nomad",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfNomad"
 	},
 	{
 		"abr": "combatform:scrapper",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfScrapper"
 	},
 	{
 		"abr": "combatform:spellbreaker",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfSpellbreaker"
 	},
@@ -9080,85 +9086,85 @@
 	},
 	{
 		"abr": "combatform:striker",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfStriker"
 	},
 	{
 		"abr": "combatform:supportspecialist",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfSupportSpecialist"
 	},
 	{
 		"abr": "combatform:thunderblessed",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfThunderblessed"
 	},
 	{
 		"abr": "combatform:warrior",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfWarrior"
 	},
 	{
 		"abr": "combatinspiration:gadgeteer",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfGadgeteer"
 	},
 	{
 		"abr": "combatstyle:ambusher",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfAmbusher"
 	},
 	{
 		"abr": "combatstyle:berserker",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfBerserker"
 	},
 	{
 		"abr": "combatstyle:bombardier",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfBombardier"
 	},
 	{
 		"abr": "combatstyle:chainwarden",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfChainwarden"
 	},
 	{
 		"abr": "combatstyle:hawkeye",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfHawkeye"
 	},
 	{
 		"abr": "combatstyle:reaper",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfReaper"
 	},
 	{
 		"abr": "combatstyle:saboteur",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfSaboteur"
 	},
 	{
 		"abr": "combatstyle:samurai",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfSamurai"
 	},
 	{
 		"abr": "combatstyle:scion",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfScion"
 	},
@@ -9451,12 +9457,6 @@
 		"defname": "SpellOf_SleeveDraw"
 	},
 	{
-		"abr": "giantsunflowerseeds",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "AB_GiantSeeds"
-	},
-	{
 		"abr": "gladiatorskill:grandchallenge",
 		"price": 1667,
 		"category": "Scrolls",
@@ -9608,7 +9608,7 @@
 	},
 	{
 		"abr": "hippocraticoath:medic",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfMedic"
 	},
@@ -10166,73 +10166,73 @@
 	},
 	{
 		"abr": "tornscript:arbormancer",
-		"price": 2917,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "Torn_BookOfArbormancer"
 	},
 	{
 		"abr": "tornscript:architect",
-		"price": 2917,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "Torn_BookOfArchitect"
 	},
 	{
 		"abr": "tornscript:blackmage",
-		"price": 2917,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "Torn_BookOfBlackMage"
 	},
 	{
 		"abr": "tornscript:chromamage",
-		"price": 2917,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "Torn_BookOfChromaMage"
 	},
 	{
 		"abr": "tornscript:cleric",
-		"price": 2917,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "Torn_BookOfCleric"
 	},
 	{
 		"abr": "tornscript:harbinger",
-		"price": 2917,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "Torn_BookOfHarbinger"
 	},
 	{
 		"abr": "tornscript:keeper",
-		"price": 2917,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "Torn_BookOfKeeper"
 	},
 	{
 		"abr": "tornscript:oracle",
-		"price": 2917,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "Torn_BookOfOracle"
 	},
 	{
 		"abr": "tornscript:runeknight",
-		"price": 2917,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "Torn_BookOfRuneKnight"
 	},
 	{
 		"abr": "tornscript:scholar",
-		"price": 2917,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "Torn_BookOfScholar"
 	},
 	{
 		"abr": "tornscript:troubadour",
-		"price": 2917,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "Torn_BookOfTroubadour"
 	},
 	{
 		"abr": "tornscript:windmage",
-		"price": 2917,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "Torn_BookOfWindMage"
 	},
@@ -10280,7 +10280,7 @@
 	},
 	{
 		"abr": "twistedinspiration:plaguedoctor",
-		"price": 4292,
+		"price": 5500,
 		"category": "Skill books",
 		"defname": "BookOfPlaguedoctor"
 	},
@@ -10379,7 +10379,97 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_MG_Wolfgirl"
+	},
+	{
+		"abr": "walldarklight",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightDark"
+	},
+	{
+		"abr": "walllight",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLight"
+	},
+	{
+		"abr": "walllight(azure)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightAzure"
+	},
+	{
+		"abr": "walllight(blue)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightBlue"
+	},
+	{
+		"abr": "walllight(chartreuse)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightChartreuse"
+	},
+	{
+		"abr": "walllight(cyan)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightCyan"
+	},
+	{
+		"abr": "walllight(green)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightGreen"
+	},
+	{
+		"abr": "walllight(magenta)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightMagenta"
+	},
+	{
+		"abr": "walllight(orange)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightOrange"
+	},
+	{
+		"abr": "walllight(red)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightRed"
+	},
+	{
+		"abr": "walllight(rose)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightRose"
+	},
+	{
+		"abr": "walllight(springgreen)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightSpringGreen"
+	},
+	{
+		"abr": "walllight(violet)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightViolet"
+	},
+	{
+		"abr": "walllight(yellow)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightYellow"
+	},
+	{
+		"abr": "wallsunlight",
+		"price": 32,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallSunLight"
 	}
 	],
-	"total": 1730
+	"total": 1745
 }

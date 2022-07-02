@@ -201,7 +201,7 @@
     "author": "m00nl1ght-dev",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.4.1.0"
+    "version": "1.4.3.0"
   },
   {
     "author": "neitsa",
@@ -364,6 +364,12 @@
     "name": "Hardworking animals 1.3",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Murmur",
+    "name": "Wall Light",
+    "steamId": "1423699208",
+    "version": "1.0.0.0"
   },
   {
     "author": "ISOREX",

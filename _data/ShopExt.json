@@ -4802,7 +4802,7 @@
       },
       "defName": "TM_Bard",
       "name": "entertainer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 7500,
       "removePrice": 500,
@@ -4946,7 +4946,7 @@
       },
       "defName": "TM_Bard",
       "name": "performer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 7500,
       "removePrice": 500,
@@ -5090,7 +5090,7 @@
       },
       "defName": "TM_Bard",
       "name": "minstrel",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 7500,
       "removePrice": 500,
@@ -8436,7 +8436,7 @@
       },
       "defName": "Ranger",
       "name": "woodsman",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 7500,
       "removePrice": 500,
@@ -8592,7 +8592,7 @@
       },
       "defName": "Ranger",
       "name": "hunter",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 7500,
       "removePrice": 500,
@@ -8748,7 +8748,7 @@
       },
       "defName": "Ranger",
       "name": "scout",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 7500,
       "removePrice": 500,
@@ -9488,7 +9488,7 @@
       },
       "defName": "TM_Sniper",
       "name": "legendarysniper",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 7500,
       "removePrice": 500,
@@ -9632,7 +9632,7 @@
       },
       "defName": "Bladedancer",
       "name": "bladesman",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 7500,
       "removePrice": 500,
@@ -9776,7 +9776,7 @@
       },
       "defName": "Bladedancer",
       "name": "blademaster",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 7500,
       "removePrice": 500,
@@ -10068,7 +10068,7 @@
       },
       "defName": "Bladedancer",
       "name": "legendarybladedancer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 7500,
       "removePrice": 500,
@@ -43193,9 +43193,9 @@
       },
       "description": "A mutant of the catgirl species that has developed a semblance of intelligence.",
       "defName": "MG_Catgirl",
-      "enabled": false,
+      "enabled": true,
       "name": "Catgirl",
-      "price": 3000
+      "price": 2500
     },
     {
       "data": {
@@ -43227,7 +43227,7 @@
       "defName": "MG_Wolfgirl",
       "enabled": true,
       "name": "Wolfgirl",
-      "price": 3000
+      "price": 2500
     },
     {
       "data": {
@@ -43259,7 +43259,7 @@
       "defName": "MG_Foxgirl",
       "enabled": true,
       "name": "Foxgirl",
-      "price": 3000
+      "price": 2500
     },
     {
       "data": {
@@ -43291,7 +43291,7 @@
       "defName": "MG_Cowgirl",
       "enabled": true,
       "name": "Cowgirl",
-      "price": 3000
+      "price": 2917
     },
     {
       "data": {
@@ -43323,7 +43323,7 @@
       "defName": "MG_Harpy",
       "enabled": true,
       "name": "Harpy",
-      "price": 3000
+      "price": 2667
     },
     {
       "data": {
@@ -43387,7 +43387,7 @@
       "defName": "MG_Baphomet",
       "enabled": true,
       "name": "Baphomet",
-      "price": 3000
+      "price": 3083
     },
     {
       "data": {
@@ -43419,7 +43419,7 @@
       "defName": "MG_Centaur",
       "enabled": true,
       "name": "Centaur",
-      "price": 3000
+      "price": 2917
     },
     {
       "data": {
@@ -43516,7 +43516,7 @@
       "defName": "MG_Dragon",
       "enabled": true,
       "name": "Dragon",
-      "price": 3000
+      "price": 3667
     },
     {
       "data": {
@@ -43549,7 +43549,7 @@
       "defName": "MG_Thrumbogirl",
       "enabled": true,
       "name": "Thrumbogirl",
-      "price": 3000
+      "price": 3667
     }
   ]
 }
