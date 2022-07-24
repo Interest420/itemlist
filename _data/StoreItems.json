@@ -3796,7 +3796,7 @@
       "abr": "blizzariskclutchmother",
       "category": "Animals",
       "defname": "AA_BlizzariskClutchMother",
-      "price": 1875
+      "price": -10
     },
     {
       "abr": "blizzariskegg(fert.)",
@@ -4138,7 +4138,7 @@
       "abr": "dunealiskclutchmother",
       "category": "Animals",
       "defname": "AA_DunealiskClutchMother",
-      "price": 1875
+      "price": -10
     },
     {
       "abr": "dunealiskegg(fert.)",
@@ -4210,7 +4210,7 @@
       "abr": "feraliskclutchmother",
       "category": "Animals",
       "defname": "AA_FeraliskClutchMother",
-      "price": 1875
+      "price": -10
     },
     {
       "abr": "feraliskegg(fert.)",
@@ -4324,7 +4324,7 @@
       "abr": "fungalhusk",
       "category": "Animals",
       "defname": "AA_FungalHusk",
-      "price": 313
+      "price": -10
     },
     {
       "abr": "gallatross",
@@ -4732,7 +4732,7 @@
       "abr": "mime",
       "category": "Animals",
       "defname": "AA_Mime",
-      "price": 2084
+      "price": -10
     },
     {
       "abr": "minifoldpdw",
@@ -10469,7 +10469,13 @@
       "category": "Furniture",
       "defname": "Lighting_MURWallSunLight",
       "price": 32
+    },
+    {
+      "abr": "legendaryweapon",
+      "category": "Special melee weapons",
+      "defname": "Nr_Lightbringer",
+      "price": 1
     }
   ],
-  "total": 1745
+  "total": 1746
 }
