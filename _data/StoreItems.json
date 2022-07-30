@@ -3751,12 +3751,6 @@
       "price": 2
     },
     {
-      "abr": "bioniccattail",
-      "category": "Bionic",
-      "defname": "Nr_BioCatTail",
-      "price": 1717
-    },
-    {
       "abr": "blackhiveinsectjelly",
       "category": "Animal products",
       "defname": "AA_BlackInsectJelly",
@@ -3889,12 +3883,6 @@
       "price": 92
     },
     {
-      "abr": "cathoodie",
-      "category": "Nyaron Apparels",
-      "defname": "Nr_CatHoodie",
-      "price": 181
-    },
-    {
       "abr": "chameleonyak",
       "category": "Animals",
       "defname": "AA_ChameleonYak",
@@ -3943,12 +3931,6 @@
       "price": 15
     },
     {
-      "abr": "chatoyansniperrifle",
-      "category": "Nyaron ranged weapons",
-      "defname": "Nr_ChRifle",
-      "price": 1783
-    },
-    {
       "abr": "chemfuelmyrmidon",
       "category": "Animals",
       "defname": "AA_ChemfuelMyrmidon",
@@ -3983,12 +3965,6 @@
       "category": "Textiles",
       "defname": "AA_CinderSilk",
       "price": 7
-    },
-    {
-      "abr": "clawbar",
-      "category": "Melee weapons",
-      "defname": "Nr_Clawbar",
-      "price": 245
     },
     {
       "abr": "clothingrack",
@@ -4037,12 +4013,6 @@
       "category": "Eggs (fert.)",
       "defname": "AA_EggCrescendoAnoleFertilized",
       "price": 15
-    },
-    {
-      "abr": "cribitepistol",
-      "category": "Nyaron ranged weapons",
-      "defname": "Nr_CriPistol",
-      "price": 367
     },
     {
       "abr": "crystallinecaracal",
@@ -4585,22 +4555,10 @@
       "price": 15
     },
     {
-      "abr": "karambit",
-      "category": "Melee weapons",
-      "defname": "Nr_Karambit",
-      "price": 98
-    },
-    {
       "abr": "larvalatispec",
       "category": "Animals",
       "defname": "AA_LarvalAtispec",
       "price": 32
-    },
-    {
-      "abr": "lastpunishmentincinerator",
-      "category": "Nyaron ranged weapons",
-      "defname": "Nr_Punishment",
-      "price": 5000
     },
     {
       "abr": "lionmeat",
@@ -4625,12 +4583,6 @@
       "category": "Animals",
       "defname": "AA_LuciferBug",
       "price": 2084
-    },
-    {
-      "abr": "machairodus",
-      "category": "Nyaron ranged weapons",
-      "defname": "Nr_FlakCaster",
-      "price": 3333
     },
     {
       "abr": "mammothworm",
@@ -4735,18 +4687,6 @@
       "price": -10
     },
     {
-      "abr": "minifoldpdw",
-      "category": "Nyaron ranged weapons",
-      "defname": "Nr_MfoldPdw",
-      "price": 625
-    },
-    {
-      "abr": "minisword",
-      "category": "Special melee weapons",
-      "defname": "Nr_MiniSword",
-      "price": 1667
-    },
-    {
       "abr": "moribundgallatross",
       "category": "Animals",
       "defname": "AA_GallatrossMoribund",
@@ -4787,12 +4727,6 @@
       "category": "Eggs (fert.)",
       "defname": "AA_MycoidColossusSpores",
       "price": 15
-    },
-    {
-      "abr": "n.p.crifle",
-      "category": "Nyaron ranged weapons",
-      "defname": "Nr_NpcRifle",
-      "price": 1483
     },
     {
       "abr": "navalgunshellhigh-explosive",
@@ -4859,66 +4793,6 @@
       "category": "Animals",
       "defname": "AA_NightRam",
       "price": 1147
-    },
-    {
-      "abr": "nyaron",
-      "category": "Animal",
-      "defname": "Alien_Nyaron",
-      "price": -10
-    },
-    {
-      "abr": "nyaroncombatjacket",
-      "category": "Nyaron Apparels",
-      "defname": "Nr_CatJacket",
-      "price": 933
-    },
-    {
-      "abr": "nyaronleather",
-      "category": "Leathers",
-      "defname": "Leather_Nyaron",
-      "price": 7
-    },
-    {
-      "abr": "nyaronmaidcostume",
-      "category": "Nyaron Apparels",
-      "defname": "Nr_CatMaid",
-      "price": 322
-    },
-    {
-      "abr": "nyaronmaidhairband",
-      "category": "Nyaron Apparels",
-      "defname": "Nr_CatMaidBand",
-      "price": 93
-    },
-    {
-      "abr": "nyaronmeat",
-      "category": "Meat",
-      "defname": "Meat_Alien_Nyaron",
-      "price": 3
-    },
-    {
-      "abr": "nyaronpowerarmor",
-      "category": "Nyaron Apparels",
-      "defname": "Nr_PowerArmor",
-      "price": 2633
-    },
-    {
-      "abr": "nyaronpowerarmorhelmet",
-      "category": "Headgear",
-      "defname": "Nr_PowerArmorHelmet",
-      "price": 1217
-    },
-    {
-      "abr": "nyaronsimpleuniform",
-      "category": "Nyaron Apparels",
-      "defname": "Nr_SUniform",
-      "price": 34
-    },
-    {
-      "abr": "nyaronstalkbow",
-      "category": "Ranged weapons",
-      "defname": "Nr_Stkbow",
-      "price": 1333
     },
     {
       "abr": "ocularjelly",
@@ -5033,12 +4907,6 @@
       "category": "Animals",
       "defname": "AA_Plasmorph",
       "price": 313
-    },
-    {
-      "abr": "plasmsword",
-      "category": "Special melee weapons",
-      "defname": "Nr_PlasmSword",
-      "price": 1667
     },
     {
       "abr": "plums",
@@ -5213,12 +5081,6 @@
       "category": "Leathers",
       "defname": "Leather_Cactus",
       "price": 6
-    },
-    {
-      "abr": "series-epcontainer",
-      "category": "Nyaron stuffs",
-      "defname": "Nr_EPC",
-      "price": 1000
     },
     {
       "abr": "shockgoat",
@@ -5911,12 +5773,6 @@
       "price": 42
     },
     {
-      "abr": "xeushammer",
-      "category": "Special melee weapons",
-      "defname": "Nr_Xeushammer",
-      "price": 1667
-    },
-    {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
@@ -5927,12 +5783,6 @@
       "category": "Alien raw fish",
       "defname": "VCEF_AbyssalEel",
       "price": 2
-    },
-    {
-      "abr": "advancedmoisturepump",
-      "category": "Misc",
-      "defname": "AMP_AdvancedMoisturePump",
-      "price": 1867
     },
     {
       "abr": "alcyonitechunk",
@@ -6418,12 +6268,6 @@
       "abr": "arcanetome:brightmage",
       "category": "Skill books",
       "defname": "BookOfTheSun",
-      "price": 5500
-    },
-    {
-      "abr": "arcanetome:chaosmage",
-      "category": "Skill books",
-      "defname": "BookOfChaos",
       "price": 5500
     },
     {
@@ -8344,12 +8188,6 @@
       "abr": "tornscript:brightmage",
       "category": "Skill books",
       "defname": "Torn_BookOfTheSun",
-      "price": -10
-    },
-    {
-      "abr": "tornscript:chaos",
-      "category": "Skill books",
-      "defname": "Torn_BookOfChaos",
       "price": -10
     },
     {
@@ -10471,11 +10309,197 @@
       "price": 32
     },
     {
-      "abr": "legendaryweapon",
-      "category": "Special melee weapons",
-      "defname": "Nr_Lightbringer",
+      "abr": "abasicshirt",
+      "category": "Arachne apparel",
+      "defname": "Arachne_Shirt",
+      "price": 211
+    },
+    {
+      "abr": "arachne",
+      "category": "Animal",
+      "defname": "Arachne",
+      "price": -10
+    },
+    {
+      "abr": "arachneassassinarmor",
+      "category": "Arachne power armor",
+      "defname": "Arachne_Power_Armor",
+      "price": 2808
+    },
+    {
+      "abr": "arachneassassinhelmet",
+      "category": "Headgear",
+      "defname": "Arachne_Power_Helmet",
+      "price": 1008
+    },
+    {
+      "abr": "arachnebattlearmor",
+      "category": "Arachne battle armor",
+      "defname": "Arachne_Armor",
+      "price": 783
+    },
+    {
+      "abr": "arachnebattlehelmet",
+      "category": "Headgear",
+      "defname": "Arachne_Armor_Helmet",
+      "price": 215
+    },
+    {
+      "abr": "arachneleather",
+      "category": "Leathers",
+      "defname": "Leather_Arachne",
+      "price": 7
+    },
+    {
+      "abr": "arachnemeat",
+      "category": "Meat",
+      "defname": "Meat_Arachne",
       "price": 1
+    },
+    {
+      "abr": "arachnescoutarmor",
+      "category": "Arachne power armor",
+      "defname": "Arachne_Scout_Armor",
+      "price": 2808
+    },
+    {
+      "abr": "arachnescouthelmet",
+      "category": "Headgear",
+      "defname": "Arachne_Scout_Helmet",
+      "price": 1008
+    },
+    {
+      "abr": "arachnescythe",
+      "category": "Melee weapons",
+      "defname": "Arachne_Scythe",
+      "price": 525
+    },
+    {
+      "abr": "arachnesmg",
+      "category": "Ranged weapons",
+      "defname": "ArachnePninety",
+      "price": 2667
+    },
+    {
+      "abr": "arachnesword",
+      "category": "Melee weapons",
+      "defname": "Arachne_Sword",
+      "price": 475
+    },
+    {
+      "abr": "arachnevalkyriearmor",
+      "category": "Arachne battle armor",
+      "defname": "Arachne_Valkyrie",
+      "price": 783
+    },
+    {
+      "abr": "arachnevalkyriehelmet",
+      "category": "Headgear",
+      "defname": "Arachne_Valkyrie_Helmet",
+      "price": 215
+    },
+    {
+      "abr": "ceilingsurveillancecamera",
+      "category": "Security",
+      "defname": "SurveillanceCamera_UnderRoof",
+      "price": 251
+    },
+    {
+      "abr": "groundsurveillancecamera",
+      "category": "Security",
+      "defname": "SurveillanceCamera_Ground",
+      "price": 267
+    },
+    {
+      "abr": "inspectorchicken",
+      "category": "Security",
+      "defname": "InspectorChicken",
+      "price": 102
+    },
+    {
+      "abr": "inspectorhare",
+      "category": "Security",
+      "defname": "InspectorHare",
+      "price": 102
+    },
+    {
+      "abr": "inspectormonkey",
+      "category": "Security",
+      "defname": "InspectorMonkey",
+      "price": 102
+    },
+    {
+      "abr": "inspectorrat",
+      "category": "Security",
+      "defname": "InspectorRat",
+      "price": 102
+    },
+    {
+      "abr": "inspectorsquirrel",
+      "category": "Security",
+      "defname": "InspectorSquirrel",
+      "price": 102
+    },
+    {
+      "abr": "largesecuritybell",
+      "category": "Security",
+      "defname": "SecurityBell",
+      "price": 33
+    },
+    {
+      "abr": "selfsustainedsurveillancecamera",
+      "category": "Security",
+      "defname": "SurveillanceCamera_Solar",
+      "price": 408
+    },
+    {
+      "abr": "smallsecuritybell",
+      "category": "Security",
+      "defname": "SecurityBellSmall",
+      "price": 18
+    },
+    {
+      "abr": "surveillancecamerainabush",
+      "category": "Security",
+      "defname": "SurveillanceCamera_Bush",
+      "price": 333
+    },
+    {
+      "abr": "surveillancecamerainadeadbush",
+      "category": "Security",
+      "defname": "SurveillanceCamera_DeadBush",
+      "price": 333
+    },
+    {
+      "abr": "surveillancecamerapost",
+      "category": "Security",
+      "defname": "SurveillanceCamera_High",
+      "price": 700
+    },
+    {
+      "abr": "wallmountedsurveillancecamera",
+      "category": "Security",
+      "defname": "SurveillanceCamera_Mounted",
+      "price": 182
+    },
+    {
+      "abr": "watchtelescope",
+      "category": "Security",
+      "defname": "WatchTelescope",
+      "price": 261
+    },
+    {
+      "abr": "gunbreakerskill:doubledown",
+      "category": "Scrolls",
+      "defname": "SkillOf_DoubleDown",
+      "price": 4667
+    },
+    {
+      "abr": "gunbreakerskill:hypervelocity",
+      "category": "Scrolls",
+      "defname": "SkillOf_Hypervelocity",
+      "price": 2333
     }
   ],
-  "total": 1746
+  "total": 1750
 }

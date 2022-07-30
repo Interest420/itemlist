@@ -72,13 +72,13 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 10000,
+		"price": 7500,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 4000,
-		"karmatype": "Doom"
+		"price": 3500,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "eclipse",
@@ -202,13 +202,13 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 2000,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "raid",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "dropraid",

@@ -2106,8 +2106,8 @@
       "name": "fisherman",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -6492,8 +6492,8 @@
       },
       "defName": "ChaosMage",
       "name": "chaosmage",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 7500,
       "removePrice": 500,
       "degree": 0
@@ -39791,7 +39791,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Gunslinger, a mobile attacker capable of blanketing the battlefield with suppressive fire.",
+      "description": "Timmy is a Gunslinger, a mobile ranged attacker capable of blanketing the battlefield with suppressive fire.",
       "stats": [
         "-25% aiming time",
         "+0.25 move speed",
@@ -43052,43 +43052,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 3000
-    },
-    {
-      "data": {
-        "stats": [
-          "+65.00 Mass",
-          "+100% Flammability",
-          "+$3000 Market value",
-          "+5 Honor value",
-          "+75 Carrying capacity",
-          "+100% Global learning factor",
-          "+80% Psychic sensitivity",
-          "+80% Rest rate multiplier",
-          "+70% Global work speed",
-          "+0 Foraged food amount",
-          "+120.00% Negotiation ability",
-          "+120.00% Social impact",
-          "+120.00% Trade price improvement",
-          "+40 Leather amount",
-          "+82% Pain shock threshold",
-          "+30% Mental break threshold",
-          "+22.0C Minimum comfortable temperature",
-          "+40.0C Maximum comfortable temperature",
-          "+5.20 Move speed",
-          "+95% Aiming time",
-          "+10.0 Melee dodge chance",
-          "+1.2 Melee hit chance"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "the Marvelous gift of glitterworld bionics. Humanoid with cat ears and tail.",
-      "defName": "Alien_Nyaron",
-      "enabled": true,
-      "name": "Nyaron",
-      "price": 3000
+      "price": 5000
     },
     {
       "data": {
@@ -43193,7 +43157,7 @@
       },
       "description": "A mutant of the catgirl species that has developed a semblance of intelligence.",
       "defName": "MG_Catgirl",
-      "enabled": false,
+      "enabled": true,
       "name": "Catgirl",
       "price": 3000
     },
@@ -43259,7 +43223,7 @@
       "defName": "MG_Foxgirl",
       "enabled": true,
       "name": "Foxgirl",
-      "price": 3000
+      "price": 5000
     },
     {
       "data": {
@@ -43291,7 +43255,7 @@
       "defName": "MG_Cowgirl",
       "enabled": true,
       "name": "Cowgirl",
-      "price": 3000
+      "price": 5000
     },
     {
       "data": {
@@ -43323,7 +43287,7 @@
       "defName": "MG_Harpy",
       "enabled": true,
       "name": "Harpy",
-      "price": 3000
+      "price": 5000
     },
     {
       "data": {
@@ -43355,7 +43319,7 @@
       "defName": "MG_Slime",
       "enabled": true,
       "name": "Slime",
-      "price": 3000
+      "price": 5000
     },
     {
       "data": {
@@ -43387,7 +43351,7 @@
       "defName": "MG_Baphomet",
       "enabled": true,
       "name": "Baphomet",
-      "price": 3000
+      "price": 5000
     },
     {
       "data": {
@@ -43419,7 +43383,7 @@
       "defName": "MG_Centaur",
       "enabled": true,
       "name": "Centaur",
-      "price": 3000
+      "price": 5000
     },
     {
       "data": {
@@ -43451,7 +43415,7 @@
       "defName": "MG_ForestFairy",
       "enabled": true,
       "name": "ForestFairy",
-      "price": 3000
+      "price": 5000
     },
     {
       "data": {
@@ -43483,7 +43447,7 @@
       "defName": "MG_IceFairy",
       "enabled": true,
       "name": "IceFairy",
-      "price": 3000
+      "price": 5000
     },
     {
       "data": {
@@ -43516,7 +43480,7 @@
       "defName": "MG_Dragon",
       "enabled": true,
       "name": "Dragon",
-      "price": 3000
+      "price": 5000
     },
     {
       "data": {
@@ -43549,6 +43513,51 @@
       "defName": "MG_Thrumbogirl",
       "enabled": true,
       "name": "Thrumbogirl",
+      "price": 5000
+    },
+    {
+      "data": {
+        "stats": [
+          "+80.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+5.60 Move speed",
+          "-8.0C Minimum comfortable temperature",
+          "+18.0C Maximum comfortable temperature",
+          "+3 Honor value",
+          "+20.0% Armor - Blunt",
+          "+50 Leather amount",
+          "+105% Global learning factor",
+          "+110% Pain shock threshold",
+          "+125% Psychic sensitivity",
+          "+85% Toxic sensitivity",
+          "+85% Plant work speed",
+          "+90% Plant harvest yield",
+          "+90.00% Social impact",
+          "+85.00% Negotiation ability",
+          "+85.00% Trade price improvement",
+          "+130% Hunting stealth",
+          "+105% General labor speed",
+          "+105% Drug synthesis speed",
+          "+105% Drug cooking speed",
+          "+110% Butchery efficiency",
+          "+115.00% Tame animal chance",
+          "+115.00% Train animal chance",
+          "+115% Animal gather speed",
+          "+90% Aiming time",
+          "+1.1 Shooting accuracy",
+          "+1.1 Melee dodge chance",
+          "+1.1 Melee hit chance",
+          "+85 Carrying capacity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Arachne race lineage can be traced back to Arachne homeworld where the temperature fluctuate between cold and warm.\nArachnes over thousands of generations began to adapt to these temperature and ables themselves to withstand cold but in return have less tolerance to the heat",
+      "defName": "Arachne",
+      "enabled": true,
+      "name": "arachne",
       "price": 3000
     }
   ]
