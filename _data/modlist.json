@@ -42,12 +42,6 @@
     "version": "1.3.7862.41411"
   },
   {
-    "author": "Sarg",
-    "name": "Alpha Biomes",
-    "steamId": "1841354677",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Ekksu / Xen / Cucumpear / Thirite / Whizzard / Lindseyrie / Walking Problem",
     "name": "Animal Collab Project Vanilla-Style",
     "steamId": null,
@@ -87,7 +81,7 @@
     "author": "miyamiya",
     "name": "Compressed Raid",
     "steamId": "2377478084",
-    "version": "1.0.0.0"
+    "version": "1.3.2"
   },
   {
     "author": "Spdskatr and  CaesarV6",
@@ -108,10 +102,16 @@
     "version": "1.0.0"
   },
   {
+    "author": "Citrus",
+    "name": "Expectations Modifier",
+    "steamId": "1904336011",
+    "version": "2.0.0.0"
+  },
+  {
     "author": "m00nl1ght-dev",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.4.3.0"
+    "version": "1.4.4.0"
   },
   {
     "author": "aRandomKiwi",
@@ -141,7 +141,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.5.7.6"
+    "version": "2.5.8.6"
   },
   {
     "author": "Kure",
@@ -162,12 +162,6 @@
     "version": "1.0.0.2"
   },
   {
-    "author": "Fluffy",
-    "name": "Mod Manager",
-    "steamId": "1507748539",
-    "version": "3.8.1038"
-  },
-  {
     "author": "erdelf",
     "name": "Humanoid Alien Races",
     "steamId": "839005762",
@@ -178,6 +172,12 @@
     "name": "Monstergirl Races",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Zylle",
+    "name": "More Vanilla Biomes",
+    "steamId": "1931453053",
+    "version": "0.1.5.01"
   },
   {
     "author": "Little White Mouse",
@@ -216,6 +216,12 @@
     "version": "1.1.0.0"
   },
   {
+    "author": "Farmradish",
+    "name": "Nyaron race",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Peppsen",
     "name": "P-Music",
     "steamId": null,
@@ -226,6 +232,12 @@
     "name": "Performance Optimizer",
     "steamId": "2664723367",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": "1279012058",
+    "version": "1.0.0"
   },
   {
     "author": "Usagirei",
@@ -244,6 +256,12 @@
     "name": "Quarry retexture",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Sandy",
+    "name": "RPG Style Inventory",
+    "steamId": "1561221991",
+    "version": "1.0.0.0"
   },
   {
     "author": "Gouda quiche",
@@ -288,6 +306,12 @@
     "version": "1.3.0.2"
   },
   {
+    "author": "Cabbage",
+    "name": "RimCities",
+    "steamId": "1775170117",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": null,
@@ -298,6 +322,12 @@
     "name": "RimPy Mod Manager Database",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "aRandomKiwi",
+    "name": "RimSaves",
+    "steamId": "1713367505",
+    "version": "2020.0.1.13"
   },
   {
     "author": "Trinity",
@@ -375,7 +405,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.2.0.7"
+    "version": "6.2.1.0"
   },
   {
     "author": "eatKenny and leafzxg，DWs（temporary）",
@@ -414,22 +444,22 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Mehni",
-    "name": "Pick Up And Haul",
-    "steamId": "1279012058",
-    "version": "1.0.0"
-  },
-  {
-    "author": "CodeOptimist",
-    "name": "While You're Up / PUAH+",
-    "steamId": "2034960453",
-    "version": "3.1.4.2343"
+    "author": "pureMJ",
+    "name": "While You Are Nearby",
+    "steamId": "2784585275",
+    "version": "0.3.0"
   },
   {
     "author": "Owlchemist and  jptrrs",
     "name": "Windows",
     "steamId": "2571189146",
     "version": "1.3"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Zombieland",
+    "steamId": "928376710",
+    "version": "3.1.0.0"
   },
   {
     "author": "FrozenSnowFox",

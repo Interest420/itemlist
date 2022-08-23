@@ -5779,24 +5779,6 @@
       "price": 3333
     },
     {
-      "abr": "abyssaleel",
-      "category": "Alien raw fish",
-      "defname": "VCEF_AbyssalEel",
-      "price": 2
-    },
-    {
-      "abr": "alcyonitechunk",
-      "category": "Raw resources",
-      "defname": "AB_AlcyoniteChunk",
-      "price": 8
-    },
-    {
-      "abr": "aliencompliancecenter",
-      "category": "Special",
-      "defname": "AB_AlienComplianceCenter",
-      "price": 167
-    },
-    {
       "abr": "anchovy",
       "category": "Raw fish",
       "defname": "VCEF_RawAnchovy",
@@ -5812,12 +5794,6 @@
       "abr": "anglerfish",
       "category": "Raw fish",
       "defname": "VCEF_RawAnglerfish",
-      "price": 2
-    },
-    {
-      "abr": "asphaltbucket",
-      "category": "Raw resources",
-      "defname": "AB_AsphaltBucket",
       "price": 2
     },
     {
@@ -5863,42 +5839,6 @@
       "price": 1717
     },
     {
-      "abr": "bloodbouquet",
-      "category": "Meat",
-      "defname": "AB_RawBloodBouquet",
-      "price": 3
-    },
-    {
-      "abr": "bloodleech",
-      "category": "Alien raw fish",
-      "defname": "VCEF_BloodLeech",
-      "price": 1
-    },
-    {
-      "abr": "bluefungus",
-      "category": "Vegetarian",
-      "defname": "AB_BlueRawFungus",
-      "price": 2
-    },
-    {
-      "abr": "borealsardine",
-      "category": "Alien raw fish",
-      "defname": "VCEF_BorealSardine",
-      "price": 1
-    },
-    {
-      "abr": "brownbarrelcactus",
-      "category": "Vegetarian",
-      "defname": "AB_RawBrownBarrelCactus",
-      "price": 1
-    },
-    {
-      "abr": "bumbledronejelly",
-      "category": "Vegetarian",
-      "defname": "AB_BumbledroneFood",
-      "price": 1
-    },
-    {
       "abr": "catfish",
       "category": "Raw fish",
       "defname": "VCEF_RawCatfish",
@@ -5917,58 +5857,10 @@
       "price": 3
     },
     {
-      "abr": "cordaxresin",
-      "category": "Raw resources",
-      "defname": "AB_CordaxResin",
-      "price": 17
-    },
-    {
-      "abr": "coresampledrill",
-      "category": "Production",
-      "defname": "AB_CoreSampleDrill",
-      "price": 1842
-    },
-    {
-      "abr": "cragstoneblocks",
-      "category": "Stone blocks",
-      "defname": "AB_BlocksCragstone",
-      "price": 2
-    },
-    {
       "abr": "crossback",
       "category": "Ratkin apparel",
       "defname": "RK_CrossBack",
       "price": 187
-    },
-    {
-      "abr": "crystalhorn",
-      "category": "Vegetarian",
-      "defname": "AB_RawCrystalHorn",
-      "price": 2
-    },
-    {
-      "abr": "crystallinematrix",
-      "category": "Raw resources",
-      "defname": "AB_CrystallineMatrix",
-      "price": 17
-    },
-    {
-      "abr": "crystallinewood",
-      "category": "Raw resources",
-      "defname": "AB_CrystalWood",
-      "price": 1
-    },
-    {
-      "abr": "dribblingcappoisondart",
-      "category": "Grenades",
-      "defname": "AB_WeaponPoisonDart",
-      "price": 7
-    },
-    {
-      "abr": "duskysprat",
-      "category": "Alien raw fish",
-      "defname": "VCEF_DuskySprat",
-      "price": 1
     },
     {
       "abr": "eel",
@@ -5983,12 +5875,6 @@
       "price": 858
     },
     {
-      "abr": "exoticsmelter",
-      "category": "Production",
-      "defname": "AB_ExoticSmelterOcular",
-      "price": 542
-    },
-    {
       "abr": "fakeear",
       "category": "Prosthetic",
       "defname": "RK_FakeEar",
@@ -6001,30 +5887,6 @@
       "price": 240
     },
     {
-      "abr": "forsakenanglerfish",
-      "category": "Alien raw fish",
-      "defname": "VCEF_ForsakenAnglerfish",
-      "price": 2
-    },
-    {
-      "abr": "frigidswimmer",
-      "category": "Alien raw fish",
-      "defname": "VCEF_FrigidSwimmer",
-      "price": 3
-    },
-    {
-      "abr": "frostleaf",
-      "category": "Raw resources",
-      "defname": "AB_RawFrostLeaf",
-      "price": 1
-    },
-    {
-      "abr": "giantpolarprawn",
-      "category": "Alien raw fish",
-      "defname": "VCEF_GiantPolarPrawn",
-      "price": 2
-    },
-    {
       "abr": "goldfish",
       "category": "Raw fish",
       "defname": "VCEF_RawGoldfish",
@@ -6035,12 +5897,6 @@
       "category": "Raw fish",
       "defname": "VCEF_RawGuppy",
       "price": 1
-    },
-    {
-      "abr": "habdaklongfin",
-      "category": "Alien raw fish",
-      "defname": "VCEF_HabdakLongfin",
-      "price": 9
     },
     {
       "abr": "haddock",
@@ -6059,24 +5915,6 @@
       "category": "Raw fish",
       "defname": "VCEF_RawHerring",
       "price": 1
-    },
-    {
-      "abr": "iashiphusfruit",
-      "category": "Vegetarian",
-      "defname": "AB_RawIashiphus",
-      "price": 1
-    },
-    {
-      "abr": "iedtartrap",
-      "category": "Security",
-      "defname": "AB_TrapIED_Tar",
-      "price": 267
-    },
-    {
-      "abr": "jellyfungus",
-      "category": "Alien raw fish",
-      "defname": "VCEF_Jellyfungus",
-      "price": 2
     },
     {
       "abr": "kinghamster",
@@ -6125,48 +5963,6 @@
       "category": "Raw fish",
       "defname": "VCEF_RawMinnow",
       "price": 1
-    },
-    {
-      "abr": "mudsplashercarp",
-      "category": "Alien raw fish",
-      "defname": "VCEF_MudSplasherCarp",
-      "price": 2
-    },
-    {
-      "abr": "mudstoneblocks",
-      "category": "Stone blocks",
-      "defname": "AB_BlocksMudstone",
-      "price": 1
-    },
-    {
-      "abr": "mushroomstalks",
-      "category": "Raw resources",
-      "defname": "AB_MushroomWoodLog",
-      "price": 2
-    },
-    {
-      "abr": "mutantflatfish",
-      "category": "Alien raw fish",
-      "defname": "VCEF_MutantFlatfish",
-      "price": 1
-    },
-    {
-      "abr": "obsidianblocks",
-      "category": "Stone blocks",
-      "defname": "AB_BlocksObsidian",
-      "price": 2
-    },
-    {
-      "abr": "ocularfish",
-      "category": "Alien raw fish",
-      "defname": "VCEF_OcularFish",
-      "price": 3
-    },
-    {
-      "abr": "oculargasspewer",
-      "category": "Misc",
-      "defname": "AB_OcularGasSpewer",
-      "price": 304
     },
     {
       "abr": "ancientmail",
@@ -6262,115 +6058,31 @@
       "abr": "arcanetome:bard",
       "category": "Skill books",
       "defname": "BookOfBard",
-      "price": 5500
-    },
-    {
-      "abr": "arcanetome:brightmage",
-      "category": "Skill books",
-      "defname": "BookOfTheSun",
-      "price": 5500
-    },
-    {
-      "abr": "arcanetome:chronomancer",
-      "category": "Skill books",
-      "defname": "BookOfChronomancer",
-      "price": 5500
-    },
-    {
-      "abr": "arcanetome:demonology",
-      "category": "Skill books",
-      "defname": "BookOfDemons",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "arcanetome:earth",
       "category": "Skill books",
       "defname": "BookOfEarth",
-      "price": 5500
-    },
-    {
-      "abr": "arcanetome:enchanter",
-      "category": "Skill books",
-      "defname": "BookOfEnchanter",
-      "price": 5500
-    },
-    {
-      "abr": "arcanetome:fire",
-      "category": "Skill books",
-      "defname": "BookOfInnerFire",
-      "price": 5500
-    },
-    {
-      "abr": "arcanetome:golemancer",
-      "category": "Skill books",
-      "defname": "BookOfGolemancy",
-      "price": 5500
-    },
-    {
-      "abr": "arcanetome:hemomancy",
-      "category": "Skill books",
-      "defname": "BookOfHemomancy",
-      "price": 5500
-    },
-    {
-      "abr": "arcanetome:ice",
-      "category": "Skill books",
-      "defname": "BookOfHeartOfFrost",
-      "price": 5500
-    },
-    {
-      "abr": "arcanetome:lightning",
-      "category": "Skill books",
-      "defname": "BookOfStormBorn",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "arcanetome:nature",
       "category": "Skill books",
       "defname": "BookOfDruid",
-      "price": 5500
-    },
-    {
-      "abr": "arcanetome:necromancer",
-      "category": "Skill books",
-      "defname": "BookOfNecromancer",
-      "price": 5500
-    },
-    {
-      "abr": "arcanetome:power",
-      "category": "Skill books",
-      "defname": "BookOfArcanist",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "arcanetome:priest",
       "category": "Skill books",
       "defname": "BookOfPriest",
-      "price": 5500
-    },
-    {
-      "abr": "arcanetome:shadow",
-      "category": "Skill books",
-      "defname": "BookOfShadow",
-      "price": 5500
-    },
-    {
-      "abr": "arcanetome:shaman",
-      "category": "Skill books",
-      "defname": "BookOfShamanism",
-      "price": 5500
-    },
-    {
-      "abr": "arcanetome:summoning",
-      "category": "Skill books",
-      "defname": "BookOfSummoner",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "arcanetome:technomancy",
       "category": "Skill books",
       "defname": "BookOfMagitech",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "armorofthevaliant",
@@ -6389,12 +6101,6 @@
       "category": "Scrolls",
       "defname": "SpellOf_Discord",
       "price": 1267
-    },
-    {
-      "abr": "bloodmagespell:bloodmoon",
-      "category": "Scrolls",
-      "defname": "SpellOf_BloodMoon",
-      "price": 3750
     },
     {
       "abr": "bracersofdefense",
@@ -6433,64 +6139,28 @@
       "price": 4233
     },
     {
-      "abr": "combatform:faceless",
-      "category": "Skill books",
-      "defname": "BookOfFaceless",
-      "price": 5500
-    },
-    {
-      "abr": "combatform:gladiator",
-      "category": "Skill books",
-      "defname": "BookOfGladiator",
-      "price": 5500
-    },
-    {
-      "abr": "combatpower:psionic",
-      "category": "Skill books",
-      "defname": "BookOfPsionic",
-      "price": 5500
-    },
-    {
       "abr": "combatstyle:apothecary",
       "category": "Skill books",
       "defname": "BookOfApothecary",
-      "price": 5500
-    },
-    {
-      "abr": "combatstyle:bladedancer",
-      "category": "Skill books",
-      "defname": "BookOfBladedancer",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "combatstyle:commander",
       "category": "Skill books",
       "defname": "BookOfCommander",
-      "price": 5500
-    },
-    {
-      "abr": "combatstyle:deathknight",
-      "category": "Skill books",
-      "defname": "BookOfDeathKnight",
-      "price": 5500
-    },
-    {
-      "abr": "combatstyle:monk",
-      "category": "Skill books",
-      "defname": "BookOfMonk",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "combatstyle:ranger",
       "category": "Skill books",
       "defname": "BookOfRanger",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "combatstyle:sniper",
       "category": "Skill books",
       "defname": "BookOfSniper",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "decimation",
@@ -6533,12 +6203,6 @@
       "category": "Animals",
       "defname": "TM_Dire_WolfR",
       "price": 4584
-    },
-    {
-      "abr": "divinetome:paladin",
-      "category": "Skill books",
-      "defname": "BookOfValiant",
-      "price": 5500
     },
     {
       "abr": "dreamcatcherbuckskin",
@@ -6925,12 +6589,6 @@
       "price": 900
     },
     {
-      "abr": "lightningspell:chargebattery",
-      "category": "Scrolls",
-      "defname": "SpellOf_ChargeBattery",
-      "price": 833
-    },
-    {
       "abr": "lightningspell:eyeofthestorm",
       "category": "Scrolls",
       "defname": "SpellOf_EyeOfTheStorm",
@@ -7255,12 +6913,6 @@
       "price": 4292
     },
     {
-      "abr": "necroticorb",
-      "category": "Magic artifacts",
-      "defname": "TM_Artifact_NecroticOrb",
-      "price": 3000
-    },
-    {
       "abr": "orbofconviction",
       "category": "Magic artifacts",
       "defname": "TM_Artifact_OrbOfConviction",
@@ -7303,18 +6955,6 @@
       "price": 2
     },
     {
-      "abr": "pinkblobfish",
-      "category": "Alien raw fish",
-      "defname": "VCEF_PinkBlobfish",
-      "price": 2
-    },
-    {
-      "abr": "pinkfungus",
-      "category": "Vegetarian",
-      "defname": "AB_PinkRawFungus",
-      "price": 2
-    },
-    {
       "abr": "piranha",
       "category": "Raw fish",
       "defname": "VCEF_RawPiranha",
@@ -7339,42 +6979,6 @@
       "price": 6250
     },
     {
-      "abr": "processedresin",
-      "category": "Raw resources",
-      "defname": "AB_ProcessedResin",
-      "price": 75
-    },
-    {
-      "abr": "propanebag",
-      "category": "Alien raw fish",
-      "defname": "VCEF_PropaneBag",
-      "price": 1
-    },
-    {
-      "abr": "propanefueltank",
-      "category": "Manufactured",
-      "defname": "AB_Propane",
-      "price": 4
-    },
-    {
-      "abr": "propaneheater",
-      "category": "Temperature",
-      "defname": "AB_PropaneHeater",
-      "price": 188
-    },
-    {
-      "abr": "propanestove",
-      "category": "Production",
-      "defname": "AB_PropaneStove",
-      "price": 252
-    },
-    {
-      "abr": "psychotropicfungus",
-      "category": "Drugs",
-      "defname": "AB_PsychotropicFungus",
-      "price": 3
-    },
-    {
       "abr": "pufferfish",
       "category": "Raw fish",
       "defname": "VCEF_RawPufferfish",
@@ -7385,12 +6989,6 @@
       "category": "Furniture",
       "defname": "RK_Pulpit",
       "price": 202
-    },
-    {
-      "abr": "purplefungus",
-      "category": "Vegetarian",
-      "defname": "AB_PurpleRawFungus",
-      "price": 2
     },
     {
       "abr": "ratkin",
@@ -7831,12 +7429,6 @@
       "price": 325
     },
     {
-      "abr": "rawrimenodules",
-      "category": "Drugs",
-      "defname": "AB_RawRimeNodules",
-      "price": 2
-    },
-    {
       "abr": "ringofblood",
       "category": "Magic artifacts",
       "defname": "TM_Artifact_RingOfBlood",
@@ -7865,12 +7457,6 @@
       "category": "Magic apparel",
       "defname": "ArchMageRobe",
       "price": 5525
-    },
-    {
-      "abr": "rosequartzblocks",
-      "category": "Stone blocks",
-      "defname": "GU_BlocksRoseQuartz",
-      "price": 2
     },
     {
       "abr": "rotti",
@@ -7948,13 +7534,7 @@
       "abr": "serum:supersoldier",
       "category": "Skill books",
       "defname": "BookOfSuperSoldier",
-      "price": 5500
-    },
-    {
-      "abr": "shadowfry",
-      "category": "Alien raw fish",
-      "defname": "VCEF_ShadowFry",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "shamanspell:guardianspirit",
@@ -7985,36 +7565,6 @@
       "category": "Animal",
       "defname": "TM_SlateGolem",
       "price": -10
-    },
-    {
-      "abr": "slime",
-      "category": "Vegetarian",
-      "defname": "AB_RawSlime",
-      "price": 1
-    },
-    {
-      "abr": "slimemeal",
-      "category": "Meals",
-      "defname": "AB_SlimeMeal",
-      "price": 17
-    },
-    {
-      "abr": "slimefish",
-      "category": "Alien raw fish",
-      "defname": "VCEF_Slimefish",
-      "price": 9
-    },
-    {
-      "abr": "spiderfish",
-      "category": "Alien raw fish",
-      "defname": "VCEF_Spiderfish",
-      "price": 2
-    },
-    {
-      "abr": "spinyfish",
-      "category": "Alien raw fish",
-      "defname": "VCEF_Spinyfish",
-      "price": 2
     },
     {
       "abr": "spiritbearmeat",
@@ -8083,22 +7633,10 @@
       "price": 25
     },
     {
-      "abr": "sturgeon",
-      "category": "Alien raw fish",
-      "defname": "VCEF_Sturgeon",
-      "price": 7
-    },
-    {
       "abr": "succubusspell:scorn",
       "category": "Scrolls",
       "defname": "SpellOf_Scorn",
       "price": 2750
-    },
-    {
-      "abr": "sugarfamewort",
-      "category": "Vegetarian",
-      "defname": "AB_RawSugarFamewort",
-      "price": 2
     },
     {
       "abr": "summonerspell:summonpoppi",
@@ -8117,12 +7655,6 @@
       "category": "Drugs",
       "defname": "TM_Syrrium",
       "price": 75
-    },
-    {
-      "abr": "tarshell",
-      "category": "Mortar shells",
-      "defname": "AB_Shell_Tar",
-      "price": 92
     },
     {
       "abr": "technomancerspell:kineticshield",
@@ -8155,12 +7687,6 @@
       "price": 667
     },
     {
-      "abr": "tentacularfruit",
-      "category": "Vegetarian",
-      "defname": "AB_RawTentacularFruit",
-      "price": 1
-    },
-    {
       "abr": "thrumbow",
       "category": "Ranged",
       "defname": "TM_ThrumBow",
@@ -8185,63 +7711,9 @@
       "price": -10
     },
     {
-      "abr": "tornscript:brightmage",
-      "category": "Skill books",
-      "defname": "Torn_BookOfTheSun",
-      "price": -10
-    },
-    {
-      "abr": "tornscript:chronomancy",
-      "category": "Skill books",
-      "defname": "Torn_BookOfChronomancer",
-      "price": -10
-    },
-    {
-      "abr": "tornscript:demonology",
-      "category": "Skill books",
-      "defname": "Torn_BookOfDemons",
-      "price": -10
-    },
-    {
-      "abr": "tornscript:enchanter",
-      "category": "Skill books",
-      "defname": "Torn_BookOfEnchanter",
-      "price": -10
-    },
-    {
-      "abr": "tornscript:fire",
-      "category": "Skill books",
-      "defname": "Torn_BookOfInnerFire",
-      "price": -10
-    },
-    {
       "abr": "tornscript:geomancy",
       "category": "Skill books",
       "defname": "Torn_BookOfEarth",
-      "price": -10
-    },
-    {
-      "abr": "tornscript:golemancer",
-      "category": "Skill books",
-      "defname": "Torn_BookOfGolemancy",
-      "price": -10
-    },
-    {
-      "abr": "tornscript:hemomancy",
-      "category": "Skill books",
-      "defname": "Torn_BookOfHemomancy",
-      "price": -10
-    },
-    {
-      "abr": "tornscript:ice",
-      "category": "Skill books",
-      "defname": "Torn_BookOfHeartOfFrost",
-      "price": -10
-    },
-    {
-      "abr": "tornscript:lightning",
-      "category": "Skill books",
-      "defname": "Torn_BookOfStormBorn",
       "price": -10
     },
     {
@@ -8251,39 +7723,9 @@
       "price": -10
     },
     {
-      "abr": "tornscript:necromancy",
-      "category": "Skill books",
-      "defname": "Torn_BookOfUndead",
-      "price": -10
-    },
-    {
-      "abr": "tornscript:paladin",
-      "category": "Skill books",
-      "defname": "Torn_BookOfValiant",
-      "price": -10
-    },
-    {
-      "abr": "tornscript:power",
-      "category": "Skill books",
-      "defname": "Torn_BookOfArcanist",
-      "price": -10
-    },
-    {
       "abr": "tornscript:priest",
       "category": "Skill books",
       "defname": "Torn_BookOfPriest",
-      "price": -10
-    },
-    {
-      "abr": "tornscript:shaman",
-      "category": "Skill books",
-      "defname": "Torn_BookOfShamanism",
-      "price": -10
-    },
-    {
-      "abr": "tornscript:summoning",
-      "category": "Skill books",
-      "defname": "Torn_BookOfSummoner",
       "price": -10
     },
     {
@@ -8401,12 +7843,6 @@
       "price": 1147
     },
     {
-      "abr": "giantsunflowerseeds",
-      "category": "Vegetarian",
-      "defname": "AB_GiantSeeds",
-      "price": 2
-    },
-    {
       "abr": "ambusherskill:ambush",
       "category": "Scrolls",
       "defname": "SkillOf_Ambush",
@@ -8518,115 +7954,115 @@
       "abr": "arcanetome:arbormancer",
       "category": "Skill books",
       "defname": "BookOfArbormancer",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "arcanetome:architect",
       "category": "Skill books",
       "defname": "BookOfArchitect",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "arcanetome:blackmage",
       "category": "Skill books",
       "defname": "BookOfBlackMage",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "arcanetome:cleric",
       "category": "Skill books",
       "defname": "BookOfCleric",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "arcanetome:duskbringer",
       "category": "Skill books",
       "defname": "BookOfDuskbringer",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "arcanetome:elementalgunner",
       "category": "Skill books",
       "defname": "BookOfElementalGunner",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "arcanetome:guardian",
       "category": "Skill books",
       "defname": "BookOfGuardian",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "arcanetome:harbinger",
       "category": "Skill books",
       "defname": "BookOfHarbinger",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "arcanetome:keeper",
       "category": "Skill books",
       "defname": "BookOfKeeper",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "arcanetome:ninja",
       "category": "Skill books",
       "defname": "BookOfNinja",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "arcanetome:oracle",
       "category": "Skill books",
       "defname": "BookOfOracle",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "arcanetome:pridestalker",
       "category": "Skill books",
       "defname": "BookOfPridestalker",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "arcanetome:redmage",
       "category": "Skill books",
       "defname": "BookOfRedMage",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "arcanetome:runeknight",
       "category": "Skill books",
       "defname": "BookOfRuneKnight",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "arcanetome:scholar",
       "category": "Skill books",
       "defname": "BookOfScholar",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "arcanetome:shadowbringer",
       "category": "Skill books",
       "defname": "BookOfShadowbringer",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "arcanetome:troubadour",
       "category": "Skill books",
       "defname": "BookOfTroubadour",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "arcanetome:warden",
       "category": "Skill books",
       "defname": "BookOfWarden",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "arcanetome:windmage",
       "category": "Skill books",
       "defname": "BookOfWindMage",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "architectspell:elementalrift",
@@ -8722,7 +8158,7 @@
       "abr": "bookofrecipes:chef",
       "category": "Skill books",
       "defname": "BookOfChef",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "bowskill:cripplingshot",
@@ -8752,7 +8188,7 @@
       "abr": "boxofdice:gambler",
       "category": "Skill books",
       "defname": "BookOfGambler",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "catgirl",
@@ -8830,181 +8266,181 @@
       "abr": "combataugments:chempunk",
       "category": "Skill books",
       "defname": "BookOfChempunk",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "combataugments:railbreaker",
       "category": "Skill books",
       "defname": "BookOfRailbreaker",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "combatform:blossomblader",
       "category": "Skill books",
       "defname": "BookOfBlossomBlader",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "combatform:deadeye",
       "category": "Skill books",
       "defname": "BookOfDeadeye",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "combatform:dragoon",
       "category": "Skill books",
       "defname": "BookOfDragoon",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "combatform:gunbreaker",
       "category": "Skill books",
       "defname": "BookOfGunbreaker",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "combatform:gunner",
       "category": "Skill books",
       "defname": "BookOfGunner",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "combatform:gunslinger",
       "category": "Skill books",
       "defname": "BookOfGunslinger",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "combatform:holosmith",
       "category": "Skill books",
       "defname": "BookOfHolosmith",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "combatform:mechhunter",
       "category": "Skill books",
       "defname": "BookOfMechHunter",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "combatform:miner",
       "category": "Skill books",
       "defname": "BookOfMiner",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "combatform:mystic",
       "category": "Skill books",
       "defname": "BookOfMystic",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "combatform:nomad",
       "category": "Skill books",
       "defname": "BookOfNomad",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "combatform:scrapper",
       "category": "Skill books",
       "defname": "BookOfScrapper",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "combatform:spellbreaker",
       "category": "Skill books",
       "defname": "BookOfSpellbreaker",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "combatform:spellthief",
       "category": "Skill books",
       "defname": "BookOfSpellthief",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "combatform:striker",
       "category": "Skill books",
       "defname": "BookOfStriker",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "combatform:supportspecialist",
       "category": "Skill books",
       "defname": "BookOfSupportSpecialist",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "combatform:thunderblessed",
       "category": "Skill books",
       "defname": "BookOfThunderblessed",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "combatform:warrior",
       "category": "Skill books",
       "defname": "BookOfWarrior",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "combatinspiration:gadgeteer",
       "category": "Skill books",
       "defname": "BookOfGadgeteer",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "combatstyle:ambusher",
       "category": "Skill books",
       "defname": "BookOfAmbusher",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "combatstyle:berserker",
       "category": "Skill books",
       "defname": "BookOfBerserker",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "combatstyle:bombardier",
       "category": "Skill books",
       "defname": "BookOfBombardier",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "combatstyle:chainwarden",
       "category": "Skill books",
       "defname": "BookOfChainwarden",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "combatstyle:hawkeye",
       "category": "Skill books",
       "defname": "BookOfHawkeye",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "combatstyle:reaper",
       "category": "Skill books",
       "defname": "BookOfReaper",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "combatstyle:saboteur",
       "category": "Skill books",
       "defname": "BookOfSaboteur",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "combatstyle:samurai",
       "category": "Skill books",
       "defname": "BookOfSamurai",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "combatstyle:scion",
       "category": "Skill books",
       "defname": "BookOfScion",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "commanderskill:diplomaticnegotiations",
@@ -9448,7 +8884,7 @@
       "abr": "hippocraticoath:medic",
       "category": "Skill books",
       "defname": "BookOfMedic",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "holosmithskill:coldopen",
@@ -10000,7 +9436,7 @@
       "abr": "tomeofinsight:explorer",
       "category": "Skill books",
       "defname": "BookOfExplorer",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "tornscript:arbormancer",
@@ -10120,7 +9556,7 @@
       "abr": "twistedinspiration:plaguedoctor",
       "category": "Skill books",
       "defname": "BookOfPlaguedoctor",
-      "price": 5500
+      "price": -10
     },
     {
       "abr": "wandererspell:flight",
@@ -10499,7 +9935,235 @@
       "category": "Scrolls",
       "defname": "SkillOf_Hypervelocity",
       "price": 2333
+    },
+    {
+      "abr": "bioniccattail",
+      "category": "Bionic",
+      "defname": "Nr_BioCatTail",
+      "price": 1717
+    },
+    {
+      "abr": "cathoodie",
+      "category": "Nyaron Apparels",
+      "defname": "Nr_CatHoodie",
+      "price": 181
+    },
+    {
+      "abr": "chatoyansniperrifle",
+      "category": "Nyaron ranged weapons",
+      "defname": "Nr_ChRifle",
+      "price": 1783
+    },
+    {
+      "abr": "clawbar",
+      "category": "Melee weapons",
+      "defname": "Nr_Clawbar",
+      "price": 245
+    },
+    {
+      "abr": "cribitepistol",
+      "category": "Nyaron ranged weapons",
+      "defname": "Nr_CriPistol",
+      "price": 367
+    },
+    {
+      "abr": "karambit",
+      "category": "Melee weapons",
+      "defname": "Nr_Karambit",
+      "price": 98
+    },
+    {
+      "abr": "lastpunishmentincinerator",
+      "category": "Nyaron ranged weapons",
+      "defname": "Nr_Punishment",
+      "price": 5000
+    },
+    {
+      "abr": "legendaryweapon",
+      "category": "Special melee weapons",
+      "defname": "Nr_Lightbringer",
+      "price": 16667
+    },
+    {
+      "abr": "machairodus",
+      "category": "Nyaron ranged weapons",
+      "defname": "Nr_FlakCaster",
+      "price": 3333
+    },
+    {
+      "abr": "minifoldpdw",
+      "category": "Nyaron ranged weapons",
+      "defname": "Nr_MfoldPdw",
+      "price": 625
+    },
+    {
+      "abr": "minisword",
+      "category": "Special melee weapons",
+      "defname": "Nr_MiniSword",
+      "price": 1667
+    },
+    {
+      "abr": "n.p.crifle",
+      "category": "Nyaron ranged weapons",
+      "defname": "Nr_NpcRifle",
+      "price": 1483
+    },
+    {
+      "abr": "nyaron",
+      "category": "Animal",
+      "defname": "Alien_Nyaron",
+      "price": -10
+    },
+    {
+      "abr": "nyaroncombatjacket",
+      "category": "Nyaron Apparels",
+      "defname": "Nr_CatJacket",
+      "price": 933
+    },
+    {
+      "abr": "nyaronleather",
+      "category": "Leathers",
+      "defname": "Leather_Nyaron",
+      "price": 7
+    },
+    {
+      "abr": "nyaronmaidcostume",
+      "category": "Nyaron Apparels",
+      "defname": "Nr_CatMaid",
+      "price": 322
+    },
+    {
+      "abr": "nyaronmaidhairband",
+      "category": "Nyaron Apparels",
+      "defname": "Nr_CatMaidBand",
+      "price": 93
+    },
+    {
+      "abr": "nyaronmeat",
+      "category": "Meat",
+      "defname": "Meat_Alien_Nyaron",
+      "price": 3
+    },
+    {
+      "abr": "nyaronpowerarmor",
+      "category": "Nyaron Apparels",
+      "defname": "Nr_PowerArmor",
+      "price": 2633
+    },
+    {
+      "abr": "nyaronpowerarmorhelmet",
+      "category": "Headgear",
+      "defname": "Nr_PowerArmorHelmet",
+      "price": 1217
+    },
+    {
+      "abr": "nyaronsimpleuniform",
+      "category": "Nyaron Apparels",
+      "defname": "Nr_SUniform",
+      "price": 34
+    },
+    {
+      "abr": "nyaronstalkbow",
+      "category": "Ranged weapons",
+      "defname": "Nr_Stkbow",
+      "price": 1333
+    },
+    {
+      "abr": "plasmsword",
+      "category": "Special melee weapons",
+      "defname": "Nr_PlasmSword",
+      "price": 1667
+    },
+    {
+      "abr": "series-epcontainer",
+      "category": "Nyaron stuffs",
+      "defname": "Nr_EPC",
+      "price": 1000
+    },
+    {
+      "abr": "xeushammer",
+      "category": "Special melee weapons",
+      "defname": "Nr_Xeushammer",
+      "price": 1667
+    },
+    {
+      "abr": "zombieextract",
+      "category": "Serum",
+      "defname": "ZombieExtract",
+      "price": 17
+    },
+    {
+      "abr": "zombiemeat",
+      "category": "Meat",
+      "defname": "Meat_Zombie",
+      "price": 3
+    },
+    {
+      "abr": "zombieserum10%",
+      "category": "Serum",
+      "defname": "Zombie10Serum",
+      "price": 200
+    },
+    {
+      "abr": "zombieserum100%",
+      "category": "Serum",
+      "defname": "ZombieSerumSimple",
+      "price": 200
+    },
+    {
+      "abr": "zombieserum100%",
+      "category": "Serum",
+      "defname": "Zombie100Serum",
+      "price": 2000
+    },
+    {
+      "abr": "zombieserum20%",
+      "category": "Serum",
+      "defname": "Zombie20Serum",
+      "price": 400
+    },
+    {
+      "abr": "zombieserum30%",
+      "category": "Serum",
+      "defname": "Zombie30Serum",
+      "price": 600
+    },
+    {
+      "abr": "zombieserum40%",
+      "category": "Serum",
+      "defname": "Zombie40Serum",
+      "price": 800
+    },
+    {
+      "abr": "zombieserum50%",
+      "category": "Serum",
+      "defname": "Zombie50Serum",
+      "price": 1000
+    },
+    {
+      "abr": "zombieserum60%",
+      "category": "Serum",
+      "defname": "Zombie60Serum",
+      "price": 1200
+    },
+    {
+      "abr": "zombieserum70%",
+      "category": "Serum",
+      "defname": "Zombie70Serum",
+      "price": 1400
+    },
+    {
+      "abr": "zombieserum80%",
+      "category": "Serum",
+      "defname": "Zombie80Serum",
+      "price": 1600
+    },
+    {
+      "abr": "zombieserum90%",
+      "category": "Serum",
+      "defname": "Zombie90Serum",
+      "price": 1800
     }
   ],
-  "total": 1750
+  "total": 1694
 }

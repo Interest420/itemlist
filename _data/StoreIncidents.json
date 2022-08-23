@@ -257,7 +257,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 3000,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
@@ -307,27 +307,12 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 22500,
+		"price": 35000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveme",
 		"price": 2500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healall",
-		"price": 7500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healanypawn",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healme",
-		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -416,5 +401,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 83
+	"total": 80
 }
