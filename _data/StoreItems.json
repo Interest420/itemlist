@@ -7534,7 +7534,7 @@
       "abr": "serum:supersoldier",
       "category": "Skill books",
       "defname": "BookOfSuperSoldier",
-      "price": -10
+      "price": 5500
     },
     {
       "abr": "shamanspell:guardianspirit",
@@ -10163,7 +10163,235 @@
       "category": "Serum",
       "defname": "Zombie90Serum",
       "price": -10
+    },
+    {
+      "abr": "arcanetome:brightmage",
+      "category": "Skill books",
+      "defname": "BookOfTheSun",
+      "price": -10
+    },
+    {
+      "abr": "arcanetome:chronomancer",
+      "category": "Skill books",
+      "defname": "BookOfChronomancer",
+      "price": -10
+    },
+    {
+      "abr": "arcanetome:demonology",
+      "category": "Skill books",
+      "defname": "BookOfDemons",
+      "price": -10
+    },
+    {
+      "abr": "arcanetome:enchanter",
+      "category": "Skill books",
+      "defname": "BookOfEnchanter",
+      "price": -10
+    },
+    {
+      "abr": "arcanetome:fire",
+      "category": "Skill books",
+      "defname": "BookOfInnerFire",
+      "price": -10
+    },
+    {
+      "abr": "arcanetome:golemancer",
+      "category": "Skill books",
+      "defname": "BookOfGolemancy",
+      "price": -10
+    },
+    {
+      "abr": "arcanetome:hemomancy",
+      "category": "Skill books",
+      "defname": "BookOfHemomancy",
+      "price": -10
+    },
+    {
+      "abr": "arcanetome:ice",
+      "category": "Skill books",
+      "defname": "BookOfHeartOfFrost",
+      "price": -10
+    },
+    {
+      "abr": "arcanetome:lightning",
+      "category": "Skill books",
+      "defname": "BookOfStormBorn",
+      "price": -10
+    },
+    {
+      "abr": "arcanetome:necromancer",
+      "category": "Skill books",
+      "defname": "BookOfNecromancer",
+      "price": -10
+    },
+    {
+      "abr": "arcanetome:power",
+      "category": "Skill books",
+      "defname": "BookOfArcanist",
+      "price": -10
+    },
+    {
+      "abr": "arcanetome:shadow",
+      "category": "Skill books",
+      "defname": "BookOfShadow",
+      "price": -10
+    },
+    {
+      "abr": "arcanetome:shaman",
+      "category": "Skill books",
+      "defname": "BookOfShamanism",
+      "price": -10
+    },
+    {
+      "abr": "arcanetome:summoning",
+      "category": "Skill books",
+      "defname": "BookOfSummoner",
+      "price": -10
+    },
+    {
+      "abr": "bloodmagespell:bloodmoon",
+      "category": "Scrolls",
+      "defname": "SpellOf_BloodMoon",
+      "price": 3750
+    },
+    {
+      "abr": "combatform:faceless",
+      "category": "Skill books",
+      "defname": "BookOfFaceless",
+      "price": -10
+    },
+    {
+      "abr": "combatform:gladiator",
+      "category": "Skill books",
+      "defname": "BookOfGladiator",
+      "price": -10
+    },
+    {
+      "abr": "combatpower:psionic",
+      "category": "Skill books",
+      "defname": "BookOfPsionic",
+      "price": -10
+    },
+    {
+      "abr": "combatstyle:bladedancer",
+      "category": "Skill books",
+      "defname": "BookOfBladedancer",
+      "price": -10
+    },
+    {
+      "abr": "combatstyle:deathknight",
+      "category": "Skill books",
+      "defname": "BookOfDeathKnight",
+      "price": -10
+    },
+    {
+      "abr": "combatstyle:monk",
+      "category": "Skill books",
+      "defname": "BookOfMonk",
+      "price": -10
+    },
+    {
+      "abr": "divinetome:paladin",
+      "category": "Skill books",
+      "defname": "BookOfValiant",
+      "price": -10
+    },
+    {
+      "abr": "lightningspell:chargebattery",
+      "category": "Scrolls",
+      "defname": "SpellOf_ChargeBattery",
+      "price": 833
+    },
+    {
+      "abr": "necroticorb",
+      "category": "Magic artifacts",
+      "defname": "TM_Artifact_NecroticOrb",
+      "price": 3000
+    },
+    {
+      "abr": "tornscript:brightmage",
+      "category": "Skill books",
+      "defname": "Torn_BookOfTheSun",
+      "price": -10
+    },
+    {
+      "abr": "tornscript:chronomancy",
+      "category": "Skill books",
+      "defname": "Torn_BookOfChronomancer",
+      "price": -10
+    },
+    {
+      "abr": "tornscript:demonology",
+      "category": "Skill books",
+      "defname": "Torn_BookOfDemons",
+      "price": -10
+    },
+    {
+      "abr": "tornscript:enchanter",
+      "category": "Skill books",
+      "defname": "Torn_BookOfEnchanter",
+      "price": -10
+    },
+    {
+      "abr": "tornscript:fire",
+      "category": "Skill books",
+      "defname": "Torn_BookOfInnerFire",
+      "price": -10
+    },
+    {
+      "abr": "tornscript:golemancer",
+      "category": "Skill books",
+      "defname": "Torn_BookOfGolemancy",
+      "price": -10
+    },
+    {
+      "abr": "tornscript:hemomancy",
+      "category": "Skill books",
+      "defname": "Torn_BookOfHemomancy",
+      "price": -10
+    },
+    {
+      "abr": "tornscript:ice",
+      "category": "Skill books",
+      "defname": "Torn_BookOfHeartOfFrost",
+      "price": -10
+    },
+    {
+      "abr": "tornscript:lightning",
+      "category": "Skill books",
+      "defname": "Torn_BookOfStormBorn",
+      "price": -10
+    },
+    {
+      "abr": "tornscript:necromancy",
+      "category": "Skill books",
+      "defname": "Torn_BookOfUndead",
+      "price": -10
+    },
+    {
+      "abr": "tornscript:paladin",
+      "category": "Skill books",
+      "defname": "Torn_BookOfValiant",
+      "price": -10
+    },
+    {
+      "abr": "tornscript:power",
+      "category": "Skill books",
+      "defname": "Torn_BookOfArcanist",
+      "price": -10
+    },
+    {
+      "abr": "tornscript:shaman",
+      "category": "Skill books",
+      "defname": "Torn_BookOfShamanism",
+      "price": -10
+    },
+    {
+      "abr": "tornscript:summoning",
+      "category": "Skill books",
+      "defname": "Torn_BookOfSummoner",
+      "price": -10
     }
   ],
-  "total": 1694
+  "total": 1732
 }

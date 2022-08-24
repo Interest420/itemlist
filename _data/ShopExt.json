@@ -7031,7 +7031,7 @@
       "defName": "TM_Brightmage",
       "name": "brightmage",
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 7500,
       "removePrice": 500,
       "degree": 0
