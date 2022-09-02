@@ -141,7 +141,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.5.8.6"
+    "version": "2.5.8.7"
   },
   {
     "author": "Kure",
@@ -430,6 +430,12 @@
     "name": "Vanilla Plants Expanded",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "legodude17 and  Oskar Potocki",
+    "name": "Vanilla Skills Expanded",
+    "steamId": "2854967442",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki and  Taranchuk",
