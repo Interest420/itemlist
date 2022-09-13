@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "clearweather",
-		"price": 400,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "rain",
-		"price": 350,
+		"price": 250,
 		"karmatype": "Good"
 	},
 	{
@@ -27,17 +27,17 @@
 	},
 	{
 		"abr": "drythunderstorm",
-		"price": 450,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "snowgentle",
-		"price": 350,
+		"price": 250,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "snowhard",
-		"price": 450,
+		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
@@ -52,18 +52,18 @@
 	},
 	{
 		"abr": "flashstorm",
-		"price": 400,
+		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "coldsnap",
-		"price": 800,
+		"price": 750,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "solarflare",
-		"price": 500,
-		"karmatype": "Bad"
+		"price": 1000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "shortcircuit",
@@ -82,27 +82,22 @@
 	},
 	{
 		"abr": "eclipse",
-		"price": 450,
+		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "aurora",
-		"price": 200,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "blight",
-		"price": 700,
+		"price": 750,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "animaltame",
-		"price": 150,
+		"price": 250,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "resourcepodcrash",
-		"price": 300,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -122,17 +117,17 @@
 	},
 	{
 		"abr": "madanimal",
-		"price": 200,
+		"price": 150,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "psychicdrone",
-		"price": 400,
+		"price": 250,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "psychicsoothe",
-		"price": 250,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -142,17 +137,12 @@
 	},
 	{
 		"abr": "herdmigration",
-		"price": 200,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "farmanimals",
-		"price": 400,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "wildman",
-		"price": 300,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -257,7 +247,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 5000,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
@@ -287,7 +277,7 @@
 	},
 	{
 		"abr": "prisoner",
-		"price": 800,
+		"price": 750,
 		"karmatype": "Good"
 	},
 	{
@@ -297,7 +287,7 @@
 	},
 	{
 		"abr": "randominspire",
-		"price": 450,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -307,12 +297,27 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 35000,
+		"price": 22500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveme",
-		"price": 5000,
+		"price": 2500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healall",
+		"price": 7500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healanypawn",
+		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healme",
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -332,7 +337,7 @@
 	},
 	{
 		"abr": "rescueme",
-		"price": 1200,
+		"price": 1500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -389,11 +394,6 @@
 		"abr": "randomadulthood",
 		"price": 3000,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "smite",
-		"price": 2500,
-		"karmatype": "Doom"
 	},
 	{
 		"abr": "sanctuary",
