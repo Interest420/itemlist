@@ -1,15 +1,21 @@
-﻿[
+[
   {
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "1.4.0.0"
+    "version": "1.5.0.0"
   },
   {
     "author": "Samboy063",
     "name": "BetterLoading",
     "steamId": "1999454301",
     "version": "3.3.0.0"
+  },
+  {
+    "author": "Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "1845423808",
+    "version": "1.4.6"
   },
   {
     "author": "UnlimitedHugs",
@@ -36,12 +42,6 @@
     "version": "1.3.7862.41411"
   },
   {
-    "author": "Sarg",
-    "name": "Alpha Biomes",
-    "steamId": "1841354677",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Ekksu / Xen / Cucumpear / Thirite / Whizzard / Lindseyrie / Walking Problem",
     "name": "Animal Collab Project Vanilla-Style",
     "steamId": null,
@@ -58,6 +58,24 @@
     "name": "Better ModMismatch Window",
     "steamId": "1872244972",
     "version": "1.1.3"
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Core",
+    "steamId": "2038000893",
+    "version": "1.3.60.5"
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Islands",
+    "steamId": "2038001322",
+    "version": "1.3.1.2"
+  },
+  {
+    "author": "DerekBickley",
+    "name": "[LTO] Colony Groups",
+    "steamId": "2345493945",
+    "version": "1.0.06"
   },
   {
     "author": "CrashM",
@@ -108,16 +126,10 @@
     "version": "3.1.0.0"
   },
   {
-    "author": "m00nl1ght-dev",
-    "name": "Geological Landforms",
-    "steamId": "2773943594",
-    "version": "1.4.4.0"
-  },
-  {
     "author": "Krypt",
     "name": "RWLayout",
     "steamId": "2209393954",
-    "version": "1.0.0.0"
+    "version": "1.0.0"
   },
   {
     "author": "Krypt",
@@ -159,7 +171,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.5.8.8"
+    "version": "2.5.8.10"
   },
   {
     "author": "Kure",
@@ -180,6 +192,12 @@
     "version": "1.0.0.2"
   },
   {
+    "author": "Haplo",
+    "name": "Misc. Endgame",
+    "steamId": "1750618143",
+    "version": "1.4.0"
+  },
+  {
     "author": "erdelf",
     "name": "Humanoid Alien Races",
     "steamId": "839005762",
@@ -195,25 +213,13 @@
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
-    "version": "1.3.0.1"
+    "version": "1.4.0.1"
   },
   {
     "author": "Netrve",
     "name": "Netrve's DeepStorage GUI",
     "steamId": "2169841018",
     "version": "1.2.1.38"
-  },
-  {
-    "author": "Kiame Vivacity",
-    "name": "[KV] Show Hair With Hats or Hide All Hats",
-    "steamId": "1180826364",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Gloomylynx Nukafrog",
-    "name": "NewRatkinPlus",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Dave-EEs",
@@ -289,7 +295,7 @@
   },
   {
     "author": "Machine",
-    "name": "Raise The Roof 1.3",
+    "name": "Raise The Roof 1.4",
     "steamId": "1776143665",
     "version": "1.0.0.0"
   },
@@ -384,6 +390,12 @@
     "version": null
   },
   {
+    "author": "Fishbrains",
+    "name": "TechBlock",
+    "steamId": "1970774610",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -462,10 +474,10 @@
     "version": "1.3"
   },
   {
-    "author": "Andreas Pardeike",
-    "name": "Zombieland",
-    "steamId": "928376710",
-    "version": "3.1.0.0"
+    "author": "Oskar Potocki and  Taranchuk",
+    "name": "Vanilla Books Expanded",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "FrozenSnowFox",
@@ -493,15 +505,15 @@
   },
   {
     "author": "Kiame Vivacity",
-    "name": "[KV] Trading Spot",
-    "steamId": "1180719658",
+    "name": "[KV] Show Hair With Hats or Hide All Hats",
+    "steamId": "1180826364",
     "version": "1.0.0.0"
   },
   {
-    "author": "DerekBickley",
-    "name": "[LTO] Colony Groups",
-    "steamId": "2345493945",
-    "version": "1.0.06"
+    "author": "Kiame Vivacity",
+    "name": "[KV] Trading Spot",
+    "steamId": "1180719658",
+    "version": "1.0.0.0"
   },
   {
     "author": "lolidrop",
