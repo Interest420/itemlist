@@ -73,7 +73,7 @@
 	{
 		"abr": "toxicfallout",
 		"price": 7500,
-		"karmatype": "Doom"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "volcanicwinter",
@@ -118,7 +118,7 @@
 	{
 		"abr": "madanimal",
 		"price": 150,
-		"karmatype": "Bad"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "psychicdrone",
