@@ -2111,36 +2111,6 @@
       "degree": 0
     },
     {
-      "description": "Timmy is romantically attracted to people of his opposite gender.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": true,
-      "data": {
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Sexuality Traits",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "ST_Straight",
-      "name": "straight",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 25,
-      "removePrice": 25,
-      "degree": 0
-    },
-    {
       "description": "Timmy is abnormally receptive to the ebb and flow of mana, he will gain mana 40% faster than normal but his maximum mana capacity is reduced by 20.",
       "stats": [
 
@@ -44515,6 +44485,7 @@
           "+5.0% Armor - Sharp",
           "+5.0% Armor - Blunt",
           "+0.0% Armor - Heat",
+          "+120% Toxic sensitivity",
           "+110% Eating speed",
           "+25 Leather amount",
           "+5.0 Melee dodge chance",

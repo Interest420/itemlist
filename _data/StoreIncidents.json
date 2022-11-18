@@ -196,31 +196,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "raid",
-		"price": 1500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "dropraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "sapperraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "siegeraid",
-		"price": 2500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "mechanoidraid",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "infestation",
 		"price": 2500,
 		"karmatype": "Bad"
@@ -228,11 +203,6 @@
 	{
 		"abr": "manhunterpack",
 		"price": 1500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "predators",
-		"price": 2500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -401,5 +371,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 80
+	"total": 74
 }

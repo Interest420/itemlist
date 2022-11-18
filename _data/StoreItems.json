@@ -3871,18 +3871,6 @@
       "price": 167
     },
     {
-      "abr": "cannonshellheat",
-      "category": "Cannon shells",
-      "defname": "TC_Shell_CannonTurret_HEAT",
-      "price": 92
-    },
-    {
-      "abr": "cannonshellhigh-explosive",
-      "category": "Cannon shells",
-      "defname": "TC_Shell_CannonTurret_HighExplosive",
-      "price": 92
-    },
-    {
       "abr": "chameleonyak",
       "category": "Animals",
       "defname": "AA_ChameleonYak",
@@ -4459,46 +4447,10 @@
       "price": 70
     },
     {
-      "abr": "howitzerclusterbomb",
-      "category": "Howitzer shells",
-      "defname": "TCEE_Shell_Howitzer_ClusterBomb",
-      "price": 92
-    },
-    {
-      "abr": "howitzershellemp",
-      "category": "Howitzer shells",
-      "defname": "TC_Shell_EMP",
-      "price": 92
-    },
-    {
-      "abr": "howitzershellhigh-explosive",
-      "category": "Howitzer shells",
-      "defname": "TC_Shell_Howitzer_HighExplosive",
-      "price": 92
-    },
-    {
-      "abr": "howitzershellincendiary",
-      "category": "Howitzer shells",
-      "defname": "TC_Shell_Howitzer_Incendiary",
-      "price": 92
-    },
-    {
       "abr": "hugeanimapearl",
       "category": "Manufactured",
       "defname": "AA_HugeAnimaPearl",
       "price": 83
-    },
-    {
-      "abr": "incendiarygrenadeset",
-      "category": "Incendiary grenades",
-      "defname": "TC_Shell_IncendiaryLauncher_Incendiary",
-      "price": 92
-    },
-    {
-      "abr": "incendiarylauncher",
-      "category": "Security",
-      "defname": "TC_IncendiaryLauncher",
-      "price": 1158
     },
     {
       "abr": "infectedaerofleet",
@@ -4729,12 +4681,6 @@
       "price": -10
     },
     {
-      "abr": "navalgunshellhigh-explosive",
-      "category": "Naval gun shells",
-      "defname": "TCEE_Shell_NavalGunTurret_HighExplosive",
-      "price": 92
-    },
-    {
       "abr": "needlepost",
       "category": "Animals",
       "defname": "AA_Needlepost",
@@ -4915,12 +4861,6 @@
       "price": 2
     },
     {
-      "abr": "pre-chargedmini-turretcrate",
-      "category": "Manufactured",
-      "defname": "TCEE_ChargedMiniTurret_Crate",
-      "price": 212
-    },
-    {
       "abr": "pricklypears",
       "category": "Raw fruits",
       "defname": "VCE_RawPricklyPear",
@@ -5017,12 +4957,6 @@
       "price": 3
     },
     {
-      "abr": "rocket",
-      "category": "Rockets",
-      "defname": "TC_Shell_RocketLauncher_HighExplosive",
-      "price": 92
-    },
-    {
       "abr": "rough-platedmonitor",
       "category": "Animals",
       "defname": "AA_RoughPlatedMonitor",
@@ -5113,466 +5047,16 @@
       "price": 3
     },
     {
-      "abr": "acidant",
-      "category": "Animals",
-      "defname": "ACPAcidAnt",
-      "price": 667
-    },
-    {
-      "abr": "africanwilddog",
-      "category": "Animals",
-      "defname": "ACPWildDog",
-      "price": 300
-    },
-    {
-      "abr": "amurleopard",
-      "category": "Animals",
-      "defname": "ACPAmurLeopard",
-      "price": 533
-    },
-    {
-      "abr": "amurleopardmeat",
-      "category": "Meat",
-      "defname": "Meat_ACPAmurLeopard",
-      "price": 3
-    },
-    {
-      "abr": "angorarabbit",
-      "category": "Animals",
-      "defname": "ACPAngoraRabbit",
-      "price": 400
-    },
-    {
-      "abr": "angorawool",
-      "category": "Wools",
-      "defname": "ACPAngoraWool",
-      "price": 7
-    },
-    {
-      "abr": "blackbear",
-      "category": "Animals",
-      "defname": "ACPBlackbear",
-      "price": 917
-    },
-    {
-      "abr": "blackdirewolf",
-      "category": "Animals",
-      "defname": "ACPBlackwolf",
-      "price": 2083
-    },
-    {
-      "abr": "blackrhinoceros",
-      "category": "Animals",
-      "defname": "ACPBlackRhinoceros",
-      "price": 3333
-    },
-    {
-      "abr": "blubberymeat",
-      "category": "Meat",
-      "defname": "Meat_ACPHippopotamus",
-      "price": 3
-    },
-    {
-      "abr": "brownfur",
-      "category": "Leathers",
-      "defname": "Leather_Brownfur",
-      "price": 4
-    },
-    {
-      "abr": "carapacehelmet",
-      "category": "Headgear",
-      "defname": "Apparel_ACPCarapaceHelmet",
-      "price": 392
-    },
-    {
-      "abr": "cheetah",
-      "category": "Animals",
-      "defname": "ACPCheetah",
-      "price": 667
-    },
-    {
-      "abr": "cheetahmeat",
-      "category": "Meat",
-      "defname": "Meat_ACPCheetah",
-      "price": 3
-    },
-    {
-      "abr": "chipmunk",
-      "category": "Animals",
-      "defname": "ACPChipmunk",
-      "price": 83
-    },
-    {
-      "abr": "direwolf",
-      "category": "Animals",
-      "defname": "ACPDirewolf",
-      "price": 1083
-    },
-    {
-      "abr": "direwolfwool",
-      "category": "Wools",
-      "defname": "ACPBDireWolfWool",
-      "price": 8
-    },
-    {
-      "abr": "dogmeat",
-      "category": "Meat",
-      "defname": "Meat_ACPWildDog",
-      "price": 3
-    },
-    {
-      "abr": "domesticrabbit",
-      "category": "Animals",
-      "defname": "ACPDomesticRabbit",
-      "price": 83
-    },
-    {
-      "abr": "duck-billedplatypus",
-      "category": "Animals",
-      "defname": "ACPDuckBilledPlatypus",
-      "price": 417
-    },
-    {
-      "abr": "duck-billedplatypusmeat",
-      "category": "Meat",
-      "defname": "Meat_ACPDuckBilledPlatypus",
-      "price": 3
-    },
-    {
-      "abr": "ermine",
-      "category": "Animals",
-      "defname": "ACPErmine",
-      "price": 333
-    },
-    {
-      "abr": "exoticleather",
-      "category": "Leathers",
-      "defname": "Leather_ACP",
-      "price": 6
-    },
-    {
-      "abr": "ferret",
-      "category": "Animals",
-      "defname": "ACPFerret",
-      "price": 358
-    },
-    {
-      "abr": "ferretsilk",
-      "category": "Wools",
-      "defname": "ACPFerretSilk",
-      "price": 10
-    },
-    {
-      "abr": "fisher",
-      "category": "Animals",
-      "defname": "ACPFishercat",
-      "price": 250
-    },
-    {
-      "abr": "flamingo",
-      "category": "Animals",
-      "defname": "ACPFlamingo",
-      "price": 367
-    },
-    {
-      "abr": "flamingoegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "ACPEggFlamingoFertilized",
-      "price": -10
-    },
-    {
-      "abr": "gecko",
-      "category": "Animals",
-      "defname": "ACPXGecko",
-      "price": 167
-    },
-    {
-      "abr": "geckoegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "ACPEggGeckoFertilized",
-      "price": -10
-    },
-    {
-      "abr": "giraffe",
-      "category": "Animals",
-      "defname": "ACPGiraffe",
-      "price": 1333
-    },
-    {
-      "abr": "greatbustard",
-      "category": "Animals",
-      "defname": "ACPGreatBustard",
-      "price": 300
-    },
-    {
-      "abr": "greatbustardegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "ACPEggBustardFertilized",
-      "price": -10
-    },
-    {
-      "abr": "haulerant",
-      "category": "Animals",
-      "defname": "ACPHaulerAnt",
-      "price": 917
-    },
-    {
-      "abr": "hedgehog",
-      "category": "Animals",
-      "defname": "ACPHedgehog",
-      "price": 117
-    },
-    {
-      "abr": "hippopotamus",
-      "category": "Animals",
-      "defname": "ACPHippopotamus",
-      "price": 467
-    },
-    {
-      "abr": "honeybadger",
-      "category": "Animals",
-      "defname": "ACPHoneyBadger",
-      "price": 1083
-    },
-    {
-      "abr": "jackalope",
-      "category": "Animals",
-      "defname": "ACPJackalope",
-      "price": 150
-    },
-    {
-      "abr": "kiwi",
-      "category": "Animals",
-      "defname": "ACPKiwi",
-      "price": 383
-    },
-    {
-      "abr": "kiwiegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "ACPEggKiwiFertilized",
-      "price": -10
-    },
-    {
-      "abr": "komododragon",
-      "category": "Animals",
-      "defname": "ACPKomodo",
-      "price": 583
-    },
-    {
-      "abr": "komododragonegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "ACPEggKomodoFertilized",
-      "price": -10
-    },
-    {
-      "abr": "lion",
-      "category": "Animals",
-      "defname": "ACPLion",
-      "price": 667
-    },
-    {
-      "abr": "lionmeat",
-      "category": "Meat",
-      "defname": "Meat_ACPLion",
-      "price": 3
-    },
-    {
-      "abr": "llama",
-      "category": "Animals",
-      "defname": "ACPLlama",
-      "price": 700
-    },
-    {
-      "abr": "llamawool",
-      "category": "Wools",
-      "defname": "ACPLlamaWool",
-      "price": 5
-    },
-    {
-      "abr": "majoreragoat",
-      "category": "Animals",
-      "defname": "ACPMajoreraGoat",
-      "price": 375
-    },
-    {
-      "abr": "megabadger",
-      "category": "Animals",
-      "defname": "ACPMegabadger",
-      "price": 3667
-    },
-    {
-      "abr": "megaferret",
-      "category": "Animals",
-      "defname": "ACPMegaFerret",
-      "price": 1583
-    },
-    {
-      "abr": "megascorpion",
-      "category": "Animals",
-      "defname": "ACPMegascorpion",
-      "price": 200
-    },
-    {
-      "abr": "munchkincat",
-      "category": "Animals",
-      "defname": "ACPMunchkinCat",
-      "price": 417
-    },
-    {
-      "abr": "otter",
-      "category": "Animals",
-      "defname": "ACPOtter",
-      "price": 458
-    },
-    {
-      "abr": "panda",
-      "category": "Animals",
-      "defname": "ACPPanda",
-      "price": 1167
-    },
-    {
-      "abr": "peccary",
-      "category": "Animals",
-      "defname": "ACPPeccary",
-      "price": 300
-    },
-    {
-      "abr": "penguin",
-      "category": "Animals",
-      "defname": "ACPPenguin",
-      "price": 433
-    },
-    {
-      "abr": "penguinegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "ACPEggPenguinFertilized",
-      "price": -10
-    },
-    {
-      "abr": "platypusegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "ACPEggPlatypusFertilized",
-      "price": -10
-    },
-    {
-      "abr": "porcupine",
-      "category": "Animals",
-      "defname": "ACPPorcupine",
-      "price": 200
-    },
-    {
-      "abr": "ptarmigan",
-      "category": "Animals",
-      "defname": "ACPPtarmigan",
-      "price": 125
-    },
-    {
-      "abr": "ptarmiganegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "ACPEggPtarmiganFertilized",
-      "price": -10
-    },
-    {
-      "abr": "ptarmiganegg(unfert.)",
-      "category": "Eggs (unfert.)",
-      "defname": "ACPEggPtarmiganUnfertilized",
-      "price": 12
-    },
-    {
-      "abr": "quailegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "ACPQuailEggFertilized",
-      "price": -10
-    },
-    {
-      "abr": "quailegg(unfert.)",
-      "category": "Eggs (unfert.)",
-      "defname": "ACPQuailEggUnfertilized",
-      "price": 12
-    },
-    {
-      "abr": "redpanda",
-      "category": "Animals",
-      "defname": "ACPRedPanda",
-      "price": 217
-    },
-    {
-      "abr": "redpandameat",
-      "category": "Meat",
-      "defname": "Meat_ACPRedPanda",
-      "price": 3
-    },
-    {
-      "abr": "seal",
-      "category": "Animals",
-      "defname": "ACPSpottedSeal",
-      "price": 500
-    },
-    {
-      "abr": "silkiechicken",
-      "category": "Animals",
-      "defname": "ACPSilkieChicken",
-      "price": 208
-    },
-    {
-      "abr": "silkieegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "ACPSilkieEggFertilized",
-      "price": -10
-    },
-    {
-      "abr": "silkieegg(unfert.)",
-      "category": "Eggs (unfert.)",
-      "defname": "ACPSilkieEggUnfertilized",
-      "price": 12
-    },
-    {
-      "abr": "silkspider",
-      "category": "Animals",
-      "defname": "ACPSilkspider",
-      "price": 2500
-    },
-    {
       "abr": "slurrypede",
       "category": "Animals",
       "defname": "AA_Slurrypede",
       "price": 1083
     },
     {
-      "abr": "snowleopard",
-      "category": "Animals",
-      "defname": "ACPSnowLeopard",
-      "price": 533
-    },
-    {
-      "abr": "snowleopardmeat",
-      "category": "Meat",
-      "defname": "Meat_ACPSnowLeopard",
-      "price": 3
-    },
-    {
-      "abr": "spidersilk",
-      "category": "Wools",
-      "defname": "ACPSpidersilk",
-      "price": 13
-    },
-    {
       "abr": "spinedgow",
       "category": "Animals",
       "defname": "AA_SpinedGow",
       "price": 583
-    },
-    {
-      "abr": "spiritwolf",
-      "category": "Animals",
-      "defname": "ACPSpiritwolf",
-      "price": 3250
-    },
-    {
-      "abr": "spiritwolf",
-      "category": "Animals",
-      "defname": "ACPSpiritwolfFF",
-      "price": 3250
     },
     {
       "abr": "squidmeat",
@@ -5597,12 +5081,6 @@
       "category": "Furniture",
       "defname": "LWM_VeryBigShelf",
       "price": 550
-    },
-    {
-      "abr": "tapir",
-      "category": "Animals",
-      "defname": "ACPTapir",
-      "price": 500
     },
     {
       "abr": "targuzzler",
@@ -5635,34 +5113,10 @@
       "price": 1083
     },
     {
-      "abr": "thornydevil",
-      "category": "Animals",
-      "defname": "ACPThornyDevil",
-      "price": 167
-    },
-    {
-      "abr": "thornydevilegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "ACPEggThornyDevilFertilized",
-      "price": -10
-    },
-    {
       "abr": "thunderbeast",
       "category": "Animals",
       "defname": "AA_Thunderbeast",
       "price": 1250
-    },
-    {
-      "abr": "tiger",
-      "category": "Animals",
-      "defname": "ACPTiger",
-      "price": 667
-    },
-    {
-      "abr": "tigermeat",
-      "category": "Meat",
-      "defname": "Meat_ACPTiger",
-      "price": 3
     },
     {
       "abr": "tomatoes",
@@ -5681,24 +5135,6 @@
       "category": "Raw resources",
       "defname": "AA_UraniumCrystals",
       "price": 108
-    },
-    {
-      "abr": "valleyquail",
-      "category": "Animals",
-      "defname": "ACPValleyQuail",
-      "price": 125
-    },
-    {
-      "abr": "walrus",
-      "category": "Animals",
-      "defname": "ACPWalrus",
-      "price": 1167
-    },
-    {
-      "abr": "walrustusk",
-      "category": "Items",
-      "defname": "ACPWalrusTusk",
-      "price": 417
     },
     {
       "abr": "waywardmobileassembler",
@@ -5747,30 +5183,6 @@
       "category": "Animals",
       "defname": "AA_WindBeast",
       "price": 1250
-    },
-    {
-      "abr": "woolyrhino",
-      "category": "Animals",
-      "defname": "ACPWoolyRhino",
-      "price": 2000
-    },
-    {
-      "abr": "woolyhorse",
-      "category": "Animals",
-      "defname": "ACPWoolyHorse",
-      "price": 1083
-    },
-    {
-      "abr": "xenguana",
-      "category": "Animals",
-      "defname": "ACPXenguana",
-      "price": 1500
-    },
-    {
-      "abr": "xenguanaegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "ACPEggxenguanaFertilized",
-      "price": -10
     },
     {
       "abr": "zombrella",
@@ -9691,58 +9103,10 @@
       "price": 2258
     },
     {
-      "abr": "bloodoranges",
-      "category": "Vegetarian",
-      "defname": "BiomesIslands_Oranges",
-      "price": 2
-    },
-    {
-      "abr": "blubber",
-      "category": "Meat",
-      "defname": "Meat_BiomesIslands_Whale",
-      "price": 3
-    },
-    {
-      "abr": "bluecrab",
-      "category": "Animals",
-      "defname": "BiomesIslands_BlueCrab",
-      "price": 183
-    },
-    {
-      "abr": "bluecrabegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggBlueCrabFertilized",
-      "price": -10
-    },
-    {
-      "abr": "blueseasnailegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_BlueSeaSnailFertilized",
-      "price": -10
-    },
-    {
       "abr": "blueprint",
       "category": "Books",
       "defname": "VBE_Blueprint",
       "price": 2667
-    },
-    {
-      "abr": "boomwhale",
-      "category": "Animals",
-      "defname": "BiomesIslands_BoomWhale",
-      "price": 3000
-    },
-    {
-      "abr": "cluttercrab",
-      "category": "Animals",
-      "defname": "BiomesIslands_ClutterCrab",
-      "price": -10
-    },
-    {
-      "abr": "cluttercrabegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggClutterCrabFertilized",
-      "price": -10
     },
     {
       "abr": "constructionbook",
@@ -9757,172 +9121,88 @@
       "price": 2258
     },
     {
-      "abr": "coralblocks",
-      "category": "Stone blocks",
-      "defname": "BiomesIslands_BlocksCoral",
-      "price": 2
-    },
-    {
-      "abr": "coralcoconuts",
-      "category": "Vegetarian",
-      "defname": "BiomesIslands_Coconuts",
-      "price": 7
-    },
-    {
-      "abr": "crabmeat",
-      "category": "Meat",
-      "defname": "Meat_BiomesIslands_RimCrab",
-      "price": 3
-    },
-    {
-      "abr": "crabshell",
-      "category": "Leathers",
-      "defname": "BiomesCore_CrabShell",
-      "price": 6
-    },
-    {
       "abr": "craftingbook",
       "category": "Books",
       "defname": "VBE_BookCrafting",
       "price": 2258
     },
     {
-      "abr": "devil'sclawleaves",
-      "category": "Vegetarian",
-      "defname": "BiomesIslands_Devilsclaw",
-      "price": 2
+      "abr": "ammocrate",
+      "category": "Furniture",
+      "defname": "VFES_AmmoCrate",
+      "price": 533
     },
     {
-      "abr": "fiddlercrab",
-      "category": "Animals",
-      "defname": "BiomesIslands_FiddlerCrab",
-      "price": 183
+      "abr": "archotechshieldgenerator",
+      "category": "Special",
+      "defname": "VFES_ShieldGenerator_Archotech",
+      "price": 4667
     },
     {
-      "abr": "fiddlercrabegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggFiddlerCrabFertilized",
-      "price": -10
+      "abr": "artillery",
+      "category": "Security",
+      "defname": "VFES_Turret_Artillery",
+      "price": 1408
     },
     {
-      "abr": "fishfood",
-      "category": "Foods",
-      "defname": "BiomesIslands_FishFood",
-      "price": 2
+      "abr": "beartrap",
+      "category": "Security",
+      "defname": "VFES_BearTrap",
+      "price": 236
     },
     {
-      "abr": "fishmeat",
-      "category": "Meat",
-      "defname": "BMT_FishMeat",
-      "price": 3
+      "abr": "chargeturret",
+      "category": "Security",
+      "defname": "VFES_Turret_ChargeTurret",
+      "price": 1358
     },
     {
-      "abr": "fishskin",
-      "category": "Leathers",
-      "defname": "BiomesIslands_Leather_Fishskin",
-      "price": 3
+      "abr": "chemfuelbarrel",
+      "category": "Security",
+      "defname": "VFES_ChemfuelBarrel",
+      "price": 296
     },
     {
-      "abr": "flamingo",
-      "category": "Animals",
-      "defname": "BiomesIslands_Flamingo",
-      "price": 383
+      "abr": "concussiveturret",
+      "category": "Security",
+      "defname": "Turret_ConcussiveTurret",
+      "price": 3100
     },
     {
-      "abr": "flamingoegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggFlamingoFertilized",
-      "price": -10
+      "abr": "deathsuperacidifier",
+      "category": "Bionic",
+      "defname": "VESWW_DeathSuperAcidifier",
+      "price": 1500
     },
     {
-      "abr": "flamingoleather",
-      "category": "Leathers",
-      "defname": "BiomesIslands_Leather_Flamingo",
-      "price": 5
+      "abr": "decoy",
+      "category": "Security",
+      "defname": "VFES_Turret_Decoy",
+      "price": 140
     },
     {
-      "abr": "flippers",
-      "category": "Handwear and footwear",
-      "defname": "BMT_Apparel_Flippers",
-      "price": 191
+      "abr": "deployableturret",
+      "category": "Security",
+      "defname": "VFES_Turret_FloorTurret",
+      "price": 983
     },
     {
-      "abr": "galapagostortoise",
-      "category": "Animals",
-      "defname": "BiomesIslands_GalapagosTortoise",
-      "price": 583
+      "abr": "empturret",
+      "category": "Security",
+      "defname": "Turret_STEMPTurret",
+      "price": 3433
     },
     {
-      "abr": "galapagostortoiseegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggGalapagosTortoiseFertilized",
-      "price": -10
+      "abr": "energyturret",
+      "category": "Security",
+      "defname": "Turret_EnergyTurret",
+      "price": 2675
     },
     {
-      "abr": "gastropodskin",
-      "category": "Leathers",
-      "defname": "BMT_Leather_Gastropoda",
-      "price": 3
-    },
-    {
-      "abr": "gigantaconda",
-      "category": "Animals",
-      "defname": "BiomesIslands_Gigantaconda",
-      "price": 700
-    },
-    {
-      "abr": "gigantacondaegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggGigantacondaFertilized",
-      "price": -10
-    },
-    {
-      "abr": "gigantacondameat",
-      "category": "Meat",
-      "defname": "Meat_BiomesIslands_Gigantaconda",
-      "price": 3
-    },
-    {
-      "abr": "grayshell",
-      "category": "Leathers",
-      "defname": "BMT_GrayChitin",
-      "price": 4
-    },
-    {
-      "abr": "greatwhiteshark",
-      "category": "Animals",
-      "defname": "BiomesIslands_WhiteShark",
-      "price": 2500
-    },
-    {
-      "abr": "greeneel",
-      "category": "Animals",
-      "defname": "BMT_GreenEel",
-      "price": 333
-    },
-    {
-      "abr": "greengecko",
-      "category": "Animals",
-      "defname": "BiomesIslands_GreenGecko",
-      "price": 333
-    },
-    {
-      "abr": "greengeckoegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggGreenGeckoFertilized",
-      "price": -10
-    },
-    {
-      "abr": "greengeckomeat",
-      "category": "Meat",
-      "defname": "Meat_BiomesIslands_GreenGecko",
-      "price": 3
-    },
-    {
-      "abr": "greenshell",
-      "category": "Leathers",
-      "defname": "BiomesCore_GreenChitin",
-      "price": 7
+      "abr": "flameturret",
+      "category": "Security",
+      "defname": "VFES_Turret_Flame",
+      "price": 958
     },
     {
       "abr": "growingbook",
@@ -9931,22 +9211,10 @@
       "price": 2258
     },
     {
-      "abr": "hammerheadshark",
-      "category": "Animals",
-      "defname": "BiomesIslands_Hammerhead",
-      "price": 1250
-    },
-    {
-      "abr": "hermitcrab",
-      "category": "Animals",
-      "defname": "BiomesIslands_HermitCrab",
-      "price": 183
-    },
-    {
-      "abr": "hermitcrabegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggHermitCrabFertilized",
-      "price": -10
+      "abr": "heavyturret",
+      "category": "Security",
+      "defname": "Turret_HeavyTurret",
+      "price": 2075
     },
     {
       "abr": "intellectualbook",
@@ -9955,76 +9223,10 @@
       "price": 2258
     },
     {
-      "abr": "kelpbed",
-      "category": "Furniture",
-      "defname": "BiomesIslands_AquaticKelpBed",
-      "price": 119
-    },
-    {
-      "abr": "kiwi",
-      "category": "Animals",
-      "defname": "BiomesIslands_KiwiBird",
-      "price": 133
-    },
-    {
-      "abr": "kiwiegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggKiwiFertilized",
-      "price": -10
-    },
-    {
-      "abr": "kiwimeat",
-      "category": "Meat",
-      "defname": "Meat_BiomesIslands_KiwiBird",
-      "price": 3
-    },
-    {
-      "abr": "komododragon",
-      "category": "Animals",
-      "defname": "BMT_KomodoDragon",
-      "price": 450
-    },
-    {
-      "abr": "komododragonegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_EggKomodoDragonFertilized",
-      "price": -10
-    },
-    {
-      "abr": "komododragonmeat",
-      "category": "Meat",
-      "defname": "Meat_BMT_KomodoDragon",
-      "price": 3
-    },
-    {
-      "abr": "leatherbackturtle",
-      "category": "Animals",
-      "defname": "BiomesIslands_LeatherbackTurtle",
-      "price": 750
-    },
-    {
-      "abr": "leatherbackturtleegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggLeatherbackTurtleFertilized",
-      "price": -10
-    },
-    {
-      "abr": "limepeelangelfish",
-      "category": "Animals",
-      "defname": "BiomesIslands_LimepeelAngelfish",
-      "price": 25
-    },
-    {
-      "abr": "limepeelangelfishegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "EggLimepeelAngelfishFertilized",
-      "price": -10
-    },
-    {
-      "abr": "mantaray",
-      "category": "Animals",
-      "defname": "BiomesIslands_MantaRay",
-      "price": 2500
+      "abr": "landmine",
+      "category": "Security",
+      "defname": "VFES_Landmine",
+      "price": 261
     },
     {
       "abr": "map",
@@ -10033,40 +9235,10 @@
       "price": 1333
     },
     {
-      "abr": "marineiguana",
-      "category": "Animals",
-      "defname": "BiomesIslands_MarineIguana",
-      "price": 200
-    },
-    {
-      "abr": "marineiguanaegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggMarineIguanaFertilized",
-      "price": -10
-    },
-    {
-      "abr": "marineiguanameat",
-      "category": "Meat",
-      "defname": "Meat_BiomesIslands_MarineIguana",
-      "price": 3
-    },
-    {
       "abr": "medicalbook",
       "category": "Books",
       "defname": "VBE_BookMedical",
       "price": 2258
-    },
-    {
-      "abr": "megamantis",
-      "category": "Animals",
-      "defname": "BiomesIslands_Megamantis",
-      "price": 167
-    },
-    {
-      "abr": "megamantisegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggMegamantisFertilized",
-      "price": -10
     },
     {
       "abr": "meleebook",
@@ -10075,28 +9247,16 @@
       "price": 2258
     },
     {
+      "abr": "militaryturret",
+      "category": "Security",
+      "defname": "VFES_Turret_MilitaryTurret",
+      "price": 842
+    },
+    {
       "abr": "miningbook",
       "category": "Books",
       "defname": "VBE_BookMining",
       "price": 2258
-    },
-    {
-      "abr": "molluskshell",
-      "category": "Leathers",
-      "defname": "BMT_Molluskshell",
-      "price": 6
-    },
-    {
-      "abr": "muckfrill",
-      "category": "Animals",
-      "defname": "BMT_Muckfrill",
-      "price": 25
-    },
-    {
-      "abr": "muckfrillegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_EggMuckfrillFertilized",
-      "price": -10
     },
     {
       "abr": "newspaper",
@@ -10105,184 +9265,22 @@
       "price": 33
     },
     {
-      "abr": "obsidianfin",
-      "category": "Animals",
-      "defname": "BMT_Obsidianfin",
-      "price": 25
+      "abr": "psychicpylon",
+      "category": "Special",
+      "defname": "VFES_PsychicPylon",
+      "price": 2167
     },
     {
-      "abr": "obsidianfinegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_EggObsidianfinFertilized",
-      "price": -10
+      "abr": "searchlight",
+      "category": "Security",
+      "defname": "VFES_Turret_Searchlight",
+      "price": 475
     },
     {
-      "abr": "omegadodo",
-      "category": "Animals",
-      "defname": "BiomesIslands_OmegaDodo",
-      "price": 667
-    },
-    {
-      "abr": "omegadodoegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggOmegaDodoFertilized",
-      "price": -10
-    },
-    {
-      "abr": "omegadodoegg(unfert.)",
-      "category": "Eggs (unfert.)",
-      "defname": "BiomesIslands_EggOmegaDodoUnfertilized",
-      "price": 83
-    },
-    {
-      "abr": "omegadodomeat",
-      "category": "Meat",
-      "defname": "Meat_BiomesIslands_OmegaDodo",
-      "price": 3
-    },
-    {
-      "abr": "orangepeelangelfish",
-      "category": "Animals",
-      "defname": "BMT_OrangepeelAngelfish",
-      "price": 25
-    },
-    {
-      "abr": "orangepeelangelfishegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_EggOrangepeelAngelfishFertilized",
-      "price": -10
-    },
-    {
-      "abr": "orchidbasslet",
-      "category": "Animals",
-      "defname": "BMT_OrchidBasslet",
-      "price": 25
-    },
-    {
-      "abr": "orchidbassletegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_EggOrchidBassletFertilized",
-      "price": -10
-    },
-    {
-      "abr": "parrotfish",
-      "category": "Animals",
-      "defname": "BMT_Parrotfish",
-      "price": 200
-    },
-    {
-      "abr": "parrotfishegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_EggParrotfishFertilized",
-      "price": -10
-    },
-    {
-      "abr": "phoebaniarat",
-      "category": "Animals",
-      "defname": "BiomesIslands_PhoebaniaRat",
-      "price": 58
-    },
-    {
-      "abr": "redsnapper",
-      "category": "Animals",
-      "defname": "BiomesIslands_RedSnapper",
-      "price": 500
-    },
-    {
-      "abr": "redsnapperegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggRedSnapperFertilized",
-      "price": -10
-    },
-    {
-      "abr": "rimcrab",
-      "category": "Animals",
-      "defname": "BiomesIslands_RimCrab",
-      "price": 183
-    },
-    {
-      "abr": "rimcrabegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggRimCrabFertilized",
-      "price": -10
-    },
-    {
-      "abr": "sardine",
-      "category": "Animals",
-      "defname": "BiomesIslands_Sardine",
-      "price": 25
-    },
-    {
-      "abr": "sardineegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "EggSardineFertilized",
-      "price": -10
-    },
-    {
-      "abr": "seaotter",
-      "category": "Animals",
-      "defname": "BMT_SeaOtter",
-      "price": 417
-    },
-    {
-      "abr": "seaottermeat",
-      "category": "Meat",
-      "defname": "Meat_BMT_SeaOtter",
-      "price": 3
-    },
-    {
-      "abr": "seasnail",
-      "category": "Animals",
-      "defname": "BiomesIslands_BlueSeaSnail",
-      "price": 167
-    },
-    {
-      "abr": "seaturtle",
-      "category": "Animals",
-      "defname": "BiomesIslands_SeaTurtle",
-      "price": 1250
-    },
-    {
-      "abr": "seaturtleegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggSeaTurtleFertilized",
-      "price": -10
-    },
-    {
-      "abr": "seaturtlemeat",
-      "category": "Meat",
-      "defname": "Meat_BiomesIslands_SeaTurtle",
-      "price": 3
-    },
-    {
-      "abr": "seagull",
-      "category": "Animals",
-      "defname": "BiomesIslands_Seagull",
-      "price": 158
-    },
-    {
-      "abr": "seagullegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggSeagullFertilized",
-      "price": -10
-    },
-    {
-      "abr": "seagullmeat",
-      "category": "Meat",
-      "defname": "Meat_BiomesIslands_Seagull",
-      "price": 3
-    },
-    {
-      "abr": "sharkskin",
-      "category": "Leathers",
-      "defname": "BiomesIslands_Leather_Sharkskin",
-      "price": 9
-    },
-    {
-      "abr": "shetlandpony",
-      "category": "Animals",
-      "defname": "BiomesIslands_ShetlandPony",
-      "price": 917
+      "abr": "sentrygun",
+      "category": "Security",
+      "defname": "VFES_Turret_SentryGun",
+      "price": 1058
     },
     {
       "abr": "shootingbook",
@@ -10291,10 +9289,22 @@
       "price": 2258
     },
     {
-      "abr": "snailmeat",
-      "category": "Meat",
-      "defname": "Meat_BiomesIslands_BlueSeaSnail",
-      "price": 3
+      "abr": "shredderturret",
+      "category": "Security",
+      "defname": "Turret_ShredderTurret",
+      "price": 725
+    },
+    {
+      "abr": "smallshieldgenerator",
+      "category": "Security",
+      "defname": "VFES_ShieldGenerator_Small",
+      "price": 3983
+    },
+    {
+      "abr": "sniperturret",
+      "category": "Security",
+      "defname": "Turret_SniperTurret",
+      "price": 1075
     },
     {
       "abr": "socialbook",
@@ -10303,112 +9313,22 @@
       "price": 2258
     },
     {
-      "abr": "spineappleslices",
-      "category": "Vegetarian",
-      "defname": "BiomesIslands_Pineapples",
-      "price": 5
+      "abr": "standardturret",
+      "category": "Security",
+      "defname": "Turret_StandardTurret",
+      "price": 900
     },
     {
-      "abr": "sraf:canary",
-      "category": "Buildings",
-      "defname": "SRAF",
-      "price": 20258
+      "abr": "stunningturret",
+      "category": "Security",
+      "defname": "Turret_StunningTurret",
+      "price": 450
     },
     {
-      "abr": "sraf:tek-7",
-      "category": "Buildings",
-      "defname": "SRAFTek",
-      "price": 31292
-    },
-    {
-      "abr": "srtsmk.i:skip",
-      "category": "Buildings",
-      "defname": "SRTSSkip",
-      "price": 9150
-    },
-    {
-      "abr": "srtsmk.ii:albatross",
-      "category": "Buildings",
-      "defname": "SRTSMkII",
-      "price": 29875
-    },
-    {
-      "abr": "srtsmk.iii:phoenix",
-      "category": "Buildings",
-      "defname": "SRTSMkIII",
-      "price": 52792
-    },
-    {
-      "abr": "srtsmk.iiip:pelican",
-      "category": "Buildings",
-      "defname": "SRTSMkIIIp",
-      "price": 61100
-    },
-    {
-      "abr": "srtsmk.iv:genesis",
-      "category": "Buildings",
-      "defname": "SRTSMkIV",
-      "price": 218617
-    },
-    {
-      "abr": "sugarbananas",
-      "category": "Vegetarian",
-      "defname": "BiomesIslands_Bananas",
-      "price": 2
-    },
-    {
-      "abr": "sunfinangelfish",
-      "category": "Animals",
-      "defname": "BMT_SunfinAngelfish",
-      "price": 25
-    },
-    {
-      "abr": "sunfinangelfishegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_EggSunfinAngelfishFertilized",
-      "price": -10
-    },
-    {
-      "abr": "superpod",
-      "category": "Buildings",
-      "defname": "SRTSSuperpod",
-      "price": 6958
-    },
-    {
-      "abr": "techprint(towncharterrulesfragment1)",
-      "category": "Techprints",
-      "defname": "Techprint_EndGame_PreRequirements_PartOne",
-      "price": 2500
-    },
-    {
-      "abr": "techprint(towncharterrulesfragment2)",
-      "category": "Techprints",
-      "defname": "Techprint_EndGame_PreRequirements_PartTwo",
-      "price": 2500
-    },
-    {
-      "abr": "trout",
-      "category": "Animals",
-      "defname": "BiomesIslands_Trout",
-      "price": 200
-    },
-    {
-      "abr": "troutegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggTroutFertilized",
-      "price": -10
-    },
-    {
-      "abr": "tuna",
-      "category": "Animals",
-      "defname": "BiomesIslands_Tuna",
-      "price": 500
-    },
-    {
-      "abr": "tunaegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggTunaFertilized",
-      "price": -10
+      "abr": "tazingturret",
+      "category": "Security",
+      "defname": "Turret_TazingTurret",
+      "price": 633
     },
     {
       "abr": "typewritertable",
@@ -10417,23 +9337,11 @@
       "price": 342
     },
     {
-      "abr": "whale",
-      "category": "Animals",
-      "defname": "BiomesIslands_Whale",
-      "price": 3000
-    },
-    {
-      "abr": "whaleskin",
-      "category": "Leathers",
-      "defname": "BiomesIslands_Leather_Whaleskin",
-      "price": 7
-    },
-    {
       "abr": "writerstable",
       "category": "Production",
       "defname": "VBE_WritersTable",
       "price": 252
     }
   ],
-  "total": 1739
+  "total": 1557
 }

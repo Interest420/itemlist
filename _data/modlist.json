@@ -12,12 +12,6 @@
     "version": "3.3.0.0"
   },
   {
-    "author": "Neceros",
-    "name": "SRTS Expanded",
-    "steamId": "1845423808",
-    "version": "1.4.6"
-  },
-  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -42,12 +36,6 @@
     "version": "1.3.7862.41411"
   },
   {
-    "author": "Ekksu / Xen / Cucumpear / Thirite / Whizzard / Lindseyrie / Walking Problem",
-    "name": "Animal Collab Project Vanilla-Style",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Dyrewulfe",
     "name": "Better Message Placement (Continued)",
     "steamId": null,
@@ -58,18 +46,6 @@
     "name": "Better ModMismatch Window",
     "steamId": "1872244972",
     "version": "1.1.3"
-  },
-  {
-    "author": "The Biomes Mod Team",
-    "name": "Biomes! Core",
-    "steamId": "2038000893",
-    "version": "1.3.60.5"
-  },
-  {
-    "author": "The Biomes Mod Team",
-    "name": "Biomes! Islands",
-    "steamId": "2038001322",
-    "version": "1.3.1.2"
   },
   {
     "author": "DerekBickley",
@@ -93,17 +69,17 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.1.48"
+    "version": "1.0.8202.5514"
   },
   {
     "author": "miyamiya",
     "name": "Compressed Raid",
     "steamId": "2377478084",
-    "version": "1.3.2"
+    "version": "1.4"
   },
   {
     "author": "Spdskatr and  CaesarV6",
-    "name": "Damage Indicators [1.3]",
+    "name": "Damage Indicators [1.4]",
     "steamId": "2016331497",
     "version": "1.0.0.0"
   },
@@ -135,19 +111,13 @@
     "author": "Krypt",
     "name": "Grouped Pawns Lists",
     "steamId": "2340773428",
-    "version": "1.0.0.0"
+    "version": "1.0.0"
   },
   {
-    "author": "brucethemoose",
-    "name": "Hybrid Storytellers",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Jaxe",
-    "name": "Interaction Bubbles",
-    "steamId": "1516158345",
-    "version": "2.4.0.0"
+    "author": "Jaxe and  Scherub",
+    "name": "Interaction Bubbles [1.3]",
+    "steamId": "2553619439",
+    "version": "1.8.0.0"
   },
   {
     "author": "キャデグ",
@@ -165,7 +135,7 @@
     "author": "jecrell and contributors",
     "name": "JecsTools",
     "steamId": "932008009",
-    "version": "1.3.0.4"
+    "version": "1.4.1.1"
   },
   {
     "author": "Torann",
@@ -192,12 +162,6 @@
     "version": "1.0.0.2"
   },
   {
-    "author": "Haplo",
-    "name": "Misc. Endgame",
-    "steamId": "1750618143",
-    "version": "1.4.0"
-  },
-  {
     "author": "erdelf",
     "name": "Humanoid Alien Races",
     "steamId": "839005762",
@@ -210,10 +174,16 @@
     "version": null
   },
   {
+    "author": "Zylle",
+    "name": "More Vanilla Biomes",
+    "steamId": "1931453053",
+    "version": "0.1.5.01"
+  },
+  {
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
-    "version": "1.4.0.1"
+    "version": "1.4.0.6"
   },
   {
     "author": "Netrve",
@@ -315,7 +285,7 @@
     "author": "Garethp",
     "name": "Replace Stuff Mod Compatibility",
     "steamId": "2642161586",
-    "version": "0.0.0.0"
+    "version": "1.14.0"
   },
   {
     "author": "VinaLx",
@@ -330,20 +300,14 @@
     "version": null
   },
   {
-    "author": "ruPal",
-    "name": "RimPy Mod Manager Database",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "aRandomKiwi",
     "name": "RimSaves",
     "steamId": "1713367505",
     "version": "2020.0.1.13"
   },
   {
-    "author": "Trinity",
-    "name": "RuntimeGC [1.3]",
+    "author": "user19990313 and  Trinity",
+    "name": "RuntimeGC [1.4]",
     "steamId": "2559582557",
     "version": "0.1.0.0"
   },
@@ -360,10 +324,10 @@
     "version": null
   },
   {
-    "author": "Scotty and  Taranchuk",
-    "name": "Sexuality Traits",
-    "steamId": "2589673154",
-    "version": "1.0.0.0"
+    "author": "Neceros / DWs(Continue)",
+    "name": "Simple Turrets",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "denev",
@@ -390,10 +354,10 @@
     "version": null
   },
   {
-    "author": "Fishbrains",
-    "name": "TechBlock",
-    "steamId": "1970774610",
-    "version": "1.0.0.0"
+    "author": "void",
+    "name": "Terraform Rimworld",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "hodlhodl",
@@ -426,12 +390,6 @@
     "version": "6.2.1.3"
   },
   {
-    "author": "eatKenny and leafzxg，DWs（temporary）",
-    "name": "Turret Collection (Unofficial)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "hodlhodl",
     "name": "TwitchToolkit - Lootboxes",
     "steamId": "1720021578",
@@ -456,10 +414,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki and  Taranchuk",
-    "name": "Vanilla Trading Expanded",
-    "steamId": "2785616901",
-    "version": "1.0.0.0"
+    "author": "Oskar Potocki and  Kikohi",
+    "name": "Vanilla Storytellers Expanded - Winston Waves",
+    "steamId": "2734032569",
+    "version": "1.0.2.2"
   },
   {
     "author": "Murmur",
@@ -480,6 +438,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki,  Trunken and  XeoNovaDan",
+    "name": "Vanilla Furniture Expanded - Security",
+    "steamId": "1845154007",
+    "version": "1.1.1.0"
+  },
+  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Complex Jobs",
     "steamId": null,
@@ -492,14 +456,14 @@
     "version": "1.1.0.0"
   },
   {
-    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
-    "name": "[KV] More Trait Slots",
-    "steamId": "1508292711",
+    "author": "Rainbeau Flambe (original),  Kiame Vivacity and  Taranchuk",
+    "name": "[KV] More Trait Slots [1.4]",
+    "steamId": "",
     "version": "1.0.7862.37403"
   },
   {
-    "author": "Kiame Vivacity",
-    "name": "[KV] Save Storage, Outfit, Crafting, Drug, & Operation Settings",
+    "author": "Kiame Vivacity and  Taranchuk",
+    "name": "[KV] Save Storage, Outfit, Crafting, Drug, & Operation Settings [1.4]",
     "steamId": null,
     "version": null
   },
