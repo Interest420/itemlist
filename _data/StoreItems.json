@@ -9163,18 +9163,6 @@
       "price": 296
     },
     {
-      "abr": "concussiveturret",
-      "category": "Security",
-      "defname": "Turret_ConcussiveTurret",
-      "price": 3100
-    },
-    {
-      "abr": "deathsuperacidifier",
-      "category": "Bionic",
-      "defname": "VESWW_DeathSuperAcidifier",
-      "price": 1500
-    },
-    {
       "abr": "decoy",
       "category": "Security",
       "defname": "VFES_Turret_Decoy",
@@ -9187,18 +9175,6 @@
       "price": 983
     },
     {
-      "abr": "empturret",
-      "category": "Security",
-      "defname": "Turret_STEMPTurret",
-      "price": 3433
-    },
-    {
-      "abr": "energyturret",
-      "category": "Security",
-      "defname": "Turret_EnergyTurret",
-      "price": 2675
-    },
-    {
       "abr": "flameturret",
       "category": "Security",
       "defname": "VFES_Turret_Flame",
@@ -9209,12 +9185,6 @@
       "category": "Books",
       "defname": "VBE_BookGrowing",
       "price": 2258
-    },
-    {
-      "abr": "heavyturret",
-      "category": "Security",
-      "defname": "Turret_HeavyTurret",
-      "price": 2075
     },
     {
       "abr": "intellectualbook",
@@ -9289,46 +9259,16 @@
       "price": 2258
     },
     {
-      "abr": "shredderturret",
-      "category": "Security",
-      "defname": "Turret_ShredderTurret",
-      "price": 725
-    },
-    {
       "abr": "smallshieldgenerator",
       "category": "Security",
       "defname": "VFES_ShieldGenerator_Small",
       "price": 3983
     },
     {
-      "abr": "sniperturret",
-      "category": "Security",
-      "defname": "Turret_SniperTurret",
-      "price": 1075
-    },
-    {
       "abr": "socialbook",
       "category": "Books",
       "defname": "VBE_BookSocial",
       "price": 2258
-    },
-    {
-      "abr": "standardturret",
-      "category": "Security",
-      "defname": "Turret_StandardTurret",
-      "price": 900
-    },
-    {
-      "abr": "stunningturret",
-      "category": "Security",
-      "defname": "Turret_StunningTurret",
-      "price": 450
-    },
-    {
-      "abr": "tazingturret",
-      "category": "Security",
-      "defname": "Turret_TazingTurret",
-      "price": 633
     },
     {
       "abr": "typewritertable",
@@ -9341,7 +9281,109 @@
       "category": "Production",
       "defname": "VBE_WritersTable",
       "price": 252
+    },
+    {
+      "abr": "fieldresearchanalyzer-kit",
+      "category": "Utility",
+      "defname": "RR_FieldResearchKitMultiAnalyzer",
+      "price": 270
+    },
+    {
+      "abr": "fieldresearchkit",
+      "category": "Utility",
+      "defname": "RR_FieldResearchKitHiTech",
+      "price": 129
+    },
+    {
+      "abr": "remotefieldresearchkit",
+      "category": "Utility",
+      "defname": "RR_FieldResearchKitRemote",
+      "price": 642
+    },
+    {
+      "abr": "simplefieldresearchkit",
+      "category": "Utility",
+      "defname": "RR_FieldResearchKitSimple",
+      "price": 58
+    },
+    {
+      "abr": "zombieextract",
+      "category": "Serum",
+      "defname": "ZombieExtract",
+      "price": 17
+    },
+    {
+      "abr": "zombiemeat",
+      "category": "Meat",
+      "defname": "Meat_Zombie",
+      "price": 3
+    },
+    {
+      "abr": "zombieserum10%",
+      "category": "Serum",
+      "defname": "Zombie10Serum",
+      "price": 200
+    },
+    {
+      "abr": "zombieserum100%",
+      "category": "Serum",
+      "defname": "ZombieSerumSimple",
+      "price": 200
+    },
+    {
+      "abr": "zombieserum100%",
+      "category": "Serum",
+      "defname": "Zombie100Serum",
+      "price": 2000
+    },
+    {
+      "abr": "zombieserum20%",
+      "category": "Serum",
+      "defname": "Zombie20Serum",
+      "price": 400
+    },
+    {
+      "abr": "zombieserum30%",
+      "category": "Serum",
+      "defname": "Zombie30Serum",
+      "price": 600
+    },
+    {
+      "abr": "zombieserum40%",
+      "category": "Serum",
+      "defname": "Zombie40Serum",
+      "price": 800
+    },
+    {
+      "abr": "zombieserum50%",
+      "category": "Serum",
+      "defname": "Zombie50Serum",
+      "price": 1000
+    },
+    {
+      "abr": "zombieserum60%",
+      "category": "Serum",
+      "defname": "Zombie60Serum",
+      "price": 1200
+    },
+    {
+      "abr": "zombieserum70%",
+      "category": "Serum",
+      "defname": "Zombie70Serum",
+      "price": 1400
+    },
+    {
+      "abr": "zombieserum80%",
+      "category": "Serum",
+      "defname": "Zombie80Serum",
+      "price": 1600
+    },
+    {
+      "abr": "zombieserum90%",
+      "category": "Serum",
+      "defname": "Zombie90Serum",
+      "price": 1800
     }
   ],
-  "total": 1557
+  "total": 1564
 }
