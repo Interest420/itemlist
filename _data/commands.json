@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "data": {
       "isShortcut": false,
@@ -358,6 +358,24 @@
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "MyPawnClass"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
+    "name": "Ability level",
+    "usage": "!abilitylevel",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "AbilityLevel"
   },
   {
     "data": {
@@ -1050,6 +1068,24 @@
       "isBalance": false,
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
+      "hasLocalCooldown": true,
+      "localCooldown": 60,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Makes your pawn insult a random pawn. If a viewer is specified, you'll insult them instead.",
+    "name": "Insult",
+    "usage": "!insult [target]",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "Insult"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
       "mod": "ToolkitUtils"
@@ -1060,6 +1096,42 @@
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "Chat"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": true,
+      "localCooldown": 180,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Makes your pawn flirt with a random pawn. If a viewer is specified, you'll flirt with their pawn instead.",
+    "name": "Flirt",
+    "usage": "!flirt [target]",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "Flirt"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": true,
+      "localCooldown": 60,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Makes your pawn have a deep chat a random pawn. If a viewer is specified, you'll have a deep chat with their pawn instead.",
+    "name": "Deep chat",
+    "usage": "!deepchat [target]",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "DeepChat"
   },
   {
     "data": {
@@ -1140,80 +1212,8 @@
       "isBalance": false,
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Ability level",
-    "usage": "!abilitylevel",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "AbilityLevel"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
       "hasLocalCooldown": true,
-      "localCooldown": 120,
-      "mod": "ToolkitUtils"
-    },
-    "description": "Makes your pawn insult a random pawn. If a viewer is specified, you'll insult them instead.",
-    "name": "Insult",
-    "usage": "!insult [target]",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "Insult"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": true,
-      "localCooldown": 300,
-      "mod": "ToolkitUtils"
-    },
-    "description": "Makes your pawn flirt with a random pawn. If a viewer is specified, you'll flirt with their pawn instead.",
-    "name": "Flirt",
-    "usage": "!flirt [target]",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "Flirt"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": true,
-      "localCooldown": 120,
-      "mod": "ToolkitUtils"
-    },
-    "description": "Makes your pawn have a deep chat a random pawn. If a viewer is specified, you'll have a deep chat with their pawn instead.",
-    "name": "Deep chat",
-    "usage": "!deepchat [target]",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "DeepChat"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": true,
-      "localCooldown": 600,
+      "localCooldown": 900,
       "mod": "ToolkitUtils"
     },
     "description": null,
@@ -1231,7 +1231,7 @@
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
       "hasLocalCooldown": true,
-      "localCooldown": 600,
+      "localCooldown": 900,
       "mod": "ToolkitUtils"
     },
     "description": null,
