@@ -1,6 +1,11 @@
 {
 	"incitems" : [
 	{
+		"abr": "tornado",
+		"price": 2500,
+		"karmatype": "Doom"
+	},
+	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -38,7 +43,7 @@
 	{
 		"abr": "snowhard",
 		"price": 450,
-		"karmatype": "Bad"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "fog",
@@ -63,7 +68,7 @@
 	{
 		"abr": "solarflare",
 		"price": 500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "shortcircuit",
@@ -73,22 +78,17 @@
 	{
 		"abr": "toxicfallout",
 		"price": 7500,
-		"karmatype": "Doom"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 3000,
+		"price": 3200,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "eclipse",
 		"price": 450,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "aurora",
-		"price": 200,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "blight",
@@ -107,12 +107,12 @@
 	},
 	{
 		"abr": "tradercaravan",
-		"price": 750,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "orbitaltraderarrival",
-		"price": 1000,
+		"price": 750,
 		"karmatype": "Good"
 	},
 	{
@@ -141,11 +141,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "herdmigration",
-		"price": 500,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "farmanimals",
 		"price": 400,
 		"karmatype": "Good"
@@ -162,7 +157,7 @@
 	},
 	{
 		"abr": "travelergroup",
-		"price": 100,
+		"price": 80,
 		"karmatype": "Good"
 	},
 	{
@@ -177,7 +172,7 @@
 	},
 	{
 		"abr": "party",
-		"price": 500,
+		"price": 400,
 		"karmatype": "Good"
 	},
 	{
@@ -187,17 +182,17 @@
 	},
 	{
 		"abr": "shippartpoison",
-		"price": 2000,
+		"price": 1900,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shippartpsychic",
-		"price": 2500,
+		"price": 2400,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "militaryaid",
-		"price": 3000,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
@@ -272,7 +267,7 @@
 	},
 	{
 		"abr": "genderswap",
-		"price": 100,
+		"price": 600,
 		"karmatype": "Neutral"
 	},
 	{
@@ -297,7 +292,7 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 20000,
+		"price": 25000,
 		"karmatype": "Good"
 	},
 	{
@@ -307,28 +302,28 @@
 	},
 	{
 		"abr": "healall",
-		"price": 7500,
+		"price": 10000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healanypawn",
-		"price": 1000,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healme",
-		"price": 1000,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "surgery",
 		"price": 1,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "passionshuffle",
 		"price": 2000,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "replacetrait",
@@ -342,12 +337,12 @@
 	},
 	{
 		"abr": "fullheal",
-		"price": 1000,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "passion",
-		"price": 5000,
+		"price": 7000,
 		"karmatype": "Good"
 	},
 	{
@@ -401,5 +396,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 80
+	"total": 79
 }

@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "data": {
       "isShortcut": false,
@@ -340,42 +340,6 @@
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "InstalledMods"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Viewer class",
-    "usage": "!mypawnclass",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "MyPawnClass"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Ability level",
-    "usage": "!abilitylevel",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "AbilityLevel"
   },
   {
     "data": {
@@ -1069,7 +1033,7 @@
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
       "hasLocalCooldown": true,
-      "localCooldown": 60,
+      "localCooldown": 150,
       "mod": "ToolkitUtils"
     },
     "description": "Makes your pawn insult a random pawn. If a viewer is specified, you'll insult them instead.",
@@ -1105,7 +1069,7 @@
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
       "hasLocalCooldown": true,
-      "localCooldown": 180,
+      "localCooldown": 300,
       "mod": "ToolkitUtils"
     },
     "description": "Makes your pawn flirt with a random pawn. If a viewer is specified, you'll flirt with their pawn instead.",
@@ -1123,7 +1087,7 @@
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
       "hasLocalCooldown": true,
-      "localCooldown": 60,
+      "localCooldown": 150,
       "mod": "ToolkitUtils"
     },
     "description": "Makes your pawn have a deep chat a random pawn. If a viewer is specified, you'll have a deep chat with their pawn instead.",
@@ -1213,7 +1177,7 @@
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
       "hasLocalCooldown": true,
-      "localCooldown": 900,
+      "localCooldown": 600,
       "mod": "ToolkitUtils"
     },
     "description": null,
@@ -1230,8 +1194,8 @@
       "isBalance": false,
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
-      "hasLocalCooldown": true,
-      "localCooldown": 900,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
     "description": null,
