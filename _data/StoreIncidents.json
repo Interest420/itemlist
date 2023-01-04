@@ -1,6 +1,11 @@
 {
 	"incitems" : [
 	{
+		"abr": "tornado",
+		"price": 2500,
+		"karmatype": "Doom"
+	},
+	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -118,7 +123,7 @@
 	{
 		"abr": "madanimal",
 		"price": 200,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "psychicdrone",
@@ -391,5 +396,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 78
+	"total": 79
 }
