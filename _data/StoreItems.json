@@ -958,7 +958,7 @@
       "abr": "hay",
       "category": "Foods",
       "defname": "Hay",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "hops",
@@ -3118,7 +3118,7 @@
       "abr": "hay(ammoniatreated)",
       "category": "Foods",
       "defname": "AYAmmoniaHay",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "calciumcarbonate",
@@ -3214,103 +3214,103 @@
       "abr": "aloeoil",
       "category": "Oil Extracts",
       "defname": "AYAloeOil",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "henbaneoil",
       "category": "Oil Extracts",
       "defname": "AYHenbaneOil",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "lavenderoil",
       "category": "Oil Extracts",
       "defname": "AYLavenderOil",
-      "price": 13
+      "price": -10
     },
     {
       "abr": "staraniseoil",
       "category": "Oil Extracts",
       "defname": "AYStarAniseOil",
-      "price": 13
+      "price": -10
     },
     {
       "abr": "stjohnswortoil",
       "category": "Oil Extracts",
       "defname": "AYStJohnsWortOil",
-      "price": 13
+      "price": -10
     },
     {
       "abr": "wormwoodoil",
       "category": "Oil Extracts",
       "defname": "AYWormwoodOil",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "yarrowoil",
       "category": "Oil Extracts",
       "defname": "AYYarrowOil",
-      "price": 9
+      "price": -10
     },
     {
       "abr": "cinchonapowder",
       "category": "Powders",
       "defname": "AYCinchonaPowder",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "garlicpowder",
       "category": "Powders",
       "defname": "AYGarlicPowder",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "gingerpowder",
       "category": "Powders",
       "defname": "AYGingerPowder",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ginkgopowder",
       "category": "Powders",
       "defname": "AYGinkgoPowder",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ginsengpowder",
       "category": "Powders",
       "defname": "AYGinsengPowder",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "henbanepowder",
       "category": "Powders",
       "defname": "AYHenbanePowder",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "kalepowder",
       "category": "Powders",
       "defname": "AYKalePowder",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "nettlepowder",
       "category": "Powders",
       "defname": "AYNettlePowder",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "turmericpowder",
       "category": "Powders",
       "defname": "AYTurmericPowder",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "whitewillowpowder",
       "category": "Powders",
       "defname": "AYWhiteWillowPowder",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "nettlehemp",
@@ -4735,12 +4735,6 @@
       "price": 1250
     },
     {
-      "abr": "zombrella",
-      "category": "Misc",
-      "defname": "Zombrella",
-      "price": 3333
-    },
-    {
       "abr": "airwireheadset",
       "category": "Headgear",
       "defname": "Apparel_AirwireHeadset",
@@ -5161,5 +5155,5 @@
       "price": 167
     }
   ],
-  "total": 860
+  "total": 859
 }
