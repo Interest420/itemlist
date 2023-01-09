@@ -5008,7 +5008,7 @@
       "abr": "nanostructuringchip",
       "category": "Manufactured",
       "defname": "NanostructuringChip",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "ovum",
@@ -5032,7 +5032,7 @@
       "abr": "powerfocuschip",
       "category": "Manufactured",
       "defname": "PowerfocusChip",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "psychofluidpump",
@@ -5074,7 +5074,7 @@
       "abr": "signalchip",
       "category": "Manufactured",
       "defname": "SignalChip",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "standardsubcore",
