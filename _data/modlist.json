@@ -51,7 +51,7 @@
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
-    "version": "1.4.1235.0"
+    "version": "1.4.1240.0"
   },
   {
     "author": "avilmask",
@@ -228,12 +228,6 @@
     "version": "2022.0.1.14"
   },
   {
-    "author": "user19990313 and Trinity",
-    "name": "RuntimeGC [1.4]",
-    "steamId": "2559582557",
-    "version": "0.1.0.0"
-  },
-  {
     "author": "Roolo",
     "name": "Search and Destroy",
     "steamId": null,
@@ -273,7 +267,13 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.3.0.0.biotech.B4"
+    "version": "6.3.0.0.biotech.b6"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes (Unofficial)",
+    "steamId": "1720021578",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
