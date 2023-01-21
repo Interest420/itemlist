@@ -1,11 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 2500,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -118,7 +113,7 @@
 	{
 		"abr": "madanimal",
 		"price": 200,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "psychicdrone",
@@ -313,7 +308,7 @@
 	{
 		"abr": "surgery",
 		"price": 1,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "passionshuffle",
@@ -342,7 +337,7 @@
 	},
 	{
 		"abr": "removepassion",
-		"price": 5000,
+		"price": 100,
 		"karmatype": "Neutral"
 	},
 	{
@@ -391,5 +386,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 78
+	"total": 77
 }
