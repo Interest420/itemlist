@@ -2003,8 +2003,8 @@
       "name": "unaffectedbydeath"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
