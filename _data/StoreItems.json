@@ -22,7 +22,7 @@
       "abr": "go-juice",
       "category": "Drugs",
       "defname": "GoJuice",
-      "price": 74
+      "price": 88
     },
     {
       "abr": "luciferium",
@@ -5224,67 +5224,67 @@
       "abr": "fighterskill:ashsatchel",
       "category": "Scrolls",
       "defname": "SkillOf_SmokeSatchel",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "fighterskill:burningfury",
       "category": "Scrolls",
       "defname": "SkillOf_BurningFury",
-      "price": -10
+      "price": 1583
     },
     {
       "abr": "fighterskill:evasiveleap",
       "category": "Scrolls",
       "defname": "SkillOf_EvasiveLeap",
-      "price": -10
+      "price": 1500
     },
     {
       "abr": "fighterskill:explosivesatchel",
       "category": "Scrolls",
       "defname": "SkillOf_BackupGrenade",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "fighterskill:fightersfocus",
       "category": "Scrolls",
       "defname": "SkillOf_FightersFocus",
-      "price": -10
+      "price": 1333
     },
     {
       "abr": "fighterskill:gearrepair",
       "category": "Scrolls",
       "defname": "SkillOf_GearRepair",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "fighterskill:glare",
       "category": "Scrolls",
       "defname": "SkillOf_Glare",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "fighterskill:heavyblow",
       "category": "Scrolls",
       "defname": "SkillOf_HeavyBlow",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "fighterskill:innerhealing",
       "category": "Scrolls",
       "defname": "SkillOf_InnerHealing",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "fighterskill:legion",
       "category": "Scrolls",
       "defname": "SkillOf_Legion",
-      "price": -10
+      "price": 1333
     },
     {
       "abr": "fighterskill:lightningsatchel",
       "category": "Scrolls",
       "defname": "SkillOf_EMPBomb",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "fighterskill:martialtraining",
@@ -5296,49 +5296,49 @@
       "abr": "fighterskill:pommelstrike",
       "category": "Scrolls",
       "defname": "SkillOf_PommelStrike",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "fighterskill:sprint",
       "category": "Scrolls",
       "defname": "SkillOf_Sprint",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "fighterskill:strongback",
       "category": "Scrolls",
       "defname": "SkillOf_StrongBack",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "fighterskill:taunt",
       "category": "Scrolls",
       "defname": "SkillOf_Taunt",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "fighterskill:tempeststrike",
       "category": "Scrolls",
       "defname": "SkillOf_TempestStrike",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "fighterskill:thickskin",
       "category": "Scrolls",
       "defname": "SkillOf_ThickSkin",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "fighterskill:throwingknife",
       "category": "Scrolls",
       "defname": "SkillOf_ThrowingKnife",
-      "price": -10
+      "price": 1583
     },
     {
       "abr": "fighterskill:vengeance",
       "category": "Scrolls",
       "defname": "SkillOf_Vengeance",
-      "price": -10
+      "price": 2333
     },
     {
       "abr": "firespell:cauterizewound",
@@ -6160,91 +6160,91 @@
       "abr": "magespell:arcanebolt",
       "category": "Scrolls",
       "defname": "SpellOf_ArcaneBolt",
-      "price": -10
+      "price": 950
     },
     {
       "abr": "magespell:blink",
       "category": "Scrolls",
       "defname": "SpellOf_Blink",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "magespell:blur",
       "category": "Scrolls",
       "defname": "SpellOf_Blur",
-      "price": -10
+      "price": 967
     },
     {
       "abr": "magespell:dirtdevil",
       "category": "Scrolls",
       "defname": "SpellOf_DirtDevil",
-      "price": -10
+      "price": 967
     },
     {
       "abr": "magespell:effulgence",
       "category": "Scrolls",
       "defname": "SpellOf_Effulgence",
-      "price": -10
+      "price": 2333
     },
     {
       "abr": "magespell:emp",
       "category": "Scrolls",
       "defname": "SpellOf_EMP",
-      "price": -10
+      "price": 967
     },
     {
       "abr": "magespell:erase",
       "category": "Scrolls",
       "defname": "SpellOf_Erase",
-      "price": -10
+      "price": 1333
     },
     {
       "abr": "magespell:extinguish",
       "category": "Scrolls",
       "defname": "SpellOf_Extinguish",
-      "price": -10
+      "price": 567
     },
     {
       "abr": "magespell:heal",
       "category": "Scrolls",
       "defname": "SpellOf_Heal",
-      "price": -10
+      "price": 767
     },
     {
       "abr": "magespell:ignite",
       "category": "Scrolls",
       "defname": "SpellOf_Ignite",
-      "price": -10
+      "price": 950
     },
     {
       "abr": "magespell:invisibility",
       "category": "Scrolls",
       "defname": "SpellOf_Invisibility",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "magespell:lightningtrap",
       "category": "Scrolls",
       "defname": "SpellOf_LightningTrap",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "magespell:magelight",
       "category": "Scrolls",
       "defname": "SpellOf_MageLight",
-      "price": -10
+      "price": 633
     },
     {
       "abr": "magespell:magiccooler",
       "category": "Scrolls",
       "defname": "SpellOf_Cooler",
-      "price": -10
+      "price": 633
     },
     {
       "abr": "magespell:magicheater",
       "category": "Scrolls",
       "defname": "SpellOf_Heater",
-      "price": -10
+      "price": 633
     },
     {
       "abr": "magespell:magictraining",
@@ -6256,73 +6256,73 @@
       "abr": "magespell:magicwardrobe",
       "category": "Scrolls",
       "defname": "SpellOf_MagicWardrobe",
-      "price": -10
+      "price": 2333
     },
     {
       "abr": "magespell:manashield",
       "category": "Scrolls",
       "defname": "SpellOf_ManaShield",
-      "price": -10
+      "price": 1600
     },
     {
       "abr": "magespell:powernode",
       "category": "Scrolls",
       "defname": "SpellOf_PowerNode",
-      "price": -10
+      "price": 1017
     },
     {
       "abr": "magespell:rain",
       "category": "Scrolls",
       "defname": "SpellOf_Rain",
-      "price": -10
+      "price": 433
     },
     {
       "abr": "magespell:siphonmana",
       "category": "Scrolls",
       "defname": "SpellOf_SiphonMana",
-      "price": -10
+      "price": 1267
     },
     {
       "abr": "magespell:smokecloud",
       "category": "Scrolls",
       "defname": "SpellOf_SmokeCloud",
-      "price": -10
+      "price": 700
     },
     {
       "abr": "magespell:snapfreeze",
       "category": "Scrolls",
       "defname": "SpellOf_SnapFreeze",
-      "price": -10
+      "price": 950
     },
     {
       "abr": "magespell:spellmending",
       "category": "Scrolls",
       "defname": "SpellOf_SpellMending",
-      "price": -10
+      "price": 1792
     },
     {
       "abr": "magespell:summonminion",
       "category": "Scrolls",
       "defname": "SpellOf_SummonMinion",
-      "price": -10
+      "price": 1750
     },
     {
       "abr": "magespell:sunlight",
       "category": "Scrolls",
       "defname": "SpellOf_Sunlight",
-      "price": -10
+      "price": 1117
     },
     {
       "abr": "magespell:teleport",
       "category": "Scrolls",
       "defname": "SpellOf_Teleport",
-      "price": -10
+      "price": 2200
     },
     {
       "abr": "magespell:transfermana",
       "category": "Scrolls",
       "defname": "SpellOf_TransferMana",
-      "price": -10
+      "price": 1267
     },
     {
       "abr": "maharalgolem",
@@ -7696,7 +7696,7 @@
       "abr": "syrrium",
       "category": "Drugs",
       "defname": "TM_Syrrium",
-      "price": 74
+      "price": 75
     },
     {
       "abr": "tallow",
