@@ -66,6 +66,12 @@
     "version": "1.4"
   },
   {
+    "author": "Pillowesque",
+    "name": "Custom Playstyle Presets",
+    "steamId": "2555720919",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Spdskatr and CaesarV6",
     "name": "Damage Indicators [1.4]",
     "steamId": "2016331497",
@@ -90,10 +96,10 @@
     "version": "3.1.0.1"
   },
   {
-    "author": "Telefonmast",
-    "name": "Graphics Settings+",
-    "steamId": "1678847247",
-    "version": "1.0.0"
+    "author": "m00nl1ght",
+    "name": "Geological Landforms",
+    "steamId": "2773943594",
+    "version": "1.5.2.0"
   },
   {
     "author": "Krypt",
@@ -120,10 +126,40 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
+    "version": "1.0.0"
+  },
+  {
+    "author": "jecrell and contributors",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.4.1.1"
+  },
+  {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.6.0.4"
+  },
+  {
+    "author": "Kure",
+    "name": "Kure's Rimworld of Magic Class Expansion Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Mlie",
     "name": "Less Arbitrary Surgery (Continued)",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Endgame",
+    "steamId": "1750618143",
+    "version": "1.4.0"
   },
   {
     "author": "erdelf",
@@ -144,10 +180,28 @@
     "version": "0.1.5.01"
   },
   {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.4.1.1"
+  },
+  {
+    "author": "Netrve",
+    "name": "Netrve's DeepStorage GUI",
+    "steamId": "2169841018",
+    "version": "1.4"
+  },
+  {
     "author": "Dave-EEs",
     "name": "No Random Relations",
     "steamId": "2583377522",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Vesper",
+    "name": "Not My Fault",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Mehni",
@@ -180,9 +234,21 @@
     "version": "1.0-20210719-030003"
   },
   {
+    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
+    "name": "Quarry",
+    "steamId": "2007576583",
+    "version": "2.0.0"
+  },
+  {
+    "author": "jeonggihun",
+    "name": "Quarry retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Sandy",
-    "name": "RPG Style Inventory",
-    "steamId": "1561221991",
+    "name": "RPG Style Inventory Revamped",
+    "steamId": "2478833213",
     "version": "1.0.0.0"
   },
   {
@@ -216,12 +282,6 @@
     "version": "1.4"
   },
   {
-    "author": "Jaxe",
-    "name": "RimHUD",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "aRandomKiwi",
     "name": "RimSaves",
     "steamId": "1713367505",
@@ -230,6 +290,12 @@
   {
     "author": "Roolo",
     "name": "Search and Destroy",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple Utilities: Fridge",
     "steamId": null,
     "version": null
   },
@@ -288,6 +354,12 @@
     "version": null
   },
   {
+    "author": "Jaxe",
+    "name": "RimHUD",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "legodude17 and Oskar Potocki",
     "name": "Vanilla Skills Expanded",
     "steamId": "2854967442",
@@ -304,6 +376,12 @@
     "name": "Windows",
     "steamId": "2571189146",
     "version": "1.4"
+  },
+  {
+    "author": "Roo",
+    "name": "Yuran race",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki and Taranchuk",
