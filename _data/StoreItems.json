@@ -5812,7 +5812,7 @@
       "abr": "hay(ammoniatreated)",
       "category": "Foods",
       "defname": "AYAmmoniaHay",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "heavybandolier",
