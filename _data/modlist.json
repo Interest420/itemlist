@@ -18,6 +18,18 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson and AFriend",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.4.8315.17730"
+  },
+  {
     "author": "pelador",
     "name": "Apothecary (Continued)",
     "steamId": "2195469123",
@@ -54,12 +66,6 @@
     "version": "1.4.1240.0"
   },
   {
-    "author": "avilmask",
-    "name": "Common Sense",
-    "steamId": "1561769193",
-    "version": "1.0.8391.36780"
-  },
-  {
     "author": "miyamiya",
     "name": "Compressed Raid",
     "steamId": "2377478084",
@@ -88,6 +94,12 @@
     "name": "Expectations Modifier",
     "steamId": "1904336011",
     "version": "3.1.0.1"
+  },
+  {
+    "author": "Lowli",
+    "name": "Gene Bank Plus",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "m00nl1ght",
@@ -148,12 +160,6 @@
     "name": "Less Arbitrary Surgery (Continued)",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Haplo",
-    "name": "Misc. Endgame",
-    "steamId": "1750618143",
-    "version": "1.4.0"
   },
   {
     "author": "erdelf",
@@ -336,9 +342,9 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded",
+    "steamId": "1914064942",
     "version": "1.0.0.0"
   },
   {
@@ -360,6 +366,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Trading Expanded",
+    "steamId": "2785616901",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Murmur",
     "name": "Wall Light",
     "steamId": "1423699208",
@@ -376,6 +388,12 @@
     "name": "Yuran race",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Zombieland",
+    "steamId": "928376710",
+    "version": "3.6.0.0"
   },
   {
     "author": "Oskar Potocki and Taranchuk",
