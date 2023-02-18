@@ -18,18 +18,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sarg Bjornson and AFriend",
-    "name": "Alpha Animals",
-    "steamId": "1541721856",
-    "version": "1.4.8315.17730"
-  },
-  {
     "author": "pelador",
     "name": "Apothecary (Continued)",
     "steamId": "2195469123",
@@ -64,6 +52,12 @@
     "name": "Character Editor",
     "steamId": "1874644848",
     "version": "1.4.1240.0"
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Compact Hediffs",
+    "steamId": "2031734067",
+    "version": "1.0.0.0"
   },
   {
     "author": "miyamiya",
@@ -158,6 +152,24 @@
   {
     "author": "Mlie",
     "name": "Less Arbitrary Surgery (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson and AFriend",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.4.8315.17730"
+  },
+  {
+    "author": "JonM0",
+    "name": "Medical System Expansion 2",
     "steamId": null,
     "version": null
   },
