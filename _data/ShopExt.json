@@ -5403,7 +5403,7 @@
       "name": "necromancer"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 15000,
       "removePrice": 1,
