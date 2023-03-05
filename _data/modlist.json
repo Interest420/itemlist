@@ -18,6 +18,18 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson and AFriend",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.4.8315.17730"
+  },
+  {
     "author": "pelador",
     "name": "Apothecary (Continued)",
     "steamId": "2195469123",
@@ -141,7 +153,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.6.0.4"
+    "version": "2.6.0.5"
   },
   {
     "author": "Kure",
@@ -152,24 +164,6 @@
   {
     "author": "Mlie",
     "name": "Less Arbitrary Surgery (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sarg Bjornson and AFriend",
-    "name": "Alpha Animals",
-    "steamId": "1541721856",
-    "version": "1.4.8315.17730"
-  },
-  {
-    "author": "JonM0",
-    "name": "Medical System Expansion 2",
     "steamId": null,
     "version": null
   },
@@ -250,6 +244,18 @@
     "name": "Pocket Sand",
     "steamId": "2226330302",
     "version": "1.0-20210719-030003"
+  },
+  {
+    "author": "iamrespawn",
+    "name": "Prosthetic No Missing Body Parts (Continued)",
+    "steamId": "2739055353",
+    "version": "1.4.1"
+  },
+  {
+    "author": "legodude17",
+    "name": "Quality Colors",
+    "steamId": "2420141361",
+    "version": "1.0.0.0"
   },
   {
     "author": "The White Crayon (Updated for 1.1 by Ogliss)",
