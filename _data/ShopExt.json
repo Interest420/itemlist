@@ -52173,8 +52173,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0,
       "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
       "stats": [],
@@ -52599,7 +52599,6 @@
         "stats": [
           "+60.00 Mass",
           "+150% Flammability",
-          "+220.00% Conversion power",
           "+$1200 Market value",
           "+4.70 Move speed",
           "+25.0C Maximum comfortable temperature",
@@ -52658,7 +52657,6 @@
         "stats": [
           "+52.00 Mass",
           "+150% Flammability",
-          "+220.00% Conversion power",
           "+$2800 Market value",
           "+4.75 Move speed",
           "+25.0C Maximum comfortable temperature",
@@ -52670,7 +52668,7 @@
           "+5 Leather amount",
           "+80% Pain shock threshold",
           "+135% Psychic sensitivity",
-          "+30% Mental break threshold",
+          "+25% Mental break threshold",
           "+100% Toxic resistance",
           "+100% Toxic environment resistance",
           "+1.2 Melee dodge chance",
@@ -52700,7 +52698,8 @@
           "+50% Mining speed",
           "+100% Mining yield",
           "+0.0% Armor - Blunt",
-          "+0.0% Armor - Sharp"
+          "+0.0% Armor - Sharp",
+          "+220.00% Conversion power"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -52710,33 +52709,6 @@
       "enabled": true,
       "name": "Yuran Miko",
       "price": 3000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+70.00 Mass",
-          "+100% Flammability",
-          "-60.0C Minimum comfortable temperature",
-          "+200.0C Maximum comfortable temperature",
-          "+0% Psychic sensitivity",
-          "+0% Toxic resistance",
-          "+0 Meat amount",
-          "+0 Leather amount",
-          "+0 Carrying capacity",
-          "+0.00% Social impact",
-          "+0.0% Armor - Blunt",
-          "+0.0% Armor - Sharp",
-          "+0.0% Armor - Heat"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A zombie",
-      "defName": "Zombie",
-      "enabled": false,
-      "name": "Zombie",
-      "price": 1
     }
   ]
 }

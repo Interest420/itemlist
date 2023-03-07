@@ -85,12 +85,6 @@
   },
   {
     "author": "Dubwise",
-    "name": "Dubs Mint Menus",
-    "steamId": "1446523594",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Dubwise",
     "name": "Dubs Performance Analyzer",
     "steamId": "2038874626",
     "version": "1.0.0"
@@ -168,12 +162,6 @@
     "version": null
   },
   {
-    "author": "Haplo",
-    "name": "Misc. Endgame",
-    "steamId": "1750618143",
-    "version": "1.4.0"
-  },
-  {
     "author": "erdelf",
     "name": "Humanoid Alien Races",
     "steamId": "839005762",
@@ -186,16 +174,34 @@
     "version": null
   },
   {
-    "author": "Zylle",
-    "name": "More Vanilla Biomes",
-    "steamId": "1931453053",
-    "version": "0.1.5.01"
+    "author": "Mooloh",
+    "name": "Mooloh's Mythic Framework",
+    "steamId": "2819828894",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.0.0"
   },
   {
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
     "version": "1.4.1.1"
+  },
+  {
+    "author": "Alan Dariva and Usagirei",
+    "name": "More Planning [1.4]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zylle",
+    "name": "More Vanilla Biomes",
+    "steamId": "1931453053",
+    "version": "0.1.5.01"
   },
   {
     "author": "Netrve",
@@ -306,6 +312,18 @@
     "version": "1.4"
   },
   {
+    "author": "telardo",
+    "name": "Better Gene Graphics Framework",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fox with a Shotgun, Shashlichnik ;p (aka Шашлычник ;р) and Lost",
+    "name": "Revia Race - biotech",
+    "steamId": "2893157989",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "aRandomKiwi",
     "name": "RimSaves",
     "steamId": "1713367505",
@@ -378,6 +396,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki and Neronix17",
+    "name": "Vanilla Races Expanded - Saurid",
+    "steamId": "2880990495",
+    "version": "1.0.8369.37080"
+  },
+  {
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": null,
@@ -390,9 +414,9 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Trading Expanded",
-    "steamId": "2785616901",
+    "author": "Pizzacat OttersHoldHands iforgotmysocks AobaKuma",
+    "name": "Villages:Homes",
+    "steamId": "2941977041",
     "version": "1.0.0.0"
   },
   {
@@ -412,12 +436,6 @@
     "name": "Yuran race",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Andreas Pardeike",
-    "name": "Zombieland",
-    "steamId": "928376710",
-    "version": "3.6.0.0"
   },
   {
     "author": "Oskar Potocki and Taranchuk",
@@ -458,6 +476,18 @@
   {
     "author": "lolidrop",
     "name": "[L] House Maid Nukos",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[RH2] Faction: V.O.I.D.",
+    "steamId": "2883208829",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[RH2] V.O.I.D. Storyteller",
     "steamId": null,
     "version": null
   },

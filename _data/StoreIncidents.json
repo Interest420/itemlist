@@ -57,7 +57,7 @@
 	},
 	{
 		"abr": "solarflare",
-		"price": 500,
+		"price": 1000,
 		"karmatype": "Doom"
 	},
 	{
@@ -96,11 +96,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "tradercaravan",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "orbitaltraderarrival",
 		"price": 750,
 		"karmatype": "Good"
@@ -131,11 +126,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "farmanimals",
-		"price": 400,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "rarethrumbos",
 		"price": 500,
 		"karmatype": "Good"
@@ -143,16 +133,6 @@
 	{
 		"abr": "shipchunkdrop",
 		"price": 300,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "travelergroup",
-		"price": 80,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "visitorgroup",
-		"price": 200,
 		"karmatype": "Good"
 	},
 	{
@@ -181,37 +161,17 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "militaryaid",
-		"price": 5000,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "raid",
-		"price": 1500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "dropraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "sapperraid",
 		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "siegeraid",
 		"price": 2500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "mechanoidraid",
-		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "infestation",
+		"abr": "mechanoidraid",
 		"price": 2500,
 		"karmatype": "Bad"
 	},
@@ -263,11 +223,6 @@
 	{
 		"abr": "prisoner",
 		"price": 800,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "visitcolony",
-		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -381,5 +336,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 76
+	"total": 67
 }
