@@ -10537,24 +10537,6 @@
       "price": -10
     },
     {
-      "abr": "bloodrune",
-      "category": "Artifacts",
-      "defname": "ReviaBloodRune",
-      "price": 1000
-    },
-    {
-      "abr": "bloodrune(inert)",
-      "category": "Artifacts",
-      "defname": "ReviaBloodRuneBlank",
-      "price": 1000
-    },
-    {
-      "abr": "bloodstone",
-      "category": "Artifacts",
-      "defname": "ReviaRaceBloodstone",
-      "price": 167
-    },
-    {
       "abr": "bonemeat",
       "category": "Meat",
       "defname": "Meat_RH_DF_Bone",
@@ -10693,12 +10675,6 @@
       "price": -10
     },
     {
-      "abr": "crimsonblossom",
-      "category": "Melee weapons",
-      "defname": "ReviaBlessedSerratedDagger",
-      "price": 567
-    },
-    {
       "abr": "dataimplant",
       "category": "Voidtech",
       "defname": "DF_Data_Implant",
@@ -10777,12 +10753,6 @@
       "price": -10
     },
     {
-      "abr": "eviscerator",
-      "category": "Melee weapons",
-      "defname": "ReviaSerratedDagger",
-      "price": 289
-    },
-    {
       "abr": "evolvedlongarmsmeat",
       "category": "Meat",
       "defname": "Meat_RH_DF_EvolvedLongArms",
@@ -10837,28 +10807,10 @@
       "price": -10
     },
     {
-      "abr": "greaterbloodrune",
-      "category": "Artifacts",
-      "defname": "ReviaGreaterBloodRune",
-      "price": 5833
-    },
-    {
-      "abr": "greaterbloodrune(inert)",
-      "category": "Artifacts",
-      "defname": "ReviaGreaterBloodRuneBlank",
-      "price": 5833
-    },
-    {
       "abr": "grinder",
       "category": "Melee weapons",
       "defname": "RNMelee_DFGrinder_Chainsaw",
       "price": -10
-    },
-    {
-      "abr": "harvester",
-      "category": "Melee weapons",
-      "defname": "ReviaSerratedScythe",
-      "price": 683
     },
     {
       "abr": "hasteimplant",
@@ -10883,18 +10835,6 @@
       "category": "Meat",
       "defname": "Meat_RH_DF_IrridiatedLongArms",
       "price": -10
-    },
-    {
-      "abr": "lesserbloodrune",
-      "category": "Artifacts",
-      "defname": "ReviaLesserBloodRune",
-      "price": 167
-    },
-    {
-      "abr": "lesserbloodrune(inert)",
-      "category": "Artifacts",
-      "defname": "ReviaLesserBloodRuneBlank",
-      "price": 167
     },
     {
       "abr": "lethalityimplant",
@@ -10981,12 +10921,6 @@
       "price": -10
     },
     {
-      "abr": "palestone",
-      "category": "Artifacts",
-      "defname": "ReviaRacePalestone",
-      "price": -10
-    },
-    {
       "abr": "prosperityimplant",
       "category": "Epic collection",
       "defname": "DF_Prosperity_Implant",
@@ -10999,28 +10933,10 @@
       "price": -10
     },
     {
-      "abr": "redhaze",
-      "category": "Drugs",
-      "defname": "ReviaRaceRedHaze",
-      "price": 133
-    },
-    {
-      "abr": "redinquisitor",
-      "category": "Melee weapons",
-      "defname": "ReviaBlessedSerratedSword",
-      "price": 1775
-    },
-    {
       "abr": "redwine",
       "category": "Drugs",
       "defname": "RH_RedWine",
       "price": 20
-    },
-    {
-      "abr": "repeatingcrossbow",
-      "category": "Ranged weapons",
-      "defname": "ReviaRepeatingCrossbow",
-      "price": 733
     },
     {
       "abr": "roidhulkmeat",
@@ -11029,34 +10945,10 @@
       "price": -10
     },
     {
-      "abr": "scourge",
-      "category": "Melee weapons",
-      "defname": "ReviaSerratedSword",
-      "price": 500
-    },
-    {
       "abr": "scrutinyimplant",
       "category": "Epic collection",
       "defname": "DF_Scrutiny_Implant",
       "price": -10
-    },
-    {
-      "abr": "shardcannon",
-      "category": "Ranged weapons",
-      "defname": "ReviaFlechetteCannon",
-      "price": 2083
-    },
-    {
-      "abr": "shatterer",
-      "category": "Melee weapons",
-      "defname": "ReviaWarPick",
-      "price": 775
-    },
-    {
-      "abr": "shredder",
-      "category": "Melee weapons",
-      "defname": "ReviaChainSword",
-      "price": 2133
     },
     {
       "abr": "stalkermeat",
@@ -11075,12 +10967,6 @@
       "category": "Meat",
       "defname": "Meat_RH_DF_Tendril",
       "price": -10
-    },
-    {
-      "abr": "throwingknife",
-      "category": "Ranged weapons",
-      "defname": "ReviaThrowingKnife",
-      "price": 141
     },
     {
       "abr": "titanmeat",
@@ -11123,12 +11009,6 @@
       "category": "Fairview armor",
       "defname": "RHApparel_VengeanceGuard_PowerArmor",
       "price": -10
-    },
-    {
-      "abr": "vermilliontide",
-      "category": "Melee weapons",
-      "defname": "ReviaBlessedSerratedScythe",
-      "price": 6575
     },
     {
       "abr": "versatilityimplant",
@@ -11341,5 +11221,5 @@
       "price": -10
     }
   ],
-  "total": 1890
+  "total": 1870
 }

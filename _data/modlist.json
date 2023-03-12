@@ -162,6 +162,12 @@
     "version": null
   },
   {
+    "author": "m00nl1ght",
+    "name": "Map Preview",
+    "steamId": "2800857642",
+    "version": "1.11.0.0"
+  },
+  {
     "author": "erdelf",
     "name": "Humanoid Alien Races",
     "steamId": "839005762",
@@ -310,18 +316,6 @@
     "name": "ResearchPowl",
     "steamId": "2877856030",
     "version": "1.4"
-  },
-  {
-    "author": "telardo",
-    "name": "Better Gene Graphics Framework",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Fox with a Shotgun, Shashlichnik ;p (aka Шашлычник ;р) and Lost",
-    "name": "Revia Race - biotech",
-    "steamId": "2893157989",
-    "version": "1.0.0.0"
   },
   {
     "author": "aRandomKiwi",
