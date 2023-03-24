@@ -30,6 +30,30 @@
     "version": "1.4.8315.17730"
   },
   {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Books Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded",
+    "steamId": "1914064942",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Ideology Expanded - Memes and Structures",
+    "steamId": "2636329500",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson, Helixien, Cassie, Luizi and Allie",
+    "name": "Alpha Memes",
+    "steamId": "2661356814",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "pelador",
     "name": "Apothecary (Continued)",
     "steamId": "2195469123",
@@ -90,12 +114,6 @@
     "version": "1.0.0"
   },
   {
-    "author": "Erin and AveryTheKitty",
-    "name": "Erin's Japanese Furniture",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Citrus",
     "name": "Expectations Modifier",
     "steamId": "1904336011",
@@ -114,6 +132,12 @@
     "version": "1.5.2.0"
   },
   {
+    "author": "GloomyLynx NukaFrog",
+    "name": "GloomyFurniture",
+    "steamId": "1558635181",
+    "version": "1.0.4"
+  },
+  {
     "author": "Krypt",
     "name": "RWLayout",
     "steamId": "2209393954",
@@ -124,6 +148,12 @@
     "name": "Grouped Pawns Lists",
     "steamId": "2340773428",
     "version": "1.0.0"
+  },
+  {
+    "author": "brucethemoose",
+    "name": "Hybrid Storytellers",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Jaxe",
@@ -153,7 +183,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.6.0.5"
+    "version": "2.6.0.6"
   },
   {
     "author": "Kure",
@@ -171,7 +201,13 @@
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.11.0.0"
+    "version": "1.12.4.0"
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Endgame",
+    "steamId": "1750618143",
+    "version": "1.4.0"
   },
   {
     "author": "erdelf",
@@ -276,18 +312,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
-    "name": "Quarry",
-    "steamId": "2007576583",
-    "version": "2.0.0"
-  },
-  {
-    "author": "jeonggihun",
-    "name": "Quarry retexture",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Sandy",
     "name": "RPG Style Inventory",
     "steamId": "1561221991",
@@ -378,12 +402,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Fishing Expanded",
-    "steamId": "1914064942",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
     "name": "Vanilla Plants Expanded",
     "steamId": null,
@@ -432,12 +450,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Books Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki, Trunken and XeoNovaDan",
     "name": "Vanilla Furniture Expanded - Security",
     "steamId": "1845154007",
@@ -470,18 +482,6 @@
   {
     "author": "lolidrop",
     "name": "[L] House Maid Nukos",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Chicken Plucker",
-    "name": "[RH2] Faction: V.O.I.D.",
-    "steamId": "2883208829",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Chicken Plucker",
-    "name": "[RH2] V.O.I.D. Storyteller",
     "steamId": null,
     "version": null
   },
