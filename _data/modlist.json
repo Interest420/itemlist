@@ -324,12 +324,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Fluffy",
-    "name": "Relations Tab",
-    "steamId": "709317151",
-    "version": "2.6.72"
-  },
-  {
     "author": "Uuugggg",
     "name": "Replace Stuff",
     "steamId": "1372003680",
@@ -382,6 +376,12 @@
     "name": "ToolkitCore",
     "steamId": "2018368654",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitRaids",
+    "steamId": "2091359241",
+    "version": "1.0.5.0"
   },
   {
     "author": "hodlhodl",
