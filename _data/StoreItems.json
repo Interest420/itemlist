@@ -9484,7 +9484,7 @@
       "abr": "fissionmouse",
       "category": "Animals",
       "defname": "AA_FissionMouse",
-      "price": -10
+      "price": 58
     },
     {
       "abr": "fissionmouse,secondgeneration",
@@ -11764,7 +11764,7 @@
       "abr": "unshackleddryad",
       "category": "Animals",
       "defname": "AM_UnshackledDryad",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "urn",
