@@ -60,6 +60,12 @@
     "version": "1.4.2"
   },
   {
+    "author": "Machine",
+    "name": "Better Infestations 1.4",
+    "steamId": "1319614331",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Dyrewulfe",
     "name": "Better Message Placement (Continued)",
     "steamId": null,
@@ -88,12 +94,6 @@
     "name": "Character Editor",
     "steamId": "1874644848",
     "version": "1.4.1240.0"
-  },
-  {
-    "author": "Mlie",
-    "name": "Climate Cycle++ (Continued)",
-    "steamId": "2024296023",
-    "version": "1.4.1"
   },
   {
     "author": "PeteTimesSix",
@@ -195,7 +195,13 @@
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.12.4.0"
+    "version": "1.12.6.0"
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Endgame",
+    "steamId": "1750618143",
+    "version": "1.4.0"
   },
   {
     "author": "erdelf",
@@ -232,6 +238,12 @@
     "name": "No Random Relations",
     "steamId": "2583377522",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "NewsofPE",
+    "name": "No Starting Research",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Vesper",
@@ -273,13 +285,19 @@
     "author": "iamrespawn",
     "name": "Prosthetic No Missing Body Parts (Continued)",
     "steamId": "2739055353",
-    "version": "1.4.1"
+    "version": "1.4.2"
   },
   {
     "author": "legodude17",
     "name": "Quality Colors",
     "steamId": "2420141361",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Hatti",
+    "name": "QualityBuilder",
+    "steamId": "754637870",
+    "version": "1.0.17"
   },
   {
     "author": "Sandy",
@@ -294,6 +312,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "PeteTimesSix",
+    "name": "Research Reinvented",
+    "steamId": "2868392160",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Uuugggg",
     "name": "Replace Stuff",
     "steamId": "1372003680",
@@ -304,12 +328,6 @@
     "name": "Replace Stuff Mod Compatibility",
     "steamId": "2642161586",
     "version": "1.14.0"
-  },
-  {
-    "author": "VinaLx and Owlchemist",
-    "name": "ResearchPowl",
-    "steamId": "2877856030",
-    "version": "1.4"
   },
   {
     "author": "aRandomKiwi",

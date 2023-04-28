@@ -6676,7 +6676,7 @@
       "abr": "am-yeonghairband",
       "category": "Yuran hat",
       "defname": "YR_AP_CombatCloth_Black_Ribbon",
-      "price": 170
+      "price": -10
     },
     {
       "abr": "bigcherry",
@@ -7204,7 +7204,7 @@
       "abr": "ruunbled",
       "category": "Melee",
       "defname": "TM_Ruunbled",
-      "price": 13333
+      "price": -10
     },
     {
       "abr": "safe",
@@ -8434,37 +8434,37 @@
       "abr": "yuranaenghwa",
       "category": "Yuran Apparel",
       "defname": "YR_AP_Red",
-      "price": 203
+      "price": -10
     },
     {
       "abr": "yuranam-yeong",
       "category": "Yuran Apparel",
       "defname": "YR_AP_CombatCloth_Black",
-      "price": 203
+      "price": -10
     },
     {
       "abr": "yuranbaeglo",
       "category": "Yuran Apparel",
       "defname": "YR_AP_White",
-      "price": 203
+      "price": -10
     },
     {
       "abr": "yuranbaeglohat",
       "category": "Yuran hat",
       "defname": "YR_AP_WhiteHood",
-      "price": 170
+      "price": -10
     },
     {
       "abr": "yuranbaeg-un",
       "category": "Yuran Apparel",
       "defname": "YR_AP_WhiteOutCloth",
-      "price": 203
+      "price": -10
     },
     {
       "abr": "yuranbaeg-wol",
       "category": "Yuran Apparel",
       "defname": "YR_AP_WhiteMoon",
-      "price": 203
+      "price": -10
     },
     {
       "abr": "yuranbigcherrybox",
@@ -8476,7 +8476,7 @@
       "abr": "yuranbigribbon",
       "category": "Yuran hat",
       "defname": "YR_AP_Ribbon_BIg",
-      "price": 170
+      "price": -10
     },
     {
       "abr": "yuranblackdressbox",
@@ -8488,13 +8488,13 @@
       "abr": "yuranblackdressforornaments",
       "category": "Yuran Apparel",
       "defname": "YR_AP_Addon_BlackDress",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "yuranblackribbon",
       "category": "Yuran hat",
       "defname": "YR_AP_Flower_AddonC",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "yuranblackskirt/capebox",
@@ -8506,7 +8506,7 @@
       "abr": "yuranbow",
       "category": "Ranged weapons",
       "defname": "YR_WP_Bow",
-      "price": 154
+      "price": -10
     },
     {
       "abr": "yuranbrewery",
@@ -8518,7 +8518,7 @@
       "abr": "yurancheongpung",
       "category": "Yuran Apparel",
       "defname": "YR_AP_WhitePuple",
-      "price": 203
+      "price": -10
     },
     {
       "abr": "yurancherrydango",
@@ -8530,31 +8530,31 @@
       "abr": "yurancorolla",
       "category": "Yuran hat",
       "defname": "YR_AP_Flower_AddonA",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "yuranflowerdecoration",
       "category": "Yuran hat",
       "defname": "YR_AP_Flower",
-      "price": 170
+      "price": -10
     },
     {
       "abr": "yuranfrontoffcapeforornaments",
       "category": "Yuran Apparel",
       "defname": "YR_AP_Addon_BlackCape",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "yuranfrontoffskirtforornaments",
       "category": "Yuran Apparel",
       "defname": "YR_AP_Addon_BlackSkirt",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "yuranheug-il",
       "category": "Yuran Apparel",
       "defname": "YR_AP_BlackSun",
-      "price": 2167
+      "price": -10
     },
     {
       "abr": "yuranheug-ilbox",
@@ -8566,55 +8566,55 @@
       "abr": "yuranheug-ilhat",
       "category": "Yuran hat",
       "defname": "YR_AP_BlackSunHood",
-      "price": 2167
+      "price": -10
     },
     {
       "abr": "yuranheug-un",
       "category": "Yuran Apparel",
       "defname": "YR_AP_BlackSunOutCloth",
-      "price": 2167
+      "price": -10
     },
     {
       "abr": "yuranhonglyeon",
       "category": "Yuran Apparel",
       "defname": "YR_AP_CombatCloth_White",
-      "price": 203
+      "price": -10
     },
     {
       "abr": "yuranhoodt-shirtforornaments",
       "category": "Yuran Apparel",
       "defname": "YR_AP_Addon_hoodshirt",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "yuranjag-yag",
       "category": "Yuran Apparel",
       "defname": "YR_AP_RedWhite",
-      "price": 203
+      "price": -10
     },
     {
       "abr": "yuranjeogmu",
       "category": "Yuran Apparel",
       "defname": "YR_AP_MiKo",
-      "price": 203
+      "price": -10
     },
     {
       "abr": "yuranjeog-wol",
       "category": "Yuran Apparel",
       "defname": "YR_AP_MiKo_B",
-      "price": 203
+      "price": -10
     },
     {
       "abr": "yurankatana",
       "category": "Melee weapons",
       "defname": "YR_WP_katana",
-      "price": 392
+      "price": -10
     },
     {
       "abr": "yurankunai",
       "category": "Ranged weapons",
       "defname": "YR_WP_kunai",
-      "price": 244
+      "price": -10
     },
     {
       "abr": "yuranlotuslantern",
@@ -8644,25 +8644,25 @@
       "abr": "yuranmonokatana",
       "category": "Melee weapons",
       "defname": "YR_WP_monokatana",
-      "price": 1942
+      "price": -10
     },
     {
       "abr": "yuranmyeong-wol",
       "category": "Yuran Apparel",
       "defname": "YR_AP_WhiteSee",
-      "price": 203
+      "price": -10
     },
     {
       "abr": "yurannaginata",
       "category": "Melee weapons",
       "defname": "YR_WP_Naginata",
-      "price": 442
+      "price": -10
     },
     {
       "abr": "yuranoverfitknitornaments",
       "category": "Yuran Apparel",
       "defname": "YR_AP_Addon_knitwear",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "yuranrabbitstatue(crafting)",
@@ -8710,7 +8710,7 @@
       "abr": "yuransmallribbon",
       "category": "Yuran hat",
       "defname": "YR_AP_Ribbon_Small",
-      "price": 170
+      "price": -10
     },
     {
       "abr": "yuransmithy",
@@ -8722,13 +8722,13 @@
       "abr": "yuranspear",
       "category": "Ranged weapons",
       "defname": "YR_WP_Spear",
-      "price": 383
+      "price": -10
     },
     {
       "abr": "yuranstaff",
       "category": "Ranged weapons",
       "defname": "YR_WP_Staff",
-      "price": 263
+      "price": -10
     },
     {
       "abr": "yuranstaff(bondage)",
@@ -8770,13 +8770,13 @@
       "abr": "yuranthorncorolla",
       "category": "Yuran hat",
       "defname": "YR_AP_Flower_AddonB",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "yuranunmu",
       "category": "Yuran Apparel",
       "defname": "YR_AP_WhiteSeeCape",
-      "price": 203
+      "price": -10
     },
     {
       "abr": "yuranwhitedressbox",
@@ -8788,13 +8788,13 @@
       "abr": "yuranwhitedressforornaments",
       "category": "Yuran Apparel",
       "defname": "YR_AP_Addon_WhiteDress",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "yuranyeonmu",
       "category": "Yuran Apparel",
       "defname": "YR_AP_Child",
-      "price": 136
+      "price": -10
     },
     {
       "abr": "acanthamoebagigantea,huge",
@@ -10583,7 +10583,61 @@
       "category": "Furniture",
       "defname": "Village_SmallHouse_PastelPink",
       "price": 1017
+    },
+    {
+      "abr": "fieldresearchanalyzer-kit",
+      "category": "Utility",
+      "defname": "RR_FieldResearchKitMultiAnalyzer",
+      "price": -10
+    },
+    {
+      "abr": "fieldresearchkit",
+      "category": "Utility",
+      "defname": "RR_FieldResearchKitHiTech",
+      "price": -10
+    },
+    {
+      "abr": "remotefieldresearchkit",
+      "category": "Utility",
+      "defname": "RR_FieldResearchKitRemote",
+      "price": -10
+    },
+    {
+      "abr": "simplefieldresearchkit",
+      "category": "Utility",
+      "defname": "RR_FieldResearchKitSimple",
+      "price": -10
+    },
+    {
+      "abr": "techprint(towncharterrulesfragment1)",
+      "category": "Techprints",
+      "defname": "Techprint_EndGame_PreRequirements_PartOne",
+      "price": 2500
+    },
+    {
+      "abr": "techprint(towncharterrulesfragment2)",
+      "category": "Techprints",
+      "defname": "Techprint_EndGame_PreRequirements_PartTwo",
+      "price": 2500
+    },
+    {
+      "abr": "queen",
+      "category": "Animals",
+      "defname": "BI_Queen",
+      "price": 4167
+    },
+    {
+      "abr": "yuranchargefirelock",
+      "category": "Ranged weapons",
+      "defname": "YR_WP_MonoGun",
+      "price": 1942
+    },
+    {
+      "abr": "yuranfirelock",
+      "category": "Ranged weapons",
+      "defname": "YR_WP_Gun",
+      "price": 467
     }
   ],
-  "total": 1764
+  "total": 1773
 }

@@ -52274,7 +52274,7 @@
       },
       "description": "A mutant of the wolfgirl species that has developed a semblance of intelligence.",
       "defName": "MG_Wolfgirl",
-      "enabled": false,
+      "enabled": true,
       "name": "Wolfgirl",
       "price": 3000
     },

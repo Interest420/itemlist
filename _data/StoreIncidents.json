@@ -1,8 +1,43 @@
 {
 	"incitems" : [
 	{
+		"abr": "clearweather",
+		"price": 400,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "rain",
+		"price": 350,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "foggyrain",
+		"price": 300,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "rainythunderstorm",
+		"price": 250,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "drythunderstorm",
 		"price": 450,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "snowgentle",
+		"price": 350,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "snowhard",
+		"price": 450,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "fog",
+		"price": 300,
 		"karmatype": "Neutral"
 	},
 	{
@@ -141,14 +176,9 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "militaryaid",
-		"price": 5000,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "raid",
 		"price": 1500,
-		"karmatype": "Neutral"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "dropraid",
@@ -163,12 +193,12 @@
 	{
 		"abr": "siegeraid",
 		"price": 2500,
-		"karmatype": "Neutral"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "mechanoidraid",
 		"price": 2500,
-		"karmatype": "Neutral"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "infestation",
@@ -193,6 +223,11 @@
 	{
 		"abr": "reviveanypawn",
 		"price": 3000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "pawn",
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -331,5 +366,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 66
+	"total": 73
 }
