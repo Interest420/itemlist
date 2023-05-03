@@ -9484,7 +9484,7 @@
       "abr": "fissionmouse",
       "category": "Animals",
       "defname": "AA_FissionMouse",
-      "price": 58
+      "price": -10
     },
     {
       "abr": "fissionmouse,secondgeneration",
@@ -10637,7 +10637,13 @@
       "category": "Ranged weapons",
       "defname": "YR_WP_Gun",
       "price": 467
+    },
+    {
+      "abr": "zombrella",
+      "category": "Misc",
+      "defname": "Zombrella",
+      "price": 3333
     }
   ],
-  "total": 1773
+  "total": 1774
 }
