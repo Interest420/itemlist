@@ -1,11 +1,11 @@
 .tab {
     overflow: hidden;
-    border: 1px solid #cccccc;
-    background-color: #f1f1f1;
+    border: 1px solid #474746;
+    background-color: #dbd6c5;
 }
 
 .tab button {
-    background-color: inherit;
+    background-color:  #FF5733;
     border: none;
     outline: none;
     cursor: pointer;
@@ -15,7 +15,7 @@
 }
 
 .tab button:hover {
-    background-color: #cccccc;
+    background-color: #b3ad9a;
 }
 
 .tabContent {
