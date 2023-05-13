@@ -15,7 +15,7 @@
 }
 
 .tab button:hover {
-    background-color: #b3ad9a; // Color when hovering on top bar
+    background-color: #b3ad9a; // Hover color for top bar
 }
 
 .tabContent {
@@ -45,6 +45,10 @@
 
 table {
     display: table;
+}
+
+table tbody tr:hover {
+    background-color: #f2f2f0; // Hover color for items/events/etc
 }
 
 th {
