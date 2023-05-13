@@ -31,7 +31,7 @@ store:
     usage: false
     mod: true
   kinds:
-    mod: true
+    mod: false
     karma: true
     usage: true
   items:
