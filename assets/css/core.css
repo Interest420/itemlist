@@ -5,7 +5,7 @@
 }
 
 .tab button {
-    background-color: #c3dbbf;
+    background-color: #c3dbbf; // Top bar color. Make same as tab color
     border: none;
     outline: none;
     cursor: pointer;
@@ -15,7 +15,7 @@
 }
 
 .tab button:hover {
-    background-color: #b3ad9a;
+    background-color: #b3ad9a; // Color when hovering on top bar
 }
 
 .tabContent {
@@ -39,7 +39,7 @@
     font-size: 16px;
     padding: 12px 20px 12px 40px;
     border: 1px solid #dddddd;
-    background-color: #d9d1b8;
+    background-color: #d9d1b8; // Search bar background color
     margin-bottom: 12px;
 }
 
@@ -72,7 +72,7 @@ td.description {
 span.eventRedirect {
   cursor: pointer;
   text-decoration: underline;
-  color:#22527b;;
+  color:#22527b;; // Border color of search bar?
 }
 span.metadata {
     font-size: 0.8em;
