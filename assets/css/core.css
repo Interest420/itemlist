@@ -1,11 +1,11 @@
 .tab {
     overflow: hidden;
     border: 1px solid #474746;
-    background-color: #c3dbbf;
+    background-color: #404040;
 }
 
 .tab button {
-    background-color: #c3dbbf; /* Top bar color. Make same as tab color */
+    background-color: #404040; /* Top bar color. Make same as tab color */
     border: none;
     outline: none;
     cursor: pointer;
@@ -15,7 +15,7 @@
 }
 
 .tab button:hover {
-    background-color: #b3ad9a; /* Hover color for top bar */
+    background-color: #70695a; /* Hover color for top bar */
 }
 
 .tabContent {
@@ -39,7 +39,7 @@
     font-size: 16px;
     padding: 12px 20px 12px 40px;
     border: 1px solid #dddddd;
-    background-color: #d9d1b8; /* Search bar background color */
+    background-color: #6b6b6b; /* Search bar background color */
     margin-bottom: 12px;
 }
 
@@ -48,7 +48,7 @@ table {
 }
 
 table tbody tr:hover {
-    background-color: #f2f2f0; /* Hover color for items/events/etc */
+    background-color: #706c64; /* Hover color for items/events/etc */
 }
 
 th {
@@ -116,6 +116,6 @@ span.metadata {
   span.metadata {
     font-size: 0.85em;
     font-style: italic;
-    color: #5a5454;
+    color: #fafafa;
   }
 }
