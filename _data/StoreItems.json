@@ -1030,7 +1030,7 @@
       "abr": "wood",
       "category": "Raw resources",
       "defname": "WoodLog",
-      "price": 2
+      "price": 5
     },
     {
       "abr": "uranium",
@@ -7132,7 +7132,7 @@
       "abr": "redwood",
       "category": "Raw resources",
       "defname": "YR_Red_wood",
-      "price": 2
+      "price": 5
     },
     {
       "abr": "refrigerator",

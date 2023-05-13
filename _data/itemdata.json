@@ -3486,7 +3486,7 @@
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": true,
-    "QuantityLimit": 75,
+    "QuantityLimit": 150,
     "Weight": 1.0,
     "ResearchOverrides": null,
     "IsUsable": true,
