@@ -10513,60 +10513,6 @@
       "price": 16667
     },
     {
-      "abr": "decorativerooflargehome",
-      "category": "Furniture",
-      "defname": "Village_LargeHouse_Masked",
-      "price": 2392
-    },
-    {
-      "abr": "decorativeroofmediumhome",
-      "category": "Furniture",
-      "defname": "Village_MediumHouse_Masked",
-      "price": 1367
-    },
-    {
-      "abr": "decorativeroofsmallhome",
-      "category": "Furniture",
-      "defname": "Village_SmallHouse_Masked",
-      "price": 1017
-    },
-    {
-      "abr": "pastelbluelargehome",
-      "category": "Furniture",
-      "defname": "Village_LargeHouse_PastelBlue",
-      "price": 2392
-    },
-    {
-      "abr": "pastelbluemediumhome",
-      "category": "Furniture",
-      "defname": "Village_MediumHouse_PastelBlue",
-      "price": 1367
-    },
-    {
-      "abr": "pastelbluesmallhome",
-      "category": "Furniture",
-      "defname": "Village_SmallHouse_PastelBlue",
-      "price": 1017
-    },
-    {
-      "abr": "pastelpinklargehome",
-      "category": "Furniture",
-      "defname": "Village_LargeHouse_PastelPink",
-      "price": 2392
-    },
-    {
-      "abr": "pastelpinkmediumhome",
-      "category": "Furniture",
-      "defname": "Village_MediumHouse_PastelPink",
-      "price": 1367
-    },
-    {
-      "abr": "pastelpinksmallhome",
-      "category": "Furniture",
-      "defname": "Village_SmallHouse_PastelPink",
-      "price": 1017
-    },
-    {
       "abr": "queen",
       "category": "Animals",
       "defname": "BI_Queen",
@@ -10943,6 +10889,60 @@
       "category": "Art",
       "defname": "VFE_StatueSmall",
       "price": 275
+    },
+    {
+      "abr": "campingluggages",
+      "category": "Furniture",
+      "defname": "CampingLuggages",
+      "price": -10
+    },
+    {
+      "abr": "canopy",
+      "category": "Furniture",
+      "defname": "Canopy",
+      "price": 306
+    },
+    {
+      "abr": "foldingtent",
+      "category": "Furniture",
+      "defname": "FoldingTent",
+      "price": 392
+    },
+    {
+      "abr": "industrialtent",
+      "category": "Furniture",
+      "defname": "ModernTent",
+      "price": 392
+    },
+    {
+      "abr": "teepee",
+      "category": "Furniture",
+      "defname": "Teepee",
+      "price": 342
+    },
+    {
+      "abr": "tent",
+      "category": "Furniture",
+      "defname": "Tent",
+      "price": 342
+    },
+    {
+      "abr": "vikingtent",
+      "category": "Furniture",
+      "defname": "VikingTent",
+      "price": 383
+    },
+    {
+      "abr": "woodencanopy",
+      "category": "Furniture",
+      "defname": "WoodenCanopy",
+      "price": 104
+    },
+    {
+      "abr": "woodpile",
+      "category": "Furniture",
+      "defname": "WoodPile",
+      "price": -10
     }
   ],
   "total": 1824
