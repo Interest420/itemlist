@@ -30,6 +30,12 @@
     "version": "1.0.0"
   },
   {
+    "author": "Owlchemist",
+    "name": "Toggleable Overlays",
+    "steamId": "2608654598",
+    "version": "1.4"
+  },
+  {
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
@@ -165,7 +171,7 @@
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.6.4.0"
+    "version": "1.6.5.0"
   },
   {
     "author": "Krypt",
@@ -306,12 +312,6 @@
     "version": "1.0.0"
   },
   {
-    "author": "Usagirei",
-    "name": "Pocket Sand",
-    "steamId": "2226330302",
-    "version": "1.0-20210719-030003"
-  },
-  {
     "author": "Error277",
     "name": "Primitive Turret",
     "steamId": null,
@@ -400,6 +400,12 @@
     "name": "Simple Utilities: Fridge",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Simple sidearms",
+    "steamId": "927155256",
+    "version": "1.4.6.0"
   },
   {
     "author": "denev",
