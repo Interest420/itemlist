@@ -30,12 +30,6 @@
     "version": "1.0.0"
   },
   {
-    "author": "Owlchemist",
-    "name": "Toggleable Overlays",
-    "steamId": "2608654598",
-    "version": "1.4"
-  },
-  {
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
@@ -52,24 +46,6 @@
     "name": "Allow Tool",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Owlchemist",
-    "name": "Cherry Picker",
-    "steamId": "2633276599",
-    "version": "1.4"
-  },
-  {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sarg Bjornson and AFriend",
-    "name": "Alpha Animals",
-    "steamId": "1541721856",
-    "version": "1.4.8315.17730"
   },
   {
     "author": "dninemfive",
@@ -126,6 +102,18 @@
     "version": "1.4.1240.0"
   },
   {
+    "author": "Owlchemist",
+    "name": "Cherry Picker",
+    "steamId": "2633276599",
+    "version": "1.4"
+  },
+  {
+    "author": "test",
+    "name": "Cherry Picker Duplicates List",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "PeteTimesSix",
     "name": "Compact Hediffs",
     "steamId": "2031734067",
@@ -138,12 +126,6 @@
     "version": "1.4"
   },
   {
-    "author": "Pillowesque",
-    "name": "Custom Playstyle Presets",
-    "steamId": "2555720919",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Spdskatr and CaesarV6",
     "name": "Damage Indicators [1.4]",
     "steamId": "2016331497",
@@ -154,6 +136,18 @@
     "name": "Door Clearance",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Apparel Tweaks",
+    "steamId": "2296697286",
+    "version": "1.0.0.0"
   },
   {
     "author": "Dubwise",
@@ -184,12 +178,6 @@
     "name": "Grouped Pawns Lists",
     "steamId": "2340773428",
     "version": "1.0.0"
-  },
-  {
-    "author": "Jaxe",
-    "name": "Interaction Bubbles",
-    "steamId": "1516158345",
-    "version": "2.5.0.0"
   },
   {
     "author": "キャデグ",
@@ -234,6 +222,12 @@
     "version": "1.12.6.0"
   },
   {
+    "author": "Antaios",
+    "name": "Mod Medicine Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "erdelf",
     "name": "Humanoid Alien Races",
     "steamId": "839005762",
@@ -252,12 +246,6 @@
     "version": "0.0.0.0"
   },
   {
-    "author": "Mehni",
-    "name": "More Faction Interaction (Continued)",
-    "steamId": "2379076640",
-    "version": "1.4.3"
-  },
-  {
     "author": "Oblitus",
     "name": "My Little Planet",
     "steamId": "1117406550",
@@ -268,6 +256,12 @@
     "name": "Netrve's DeepStorage GUI",
     "steamId": "2169841018",
     "version": "1.4"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "No Pause Challenge",
+    "steamId": "1517419925",
+    "version": "3.2.0.0"
   },
   {
     "author": "Dave-EEs",
@@ -292,6 +286,24 @@
     "name": "Nyaron race",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Sarg Bjornson and AFriend",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.4.8315.17730"
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded",
+    "steamId": "1914064942",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SeoHyeon",
+    "name": "Optimization: Meats - C# Edition",
+    "steamId": "2542931556",
+    "version": "1.0.0.0"
   },
   {
     "author": "Peppsen",
@@ -366,22 +378,22 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Uuugggg",
-    "name": "Replace Stuff",
-    "steamId": "1372003680",
-    "version": "1.1.0.0"
-  },
-  {
-    "author": "Garethp",
-    "name": "Replace Stuff Mod Compatibility",
-    "steamId": "2642161586",
-    "version": "2.0.1"
+    "author": "Jecrell",
+    "name": "RimQuest (Continued)",
+    "steamId": "2263331727",
+    "version": "1.4.1"
   },
   {
     "author": "aRandomKiwi",
     "name": "RimSaves",
     "steamId": "1713367505",
     "version": "2022.0.1.14"
+  },
+  {
+    "author": "HopeSeekr",
+    "name": "Savegame Shrinker",
+    "steamId": "2978713095",
+    "version": "0.0.0.0"
   },
   {
     "author": "2blockdude",
@@ -420,6 +432,12 @@
     "version": null
   },
   {
+    "author": "Owlchemist",
+    "name": "Toggleable Readouts",
+    "steamId": "2661792499",
+    "version": "1.4"
+  },
+  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -438,15 +456,15 @@
     "version": "6.3.0.0.biotech.b12"
   },
   {
+    "author": "Carny Senpai",
+    "name": "Trait Rarity Colors",
+    "steamId": "1751884355",
+    "version": "1.4.0.0"
+  },
+  {
     "author": "hodlhodl",
     "name": "TwitchToolkit - Lootboxes (Unofficial)",
     "steamId": "1720021578",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Fishing Expanded",
-    "steamId": "1914064942",
     "version": "1.0.0.0"
   },
   {
@@ -474,10 +492,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Storytellers Expanded - Winston Waves",
-    "steamId": "2734032569",
-    "version": "1.0.2.2"
+    "author": "Oskar Potocki",
+    "name": "Vanilla Storytellers Expanded - Perry Persistent",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Murmur",
