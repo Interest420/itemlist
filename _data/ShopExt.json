@@ -52212,7 +52212,7 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": false,
+      "enabled": true,
       "name": "human",
       "price": 3000
     },
@@ -52243,7 +52243,7 @@
       },
       "description": "A mutant of the catgirl species that has developed a semblance of intelligence.",
       "defName": "MG_Catgirl",
-      "enabled": false,
+      "enabled": true,
       "name": "Catgirl",
       "price": 3000
     },
@@ -52274,7 +52274,7 @@
       },
       "description": "A mutant of the wolfgirl species that has developed a semblance of intelligence.",
       "defName": "MG_Wolfgirl",
-      "enabled": false,
+      "enabled": true,
       "name": "Wolfgirl",
       "price": 3000
     },
@@ -52305,7 +52305,7 @@
       },
       "description": "A mutant of the foxgirl species that has developed a semblance of intelligence.",
       "defName": "MG_Foxgirl",
-      "enabled": false,
+      "enabled": true,
       "name": "Foxgirl",
       "price": 3000
     },
@@ -52336,7 +52336,7 @@
       },
       "description": "A Cowgirl that has developed a semblance of intelligence.",
       "defName": "MG_Cowgirl",
-      "enabled": false,
+      "enabled": true,
       "name": "Cowgirl",
       "price": 3000
     },
@@ -52367,7 +52367,7 @@
       },
       "description": "A Harpy that has developed a semblance of intelligence.",
       "defName": "MG_Harpy",
-      "enabled": false,
+      "enabled": true,
       "name": "Harpy",
       "price": 3000
     },
@@ -52398,7 +52398,7 @@
       },
       "description": "A mutant accumulation of slimy liquid that has developed a semblance of intelligence.",
       "defName": "MG_Slime",
-      "enabled": false,
+      "enabled": true,
       "name": "Slime",
       "price": 3000
     },
@@ -52430,7 +52430,7 @@
       },
       "description": "A Baphomet that has developed a semblance of intelligence.",
       "defName": "MG_Baphomet",
-      "enabled": false,
+      "enabled": true,
       "name": "Baphomet",
       "price": 3000
     },
@@ -52461,7 +52461,7 @@
       },
       "description": "A Centaur that has developed a semblance of intelligence.",
       "defName": "MG_Centaur",
-      "enabled": false,
+      "enabled": true,
       "name": "Centaur",
       "price": 3000
     },
@@ -52493,7 +52493,7 @@
       },
       "description": "A mutant of the Forest Fairy species that has developed a semblance of intelligence./n A fragile existence that withers in a toxic environment.",
       "defName": "MG_ForestFairy",
-      "enabled": false,
+      "enabled": true,
       "name": "ForestFairy",
       "price": 3000
     },
@@ -52525,7 +52525,7 @@
       },
       "description": "A mutant of the Ice Fairy species that has developed a semblance of intelligence./n A fragile existence that cannot survive warm temperatures.",
       "defName": "MG_IceFairy",
-      "enabled": false,
+      "enabled": true,
       "name": "IceFairy",
       "price": 3000
     },
@@ -52557,7 +52557,7 @@
       },
       "description": "A mutant of the Dragon species that has developed a semblance of intelligence.",
       "defName": "MG_Dragon",
-      "enabled": false,
+      "enabled": true,
       "name": "Dragon",
       "price": 3000
     },
@@ -52589,7 +52589,7 @@
       },
       "description": "A mutant of the Thrumbogirl species that has developed a semblance of intelligence.",
       "defName": "MG_Thrumbogirl",
-      "enabled": false,
+      "enabled": true,
       "name": "Thrumbogirl",
       "price": 3000
     },
@@ -52647,7 +52647,7 @@
       },
       "description": "Yuran is an Ain race with the appearance of a rabbit, and its origin is not known precisely.\nAs a minority race with a small population, there are genetic problems and males do not exist. It continues.\nCentering on the Miko with special abilities that are passed on through blood lineage, they live in a small village-sized village and have faith in the large cherry tree in their hometown.",
       "defName": "Yuran_Race",
-      "enabled": false,
+      "enabled": true,
       "name": "Yuran",
       "price": 3000
     },
@@ -52706,7 +52706,7 @@
       },
       "description": "Miko serves and manages the village as a kind of duty for Yuran belonging to a family of special lineage.",
       "defName": "Yuran_Race_Miko",
-      "enabled": false,
+      "enabled": true,
       "name": "Yuran Miko",
       "price": 3000
     },
@@ -52742,7 +52742,7 @@
       },
       "description": "The Marvelous gift of glitterworld bionics. A humanoid with cat ears and a tail.",
       "defName": "Alien_Nyaron",
-      "enabled": false,
+      "enabled": true,
       "name": "Nyaron",
       "price": 3000
     }
