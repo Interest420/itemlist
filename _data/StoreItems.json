@@ -7456,7 +7456,7 @@
       "abr": "advancedcookingschematics",
       "category": "Books",
       "defname": "DankPyon_Book_AdvancedCooking",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "advancedresearchbench",
@@ -7654,7 +7654,7 @@
       "abr": "arbalestschematics",
       "category": "Books",
       "defname": "DankPyon_Book_HeavyCrossbow",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "arcanecraftingbench",
@@ -7750,7 +7750,7 @@
       "abr": "ballistarepeaterschematics",
       "category": "Books",
       "defname": "DankPyon_Book_BallistaRepeater",
-      "price": 4167
+      "price": -10
     },
     {
       "abr": "bardiche",
@@ -7924,7 +7924,7 @@
       "abr": "blackpowderschematics",
       "category": "Books",
       "defname": "DankPyon_Book_Gunpowder",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "bludgeon",
@@ -8356,7 +8356,7 @@
       "abr": "crossbowschematics",
       "category": "Books",
       "defname": "DankPyon_Book_Crossbow",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "cupanddice",
@@ -9298,7 +9298,7 @@
       "abr": "greatbowschematics",
       "category": "Books",
       "defname": "DankPyon_Book_GreatBow",
-      "price": 1083
+      "price": -10
     },
     {
       "abr": "greatsword",
@@ -9838,7 +9838,7 @@
       "abr": "intermediatecookingschematics",
       "category": "Books",
       "defname": "DankPyon_Book_IntermediateCooking",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "intotheruins",
@@ -10390,19 +10390,19 @@
       "abr": "metallurgyschematics",
       "category": "Books",
       "defname": "DankPyon_Book_Steel",
-      "price": 1167
+      "price": -10
     },
     {
       "abr": "militarybladeschematics",
       "category": "Books",
       "defname": "DankPyon_Book_MilitaryBlades",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "militarymaceschematics",
       "category": "Books",
       "defname": "DankPyon_Book_MilitaryMaces",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "militarypick",
@@ -10414,7 +10414,7 @@
       "abr": "militarypolearmschematics",
       "category": "Books",
       "defname": "DankPyon_Book_MilitaryPolearms",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "militiaspear",
@@ -10474,67 +10474,67 @@
       "abr": "namedarmet",
       "category": "Headgear",
       "defname": "DankPyon_Headgear_ArmetNamed",
-      "price": 6567
+      "price": -10
     },
     {
       "abr": "namedfullplate",
       "category": "Apparel",
       "defname": "DankPyon_Apparel_FullPlateNamed",
-      "price": 9008
+      "price": -10
     },
     {
       "abr": "namedgreataxe",
       "category": "Melee weapons",
       "defname": "DankPyon_MeleeWeapon_NamedGreataxe",
-      "price": 10883
+      "price": -10
     },
     {
       "abr": "namedgreatsword",
       "category": "Melee weapons",
       "defname": "DankPyon_MeleeWeapon_NamedGreatsword",
-      "price": 11350
+      "price": -10
     },
     {
       "abr": "namedgreatsword",
       "category": "Melee weapons",
       "defname": "DankPyon_MeleeWeapon_NamedGreatsword1c",
-      "price": 11350
+      "price": -10
     },
     {
       "abr": "namedgreatsword",
       "category": "Melee weapons",
       "defname": "DankPyon_MeleeWeapon_NamedGreatsword2c",
-      "price": 11350
+      "price": -10
     },
     {
       "abr": "namedhalberd",
       "category": "Melee weapons",
       "defname": "DankPyon_MeleeWeapon_NamedHalberd",
-      "price": 10058
+      "price": -10
     },
     {
       "abr": "namedhalberd",
       "category": "Melee weapons",
       "defname": "DankPyon_MeleeWeapon_NamedHalberd1c",
-      "price": 10058
+      "price": -10
     },
     {
       "abr": "namedtwo-handedflangedmace",
       "category": "Melee weapons",
       "defname": "DankPyon_MeleeWeapon_NamedTwoHandedFlangedMace",
-      "price": 10108
+      "price": -10
     },
     {
       "abr": "namedtwo-handedhammer",
       "category": "Melee weapons",
       "defname": "DankPyon_MeleeWeapon_NamedTwoHandedHammer",
-      "price": 10942
+      "price": -10
     },
     {
       "abr": "namedtwo-handedhammer",
       "category": "Melee weapons",
       "defname": "DankPyon_MeleeWeapon_NamedTwoHandedHammer1c",
-      "price": 10942
+      "price": -10
     },
     {
       "abr": "nekker",
@@ -10558,19 +10558,19 @@
       "abr": "noblebladeschematics",
       "category": "Books",
       "defname": "DankPyon_Book_NobleBlades",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "noblemaceschematics",
       "category": "Books",
       "defname": "DankPyon_Book_NobleMaces",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "noblepolearmschematics",
       "category": "Books",
       "defname": "DankPyon_Book_NoblePolearms",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "noblesword",
@@ -12262,7 +12262,7 @@
       "abr": "tarschematics",
       "category": "Books",
       "defname": "DankPyon_Book_Tar",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "taroccotable",
@@ -12412,7 +12412,7 @@
       "abr": "tomatoes",
       "category": "Vegetarian",
       "defname": "DankPyon_RawTomatoes",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "toolrack",
@@ -12622,7 +12622,7 @@
       "abr": "warbowschematics",
       "category": "Books",
       "defname": "DankPyon_Book_WarBow",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "warfork",
@@ -12911,7 +12911,55 @@
       "category": "Headgear",
       "defname": "DankPyon_Headgear_ZweihandersHat",
       "price": 198
+    },
+    {
+      "abr": "advancedscribetable",
+      "category": "Misc",
+      "defname": "DankPyon_ScribeTableAdvanced",
+      "price": 692
+    },
+    {
+      "abr": "ancientskeleton",
+      "category": "Animal",
+      "defname": "DF_Skeleton",
+      "price": -10
+    },
+    {
+      "abr": "thegeologist:ordownandupagain",
+      "category": "Books",
+      "defname": "DankPyon_Book_LongRangeScanner",
+      "price": 1333
+    },
+    {
+      "abr": "advancedfortification",
+      "category": "Books",
+      "defname": "EEG_Tier3_Fortification",
+      "price": 1000
+    },
+    {
+      "abr": "advancedmeleeweapons",
+      "category": "Books",
+      "defname": "EEG_Tier3_Melee",
+      "price": 2000
+    },
+    {
+      "abr": "advancedrangedweapons",
+      "category": "Books",
+      "defname": "EEG_Tier3_Ranged",
+      "price": 2000
+    },
+    {
+      "abr": "advancedresources",
+      "category": "Books",
+      "defname": "EEG_Tier2_Ressources",
+      "price": 1667
+    },
+    {
+      "abr": "zombrella",
+      "category": "Misc",
+      "defname": "Zombrella",
+      "price": 3333
     }
   ],
-  "total": 2152
+  "total": 2160
 }

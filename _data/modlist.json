@@ -156,10 +156,10 @@
     "version": "1.4.1240.0"
   },
   {
-    "author": "test",
-    "name": "Cherry Picker Duplicates List",
-    "steamId": null,
-    "version": null
+    "author": "pelador",
+    "name": "Common Ailments (Continued)",
+    "steamId": "2194968364",
+    "version": "1.4.1"
   },
   {
     "author": "PeteTimesSix",
@@ -204,6 +204,36 @@
     "version": "1.0.0"
   },
   {
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
+    "version": "1.0.0"
+  },
+  {
+    "author": "jecrell and contributors",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.4.1.1"
+  },
+  {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.6.0.7"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "kentrh",
+    "name": "Dungeons Core (Continued)",
+    "steamId": "2937127169",
+    "version": "1.4.1"
+  },
+  {
     "author": "Citrus",
     "name": "Expectations Modifier",
     "steamId": "1904336011",
@@ -246,24 +276,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Telefonmast",
-    "name": "Graphics Settings+",
-    "steamId": "1678847247",
-    "version": "1.0.0"
-  },
-  {
-    "author": "jecrell and contributors",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.4.1.1"
-  },
-  {
-    "author": "Torann",
-    "name": "A RimWorld of Magic",
-    "steamId": "1201382956",
-    "version": "2.6.0.7"
-  },
-  {
     "author": "Kure",
     "name": "Kure's Rimworld of Magic Class Expansion Pack",
     "steamId": null,
@@ -297,12 +309,6 @@
     "author": "Allie and Sarg",
     "name": "Alpha Genes",
     "steamId": "2891845502",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
     "version": "1.0.0.0"
   },
   {
@@ -350,6 +356,12 @@
   {
     "author": "Evil Eye Guy",
     "name": "Medieval Overhaul: Royalty",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Evil Eye Guy",
+    "name": "Medieval Overhaul: Toggleable Stuff",
     "steamId": null,
     "version": null
   },
@@ -514,6 +526,12 @@
     "name": "Remove Death Amnesia",
     "steamId": "1905421159",
     "version": "2.0.1.0"
+  },
+  {
+    "author": "Scorpio and Taranchuk",
+    "name": "Resource Dictionary",
+    "steamId": "2817607528",
+    "version": "1.0.0.0"
   },
   {
     "author": "Sierra",

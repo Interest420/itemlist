@@ -52479,10 +52479,10 @@
       "name": "fighter"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 3000,
+      "removePrice": 1,
       "degree": 0,
       "description": "Timmy is a veteran. he has experienced countless of horrifying battles enough to break a common man. ",
       "stats": [
@@ -58584,6 +58584,29 @@
       "enabled": false,
       "name": "Ratkin subject",
       "price": 3333
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+50.00 Mass",
+          "+150% Flammability",
+          "-100.0C Minimum comfortable temperature",
+          "+180.0C Maximum comfortable temperature",
+          "+$100 Market value",
+          "+4.60 Move speed",
+          "+50 Meat amount",
+          "+8 Leather amount",
+          "+20 Carrying capacity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A mysterious ambulatory corpse that bleeds when struck. These creatures seem to be fueled by primal energies, requiring neither sleep nor food.\nCommon to dungeons, scholars theorize them to be either the remains of those unfortunate enough to run afoul of a dungeon’s hazards—risen to defend what they once sought to claim for themselves—or the cursed remains of those who built these structures.\nA few skeletons can be found outside the dungeons they roam, either captured and converted into tireless and expendable warriors, or turned to more esoteric pursuits.",
+      "defName": "DF_Skeleton",
+      "enabled": true,
+      "name": "Ancient Skeleton",
+      "price": 167
     }
   ]
 }
