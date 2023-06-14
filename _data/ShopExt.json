@@ -58604,7 +58604,7 @@
       },
       "description": "A mysterious ambulatory corpse that bleeds when struck. These creatures seem to be fueled by primal energies, requiring neither sleep nor food.\nCommon to dungeons, scholars theorize them to be either the remains of those unfortunate enough to run afoul of a dungeon’s hazards—risen to defend what they once sought to claim for themselves—or the cursed remains of those who built these structures.\nA few skeletons can be found outside the dungeons they roam, either captured and converted into tireless and expendable warriors, or turned to more esoteric pursuits.",
       "defName": "DF_Skeleton",
-      "enabled": true,
+      "enabled": false,
       "name": "Ancient Skeleton",
       "price": 167
     }
