@@ -2188,19 +2188,19 @@
       "abr": "monosword",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_MonoSword",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "zeushammer",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Zeushammer",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "plasmasword",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_PlasmaSword",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "orbitalmechclustertargeter",
@@ -8434,7 +8434,7 @@
       "abr": "drachensword",
       "category": "Melee weapons",
       "defname": "DD_MeleeWeapon_DrachenSword",
-      "price": 3667
+      "price": -10
     },
     {
       "abr": "draconicambrosia",
@@ -9466,7 +9466,7 @@
       "abr": "hornedlance",
       "category": "Melee weapons",
       "defname": "DD_MeleeWeapon_HornedLance",
-      "price": 3833
+      "price": -10
     },
     {
       "abr": "hornethoney",
