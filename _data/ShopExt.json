@@ -48258,7 +48258,7 @@
           "x20 eating speed"
         ],
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null
@@ -53194,13 +53194,13 @@
         ],
         "stats": [],
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Ravenous",
-      "name": "ravenous"
+      "name": "ravenous-rimtraits"
     },
     {
       "canAdd": true,
@@ -53863,7 +53863,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy is naturally good at shooting things from afar. he can fight in close combat, but would prefer not to.",
@@ -53991,7 +53991,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy is handy with a sword. he has some skills with a bow, but prefers to fight up close and personal.",
@@ -54119,7 +54119,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy is a skilled builder. he knows how to build all sorts of buildings and furnitures.",
@@ -54235,7 +54235,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy spends a lot of time examining rocks. he is rather good at spotting valuable minerals.",
@@ -54351,7 +54351,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy likes to watch others cook.",
@@ -54467,7 +54467,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy likes to chop meat into chunks, preferably animal meat...",
@@ -54587,7 +54587,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy likes to watch things grow.",
@@ -54701,7 +54701,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy likes to raise animals and be in their presence.",
@@ -54821,7 +54821,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy likes the sound the forge makes. Ding! Ding! Ding!",
@@ -54933,7 +54933,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy thinks it would be nice if everyone could just stop running around with no clothes on.",
@@ -55045,7 +55045,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "Maybe it's art, or maybe Timmy tripped over a bucket of paint. Again.",
@@ -55157,7 +55157,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy came to the realisation one day that he could stare at naked bodies with a valid excuse.",
@@ -55283,7 +55283,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy is a good negotiator, so good that he starts to make money off it.",
@@ -55403,7 +55403,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy has a thirst for knowledge.",
@@ -55519,7 +55519,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy spends his time keeping everything neat and tidy.",
@@ -55641,7 +55641,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy isn't particularly good at anything, except at what everyone else does.",
@@ -55753,7 +55753,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy is excellent at wielding all weapons. he could even kill using his little finger.",
@@ -55881,7 +55881,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy is skilled at interacting with and hunting animals. Although not trained for battle, he could put up a good fight if needed.",
@@ -56013,7 +56013,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy is an expert at building things. Very few construction works are a challenge to he.",
@@ -56137,7 +56137,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy loves making food. Mmmmm...",
@@ -56263,7 +56263,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy has a wide range of botanical knowledge and decent medical skills.",
@@ -56395,7 +56395,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy considers it a sacred duty to produce the highest quality weapons and apparels possible to contribute to the defense of his homeland.",
@@ -56515,7 +56515,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy is adept at archery, but unlike many others he is also relatively competent in craftsmanship.",
@@ -56645,7 +56645,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy loves working with and caring for animals, he could never leave an injured animal to die.",
@@ -56777,7 +56777,7 @@
     {
       "canAdd": false,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy is a skilled fighter. he realised that he could protect his friends and satisfy his curiosity at the same time.",
@@ -56913,7 +56913,7 @@
     {
       "canAdd": false,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy is an architect. he understands that you don't have to be in The Good Place to build The Good Place.",
@@ -57043,7 +57043,7 @@
     {
       "canAdd": false,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "Cooking is an art, or so Timmy says.",
@@ -57169,7 +57169,7 @@
     {
       "canAdd": false,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy took it one step further, realising that he could get paid touching people's naked bodies.",
@@ -57297,7 +57297,7 @@
     {
       "canAdd": false,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "Everyone hates moral philosophy professors, but Timmy certainly isn't one.",
@@ -57421,7 +57421,7 @@
     {
       "canAdd": false,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy is an expert at scouting out new locations. he frequently leave the relative safety of the colony to patrol the wilderness.",
@@ -57561,7 +57561,7 @@
     {
       "canAdd": false,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy is very pursuasive. he finds it relatively easy to rally people under he banner.",
@@ -57693,7 +57693,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy doesn't really standout, and he doesn't find anything particularly difficult.",
@@ -57813,7 +57813,7 @@
     {
       "canAdd": false,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "As long as Timmy still draws breath, there isn't one threat that the colony can't overcome!",
@@ -57947,7 +57947,7 @@
     {
       "canAdd": false,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "A tongue as sharp as a blade with a sword arm to match, Timmy represents his faction's best interest and will gladly defend its name.",
@@ -58083,7 +58083,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 7500,
+      "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy has no talent. None whatsoever",
@@ -58679,7 +58679,7 @@
       },
       "description": "Humans (collectively referred to as mankind or humanity) are a resilient species native to the world of Azeroth. Recent discoveries have shown that humans are descended from the barbaric half-giant vrykul of Northrend. Though humans are among the younger races on Azeroth, they have faced many challenges with fortitude and resilience. Their continued ability to adapt and rebuild has made them a vital force in an ever-changing world.",
       "defName": "WoW_Human",
-      "enabled": true,
+      "enabled": false,
       "name": "azerothian human",
       "price": 3000
     },

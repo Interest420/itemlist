@@ -2119,26 +2119,6 @@
     "Mod": "RimWorld",
     "KarmaType": null
   },
-  "Turret_Mortar": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 5,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "RimWorld",
-    "KarmaType": null
-  },
   "PsychicEmanator": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -13080,26 +13060,6 @@
     "KarmaType": null
   },
   "AYSalAmmoniac": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 5,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Apothecary (Continued)",
-    "KarmaType": null
-  },
-  "AYSalt": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
