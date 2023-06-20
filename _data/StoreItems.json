@@ -12664,7 +12664,7 @@
       "abr": "advancedscribetable",
       "category": "Misc",
       "defname": "DankPyon_ScribeTableAdvanced",
-      "price": 692
+      "price": -10
     },
     {
       "abr": "ancientskeleton",
@@ -12682,25 +12682,25 @@
       "abr": "advancedfortification",
       "category": "Books",
       "defname": "EEG_Tier3_Fortification",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "advancedmeleeweapons",
       "category": "Books",
       "defname": "EEG_Tier3_Melee",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "advancedrangedweapons",
       "category": "Books",
       "defname": "EEG_Tier3_Ranged",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "advancedresources",
       "category": "Books",
       "defname": "EEG_Tier2_Ressources",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "alpacameat",
