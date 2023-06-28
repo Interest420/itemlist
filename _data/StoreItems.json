@@ -3208,7 +3208,7 @@
       "abr": "embryo",
       "category": "Misc",
       "defname": "HumanEmbryo",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "facemask",
@@ -8620,31 +8620,31 @@
       "abr": "arrow(stone)",
       "category": "Arrows",
       "defname": "Ammo_Arrow_Stone",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "arrow(steel)",
       "category": "Arrows",
       "defname": "Ammo_Arrow_Steel",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "arrow(plasteel)",
       "category": "Arrows",
       "defname": "Ammo_Arrow_Plasteel",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "arrow(venom)",
       "category": "Arrows",
       "defname": "Ammo_Arrow_Venom",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "arrow(flame)",
       "category": "Arrows",
       "defname": "Ammo_Arrow_Flame",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "greatarrow(stone)",
@@ -9923,7 +9923,13 @@
       "category": "Misc",
       "defname": "Genepack",
       "price": 167
+    },
+    {
+      "abr": "zombrella",
+      "category": "Misc",
+      "defname": "Zombrella",
+      "price": 3333
     }
   ],
-  "total": 1654
+  "total": 1655
 }
