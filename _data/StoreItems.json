@@ -8494,55 +8494,55 @@
       "abr": "anti-materielcartridge(fmj)",
       "category": "Anti-materiel",
       "defname": "Ammo_AntiMateriel_FMJ",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "anti-materielcartridge(ap)",
       "category": "Anti-materiel",
       "defname": "Ammo_AntiMateriel_AP",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "anti-materielcartridge(ap-i)",
       "category": "Anti-materiel",
       "defname": "Ammo_AntiMateriel_Incendiary",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "anti-materielcartridge(he)",
       "category": "Anti-materiel",
       "defname": "Ammo_AntiMateriel_HE",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "anti-materielcartridge(sabot)",
       "category": "Anti-materiel",
       "defname": "Ammo_AntiMateriel_Sabot",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "autocannonshell(ap)",
       "category": "Autocannon shell",
       "defname": "Ammo_Autocannon_AP",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "autocannonshell(ap-i)",
       "category": "Autocannon shell",
       "defname": "Ammo_Autocannon_Incendiary",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "autocannonshell(he)",
       "category": "Autocannon shell",
       "defname": "Ammo_Autocannon_HE",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "autocannonshell(sabot)",
       "category": "Autocannon shell",
       "defname": "Ammo_Autocannon_Sabot",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "chargedriflecartridge",
