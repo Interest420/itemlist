@@ -301,11 +301,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "fullheal",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "passion",
 		"price": 7500,
 		"karmatype": "Good"
@@ -361,5 +356,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 72
+	"total": 71
 }
