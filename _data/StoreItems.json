@@ -7816,7 +7816,7 @@
       "abr": "boots",
       "category": "Footwear",
       "defname": "DankPyon_Footwear_BootsLeather",
-      "price": -10
+      "price": 173
     },
     {
       "abr": "braies",
@@ -9887,12 +9887,6 @@
       "category": "Melee weapons",
       "defname": "DankPyon_MeleeWeapon_Longaxe",
       "price": 492
-    },
-    {
-      "abr": "longsword",
-      "category": "Melee weapons",
-      "defname": "DankPyon_MeleeWeapon_Longsword",
-      "price": 442
     },
     {
       "abr": "macci",
@@ -15295,17 +15289,17 @@
       "price": -10
     },
     {
-      "abr": "zombrella",
-      "category": "Misc",
-      "defname": "Zombrella",
-      "price": 3333
+      "abr": "▼▼",
+      "category": "Animals",
+      "defname": "YR_Sikigami_Snake_Noroi",
+      "price": 333
     },
     {
       "abr": "timber",
       "category": "Raw resources",
       "defname": "WoodTimber",
-      "price": -10
+      "price": 1
     }
   ],
-  "total": 2551
+  "total": 2550
 }
