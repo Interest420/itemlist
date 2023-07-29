@@ -106,11 +106,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "orbitaltraderarrival",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "meteor",
 		"price": 150,
 		"karmatype": "Neutral"
@@ -376,5 +371,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 75
+	"total": 74
 }
