@@ -1,11 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 5000,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -103,6 +98,11 @@
 	{
 		"abr": "tradercaravan",
 		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "orbitaltraderarrival",
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -246,11 +246,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "genderswap",
-		"price": 250,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "prisoner",
 		"price": 800,
 		"karmatype": "Good"
@@ -371,5 +366,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 74
+	"total": 73
 }

@@ -6832,7 +6832,7 @@
       "abr": "yuranchargefirelock",
       "category": "Ranged weapons",
       "defname": "YR_WP_MonoGun",
-      "price": 1942
+      "price": -10
     },
     {
       "abr": "yurancheongpung",
@@ -7354,7 +7354,7 @@
       "abr": "blacklarvae",
       "category": "Animals",
       "defname": "AA_BlackLarvae",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "blacktea",
@@ -7750,7 +7750,7 @@
       "abr": "ocularoriginator",
       "category": "Animals",
       "defname": "AA_OcularOriginator",
-      "price": 1417
+      "price": -10
     },
     {
       "abr": "onions",
