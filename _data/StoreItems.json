@@ -6958,7 +6958,7 @@
       "abr": "yuranmiraclepill",
       "category": "Manufactured",
       "defname": "YR_PsychicAmplifier_Evol",
-      "price": 4333
+      "price": 3000
     },
     {
       "abr": "yuranmonokatana",
@@ -7121,12 +7121,6 @@
       "category": "Animals",
       "defname": "YR_Sikigami_Snake_Noroi",
       "price": -10
-    },
-    {
-      "abr": "zombrella",
-      "category": "Misc",
-      "defname": "Zombrella",
-      "price": 3333
     },
     {
       "abr": "yurantorie",
@@ -7702,7 +7696,7 @@
       "abr": "lemonade",
       "category": "Drugs",
       "defname": "VBE_Lemonade",
-      "price": 5
+      "price": -10
     },
     {
       "abr": "lemons",
@@ -7870,7 +7864,7 @@
       "abr": "psyring",
       "category": "Utility",
       "defname": "VPE_Psyring",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "psytrainer(acidspit)",
@@ -9383,6 +9377,12 @@
       "category": "Items",
       "defname": "Xenogerm_YuranXenotype",
       "price": 3333
+    },
+    {
+      "abr": "zombrella",
+      "category": "Misc",
+      "defname": "Zombrella",
+      "price": -10
     }
   ],
   "total": 1564
