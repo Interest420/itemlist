@@ -71,11 +71,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "volcanicwinter",
-		"price": 3000,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "eclipse",
 		"price": 450,
 		"karmatype": "Bad"
@@ -361,5 +356,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 72
+	"total": 71
 }
