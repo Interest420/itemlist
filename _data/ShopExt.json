@@ -2768,13 +2768,13 @@
         ],
         "stats": [],
         "canBypassLimit": false,
-        "customName": true,
+        "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Ravenous",
-      "name": "ravenous-rimtraits"
+      "name": "ravenous"
     },
     {
       "canAdd": true,
@@ -3433,28 +3433,6 @@
       },
       "defName": "RT_Messy",
       "name": "messy"
-    },
-    {
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Psycasts Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VPE_Thrall",
-      "name": "thrall"
     }
   ],
   "races": [
@@ -4141,8 +4119,53 @@
       },
       "description": "She is Miko who is fluent in curses.\nAccording to the record, she even overcame death.",
       "defName": "Yuran_Race_Miko_BlackSnake",
-      "enabled": true,
+      "enabled": false,
       "name": "Yuran BlackSnake",
+      "price": 3000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+80.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+5.60 Move speed",
+          "-8.0C Minimum comfortable temperature",
+          "+18.0C Maximum comfortable temperature",
+          "+3 Honor value",
+          "+20.0% Armor - Blunt",
+          "+50 Leather amount",
+          "+105% Global learning factor",
+          "+110% Pain shock threshold",
+          "+125% Psychic sensitivity",
+          "-85% Toxic resistance",
+          "+85% Plant work speed",
+          "+90% Plant harvest yield",
+          "+90.00% Social impact",
+          "+85.00% Negotiation ability",
+          "+85.00% Trade price improvement",
+          "+130% Hunting stealth",
+          "+105% General labor speed",
+          "+105% Drug synthesis speed",
+          "+105% Drug cooking speed",
+          "+110% Butchery efficiency",
+          "+115.00% Tame animal chance",
+          "+115.00% Train animal chance",
+          "+115% Animal gather speed",
+          "+90% Aiming time",
+          "+1.1 Shooting accuracy",
+          "+1.1 Melee dodge chance",
+          "+1.1 Melee hit chance",
+          "+85 Carrying capacity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Arachne race lineage can be traced back to Arachne homeworld where the temperature fluctuate between cold and warm.\nArachnes over thousands of generations began to adapt to these temperature and ables themselves to withstand cold but in return have less tolerance to the heat",
+      "defName": "Arachne",
+      "enabled": true,
+      "name": "arachne",
       "price": 3000
     }
   ]

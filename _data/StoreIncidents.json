@@ -1,6 +1,11 @@
 {
 	"incitems" : [
 	{
+		"abr": "tornado",
+		"price": 5000,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -43,7 +48,7 @@
 	{
 		"abr": "heatwave",
 		"price": 750,
-		"karmatype": "Good"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "flashstorm",
@@ -71,6 +76,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "volcanicwinter",
+		"price": 3000,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "eclipse",
 		"price": 450,
 		"karmatype": "Bad"
@@ -93,6 +103,11 @@
 	{
 		"abr": "tradercaravan",
 		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "orbitaltraderarrival",
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -173,7 +188,7 @@
 	{
 		"abr": "raid",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "dropraid",
@@ -234,6 +249,11 @@
 		"abr": "removetrait",
 		"price": 1,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "genderswap",
+		"price": 250,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "prisoner",
@@ -356,5 +376,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 71
+	"total": 75
 }
