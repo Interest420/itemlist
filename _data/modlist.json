@@ -90,58 +90,10 @@
     "version": "1.1.3"
   },
   {
-    "author": "Odeum",
-    "name": "World Map Beautification Project",
-    "steamId": "2314407956",
-    "version": "1.3.60.5"
-  },
-  {
-    "author": "The Biomes Mod Team",
-    "name": "Biomes! Core",
-    "steamId": "2038000893",
-    "version": "1.0.0"
-  },
-  {
-    "author": "m00nl1ght",
-    "name": "Geological Landforms",
-    "steamId": "2773943594",
-    "version": "1.6.5.0"
-  },
-  {
-    "author": "Owlchemist",
-    "name": "Cherry Picker",
-    "steamId": "2633276599",
-    "version": "1.4"
-  },
-  {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Fishing Expanded",
-    "steamId": "1914064942",
-    "version": "1.4.8315.17730"
-  },
-  {
-    "author": "The Biomes Mod Team",
-    "name": "Biomes! Caverns",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "AobaKuma OttersHoldHands iforgotmysocks",
     "name": "Camping Tent",
     "steamId": "2407128339",
     "version": "2.1.3.0"
-  },
-  {
-    "author": "busted_bunny",
-    "name": "Capture Them",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "void",
@@ -150,8 +102,20 @@
     "version": "1.4.1242.0"
   },
   {
+    "author": "Owlchemist",
+    "name": "Cherry Picker",
+    "steamId": "2633276599",
+    "version": "1.4"
+  },
+  {
     "author": "test",
     "name": "Cherry Picker Duplicates List",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Luke_lu",
+    "name": "Co-Love Relations",
     "steamId": null,
     "version": null
   },
@@ -180,6 +144,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Dubwise",
     "name": "Dubs Apparel Tweaks",
     "steamId": "2296697286",
@@ -202,6 +172,12 @@
     "name": "Expectations Modifier",
     "steamId": "1904336011",
     "version": "3.1.0.1"
+  },
+  {
+    "author": "m00nl1ght",
+    "name": "Geological Landforms",
+    "steamId": "2773943594",
+    "version": "1.6.5.0"
   },
   {
     "author": "Telefonmast",
@@ -303,6 +279,12 @@
     "author": "Sarg Bjornson and AFriend",
     "name": "Alpha Animals",
     "steamId": "1541721856",
+    "version": "1.4.8315.17730"
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded",
+    "steamId": "1914064942",
     "version": "1.0.0.0"
   },
   {
@@ -328,6 +310,12 @@
     "name": "Pick Up And Haul",
     "steamId": "1279012058",
     "version": "1.0.0"
+  },
+  {
+    "author": "Meltup and Sicarious",
+    "name": "Polyamory Beds (Vanilla Edition)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "NilchEi",
@@ -364,12 +352,6 @@
     "name": "Remove Death Amnesia",
     "steamId": "1905421159",
     "version": "2.0.1.0"
-  },
-  {
-    "author": "PeteTimesSix",
-    "name": "Research Reinvented",
-    "steamId": "2868392160",
-    "version": "1.0.0.0"
   },
   {
     "author": "Uuugggg",
@@ -416,6 +398,12 @@
   {
     "author": "Sierra",
     "name": "RimTraits - General Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "TheElm",
+    "name": "Roofed Scanning",
     "steamId": null,
     "version": null
   },
@@ -519,7 +507,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.3.0.0"
+    "version": "6.3.0.1"
   },
   {
     "author": "Carny Senpai",
@@ -528,10 +516,22 @@
     "version": "1.4.0.0"
   },
   {
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes (Unofficial)",
+    "steamId": "1720021578",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "1trickPwnyta",
     "name": "Unlimited Threat Scale",
     "steamId": "2562732435",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Kikohi and Helixien",
+    "name": "Vanilla Events Expanded",
+    "steamId": "1938420742",
+    "version": "1.1.0"
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
@@ -564,8 +564,8 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Storytellers Expanded - Empress Evil",
+    "author": "Oskar Potocki",
+    "name": "Vanilla Storytellers Expanded - Perry Persistent",
     "steamId": null,
     "version": null
   },
@@ -586,6 +586,24 @@
     "name": "Windows",
     "steamId": "2571189146",
     "version": "1.4"
+  },
+  {
+    "author": "Zylle",
+    "name": "More Vanilla Biomes",
+    "steamId": "1931453053",
+    "version": "0.1.5.01"
+  },
+  {
+    "author": "Odeum",
+    "name": "World Map Beautification Project",
+    "steamId": "2314407956",
+    "version": "1.3.60.5"
+  },
+  {
+    "author": "Carolusclen",
+    "name": "World Map Beautification Project - for More Vanilla Biomes",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Gege",

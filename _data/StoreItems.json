@@ -670,7 +670,7 @@
       "abr": "chickenegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggChickenFertilized",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "cobraegg(fert.)",
@@ -898,7 +898,7 @@
       "abr": "steel",
       "category": "Raw resources",
       "defname": "Steel",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "plasteel",
@@ -4648,7 +4648,7 @@
       "abr": "ratkinprototypepulserifle",
       "category": "Ranged weapons",
       "defname": "RK_PrototypePulseRifle",
-      "price": 2150
+      "price": -10
     },
     {
       "abr": "ratkinresearchgown",
@@ -6986,31 +6986,31 @@
     },
     {
       "abr": "yuranrabbitstatue(crafting)",
-      "category": "Manufactured",
+      "category": "Yuran rabbit statue",
       "defname": "YR_ManekiUsagi_Craft",
       "price": 1000
     },
     {
       "abr": "yuranrabbitstatue(goodharvest)",
-      "category": "Manufactured",
+      "category": "Yuran rabbit statue",
       "defname": "YR_ManekiUsagi_Plant",
       "price": 1000
     },
     {
       "abr": "yuranrabbitstatue(immunity)",
-      "category": "Manufactured",
+      "category": "Yuran rabbit statue",
       "defname": "YR_ManekiUsagi_Immunity",
       "price": 1000
     },
     {
       "abr": "yuranrabbitstatue(recovery)",
-      "category": "Manufactured",
+      "category": "Yuran rabbit statue",
       "defname": "YR_ManekiUsagi_Heal",
       "price": 1000
     },
     {
       "abr": "yuranrabbitstatue(stable)",
-      "category": "Manufactured",
+      "category": "Yuran rabbit statue",
       "defname": "YR_ManekiUsagi_Stability",
       "price": 1000
     },
@@ -7126,7 +7126,7 @@
       "abr": "yurantorie",
       "category": "Misc",
       "defname": "YR_Torie",
-      "price": 271
+      "price": -10
     },
     {
       "abr": "aestheticnose",
@@ -7843,57 +7843,9 @@
       "price": -10
     },
     {
-      "abr": "aaroxisdendoria",
-      "category": "Animals",
-      "defname": "BMT_AaroxisDendoria",
-      "price": -10
-    },
-    {
-      "abr": "aaroxisdendoriaegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_EggAaroxisDendoriaFertilized",
-      "price": -10
-    },
-    {
-      "abr": "aaroxisdendoriapupa",
-      "category": "Animals",
-      "defname": "BMT_AaroxisDendoriaPupa",
-      "price": -10
-    },
-    {
-      "abr": "abyssalgrapes",
-      "category": "Vegetarian",
-      "defname": "BMT_AbyssalGrapes",
-      "price": -10
-    },
-    {
-      "abr": "acidslug",
-      "category": "Animals",
-      "defname": "BMT_AcidSlug",
-      "price": -10
-    },
-    {
-      "abr": "acidslugegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_EggAcidSlugFertilized",
-      "price": -10
-    },
-    {
       "abr": "almonds",
       "category": "Raw fruits",
       "defname": "VCE_RawAlmonds",
-      "price": -10
-    },
-    {
-      "abr": "ambrosyxshroom",
-      "category": "Drugs",
-      "defname": "BMT_AmbrosyxShroom",
-      "price": -10
-    },
-    {
-      "abr": "amphibianskin",
-      "category": "Leathers",
-      "defname": "BMT_Leather_Amphibian",
       "price": -10
     },
     {
@@ -7909,135 +7861,9 @@
       "price": -10
     },
     {
-      "abr": "basilisk",
-      "category": "Animals",
-      "defname": "BMT_Basilisk",
-      "price": 1633
-    },
-    {
-      "abr": "basiliskegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_BasiliskEggFertilized",
-      "price": -10
-    },
-    {
-      "abr": "batwool",
-      "category": "Wools",
-      "defname": "BMT_BatWool",
-      "price": -10
-    },
-    {
       "abr": "bench",
       "category": "Furniture",
       "defname": "Seat_Bench",
-      "price": -10
-    },
-    {
-      "abr": "blindcatfish",
-      "category": "Raw fish",
-      "defname": "BMT_BlindCatfish",
-      "price": -10
-    },
-    {
-      "abr": "blindtetra",
-      "category": "Raw fish",
-      "defname": "BMT_BlindTetra",
-      "price": -10
-    },
-    {
-      "abr": "bloodroplarvae",
-      "category": "Animals",
-      "defname": "BMT_BloodropLarvae",
-      "price": -10
-    },
-    {
-      "abr": "bloodropmoth",
-      "category": "Animals",
-      "defname": "BMT_BloodropMoth",
-      "price": -10
-    },
-    {
-      "abr": "bloodropmothegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_BloodropMothEggFertilized",
-      "price": -10
-    },
-    {
-      "abr": "bloodroppupa",
-      "category": "Animals",
-      "defname": "BMT_BloodropPupa",
-      "price": -10
-    },
-    {
-      "abr": "bluecrystal",
-      "category": "Stone blocks",
-      "defname": "BMT_ResourceBlueCrystal",
-      "price": -10
-    },
-    {
-      "abr": "boneblade",
-      "category": "Raw fish",
-      "defname": "BMT_Boneblade",
-      "price": -10
-    },
-    {
-      "abr": "boommoth",
-      "category": "Animals",
-      "defname": "BMT_BoomMoth",
-      "price": -10
-    },
-    {
-      "abr": "boompupa",
-      "category": "Animals",
-      "defname": "BMT_BoomPupa",
-      "price": -10
-    },
-    {
-      "abr": "boomsporesac",
-      "category": "Raw resources",
-      "defname": "BMT_BoomSpore",
-      "price": -10
-    },
-    {
-      "abr": "boomapillar",
-      "category": "Animals",
-      "defname": "BMT_Boomapillar",
-      "price": -10
-    },
-    {
-      "abr": "boomapillaregg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_EggBoomapillarFertilized",
-      "price": -10
-    },
-    {
-      "abr": "bovinebeetle",
-      "category": "Animals",
-      "defname": "BMT_BovineBeetle",
-      "price": -10
-    },
-    {
-      "abr": "bovinebeetleegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_EggBovineBeetleFertilized",
-      "price": -10
-    },
-    {
-      "abr": "bovinegrub",
-      "category": "Animals",
-      "defname": "BMT_BovineBeetleLarvae",
-      "price": -10
-    },
-    {
-      "abr": "bovinepupa",
-      "category": "Animals",
-      "defname": "BMT_BovineBeetlePupa",
-      "price": -10
-    },
-    {
-      "abr": "brittlechitin",
-      "category": "Leathers",
-      "defname": "BMT_WeakChitin",
       "price": -10
     },
     {
@@ -8077,75 +7903,15 @@
       "price": -10
     },
     {
-      "abr": "caveangelfish",
-      "category": "Raw fish",
-      "defname": "BMT_CaveAngelFish",
-      "price": -10
-    },
-    {
-      "abr": "cavecricket",
-      "category": "Animals",
-      "defname": "BMT_CaveCricket",
-      "price": -10
-    },
-    {
-      "abr": "cavecricketegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_EggCaveCricketFertilized",
-      "price": -10
-    },
-    {
-      "abr": "cavecricketegg(unfert.)",
-      "category": "Eggs (unfert.)",
-      "defname": "BMT_EggCaveCricketUnfertilized",
-      "price": -10
-    },
-    {
       "abr": "cavemoss",
       "category": "Foods",
       "defname": "VCE_RawMoss",
       "price": -10
     },
     {
-      "abr": "cavespider",
-      "category": "Animals",
-      "defname": "BMT_CaveSpider",
-      "price": -10
-    },
-    {
-      "abr": "cavespideregg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_EggCaveSpiderFertilized",
-      "price": -10
-    },
-    {
-      "abr": "cavespiderhead",
-      "category": "Misc",
-      "defname": "BMT_CaveSpiderHead",
-      "price": 333
-    },
-    {
       "abr": "celery",
       "category": "Vegetarian",
       "defname": "VCE_RawCelery",
-      "price": -10
-    },
-    {
-      "abr": "chemsnail",
-      "category": "Animals",
-      "defname": "BMT_ChemSnail",
-      "price": -10
-    },
-    {
-      "abr": "chemsnailegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_EggChemSnailFertilized",
-      "price": -10
-    },
-    {
-      "abr": "chemsnailegg(unfert.)",
-      "category": "Eggs (unfert.)",
-      "defname": "BMT_EggChemSnailUnfertilized",
       "price": -10
     },
     {
@@ -8155,183 +7921,15 @@
       "price": -10
     },
     {
-      "abr": "chitinarmor",
-      "category": "Armor",
-      "defname": "BMT_Apparel_ChitinLightArmor",
-      "price": 425
-    },
-    {
-      "abr": "chitinarmor",
-      "category": "Armor",
-      "defname": "BMT_Apparel_ChitinMediumArmor",
-      "price": 675
-    },
-    {
-      "abr": "chitinarmor",
-      "category": "Armor",
-      "defname": "BMT_Apparel_ChitinHeavyArmor",
-      "price": 1000
-    },
-    {
-      "abr": "chitinbeetlehelmet",
-      "category": "Headgear",
-      "defname": "BMT_Apparel_ChitinBeetleHelmet",
-      "price": 692
-    },
-    {
-      "abr": "chitinfullarmor",
-      "category": "Armor",
-      "defname": "BMT_Apparel_ChitinFullArmor",
-      "price": 1592
-    },
-    {
-      "abr": "chitinfullhelmet",
-      "category": "Headgear",
-      "defname": "BMT_Apparel_ChitinFullHelmet",
-      "price": 692
-    },
-    {
-      "abr": "chitinspiderhelmet",
-      "category": "Headgear",
-      "defname": "BMT_Apparel_ChitinSpiderHelmet",
-      "price": 692
-    },
-    {
-      "abr": "cinnabarcaterpillar",
-      "category": "Animals",
-      "defname": "BMT_AaroxisDendoriaLarvae",
-      "price": -10
-    },
-    {
       "abr": "coconuts",
       "category": "Raw fruits",
       "defname": "VCE_RawCoconut",
-      "price": -10
-    },
-    {
-      "abr": "coolingsalve",
-      "category": "Drugs",
-      "defname": "BMT_CoolingSalve",
-      "price": -10
-    },
-    {
-      "abr": "coralcoconuts",
-      "category": "Vegetarian",
-      "defname": "BiomesIslands_Coconuts",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "countertop",
       "category": "Furniture",
       "defname": "Table_Counter",
-      "price": -10
-    },
-    {
-      "abr": "crabshell",
-      "category": "Leathers",
-      "defname": "BiomesCore_CrabShell",
-      "price": 6
-    },
-    {
-      "abr": "crimsonsilk",
-      "category": "Wools",
-      "defname": "BMT_CrimsonSilk",
-      "price": -10
-    },
-    {
-      "abr": "crystalcarapace",
-      "category": "Leathers",
-      "defname": "BMT_CrystalChitin",
-      "price": 12
-    },
-    {
-      "abr": "crystalcrab",
-      "category": "Animals",
-      "defname": "BMT_CrystalCrab_Sandstone",
-      "price": -10
-    },
-    {
-      "abr": "crystalcrab",
-      "category": "Animals",
-      "defname": "BMT_CrystalCrab_Granite",
-      "price": -10
-    },
-    {
-      "abr": "crystalcrab",
-      "category": "Animals",
-      "defname": "BMT_CrystalCrab_Limestone",
-      "price": -10
-    },
-    {
-      "abr": "crystalcrab",
-      "category": "Animals",
-      "defname": "BMT_CrystalCrab_Slate",
-      "price": -10
-    },
-    {
-      "abr": "crystalcrab",
-      "category": "Animals",
-      "defname": "BMT_CrystalCrab_Marble",
-      "price": -10
-    },
-    {
-      "abr": "crystalcrab",
-      "category": "Animals",
-      "defname": "BMT_CrystalCrab_Jade",
-      "price": -10
-    },
-    {
-      "abr": "crystalfairymole",
-      "category": "Animals",
-      "defname": "BMT_CrystalFairyMole",
-      "price": -10
-    },
-    {
-      "abr": "crystalmimicmantis",
-      "category": "Animals",
-      "defname": "BMT_CrystalMantis",
-      "price": -10
-    },
-    {
-      "abr": "crystalmimicmantisegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_MimicMantisEggFertilized",
-      "price": -10
-    },
-    {
-      "abr": "crystalbackbeetle",
-      "category": "Animals",
-      "defname": "BMT_CrystalBeetle",
-      "price": -10
-    },
-    {
-      "abr": "crystalbackbeetleegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_EggCrystalbackBeetleFertilized",
-      "price": -10
-    },
-    {
-      "abr": "crystalbackgrub",
-      "category": "Animals",
-      "defname": "BMT_CrystalBeetleLarvae",
-      "price": -10
-    },
-    {
-      "abr": "crystalbackpupa",
-      "category": "Animals",
-      "defname": "BMT_CrystalBeetlePupa",
-      "price": -10
-    },
-    {
-      "abr": "crystallinecaterpillar",
-      "category": "Animals",
-      "defname": "BMT_FacetMothLarvae",
-      "price": -10
-    },
-    {
-      "abr": "crystalope",
-      "category": "Animals",
-      "defname": "BMT_Crystalope",
       "price": -10
     },
     {
@@ -8341,40 +7939,10 @@
       "price": -10
     },
     {
-      "abr": "darkaxolotl",
-      "category": "Animals",
-      "defname": "BMT_DarkAxolotl",
-      "price": -10
-    },
-    {
-      "abr": "darkaxolotlegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_EggDarkAxolotlFertilized",
-      "price": -10
-    },
-    {
       "abr": "dartsboard",
       "category": "Furniture",
       "defname": "Joy_DartsBoard",
       "price": 174
-    },
-    {
-      "abr": "deepchitin",
-      "category": "Leathers",
-      "defname": "BMT_DeepChitin",
-      "price": 14
-    },
-    {
-      "abr": "devilspupfish",
-      "category": "Raw fish",
-      "defname": "BMT_DevilsPupfish",
-      "price": -10
-    },
-    {
-      "abr": "dulcis",
-      "category": "Vegetarian",
-      "defname": "BMT_RawDulcis",
-      "price": -10
     },
     {
       "abr": "ergonomicbed",
@@ -8395,135 +7963,9 @@
       "price": 867
     },
     {
-      "abr": "facetmoth",
-      "category": "Animals",
-      "defname": "BMT_FacetMoth",
-      "price": -10
-    },
-    {
-      "abr": "facetmothegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_FacetMothEggFertilized",
-      "price": -10
-    },
-    {
-      "abr": "facetpupa",
-      "category": "Animals",
-      "defname": "BMT_FacetMothPupa",
-      "price": -10
-    },
-    {
-      "abr": "fieldresearchanalyzer-kit",
-      "category": "Utility",
-      "defname": "RR_FieldResearchKitMultiAnalyzer",
-      "price": 270
-    },
-    {
-      "abr": "fieldresearchkit",
-      "category": "Utility",
-      "defname": "RR_FieldResearchKitHiTech",
-      "price": 129
-    },
-    {
       "abr": "filecabinet",
       "category": "Furniture",
       "defname": "Misc_FileCabinet",
-      "price": -10
-    },
-    {
-      "abr": "firesalamander",
-      "category": "Animals",
-      "defname": "BMT_FireSalamander",
-      "price": 1500
-    },
-    {
-      "abr": "firesalamanderegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_EggFireSalamanderFertilized",
-      "price": -10
-    },
-    {
-      "abr": "firesalamanderegg(unfert.)",
-      "category": "Eggs (unfert.)",
-      "defname": "BMT_EggFireSalamanderUnfertilized",
-      "price": -10
-    },
-    {
-      "abr": "flame-proofleather",
-      "category": "Leathers",
-      "defname": "BMT_Leather_Magma",
-      "price": 12
-    },
-    {
-      "abr": "flamingo",
-      "category": "Animals",
-      "defname": "BiomesIslands_Flamingo",
-      "price": -10
-    },
-    {
-      "abr": "flamingoegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggFlamingoFertilized",
-      "price": -10
-    },
-    {
-      "abr": "flamingoleather",
-      "category": "Leathers",
-      "defname": "BiomesIslands_Leather_Flamingo",
-      "price": -10
-    },
-    {
-      "abr": "foundrybeetle",
-      "category": "Animals",
-      "defname": "BMT_FoundryBeetle",
-      "price": -10
-    },
-    {
-      "abr": "foundrybeetleegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_FoundryBeetleEggFertilized",
-      "price": -10
-    },
-    {
-      "abr": "foundrygrub",
-      "category": "Animals",
-      "defname": "BMT_FoundryBeetleLarvae",
-      "price": -10
-    },
-    {
-      "abr": "foundrypupa",
-      "category": "Animals",
-      "defname": "BMT_FoundryBeetlePupa",
-      "price": -10
-    },
-    {
-      "abr": "freshshimmershroom",
-      "category": "Vegetarian",
-      "defname": "BMT_RawShimmershroom",
-      "price": -10
-    },
-    {
-      "abr": "fungalferret",
-      "category": "Animals",
-      "defname": "BMT_FungalFerret",
-      "price": -10
-    },
-    {
-      "abr": "fungalmedicine",
-      "category": "Medicine",
-      "defname": "BMT_MedicineFungal",
-      "price": 17
-    },
-    {
-      "abr": "fungalweevil",
-      "category": "Animals",
-      "defname": "BMT_FungalWeevil",
-      "price": -10
-    },
-    {
-      "abr": "fungalweevilegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_EggFungalWeevilFertilized",
       "price": -10
     },
     {
@@ -8533,207 +7975,15 @@
       "price": -10
     },
     {
-      "abr": "gastropodmeat",
-      "category": "Meat",
-      "defname": "BMT_GastropodMeat",
-      "price": -10
-    },
-    {
-      "abr": "gastropodskin",
-      "category": "Leathers",
-      "defname": "BMT_Leather_Gastropoda",
-      "price": -10
-    },
-    {
-      "abr": "ghostshrimp",
-      "category": "Raw fish",
-      "defname": "BMT_GhostShrimp",
-      "price": -10
-    },
-    {
-      "abr": "giantcavecrab",
-      "category": "Raw fish",
-      "defname": "BMT_GiantCaveCrab",
-      "price": -10
-    },
-    {
-      "abr": "giantleaf",
-      "category": "Vegetarian",
-      "defname": "BMT_RawGiantLeaf",
-      "price": -10
-    },
-    {
-      "abr": "giantslug",
-      "category": "Animals",
-      "defname": "BMT_GiantSlug",
-      "price": -10
-    },
-    {
-      "abr": "giantslugegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_EggGiantSlugFertilized",
-      "price": -10
-    },
-    {
-      "abr": "giantslugegg(unfert.)",
-      "category": "Eggs (unfert.)",
-      "defname": "BMT_EggGiantSlugUnfertilized",
-      "price": -10
-    },
-    {
-      "abr": "giantsnail",
-      "category": "Animals",
-      "defname": "BMT_GiantSnail",
-      "price": -10
-    },
-    {
-      "abr": "giantsnailegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_EggGiantSnailFertilized",
-      "price": -10
-    },
-    {
-      "abr": "giantspidersilk",
-      "category": "Wools",
-      "defname": "BMT_SpiderSilk",
-      "price": -10
-    },
-    {
-      "abr": "gleamcapsalve",
-      "category": "Medicine",
-      "defname": "BMT_GleamcapSalve",
-      "price": 17
-    },
-    {
-      "abr": "gleamcapsules",
-      "category": "Drugs",
-      "defname": "BMT_Gleamcapsules",
-      "price": 30
-    },
-    {
-      "abr": "glimmerslime",
-      "category": "Vegetarian",
-      "defname": "BMT_Glimmerslime",
-      "price": -10
-    },
-    {
-      "abr": "glitter",
-      "category": "Drugs",
-      "defname": "BMT_Glitter",
-      "price": 35
-    },
-    {
-      "abr": "glowcuttlefish",
-      "category": "Raw fish",
-      "defname": "BMT_GlowCuttlefish",
-      "price": -10
-    },
-    {
-      "abr": "glowgoo",
-      "category": "Manufactured",
-      "defname": "BMT_GlowGoo",
-      "price": 5
-    },
-    {
-      "abr": "glowslug",
-      "category": "Animals",
-      "defname": "BMT_GlowSlug",
-      "price": -10
-    },
-    {
-      "abr": "glowslugegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_EggGlowSlugFertilized",
-      "price": -10
-    },
-    {
-      "abr": "glowsnail",
-      "category": "Animals",
-      "defname": "BMT_GlowSnail",
-      "price": -10
-    },
-    {
-      "abr": "glowsnailegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_EggGlowSnailFertilized",
-      "price": -10
-    },
-    {
-      "abr": "goetotoad",
-      "category": "Animals",
-      "defname": "BMT_Goeto",
-      "price": -10
-    },
-    {
-      "abr": "goetotoadegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_EggGoetoFertilized",
-      "price": -10
-    },
-    {
-      "abr": "goetotoadegg(unfert.)",
-      "category": "Eggs (unfert.)",
-      "defname": "BMT_EggGoetoUnfertilized",
-      "price": -10
-    },
-    {
-      "abr": "grayshell",
-      "category": "Leathers",
-      "defname": "BMT_GrayChitin",
-      "price": -10
-    },
-    {
       "abr": "greenbeans",
       "category": "Vegetarian",
       "defname": "VCE_RawBeans",
       "price": -10
     },
     {
-      "abr": "greenshell",
-      "category": "Leathers",
-      "defname": "BiomesCore_GreenChitin",
-      "price": 7
-    },
-    {
-      "abr": "iceblock",
-      "category": "Stone blocks",
-      "defname": "BMT_IceBlock",
-      "price": -10
-    },
-    {
       "abr": "industrialradio",
       "category": "Recreation",
       "defname": "Radio_Industrial",
-      "price": 433
-    },
-    {
-      "abr": "jadeglints",
-      "category": "Drugs",
-      "defname": "BMT_JadeGlints",
-      "price": 25
-    },
-    {
-      "abr": "jellypot",
-      "category": "Animals",
-      "defname": "BMT_Jellypot",
-      "price": -10
-    },
-    {
-      "abr": "jewelbug",
-      "category": "Animals",
-      "defname": "BMT_Jewelbug",
-      "price": -10
-    },
-    {
-      "abr": "jewelbugegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_EggJewelbugFertilized",
-      "price": -10
-    },
-    {
-      "abr": "kessinger",
-      "category": "Foods",
-      "defname": "BMT_Kessinger",
       "price": -10
     },
     {
@@ -8842,30 +8092,12 @@
       "abr": "longwaveradio",
       "category": "Recreation",
       "defname": "Radio_Spacer",
-      "price": 1033
+      "price": -10
     },
     {
       "abr": "lotusseeds",
       "category": "Vegetarian",
       "defname": "VCE_RawLotus",
-      "price": -10
-    },
-    {
-      "abr": "lumineel",
-      "category": "Raw fish",
-      "defname": "BMT_Lumineel",
-      "price": -10
-    },
-    {
-      "abr": "magmalizard",
-      "category": "Animals",
-      "defname": "BMT_MagmaLizard",
-      "price": -10
-    },
-    {
-      "abr": "magmalizardegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_MagmaLizardEggFertilized",
       "price": -10
     },
     {
@@ -8875,141 +8107,15 @@
       "price": -10
     },
     {
-      "abr": "maxolotl",
-      "category": "Animals",
-      "defname": "BMT_Maxolotl",
-      "price": -10
-    },
-    {
-      "abr": "maxolotlegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_EggMaxolotlFertilized",
-      "price": -10
-    },
-    {
-      "abr": "megabat",
-      "category": "Animals",
-      "defname": "BMT_Megabat",
-      "price": -10
-    },
-    {
-      "abr": "megapleura",
-      "category": "Animals",
-      "defname": "BMT_Megapleura",
-      "price": -10
-    },
-    {
-      "abr": "megapleuraegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_MegapleuraEggFertilized",
-      "price": -10
-    },
-    {
       "abr": "melons",
       "category": "Raw fruits",
       "defname": "VCE_RawMelon",
       "price": -10
     },
     {
-      "abr": "metallosnailegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_EggMetalloSnailFertilized",
-      "price": -10
-    },
-    {
-      "abr": "metallosnail",
-      "category": "Animals",
-      "defname": "BMT_MetalloSnail",
-      "price": -10
-    },
-    {
       "abr": "moderncomputer",
       "category": "Recreation",
       "defname": "Joy_ModernComputer",
-      "price": 1100
-    },
-    {
-      "abr": "mole",
-      "category": "Animals",
-      "defname": "BMT_Mole",
-      "price": -10
-    },
-    {
-      "abr": "molluskshell",
-      "category": "Leathers",
-      "defname": "BMT_Molluskshell",
-      "price": -10
-    },
-    {
-      "abr": "moonlesssilk",
-      "category": "Leathers",
-      "defname": "BMT_MoonlessSilk",
-      "price": -10
-    },
-    {
-      "abr": "mossbeetle",
-      "category": "Animals",
-      "defname": "BMT_MossBeetle",
-      "price": -10
-    },
-    {
-      "abr": "mossbeetleegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_EggMossBeetleFertilized",
-      "price": -10
-    },
-    {
-      "abr": "mossgrub",
-      "category": "Animals",
-      "defname": "BMT_MossBeetleLarvae",
-      "price": -10
-    },
-    {
-      "abr": "mosspupa",
-      "category": "Animals",
-      "defname": "BMT_MossBeetlePupa",
-      "price": -10
-    },
-    {
-      "abr": "mossyfennec",
-      "category": "Animals",
-      "defname": "BMT_MossyFennec",
-      "price": -10
-    },
-    {
-      "abr": "mushroomfermentingbarrel",
-      "category": "Production",
-      "defname": "BMT_MushroomFermentingBarrel",
-      "price": -10
-    },
-    {
-      "abr": "mushroomleather",
-      "category": "Leathers",
-      "defname": "BMT_Leather_Mushroom",
-      "price": -10
-    },
-    {
-      "abr": "mushroomlog",
-      "category": "Raw resources",
-      "defname": "BMT_MushroomLog",
-      "price": -10
-    },
-    {
-      "abr": "mushroommust",
-      "category": "Manufactured",
-      "defname": "BMT_MushroomMust",
-      "price": -10
-    },
-    {
-      "abr": "mushroomwine",
-      "category": "Drugs",
-      "defname": "BMT_MushroomWine",
-      "price": 33
-    },
-    {
-      "abr": "mycelialblocks",
-      "category": "Foods",
-      "defname": "BMT_MycelialBlocks",
       "price": -10
     },
     {
@@ -9022,7 +8128,7 @@
       "abr": "oldcomputer",
       "category": "Recreation",
       "defname": "Joy_InudstrialComputer",
-      "price": 517
+      "price": -10
     },
     {
       "abr": "olives",
@@ -9037,51 +8143,15 @@
       "price": -10
     },
     {
-      "abr": "owlbear",
-      "category": "Animals",
-      "defname": "BMT_Owlbear",
-      "price": -10
-    },
-    {
-      "abr": "owlbearegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_OwlbearEggFertilized",
-      "price": -10
-    },
-    {
       "abr": "peanuts",
       "category": "Vegetarian",
       "defname": "VCE_RawPeanut",
       "price": -10
     },
     {
-      "abr": "pillbug",
-      "category": "Animals",
-      "defname": "BMT_Pillbug",
-      "price": -10
-    },
-    {
-      "abr": "pillbugegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_EggPillbugFertilized",
-      "price": -10
-    },
-    {
       "abr": "pineapples",
       "category": "Raw fruits",
       "defname": "VCE_RawPineapple",
-      "price": -10
-    },
-    {
-      "abr": "podworm",
-      "category": "Animals",
-      "defname": "BMT_PodWorm",
-      "price": -10
-    },
-    {
-      "abr": "podwormegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_EggPodWormFertilized",
       "price": -10
     },
     {
@@ -9283,39 +8353,9 @@
       "price": 280
     },
     {
-      "abr": "rawglowbulb",
-      "category": "Vegetarian",
-      "defname": "BMT_RawGlowbulb",
-      "price": -10
-    },
-    {
-      "abr": "rawgreyfields",
-      "category": "Vegetarian",
-      "defname": "BMT_RawGreyfields",
-      "price": -10
-    },
-    {
       "abr": "redbellpeppers",
       "category": "Vegetarian",
       "defname": "VCE_RawBellPeppers",
-      "price": -10
-    },
-    {
-      "abr": "remotefieldresearchkit",
-      "category": "Utility",
-      "defname": "RR_FieldResearchKitRemote",
-      "price": 642
-    },
-    {
-      "abr": "rocklobster",
-      "category": "Raw fish",
-      "defname": "BMT_RockLobster",
-      "price": -10
-    },
-    {
-      "abr": "rocktooth",
-      "category": "Raw fish",
-      "defname": "BMT_Rocktooth",
       "price": -10
     },
     {
@@ -9337,12 +8377,6 @@
       "price": 908
     },
     {
-      "abr": "royalchitin",
-      "category": "Leathers",
-      "defname": "BMT_RoyalChitin",
-      "price": 17
-    },
-    {
       "abr": "royaldresser",
       "category": "Furniture",
       "defname": "Table_RoyalDresser",
@@ -9359,36 +8393,6 @@
       "category": "Furniture",
       "defname": "Bed_Kingsize",
       "price": 2008
-    },
-    {
-      "abr": "royalrhinobeetle",
-      "category": "Animals",
-      "defname": "BMT_RoyalRhino",
-      "price": -10
-    },
-    {
-      "abr": "royalrhinobeetleegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_EggRoyalRhinoFertilized",
-      "price": -10
-    },
-    {
-      "abr": "royalrhinobeetlehorn",
-      "category": "Misc",
-      "defname": "BMT_RoyalRhinoHorn",
-      "price": 333
-    },
-    {
-      "abr": "royalrhinogrub",
-      "category": "Animals",
-      "defname": "BMT_RoyalRhinoLarvae",
-      "price": -10
-    },
-    {
-      "abr": "royalrhinopupa",
-      "category": "Animals",
-      "defname": "BMT_RoyalRhinoPupa",
-      "price": -10
     },
     {
       "abr": "royaltable(1x1)",
@@ -9421,40 +8425,10 @@
       "price": -10
     },
     {
-      "abr": "shatterjawbeetle",
-      "category": "Animals",
-      "defname": "BMT_ShatterjawBeetle",
-      "price": -10
-    },
-    {
-      "abr": "shatterjawbeetleegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_EggShatterjawFertilized",
-      "price": -10
-    },
-    {
-      "abr": "shatterjawgrub",
-      "category": "Animals",
-      "defname": "BMT_ShatterjawBeetleLarvae",
-      "price": -10
-    },
-    {
-      "abr": "shatterjawpupa",
-      "category": "Animals",
-      "defname": "BMT_ShatterjawBeetlePupa",
-      "price": -10
-    },
-    {
       "abr": "simplebed",
       "category": "Furniture",
       "defname": "Bed_Simple",
       "price": 137
-    },
-    {
-      "abr": "simplefieldresearchkit",
-      "category": "Utility",
-      "defname": "RR_FieldResearchKitSimple",
-      "price": 58
     },
     {
       "abr": "sittingcushion",
@@ -9475,33 +8449,9 @@
       "price": -10
     },
     {
-      "abr": "sonarrabbit",
-      "category": "Animals",
-      "defname": "BMT_SonarRabbit",
-      "price": -10
-    },
-    {
       "abr": "squarechair",
       "category": "Furniture",
       "defname": "Seat_SquareChair",
-      "price": -10
-    },
-    {
-      "abr": "starchstalk",
-      "category": "Vegetarian",
-      "defname": "BMT_Starchstalk",
-      "price": -10
-    },
-    {
-      "abr": "stimquill",
-      "category": "Drugs",
-      "defname": "BMT_StimquillDrug",
-      "price": 25
-    },
-    {
-      "abr": "stonesalamander",
-      "category": "Raw fish",
-      "defname": "BMT_StoneSalamander",
       "price": -10
     },
     {
@@ -9526,36 +8476,6 @@
       "abr": "taroroots",
       "category": "Vegetarian",
       "defname": "VCE_RawTaro",
-      "price": -10
-    },
-    {
-      "abr": "thrumbungus",
-      "category": "Animals",
-      "defname": "BMT_Thrumbungus",
-      "price": -10
-    },
-    {
-      "abr": "thrumbungusmushroom",
-      "category": "Misc",
-      "defname": "BMT_ThrumbungusShroom",
-      "price": 333
-    },
-    {
-      "abr": "toughchitin",
-      "category": "Leathers",
-      "defname": "BMT_MediumChitin",
-      "price": -10
-    },
-    {
-      "abr": "toughleather",
-      "category": "Leathers",
-      "defname": "BMT_ToughLeather",
-      "price": -10
-    },
-    {
-      "abr": "trufflemole",
-      "category": "Animals",
-      "defname": "BMT_TruffleMole",
       "price": -10
     },
     {
@@ -9589,52 +8509,64 @@
       "price": -10
     },
     {
-      "abr": "woolybat",
-      "category": "Animals",
-      "defname": "BMT_Woolybat",
-      "price": -10
-    },
-    {
-      "abr": "woolyspider",
-      "category": "Animals",
-      "defname": "BMT_WoolySpider",
-      "price": -10
-    },
-    {
-      "abr": "woolyspideregg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_EggWoolySpiderFertilized",
-      "price": -10
-    },
-    {
-      "abr": "xyrion",
-      "category": "Animals",
-      "defname": "BMT_Xyrion",
-      "price": -10
-    },
-    {
-      "abr": "xyrionegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BMT_EggXyrionFertilized",
-      "price": -10
-    },
-    {
-      "abr": "xyriontail",
-      "category": "Meat",
-      "defname": "BMT_XyrionTail",
-      "price": -10
-    },
-    {
       "abr": "yellowbellpeppers",
       "category": "Vegetarian",
       "defname": "VCE_RawYellowBellPeppers",
       "price": -10
     },
     {
-      "abr": "yooka",
-      "category": "Animals",
-      "defname": "BMT_Yooka",
-      "price": -10
+      "abr": "pentaroyalbed",
+      "category": "Furniture",
+      "defname": "PentaRoyalBed",
+      "price": 3617
+    },
+    {
+      "abr": "quadrabed",
+      "category": "Furniture",
+      "defname": "QuadBed",
+      "price": 567
+    },
+    {
+      "abr": "quadrabedroll",
+      "category": "Furniture",
+      "defname": "BedrollQuad",
+      "price": 600
+    },
+    {
+      "abr": "quadraroyalbed",
+      "category": "Furniture",
+      "defname": "QuadRoyalBed",
+      "price": 2900
+    },
+    {
+      "abr": "slabquadbed",
+      "category": "Furniture",
+      "defname": "SlabQuadBed",
+      "price": 658
+    },
+    {
+      "abr": "slabtriplebed",
+      "category": "Furniture",
+      "defname": "SlabTripleBed",
+      "price": 475
+    },
+    {
+      "abr": "triplebed",
+      "category": "Furniture",
+      "defname": "TripleBed",
+      "price": 433
+    },
+    {
+      "abr": "triplebedroll",
+      "category": "Furniture",
+      "defname": "BedrollTriple",
+      "price": 442
+    },
+    {
+      "abr": "tripleroyalbed",
+      "category": "Furniture",
+      "defname": "TripleRoyalBed",
+      "price": 2183
     },
     {
       "abr": "zombrella",
@@ -9643,5 +8575,5 @@
       "price": -10
     }
   ],
-  "total": 1607
+  "total": 1429
 }
