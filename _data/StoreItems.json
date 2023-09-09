@@ -8398,31 +8398,31 @@
       "abr": "royaltable(1x1)",
       "category": "Furniture",
       "defname": "Table_Royal1x1c",
-      "price": -10
+      "price": 280
     },
     {
       "abr": "royaltable(1x2)",
       "category": "Furniture",
       "defname": "Table_Royal1x2c",
-      "price": -10
+      "price": 542
     },
     {
       "abr": "royaltable(2x2)",
       "category": "Furniture",
       "defname": "Table_Royal2x2c",
-      "price": -10
+      "price": 1092
     },
     {
       "abr": "royaltable(2x4)",
       "category": "Furniture",
       "defname": "Table_Royal2x4c",
-      "price": -10
+      "price": 1475
     },
     {
       "abr": "royaltable(3x3)",
       "category": "Furniture",
       "defname": "Table_Royal3x3c",
-      "price": -10
+      "price": 1617
     },
     {
       "abr": "simplebed",
@@ -8567,13 +8567,7 @@
       "category": "Furniture",
       "defname": "TripleRoyalBed",
       "price": 2183
-    },
-    {
-      "abr": "zombrella",
-      "category": "Misc",
-      "defname": "Zombrella",
-      "price": -10
     }
   ],
-  "total": 1429
+  "total": 1428
 }
