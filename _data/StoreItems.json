@@ -142,7 +142,7 @@
       "abr": "hospitalbed",
       "category": "Furniture",
       "defname": "HospitalBed",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "bedroll",
@@ -8567,7 +8567,13 @@
       "category": "Furniture",
       "defname": "TripleRoyalBed",
       "price": 2183
+    },
+    {
+      "abr": "zombrella",
+      "category": "Misc",
+      "defname": "Zombrella",
+      "price": 3333
     }
   ],
-  "total": 1428
+  "total": 1429
 }
