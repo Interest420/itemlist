@@ -157,6 +157,12 @@
   },
   {
     "author": "Dubwise",
+    "name": "Dubs Central Heating",
+    "steamId": "2619214952",
+    "version": "2.7.7366"
+  },
+  {
+    "author": "Dubwise",
     "name": "Dubs Performance Analyzer",
     "steamId": "2038874626",
     "version": "1.0.0"
@@ -180,12 +186,6 @@
     "version": "1.6.5.0"
   },
   {
-    "author": "Telefonmast",
-    "name": "Graphics Settings+",
-    "steamId": "1678847247",
-    "version": "1.0.0"
-  },
-  {
     "author": "Krypt",
     "name": "RWLayout",
     "steamId": "2209393954",
@@ -198,10 +198,40 @@
     "version": "1.0.0"
   },
   {
+    "author": "Adamas",
+    "name": "Hospital",
+    "steamId": "2992224079",
+    "version": "1.4.0.0"
+  },
+  {
     "author": "キャデグ",
     "name": "Killfeed",
     "steamId": "1362098265",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
+    "version": "1.0.0"
+  },
+  {
+    "author": "jecrell and contributors",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.4.1.1"
+  },
+  {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.6.0.8"
+  },
+  {
+    "author": "Kure",
+    "name": "Kure's Rimworld of Magic Class Expansion Pack",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Mlie",
@@ -376,6 +406,12 @@
     "name": "Resource Dictionary",
     "steamId": "2817607528",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Jecrell",
@@ -555,7 +591,7 @@
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.13.0.0"
+    "version": "1.14.3.0"
   },
   {
     "author": "legodude17 and Oskar Potocki",
@@ -682,6 +718,12 @@
     "name": "[SYR] Harvest Yield",
     "steamId": "1461790308",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Wemd",
+    "name": "[WD] Expanded Floors",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Krkr",

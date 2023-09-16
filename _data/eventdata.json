@@ -164,14 +164,14 @@
     "HasGlobalCooldown": false,
     "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 300,
+    "LocalCooldown": 600,
     "Mod": "Twitch Toolkit"
   },
   "animaltame": {
     "EventType": "Default",
-    "HasGlobalCooldown": true,
+    "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 600,
+    "GlobalCooldown": 0,
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
@@ -185,10 +185,10 @@
   },
   "resourcepodcrash": {
     "EventType": "Default",
-    "HasGlobalCooldown": true,
+    "HasGlobalCooldown": false,
     "HasLocalCooldown": true,
-    "GlobalCooldown": 60,
-    "LocalCooldown": 150,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 300,
     "Mod": "Twitch Toolkit"
   },
   "tradercaravan": {
@@ -316,7 +316,7 @@
     "HasGlobalCooldown": false,
     "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 150,
+    "LocalCooldown": 300,
     "Mod": "Twitch Toolkit"
   },
   "party": {
