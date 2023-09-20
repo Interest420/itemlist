@@ -4798,13 +4798,13 @@
       "abr": "wyvernammo(normal)",
       "category": "Manufactured",
       "defname": "RK_WyvernAmmo_NormalType",
-      "price": -10
+      "price": 92
     },
     {
       "abr": "wyvernammo(spread)",
       "category": "Manufactured",
       "defname": "RK_WyvernAmmo_SpreadType",
-      "price": -10
+      "price": 92
     },
     {
       "abr": "▽▽",
@@ -8569,12 +8569,6 @@
       "price": 2183
     },
     {
-      "abr": "zombrella",
-      "category": "Misc",
-      "defname": "Zombrella",
-      "price": 3333
-    },
-    {
       "abr": "air-conindoorunit",
       "category": "Misc",
       "defname": "AirconIndoorUnit",
@@ -11551,5 +11545,5 @@
       "price": 392
     }
   ],
-  "total": 1925
+  "total": 1924
 }
