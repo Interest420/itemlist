@@ -5012,7 +5012,7 @@
     },
     {
       "abr": "bigcherry",
-      "category": "Manufactured",
+      "category": "Yuran Manufactured",
       "defname": "YR_yedoensisBerries_Big",
       "price": -10
     },
@@ -5768,7 +5768,7 @@
     },
     {
       "abr": "hanakoji",
-      "category": "Manufactured",
+      "category": "Yuran Manufactured",
       "defname": "YR_Hanasake_Koji",
       "price": -10
     },
@@ -6776,7 +6776,7 @@
     },
     {
       "abr": "yuranbigcherrybox",
-      "category": "Manufactured",
+      "category": "Yuran Manufactured",
       "defname": "YR_TreeBox",
       "price": 2000
     },
@@ -6788,7 +6788,7 @@
     },
     {
       "abr": "yuranblackdressbox",
-      "category": "Manufactured",
+      "category": "Yuran Manufactured",
       "defname": "YR_ClothBox_AddonBlack",
       "price": 3667
     },
@@ -6806,7 +6806,7 @@
     },
     {
       "abr": "yuranblackskirt/capebox",
-      "category": "Manufactured",
+      "category": "Yuran Manufactured",
       "defname": "YR_ClothBox_AddonBlackSkirt",
       "price": 3667
     },
@@ -6884,7 +6884,7 @@
     },
     {
       "abr": "yuranheug-ilbox",
-      "category": "Manufactured",
+      "category": "Yuran Manufactured",
       "defname": "YR_ClothBox",
       "price": 6667
     },
@@ -6944,7 +6944,7 @@
     },
     {
       "abr": "yuranlotuslantern",
-      "category": "Manufactured",
+      "category": "Yuran Manufactured",
       "defname": "YR_Random_lantern",
       "price": 75
     },
@@ -7100,7 +7100,7 @@
     },
     {
       "abr": "yuranwhitedressbox",
-      "category": "Manufactured",
+      "category": "Yuran Manufactured",
       "defname": "YR_ClothBox_AddonWhite",
       "price": 3667
     },
@@ -9898,13 +9898,13 @@
       "abr": "gemofarcaneinsight",
       "category": "Magic artifacts",
       "defname": "GemstoneOfInsight_Magic",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "gemofphysicalinsight",
       "category": "Magic artifacts",
       "defname": "GemstoneOfInsight_Might",
-      "price": 4000
+      "price": -10
     },
     {
       "abr": "geomancerspell:meteor",
