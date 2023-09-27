@@ -742,19 +742,19 @@
       "abr": "herbalmedicine",
       "category": "Medicine",
       "defname": "MedicineHerbal",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "medicine",
       "category": "Medicine",
       "defname": "MedicineIndustrial",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "glitterworldmedicine",
       "category": "Medicine",
       "defname": "MedicineUltratech",
-      "price": -10
+      "price": 83
     },
     {
       "abr": "component",
@@ -3796,7 +3796,7 @@
       "abr": "treatedherbalmedicine",
       "category": "Medicine",
       "defname": "AYTreatedMedHerb",
-      "price": -10
+      "price": 38
     },
     {
       "abr": "turmericpowder",
@@ -10732,7 +10732,7 @@
       "abr": "radiator",
       "category": "Misc",
       "defname": "RadiatorStuffed",
-      "price": 85
+      "price": -10
     },
     {
       "abr": "rangerskill:hunter'sshot",
@@ -10906,7 +10906,7 @@
       "abr": "serum:supersoldier",
       "category": "Skill books",
       "defname": "BookOfSuperSoldier",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "shadowessence",
@@ -10972,7 +10972,7 @@
       "abr": "shardofspiritextraction",
       "category": "Magic artifacts",
       "defname": "TM_Artifact_ClassExtraction",
-      "price": 1167
+      "price": 500
     },
     {
       "abr": "slategolem",
@@ -11543,7 +11543,667 @@
       "category": "Magic apparel",
       "defname": "TM_WizardHat",
       "price": 392
+    },
+    {
+      "abr": "ancientairconditioner",
+      "category": "Misc",
+      "defname": "VME_AncientAirConditioner",
+      "price": 0
+    },
+    {
+      "abr": "ancientatm",
+      "category": "Misc",
+      "defname": "VME_AncientATM",
+      "price": 0
+    },
+    {
+      "abr": "ancientbarrel",
+      "category": "Misc",
+      "defname": "VME_AncientBarrel",
+      "price": -10
+    },
+    {
+      "abr": "ancientbed",
+      "category": "Misc",
+      "defname": "VME_AncientBed",
+      "price": -10
+    },
+    {
+      "abr": "ancientcontainer",
+      "category": "Misc",
+      "defname": "VME_AncientContainer",
+      "price": -10
+    },
+    {
+      "abr": "ancientcrate",
+      "category": "Misc",
+      "defname": "VME_AncientCrate",
+      "price": -10
+    },
+    {
+      "abr": "ancientdisplaybank",
+      "category": "Misc",
+      "defname": "VME_AncientDisplayBank",
+      "price": -10
+    },
+    {
+      "abr": "ancientengineblock",
+      "category": "Misc",
+      "defname": "VME_AncientRustedEngineBlock",
+      "price": 0
+    },
+    {
+      "abr": "ancientequipmentblocks",
+      "category": "Misc",
+      "defname": "VME_AncientEquipmentBlocks",
+      "price": -10
+    },
+    {
+      "abr": "ancientfence",
+      "category": "Misc",
+      "defname": "VME_AncientFence",
+      "price": 0
+    },
+    {
+      "abr": "ancientgenerator",
+      "category": "Misc",
+      "defname": "VME_AncientGenerator",
+      "price": -10
+    },
+    {
+      "abr": "ancientgiantwheel",
+      "category": "Misc",
+      "defname": "VME_AncientGiantWheel",
+      "price": 0
+    },
+    {
+      "abr": "ancienthydrant",
+      "category": "Misc",
+      "defname": "VME_AncientHydrant",
+      "price": 0
+    },
+    {
+      "abr": "ancientkitchensink",
+      "category": "Misc",
+      "defname": "VME_AncientKitchenSink",
+      "price": 0
+    },
+    {
+      "abr": "ancientlargecrate",
+      "category": "Misc",
+      "defname": "VME_AncientLargeCrate",
+      "price": 0
+    },
+    {
+      "abr": "ancientlockerbank",
+      "category": "Misc",
+      "defname": "VME_AncientLockerBank",
+      "price": -10
+    },
+    {
+      "abr": "ancientlongcrate",
+      "category": "Misc",
+      "defname": "VME_AncientLongCrate",
+      "price": 0
+    },
+    {
+      "abr": "ancientmachine",
+      "category": "Misc",
+      "defname": "VME_AncientMachine",
+      "price": -10
+    },
+    {
+      "abr": "ancientmacro-engineblock",
+      "category": "Misc",
+      "defname": "VME_AncientLargeRustedEngineBlock",
+      "price": 0
+    },
+    {
+      "abr": "ancientmechdropbeacon",
+      "category": "Misc",
+      "defname": "VME_AncientMechDropBeacon",
+      "price": -10
+    },
+    {
+      "abr": "ancientmechanoiddetritus",
+      "category": "Misc",
+      "defname": "VME_AncientMechanoidShell",
+      "price": -10
+    },
+    {
+      "abr": "ancientmega-cannonbarrel",
+      "category": "Misc",
+      "defname": "VME_AncientMegaCannonBarrel",
+      "price": -10
+    },
+    {
+      "abr": "ancientmega-cannonplatform",
+      "category": "Misc",
+      "defname": "VME_AncientMegaCannonTripod",
+      "price": -10
+    },
+    {
+      "abr": "ancientmicrowave",
+      "category": "Misc",
+      "defname": "VME_AncientMicrowave",
+      "price": 0
+    },
+    {
+      "abr": "ancientmilitarycrate",
+      "category": "Misc",
+      "defname": "VME_AncientMilitaryCrate",
+      "price": -10
+    },
+    {
+      "abr": "ancientnavbeacon",
+      "category": "Misc",
+      "defname": "VME_AncientShipBeacon",
+      "price": -10
+    },
+    {
+      "abr": "ancientoperatingtable",
+      "category": "Misc",
+      "defname": "VME_AncientOperatingTable",
+      "price": -10
+    },
+    {
+      "abr": "ancientoven",
+      "category": "Misc",
+      "defname": "VME_AncientOven",
+      "price": 0
+    },
+    {
+      "abr": "ancientpipes",
+      "category": "Misc",
+      "defname": "VME_AncientPipes",
+      "price": -10
+    },
+    {
+      "abr": "ancientpostbox",
+      "category": "Misc",
+      "defname": "VME_AncientPostbox",
+      "price": 0
+    },
+    {
+      "abr": "ancientrazorwire",
+      "category": "Misc",
+      "defname": "VME_AncientRazorWire",
+      "price": -10
+    },
+    {
+      "abr": "ancientrefrigerator",
+      "category": "Misc",
+      "defname": "VME_AncientRefrigerator",
+      "price": 0
+    },
+    {
+      "abr": "ancientsecurityturret",
+      "category": "Misc",
+      "defname": "VME_AncientSecurityTurret",
+      "price": -10
+    },
+    {
+      "abr": "ancientshoppingcart",
+      "category": "Misc",
+      "defname": "VME_AncientShoppingCart",
+      "price": 0
+    },
+    {
+      "abr": "ancientsmallcrate",
+      "category": "Misc",
+      "defname": "VME_AncientSmallCrate",
+      "price": 0
+    },
+    {
+      "abr": "ancientspacejunk",
+      "category": "Misc",
+      "defname": "VME_AncientSpaceJunk",
+      "price": -10
+    },
+    {
+      "abr": "ancientspacercrate",
+      "category": "Misc",
+      "defname": "VME_AncientSpacerCrate",
+      "price": -10
+    },
+    {
+      "abr": "ancientstoragecylinder",
+      "category": "Misc",
+      "defname": "VME_AncientStorageCylinder",
+      "price": -10
+    },
+    {
+      "abr": "ancientstove",
+      "category": "Misc",
+      "defname": "VME_AncientStove",
+      "price": 0
+    },
+    {
+      "abr": "ancientsystemrack",
+      "category": "Misc",
+      "defname": "VME_AncientSystemRack",
+      "price": -10
+    },
+    {
+      "abr": "ancienttanktrap",
+      "category": "Misc",
+      "defname": "VME_AncientTankTrap",
+      "price": -10
+    },
+    {
+      "abr": "ancienttoilet",
+      "category": "Misc",
+      "defname": "VME_AncientToilet",
+      "price": 0
+    },
+    {
+      "abr": "ancientvendingmachine",
+      "category": "Misc",
+      "defname": "VME_AncientVendingMachine",
+      "price": 0
+    },
+    {
+      "abr": "ancientwashingmachine",
+      "category": "Misc",
+      "defname": "VME_AncientWashingMachine",
+      "price": 0
+    },
+    {
+      "abr": "ancientwheel",
+      "category": "Misc",
+      "defname": "VME_AncientWheel",
+      "price": 0
+    },
+    {
+      "abr": "arapaima(adeptcatch)",
+      "category": "Raw fish",
+      "defname": "VCEF_ArapaimaItem",
+      "price": -10
+    },
+    {
+      "abr": "basin",
+      "category": "Hygiene",
+      "defname": "BasinStuff",
+      "price": -10
+    },
+    {
+      "abr": "bathmat",
+      "category": "Furniture",
+      "defname": "BathMat",
+      "price": -10
+    },
+    {
+      "abr": "bathtub",
+      "category": "Hygiene",
+      "defname": "BathtubStuff",
+      "price": -10
+    },
+    {
+      "abr": "bionicbladder",
+      "category": "Bionic",
+      "defname": "BionicBladder",
+      "price": 1308
+    },
+    {
+      "abr": "biosolids",
+      "category": "Waste",
+      "defname": "Biosolids",
+      "price": 0
+    },
+    {
+      "abr": "biosolidscomposter",
+      "category": "Hygiene",
+      "defname": "BiosolidsComposter",
+      "price": -10
+    },
+    {
+      "abr": "bonfire",
+      "category": "Misc",
+      "defname": "VME_Bonfire",
+      "price": -10
+    },
+    {
+      "abr": "butterfish(adeptcatch)",
+      "category": "Raw fish",
+      "defname": "VCEF_ButterFishItem",
+      "price": -10
+    },
+    {
+      "abr": "crayfish(adeptcatch)",
+      "category": "Raw fish",
+      "defname": "VCEF_CrayfishItem",
+      "price": -10
+    },
+    {
+      "abr": "eldritchslab(broad)",
+      "category": "Furniture",
+      "defname": "VME_EldritchSlab_Broad",
+      "price": -10
+    },
+    {
+      "abr": "eldritchslab(medium)",
+      "category": "Furniture",
+      "defname": "VME_EldritchSlab_Medium",
+      "price": -10
+    },
+    {
+      "abr": "electricpump",
+      "category": "Hygiene",
+      "defname": "ElectricPump",
+      "price": -10
+    },
+    {
+      "abr": "electricsaunaheater",
+      "category": "Hygiene",
+      "defname": "DBHSaunaHeaterElec",
+      "price": -10
+    },
+    {
+      "abr": "esotericismslab(broad)",
+      "category": "Furniture",
+      "defname": "VME_EsotericismSlab_Broad",
+      "price": -10
+    },
+    {
+      "abr": "esotericismslab(medium)",
+      "category": "Furniture",
+      "defname": "VME_EsotericismSlab_Medium",
+      "price": -10
+    },
+    {
+      "abr": "firesprinkler",
+      "category": "Hygiene",
+      "defname": "FireSprinkler",
+      "price": -10
+    },
+    {
+      "abr": "fleshcraftedarm",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedArm",
+      "price": -10
+    },
+    {
+      "abr": "fleshcraftedear",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedEar",
+      "price": -10
+    },
+    {
+      "abr": "fleshcraftedeye",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedEye",
+      "price": -10
+    },
+    {
+      "abr": "fleshcraftedfinger",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedFinger",
+      "price": -10
+    },
+    {
+      "abr": "fleshcraftedfoot",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedFoot",
+      "price": -10
+    },
+    {
+      "abr": "fleshcraftedhand",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedHand",
+      "price": -10
+    },
+    {
+      "abr": "fleshcraftedheart",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedHeart",
+      "price": -10
+    },
+    {
+      "abr": "fleshcraftedjaw",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedJaw",
+      "price": -10
+    },
+    {
+      "abr": "fleshcraftedkidney",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedKidney",
+      "price": -10
+    },
+    {
+      "abr": "fleshcraftedleg",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedLeg",
+      "price": -10
+    },
+    {
+      "abr": "fleshcraftedliver",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedLiver",
+      "price": -10
+    },
+    {
+      "abr": "fleshcraftedlung",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedLung",
+      "price": -10
+    },
+    {
+      "abr": "fleshcraftednose",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedNose",
+      "price": -10
+    },
+    {
+      "abr": "fleshcraftedspine",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedSpine",
+      "price": -10
+    },
+    {
+      "abr": "fleshcraftedstomach",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedStomach",
+      "price": -10
+    },
+    {
+      "abr": "fleshcraftedtoe",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedToe",
+      "price": -10
+    },
+    {
+      "abr": "fleshcraftedtongue",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedTongue",
+      "price": -10
+    },
+    {
+      "abr": "flyingfish(adeptcatch)",
+      "category": "Raw fish",
+      "defname": "VCEF_FlyingFishItem",
+      "price": -10
+    },
+    {
+      "abr": "fountain",
+      "category": "Hygiene",
+      "defname": "Fountain",
+      "price": -10
+    },
+    {
+      "abr": "freshwaterstingray(adeptcatch)",
+      "category": "Raw fish",
+      "defname": "VCEF_FreshwaterStingrayItem",
+      "price": -10
+    },
+    {
+      "abr": "fueledsaunaheater",
+      "category": "Hygiene",
+      "defname": "DBHSaunaHeaterLog",
+      "price": -10
+    },
+    {
+      "abr": "hottub",
+      "category": "Hygiene",
+      "defname": "HotTub",
+      "price": -10
+    },
+    {
+      "abr": "hotwatertank",
+      "category": "Hygiene",
+      "defname": "HotWaterTank",
+      "price": -10
+    },
+    {
+      "abr": "hygieneenhancer",
+      "category": "Bionic",
+      "defname": "HygieneEnhancer",
+      "price": 1308
+    },
+    {
+      "abr": "irrigationsprinkler",
+      "category": "Hygiene",
+      "defname": "IrrigationSprinkler",
+      "price": -10
+    },
+    {
+      "abr": "kitchensink",
+      "category": "Hygiene",
+      "defname": "KitchenSink",
+      "price": -10
+    },
+    {
+      "abr": "largefishingtrap",
+      "category": "Production",
+      "defname": "VME_LargeFishingTrap",
+      "price": -10
+    },
+    {
+      "abr": "latrine",
+      "category": "Hygiene",
+      "defname": "PitLatrine",
+      "price": -10
+    },
+    {
+      "abr": "litterbox",
+      "category": "Hygiene",
+      "defname": "LitterBox",
+      "price": -10
+    },
+    {
+      "abr": "mechanoideffigy",
+      "category": "Security",
+      "defname": "VME_MechanoidEffigy",
+      "price": -10
+    },
+    {
+      "abr": "mediumfishingtrap",
+      "category": "Production",
+      "defname": "VME_MediumFishingTrap",
+      "price": -10
+    },
+    {
+      "abr": "ominousobelisk",
+      "category": "Misc",
+      "defname": "VME_Obelisk",
+      "price": -10
+    },
+    {
+      "abr": "plumbingvalve",
+      "category": "Hygiene",
+      "defname": "plumbingValve",
+      "price": -10
+    },
+    {
+      "abr": "powershower",
+      "category": "Hygiene",
+      "defname": "ShowerAdvStuff",
+      "price": -10
+    },
+    {
+      "abr": "saunaseating",
+      "category": "Furniture",
+      "defname": "DBHSaunaSeating",
+      "price": -10
+    },
+    {
+      "abr": "shintaoslab(broad)",
+      "category": "Furniture",
+      "defname": "VME_TaoistSlab_Broad",
+      "price": -10
+    },
+    {
+      "abr": "shintaoslab(medium)",
+      "category": "Furniture",
+      "defname": "VME_TaoistSlab_Medium",
+      "price": -10
+    },
+    {
+      "abr": "shortfinmakoshark(adeptcatch)",
+      "category": "Raw fish",
+      "defname": "VCEF_ShortfinMakoSharkItem",
+      "price": -10
+    },
+    {
+      "abr": "shower",
+      "category": "Hygiene",
+      "defname": "ShowerStuff",
+      "price": -10
+    },
+    {
+      "abr": "simpleshower",
+      "category": "Hygiene",
+      "defname": "ShowerSimple",
+      "price": -10
+    },
+    {
+      "abr": "smallfishingtrap",
+      "category": "Production",
+      "defname": "VME_SmallFishingTrap",
+      "price": -10
+    },
+    {
+      "abr": "smarttoilet",
+      "category": "Hygiene",
+      "defname": "ToiletAdvStuff",
+      "price": -10
+    },
+    {
+      "abr": "tacklebox",
+      "category": "Utility",
+      "defname": "VME_TackleBox",
+      "price": -10
+    },
+    {
+      "abr": "toilet",
+      "category": "Hygiene",
+      "defname": "ToiletStuff",
+      "price": -10
+    },
+    {
+      "abr": "towelrail",
+      "category": "Misc",
+      "defname": "RadiatorTowelRail",
+      "price": -10
+    },
+    {
+      "abr": "washingmachine",
+      "category": "Hygiene",
+      "defname": "WashingMachine",
+      "price": -10
+    },
+    {
+      "abr": "watertub",
+      "category": "Hygiene",
+      "defname": "WashBucket",
+      "price": -10
+    },
+    {
+      "abr": "wickerman",
+      "category": "Misc",
+      "defname": "VME_WickerMan",
+      "price": -10
     }
   ],
-  "total": 1924
+  "total": 2034
 }

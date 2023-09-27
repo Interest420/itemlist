@@ -157,6 +157,12 @@
   },
   {
     "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.7.7366"
+  },
+  {
+    "author": "Dubwise",
     "name": "Dubs Central Heating",
     "steamId": "2619214952",
     "version": "2.7.7366"
@@ -198,12 +204,6 @@
     "version": "1.0.0"
   },
   {
-    "author": "Adamas",
-    "name": "Hospital",
-    "steamId": "2992224079",
-    "version": "1.4.0.0"
-  },
-  {
     "author": "キャデグ",
     "name": "Killfeed",
     "steamId": "1362098265",
@@ -225,7 +225,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.6.0.8"
+    "version": "2.6.0.9"
   },
   {
     "author": "Kure",
@@ -408,12 +408,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Orion",
-    "name": "Hospitality",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Jecrell",
     "name": "RimQuest (Continued)",
     "steamId": "2263331727",
@@ -576,6 +570,18 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Books Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Ideology Expanded - Memes and Structures",
+    "steamId": "2636329500",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
     "name": "Vanilla Plants Expanded",
     "steamId": null,
@@ -591,7 +597,7 @@
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.14.3.0"
+    "version": "1.14.5.0"
   },
   {
     "author": "legodude17 and Oskar Potocki",
@@ -656,12 +662,6 @@
   {
     "author": "FrozenSnowFox",
     "name": "[FSF] Better Camp Loot",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Books Expanded",
     "steamId": null,
     "version": null
   },
