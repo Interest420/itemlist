@@ -3627,8 +3627,8 @@
       "name": "cursed"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
@@ -3789,8 +3789,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 5000,
+      "removePrice": 1,
       "degree": 0,
       "description": "Timmy has a magical gift. he can harness this gift to become a mage by studying the mysterious secrets within an arcane script.",
       "stats": [
@@ -14767,8 +14767,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 5000,
+      "removePrice": 1,
       "degree": 0,
       "description": "Timmy is physically adept and has potential to learn special combat forms.",
       "stats": [
