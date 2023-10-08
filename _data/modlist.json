@@ -36,6 +36,12 @@
     "version": null
   },
   {
+    "author": "Mehni",
+    "name": "All your base",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Dubwise",
     "name": "Dubs Mint Menus",
     "steamId": "1446523594",
@@ -163,12 +169,6 @@
   },
   {
     "author": "Dubwise",
-    "name": "Dubs Bad Hygiene",
-    "steamId": "836308268",
-    "version": "2.7.7366"
-  },
-  {
-    "author": "Dubwise",
     "name": "Dubs Central Heating",
     "steamId": "2619214952",
     "version": "2.7.7366"
@@ -195,7 +195,13 @@
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.6.5.0"
+    "version": "1.6.6.0"
+  },
+  {
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
+    "version": "1.0.0"
   },
   {
     "author": "Krypt",
@@ -216,30 +222,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Telefonmast",
-    "name": "Graphics Settings+",
-    "steamId": "1678847247",
-    "version": "1.0.0"
-  },
-  {
-    "author": "jecrell and contributors",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.4.1.1"
-  },
-  {
-    "author": "Torann",
-    "name": "A RimWorld of Magic",
-    "steamId": "1201382956",
-    "version": "2.6.0.9"
-  },
-  {
-    "author": "Kure",
-    "name": "Kure's Rimworld of Magic Class Expansion Pack",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Mlie",
     "name": "Less Arbitrary Surgery (Continued)",
     "steamId": null,
@@ -249,7 +231,7 @@
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.12.6.0"
+    "version": "1.12.7.0"
   },
   {
     "author": "Antaios",
@@ -286,12 +268,6 @@
     "name": "Netrve's DeepStorage GUI",
     "steamId": "2169841018",
     "version": "1.4"
-  },
-  {
-    "author": "Andreas Pardeike",
-    "name": "No Pause Challenge",
-    "steamId": "1517419925",
-    "version": "3.2.0.0"
   },
   {
     "author": "Dave-EEs",
@@ -624,6 +600,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Storytellers Expanded - Winston Waves",
+    "steamId": "2734032569",
+    "version": "1.0.2.2"
+  },
+  {
     "author": "1trickPwnyta",
     "name": "Visible Raid Points",
     "steamId": "2562730174",
@@ -724,6 +706,12 @@
     "name": "[L] House Maid Nukos",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[RH2] Faction: V.O.I.D.",
+    "steamId": "2883208829",
+    "version": "1.0.0.0"
   },
   {
     "author": "Syrchalis",
