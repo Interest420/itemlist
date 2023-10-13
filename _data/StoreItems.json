@@ -5050,7 +5050,7 @@
       "abr": "blacksnakestaff",
       "category": "Ranged weapons",
       "defname": "YR_WP_Staff_BlackSnake",
-      "price": 1500
+      "price": 5000
     },
     {
       "abr": "blacksnakestaff(bondage)",
@@ -7048,7 +7048,7 @@
       "abr": "yuranstaff",
       "category": "Ranged weapons",
       "defname": "YR_WP_Staff",
-      "price": 1500
+      "price": 5000
     },
     {
       "abr": "yuranstaff(bondage)",
@@ -9472,7 +9472,7 @@
       "abr": "redwine",
       "category": "Drugs",
       "defname": "RH_RedWine",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "scrutinyimplant",
@@ -9667,11 +9667,23 @@
       "price": -10
     },
     {
-      "abr": "zombrella",
-      "category": "Misc",
-      "defname": "Zombrella",
+      "abr": "archerytarget",
+      "category": "Recreation",
+      "defname": "ArcheryTarget",
+      "price": -10
+    },
+    {
+      "abr": "martialartstarget",
+      "category": "Recreation",
+      "defname": "MartialArtsTarget",
+      "price": -10
+    },
+    {
+      "abr": "shootingtarget",
+      "category": "Recreation",
+      "defname": "ShootingRangeTarget",
       "price": -10
     }
   ],
-  "total": 1612
+  "total": 1614
 }

@@ -234,6 +234,12 @@
     "version": "1.12.7.0"
   },
   {
+    "author": "Haplo",
+    "name": "Misc. Training",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Antaios",
     "name": "Mod Medicine Patch",
     "steamId": null,
@@ -598,12 +604,6 @@
     "name": "Vanilla Skills Expanded",
     "steamId": "2854967442",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Storytellers Expanded - Perry Persistent",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Oskar Potocki and Kikohi",
