@@ -8482,13 +8482,13 @@
       "abr": "absolverarmor",
       "category": "Armor",
       "defname": "VFEE_Apparel_ArmorAbsolver",
-      "price": 5333
+      "price": -10
     },
     {
       "abr": "absolverhelmet",
       "category": "Headgear",
       "defname": "VFEE_Apparel_AbsolverHelmet",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "aperitif",
@@ -8554,7 +8554,7 @@
       "abr": "deserterarmor",
       "category": "Armor",
       "defname": "VFEE_Apparel_ArmorDeserter",
-      "price": 6883
+      "price": -10
     },
     {
       "abr": "deserterdeclassifier",
@@ -8566,7 +8566,7 @@
       "abr": "deserterhelmet",
       "category": "Headgear",
       "defname": "VFEE_Apparel_DeserterHelmet",
-      "price": 1267
+      "price": -10
     },
     {
       "abr": "fletcher",
