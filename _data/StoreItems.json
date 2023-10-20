@@ -8560,7 +8560,7 @@
       "abr": "deserterdeclassifier",
       "category": "Utility",
       "defname": "VFED_DeserterDeclassifier",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "deserterhelmet",
@@ -8572,7 +8572,7 @@
       "abr": "fletcher",
       "category": "Ranged weapons",
       "defname": "VEE_Gun_Fletcher",
-      "price": 4583
+      "price": -10
     },
     {
       "abr": "fletchling",
@@ -10043,7 +10043,13 @@
       "category": "Animals",
       "defname": "AA_MammothWorm_Temporary",
       "price": 1000
+    },
+    {
+      "abr": "zombrella",
+      "category": "Misc",
+      "defname": "Zombrella",
+      "price": 3333
     }
   ],
-  "total": 1674
+  "total": 1675
 }
