@@ -163,6 +163,12 @@
   },
   {
     "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.7.7366"
+  },
+  {
+    "author": "Dubwise",
     "name": "Dubs Central Heating",
     "steamId": "2619214952",
     "version": "2.7.7366"
@@ -225,7 +231,7 @@
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.12.7.0"
+    "version": "1.12.8.0"
   },
   {
     "author": "Haplo",
