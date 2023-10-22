@@ -13940,7 +13940,7 @@
     "KarmaType": null
   },
   "AA_ChameleonYakWoolDesert": {
-    "CustomName": null,
+    "CustomName": "chameleonyakwooldesert",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -13960,7 +13960,7 @@
     "KarmaType": null
   },
   "AA_ChameleonYakWoolJungle": {
-    "CustomName": null,
+    "CustomName": "chameleonyakwooljungle",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -13980,7 +13980,7 @@
     "KarmaType": null
   },
   "AA_ChameleonYakWoolWinter": {
-    "CustomName": null,
+    "CustomName": "chameleonyakwoolwinter",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -14000,7 +14000,7 @@
     "KarmaType": null
   },
   "AA_ChameleonYakWoolTemperate": {
-    "CustomName": null,
+    "CustomName": "chameleonyakwooltemperate",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
