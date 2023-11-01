@@ -908,7 +908,7 @@
     },
     {
       "abr": "wood",
-      "category": "Timber",
+      "category": "Raw resources",
       "defname": "WoodLog",
       "price": 5
     },
@@ -4570,13 +4570,13 @@
       "abr": "gemofarcaneinsight",
       "category": "Magic artifacts",
       "defname": "GemstoneOfInsight_Magic",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "gemofphysicalinsight",
       "category": "Magic artifacts",
       "defname": "GemstoneOfInsight_Might",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "genebank",
@@ -8198,7 +8198,7 @@
     },
     {
       "abr": "darktimber",
-      "category": "Timber",
+      "category": "Raw resources",
       "defname": "DankPyon_DarkWoodLog",
       "price": 3
     },
@@ -10886,7 +10886,7 @@
     },
     {
       "abr": "rawdarkwood",
-      "category": "Raw wood",
+      "category": "Raw resources",
       "defname": "DankPyon_RawDarkWood",
       "price": -10
     },
@@ -12322,30 +12322,6 @@
       "abr": "thegeologist:ordownandupagain",
       "category": "Books",
       "defname": "DankPyon_Book_LongRangeScanner",
-      "price": -10
-    },
-    {
-      "abr": "advancedfortification",
-      "category": "Books",
-      "defname": "EEG_Tier3_Fortification",
-      "price": -10
-    },
-    {
-      "abr": "advancedmeleeweapons",
-      "category": "Books",
-      "defname": "EEG_Tier3_Melee",
-      "price": -10
-    },
-    {
-      "abr": "advancedrangedweapons",
-      "category": "Books",
-      "defname": "EEG_Tier3_Ranged",
-      "price": -10
-    },
-    {
-      "abr": "advancedresources",
-      "category": "Books",
-      "defname": "EEG_Tier2_Ressources",
       "price": -10
     },
     {
@@ -15113,7 +15089,13 @@
       "category": "Misc",
       "defname": "Zombrella",
       "price": 3333
+    },
+    {
+      "abr": "timber",
+      "category": "Raw resources",
+      "defname": "WoodTimber",
+      "price": 1
     }
   ],
-  "total": 2519
+  "total": 2516
 }
