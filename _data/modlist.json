@@ -1,51 +1,15 @@
 [
   {
-    "author": "Zetrith",
-    "name": "Prepatcher",
-    "steamId": "2934420800",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Andreas Pardeike",
-    "name": "Harmony",
-    "steamId": "2009463077",
-    "version": "1.5.0.0"
-  },
-  {
     "author": "bradson",
     "name": "Fishery - Modding Library",
     "steamId": null,
     "version": null
   },
   {
-    "author": "bradson",
-    "name": "Performance Fish",
-    "steamId": "",
-    "version": "0.3.800.85"
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "HugsLib",
-    "steamId": "818773962",
-    "version": "10.0.1"
-  },
-  {
     "author": "BaalEvan",
     "name": "All Turrets Can Set Forced Target",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Mint Menus",
-    "steamId": "1446523594",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Little White Mouse",
-    "name": "LWM's Deep Storage",
-    "steamId": "1617282896",
-    "version": "1.4.1.1"
   },
   {
     "author": "Alan Dariva and Usagirei",
@@ -66,52 +30,10 @@
     "version": null
   },
   {
-    "author": "pelador",
-    "name": "Apothecary (Continued)",
-    "steamId": "2195469123",
-    "version": "1.4.2"
-  },
-  {
-    "author": "lbmaian",
-    "name": "Begone, Message!",
-    "steamId": "1951637504",
-    "version": "1.7"
-  },
-  {
-    "author": "Machine",
-    "name": "Better Infestations 1.4",
-    "steamId": "1319614331",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Madeline",
-    "name": "Better ModMismatch Window",
-    "steamId": "1872244972",
-    "version": "1.1.3"
-  },
-  {
     "author": "CalamaBanana",
     "name": "Breachable Embrasures - An AI-Behaviour Change",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "AobaKuma OttersHoldHands iforgotmysocks",
-    "name": "Camping Tent",
-    "steamId": "2407128339",
-    "version": "2.1.3.0"
-  },
-  {
-    "author": "void",
-    "name": "Character Editor",
-    "steamId": "1874644848",
-    "version": "1.4.1242.0"
-  },
-  {
-    "author": "Owlchemist",
-    "name": "Cherry Picker",
-    "steamId": "2633276599",
-    "version": "1.4"
   },
   {
     "author": "test",
@@ -120,124 +42,16 @@
     "version": null
   },
   {
-    "author": "Owlchemist",
-    "name": "Clean Pathfinding 2",
-    "steamId": "2603765747",
-    "version": "1.4"
-  },
-  {
     "author": "Luke_lu",
     "name": "Co-Love Relations",
     "steamId": null,
     "version": null
   },
   {
-    "author": "PeteTimesSix",
-    "name": "Compact Hediffs",
-    "steamId": "2031734067",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "miyamiya and twsta",
-    "name": "Compressed Raid",
-    "steamId": "2927368319",
-    "version": "1.4"
-  },
-  {
-    "author": "Spdskatr and CaesarV6",
-    "name": "Damage Indicators [1.4]",
-    "steamId": "2016331497",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Owlchemist",
     "name": "Door Clearance",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Onyxae",
-    "name": "Dragons Descent",
-    "steamId": "2026992161",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Apparel Tweaks",
-    "steamId": "2296697286",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Performance Analyzer",
-    "steamId": "2038874626",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Erin",
-    "name": "Erin's Cat Overhaul",
-    "steamId": "2763428090",
-    "version": "1.0.8315.28849"
-  },
-  {
-    "author": "Citrus",
-    "name": "Expectations Modifier",
-    "steamId": "1904336011",
-    "version": "3.1.0.1"
-  },
-  {
-    "author": "m00nl1ght",
-    "name": "Geological Landforms",
-    "steamId": "2773943594",
-    "version": "1.6.6.0"
-  },
-  {
-    "author": "Roolo and Owlchemist",
-    "name": "Giddy-Up 2",
-    "steamId": "2934245647",
-    "version": "1.4"
-  },
-  {
-    "author": "Krypt",
-    "name": "RWLayout",
-    "steamId": "2209393954",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Krypt",
-    "name": "Grouped Pawns Lists",
-    "steamId": "2340773428",
-    "version": "1.0.0"
-  },
-  {
-    "author": "キャデグ",
-    "name": "Killfeed",
-    "steamId": "1362098265",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Telefonmast",
-    "name": "Graphics Settings+",
-    "steamId": "1678847247",
-    "version": "1.0.0"
-  },
-  {
-    "author": "jecrell and contributors",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.4.1.1"
-  },
-  {
-    "author": "Torann",
-    "name": "A RimWorld of Magic",
-    "steamId": "1201382956",
-    "version": "2.6.0.9"
   },
   {
     "author": "Kure",
@@ -250,12 +64,6 @@
     "name": "Less Arbitrary Surgery (Continued)",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "m00nl1ght",
-    "name": "Map Preview",
-    "steamId": "2800857642",
-    "version": "1.12.8.0"
   },
   {
     "author": "BotchJob",
@@ -276,28 +84,10 @@
     "version": null
   },
   {
-    "author": "Syrchalis",
-    "name": "[SYR] Processor Framework",
-    "steamId": "2633514537",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "SirLalaPyon",
-    "name": "Medieval Overhaul",
-    "steamId": "2553700067",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Adamas",
     "name": "Perfect Medieval Playthrough",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Ogam;Taranchuk;ILuvSilicon",
-    "name": "Rimedieval",
-    "steamId": "2516523040",
-    "version": "1.0.0.0"
   },
   {
     "author": "Evil Eye Guy",
@@ -318,40 +108,10 @@
     "version": null
   },
   {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Razar1",
     "name": "Monstergirl Races",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Mooloh",
-    "name": "Mooloh's Mythic Framework",
-    "steamId": "2819828894",
-    "version": "0.0.0.0"
-  },
-  {
-    "author": "Oblitus",
-    "name": "My Little Planet",
-    "steamId": "1117406550",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Netrve",
-    "name": "Netrve's DeepStorage GUI",
-    "steamId": "2169841018",
-    "version": "1.4"
-  },
-  {
-    "author": "Dave-EEs",
-    "name": "No Random Relations",
-    "steamId": "2583377522",
-    "version": "1.0.0.0"
   },
   {
     "author": "Vesper",
@@ -360,34 +120,10 @@
     "version": null
   },
   {
-    "author": "Mehni",
-    "name": "Numbers",
-    "steamId": "1414302321",
-    "version": "1.0.0"
-  },
-  {
     "author": "Farmradish",
     "name": "Nyaron race",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Sarg Bjornson and AFriend",
-    "name": "Alpha Animals",
-    "steamId": "1541721856",
-    "version": "1.4.8315.17730"
-  },
-  {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Fishing Expanded",
-    "steamId": "1914064942",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "SeoHyeon",
-    "name": "Optimization: Meats - C# Edition",
-    "steamId": "2542931556",
-    "version": "1.0.0.0"
   },
   {
     "author": "Peppsen",
@@ -396,88 +132,10 @@
     "version": null
   },
   {
-    "author": "Taranchuk",
-    "name": "Performance Optimizer",
-    "steamId": "2664723367",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Mehni",
-    "name": "Pick Up And Haul",
-    "steamId": "1279012058",
-    "version": "1.0.0"
-  },
-  {
     "author": "Meltup and Sicarious",
     "name": "Polyamory Beds (Vanilla Edition)",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "NilchEi",
-    "name": "Powerful Faction Bases",
-    "steamId": "1570960972",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "iamrespawn",
-    "name": "Prosthetic No Missing Body Parts (Continued)",
-    "steamId": "2739055353",
-    "version": "1.4.4"
-  },
-  {
-    "author": "legodude17",
-    "name": "Quality Colors",
-    "steamId": "2420141361",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Hatti",
-    "name": "QualityBuilder",
-    "steamId": "754637870",
-    "version": "1.0.17"
-  },
-  {
-    "author": "Jaxe",
-    "name": "RimHUD",
-    "steamId": "1508850027",
-    "version": "1.14.5.0"
-  },
-  {
-    "author": "Jecrell",
-    "name": "RimQuest (Continued)",
-    "steamId": "2263331727",
-    "version": "1.4.1"
-  },
-  {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "RimWorld - Witcher Monster Hunt",
-    "steamId": "2008529522",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Syrchalis",
-    "name": "[SYR] Set Up Camp",
-    "steamId": "1470065926",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "MrSamuelStreamer, Feldoh, Skullywag and Sandwish",
-    "name": "RPG Adventure Flavour Pack",
-    "steamId": "2916348220",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sandy",
-    "name": "RPG Style Inventory Revamped",
-    "steamId": "2478833213",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "FLASHPOINT55",
-    "name": "RPG Style Level Up Mod",
-    "steamId": "1995668415",
-    "version": "1.0.0.0"
   },
   {
     "author": "BotchJob",
@@ -498,46 +156,10 @@
     "version": null
   },
   {
-    "author": "sirrandoo",
-    "name": "Remove Death Amnesia",
-    "steamId": "1905421159",
-    "version": "2.0.1.0"
-  },
-  {
-    "author": "Uuugggg",
-    "name": "Replace Stuff",
-    "steamId": "1372003680",
-    "version": "1.1.0.0"
-  },
-  {
-    "author": "Garethp",
-    "name": "Replace Stuff Mod Compatibility",
-    "steamId": "2642161586",
-    "version": "2.0.2"
-  },
-  {
-    "author": "Scorpio and Taranchuk",
-    "name": "Resource Dictionary",
-    "steamId": "2817607528",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Sierra",
     "name": "RimFantasy - Medieval Overhaul Edition",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "aRandomKiwi",
-    "name": "RimSaves",
-    "steamId": "1713367505",
-    "version": "2022.0.1.14"
-  },
-  {
-    "author": "ChJees, Rock5 and Valcrafto",
-    "name": "RimSearch 1.4",
-    "steamId": "2553187219",
-    "version": "1.0.0.0"
   },
   {
     "author": "Sierra",
@@ -546,34 +168,16 @@
     "version": null
   },
   {
-    "author": "HopeSeekr",
-    "name": "Savegame Shrinker",
-    "steamId": "2978713095",
-    "version": "0.0.0.0"
-  },
-  {
     "author": "krafs",
     "name": "Scenario Amender [1.4]",
     "steamId": null,
     "version": null
   },
   {
-    "author": "2blockdude",
-    "name": "Scrollable Gizmos",
-    "steamId": "2838035829",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Roolo",
     "name": "Search and Destroy",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Uuugggg",
-    "name": "Share The Load",
-    "steamId": "1356838246",
-    "version": "1.0.0.0"
   },
   {
     "author": "Gloomylynx Nukafrog",
@@ -586,18 +190,6 @@
     "name": "Simple Ratkin Childrenswear",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "PeteTimesSix",
-    "name": "Simple sidearms",
-    "steamId": "927155256",
-    "version": "1.4.6.0"
-  },
-  {
-    "author": "denev",
-    "name": "Smart Turret Covering",
-    "steamId": "2636621800",
-    "version": "1.0.0.0"
   },
   {
     "author": "dhultgren",
@@ -618,48 +210,6 @@
     "version": null
   },
   {
-    "author": "Owlchemist",
-    "name": "Toggleable Readouts",
-    "steamId": "2661792499",
-    "version": "1.4"
-  },
-  {
-    "author": "nry",
-    "name": "ToolkitCore",
-    "steamId": "3013877477",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "nry",
-    "name": "Twitch Toolkit",
-    "steamId": "3013874066",
-    "version": "2.0.10.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "6.3.0.1"
-  },
-  {
-    "author": "Carny Senpai",
-    "name": "Trait Rarity Colors",
-    "steamId": "1751884355",
-    "version": "1.4.0.0"
-  },
-  {
-    "author": "hodlhodl",
-    "name": "TwitchToolkit - Lootboxes (Unofficial)",
-    "steamId": "1720021578",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "1trickPwnyta",
-    "name": "Unlimited Threat Scale",
-    "steamId": "2562732435",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "VandarOrlevard",
     "name": "Vandar's Medieval Overhaul Patches",
     "steamId": null,
@@ -672,40 +222,10 @@
     "version": null
   },
   {
-    "author": "legodude17 and Oskar Potocki",
-    "name": "Vanilla Skills Expanded",
-    "steamId": "2854967442",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki",
     "name": "Vanilla Storytellers Expanded - Perry Persistent",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "1trickPwnyta",
-    "name": "Visible Raid Points",
-    "steamId": "2562730174",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Owlchemist and jptrrs",
-    "name": "Windows",
-    "steamId": "2571189146",
-    "version": "1.4"
-  },
-  {
-    "author": "Zylle",
-    "name": "More Vanilla Biomes",
-    "steamId": "1931453053",
-    "version": "0.1.5.01"
-  },
-  {
-    "author": "Odeum",
-    "name": "World Map Beautification Project",
-    "steamId": "2314407956",
-    "version": "1.3.60.5"
   },
   {
     "author": "Carolusclen",
@@ -718,12 +238,6 @@
     "name": "World Map Beautification Project: Medieval Overhaul",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Gege",
-    "name": "Xenotype Xenogerms",
-    "steamId": "3001581390",
-    "version": "1.0.0.0"
   },
   {
     "author": "Roo",
@@ -762,28 +276,10 @@
     "version": null
   },
   {
-    "author": "Fuu Chan",
-    "name": "[Fuu] Uncompromising Fires",
-    "steamId": "2623963630",
-    "version": "1.1.0.0"
-  },
-  {
-    "author": "Grizzlemethis",
-    "name": "[GMT] Trading Spot",
-    "steamId": "2874517333",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Kiame Vivacity and Taranchuk",
     "name": "[KV] Save Storage, Outfit, Crafting, Drug, & Operation Settings [1.4]",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "DerekBickley",
-    "name": "[LTO] Colony Groups",
-    "steamId": "2345493945",
-    "version": "1.0.06"
   },
   {
     "author": "lolidrop",
@@ -792,21 +288,9 @@
     "version": null
   },
   {
-    "author": "Syrchalis",
-    "name": "[SYR] Harvest Yield",
-    "steamId": "1461790308",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Wemd",
     "name": "[WD] Expanded Floors",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Krkr",
-    "name": "RocketMan - Performance Mod",
-    "steamId": "2479389928",
-    "version": "0.6.3.2421"
   }
 ]
