@@ -9562,13 +9562,13 @@
       "abr": "essenceofmagic",
       "category": "Magic artifacts",
       "defname": "TM_MagicArtifact_MagicEssence",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "essenceofmight",
       "category": "Magic artifacts",
       "defname": "TM_MagicArtifact_MightEssence",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "fighterskill:ashsatchel",
