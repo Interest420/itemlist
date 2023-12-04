@@ -2,9 +2,14 @@
 	"incitems" : [
 	{
 		"abr": "torytalkervote",
-		"price": 750,
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hodlbotvote",
+		"price": 1,
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 1
+	"total": 2
 }
