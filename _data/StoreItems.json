@@ -2830,7 +2830,7 @@
       "abr": "bandwidthpack",
       "category": "Utility",
       "defname": "Apparel_PackBandwidth",
-      "price": -10
+      "price": 2275
     },
     {
       "abr": "barrel(saltedmeat)",
@@ -8548,7 +8548,7 @@
       "abr": "mechaniterepairgel",
       "category": "Items",
       "defname": "ArchotechRepairGel",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "personalshuttle",
