@@ -54,6 +54,12 @@
     "version": null
   },
   {
+    "author": "Haplo",
+    "name": "Misc. Training",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Antaios",
     "name": "Mod Medicine Patch",
     "steamId": null,
@@ -78,6 +84,18 @@
     "version": null
   },
   {
+    "author": "Owlchemist",
+    "name": "Simple Utilities: Fridge",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Peppsen",
+    "name": "P-Music",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Meltup and Sicarious",
     "name": "Polyamory Beds (Vanilla Edition)",
     "steamId": null,
@@ -90,14 +108,14 @@
     "version": null
   },
   {
-    "author": "Rizno",
-    "name": "RimFTL (Music Pack)",
+    "author": "Sierra",
+    "name": "RimTraits - General Traits",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Sierra",
-    "name": "RimTraits - General Traits",
+    "author": "TheElm",
+    "name": "Roofed Scanning",
     "steamId": null,
     "version": null
   },
@@ -122,12 +140,6 @@
   {
     "author": "Feng Xinzi",
     "name": "Simple Ratkin Childrenswear",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Owlchemist",
-    "name": "Simple Utilities: Fridge",
     "steamId": null,
     "version": null
   },
@@ -158,6 +170,18 @@
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
     "name": "Vanilla Plants Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson and Oskar Potocki",
+    "name": "Vanilla Plants Expanded - More Plants",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Storytellers Expanded - Perry Persistent",
     "steamId": null,
     "version": null
   },
