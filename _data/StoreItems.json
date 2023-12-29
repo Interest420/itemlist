@@ -8410,7 +8410,7 @@
       "abr": "archothrumbo",
       "category": "Animals",
       "defname": "Archothrumbo",
-      "price": -10
+      "price": 16667
     },
     {
       "abr": "archotortoise",
@@ -8464,7 +8464,7 @@
       "abr": "entanglementmanifold",
       "category": "Items",
       "defname": "SoSEntanglementManifold",
-      "price": -10
+      "price": 6667
     },
     {
       "abr": "evahelmet",
@@ -8542,7 +8542,7 @@
       "abr": "mechanitedisassemblercore",
       "category": "Items",
       "defname": "ArchotechMechaniteCore",
-      "price": -10
+      "price": 6667
     },
     {
       "abr": "mechaniterepairgel",
