@@ -261,6 +261,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "torytalkervote",
+		"price": 1500,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "reviveme",
 		"price": 3000,
 		"karmatype": "Good"
@@ -346,5 +351,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 69
+	"total": 70
 }
