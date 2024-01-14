@@ -8902,19 +8902,19 @@
       "abr": "modularmedicarmor",
       "category": "GD Modular Body Protection Ststem",
       "defname": "Apparel_MedicArmor",
-      "price": 3967
+      "price": -10
     },
     {
       "abr": "modularnomadarmor",
       "category": "GD Modular Body Protection Ststem",
       "defname": "Apparel_NomadArmor",
-      "price": 3967
+      "price": -10
     },
     {
       "abr": "modularpioneerarmor",
       "category": "GD Modular Body Protection Ststem",
       "defname": "Apparel_PioneerArmor",
-      "price": 3967
+      "price": -10
     },
     {
       "abr": "modularrifle",
@@ -8926,7 +8926,7 @@
       "abr": "modularsecurityarmor",
       "category": "Megacorp armors",
       "defname": "Apparel_SecurityArmor",
-      "price": 1767
+      "price": -10
     },
     {
       "abr": "modularsidearmsystemkit",
