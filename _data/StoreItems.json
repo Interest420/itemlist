@@ -9148,25 +9148,25 @@
       "abr": "launchergrenade(he)",
       "category": "Launcher Grenade",
       "defname": "Ammo_LauncherGrenade_HE",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "launchergrenade(hedp)",
       "category": "Launcher Grenade",
       "defname": "Ammo_LauncherGrenade_HEDP",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "launchergrenade(emp)",
       "category": "Launcher Grenade",
       "defname": "Ammo_LauncherGrenade_EMP",
-      "price": -10
+      "price": 7
     },
     {
       "abr": "launchergrenade(smoke)",
       "category": "Launcher Grenade",
       "defname": "Ammo_LauncherGrenade_Smoke",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "pistolcartridge(fmj)",
