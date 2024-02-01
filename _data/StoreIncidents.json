@@ -188,7 +188,7 @@
 	{
 		"abr": "raid",
 		"price": 1500,
-		"karmatype": "Neutral"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "dropraid",
@@ -196,9 +196,9 @@
 		"karmatype": "Doom"
 	},
 	{
-		"abr": "sapperraid",
+		"abr": "weakraid",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "siegeraid",
@@ -233,11 +233,6 @@
 	{
 		"abr": "reviveanypawn",
 		"price": 3000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "pawn",
-		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -366,5 +361,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 73
+	"total": 72
 }
