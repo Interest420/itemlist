@@ -11122,7 +11122,7 @@
       "abr": "tornscript:chromamage",
       "category": "Skill books",
       "defname": "Torn_BookOfChromaMage",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "tornscript:chronomancy",
