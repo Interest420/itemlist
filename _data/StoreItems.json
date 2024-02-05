@@ -11332,7 +11332,7 @@
       "abr": "twistedinspiration:plaguedoctor",
       "category": "Skill books",
       "defname": "BookOfPlaguedoctor",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "unfinishedarcanebook",
