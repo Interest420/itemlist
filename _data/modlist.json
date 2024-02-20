@@ -30,6 +30,12 @@
     "version": null
   },
   {
+    "author": "CalamaBanana",
+    "name": "Breachable Embrasures - An AI-Behaviour Change",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "test",
     "name": "Cherry Picker Duplicates List",
     "steamId": null,
@@ -54,14 +60,44 @@
     "version": null
   },
   {
-    "author": "Kure",
-    "name": "Kure's Rimworld of Magic Class Expansion Pack",
+    "author": "Mlie",
+    "name": "Less Arbitrary Surgery (Continued)",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Mlie",
-    "name": "Less Arbitrary Surgery (Continued)",
+    "author": "BotchJob",
+    "name": "Medieval Fantasy Themed Rare Resources",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rince",
+    "name": "Medieval Go-juice",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Bonible",
+    "name": "Medieval Melee Sounds",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Evil Eye Guy",
+    "name": "Medieval Overhaul: Royalty",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Adamas",
+    "name": "Perfect Medieval Playthrough",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Viral Reaction",
+    "name": "Medieval Overhaul Patches",
     "steamId": null,
     "version": null
   },
@@ -96,12 +132,6 @@
     "version": null
   },
   {
-    "author": "Uncertainty",
-    "name": "Plants vs. Rimworld",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Meltup and Sicarious",
     "name": "Polyamory Beds (Vanilla Edition)",
     "steamId": null,
@@ -110,6 +140,24 @@
   {
     "author": "jeonggihun",
     "name": "Quarry retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BotchJob",
+    "name": "Medieval Fantasy Themed Quest Rewards",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Botch_Job",
+    "name": "Possessed Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Metalocif",
+    "name": "RWoM recipes for Possessed Weapons",
     "steamId": null,
     "version": null
   },
@@ -126,26 +174,14 @@
     "version": null
   },
   {
-    "author": "OskarPotocki, Atlas and Kikohi",
-    "name": "Vanilla Furniture Expanded",
+    "author": "Sierra",
+    "name": "RimFantasy - Medieval Overhaul Edition",
     "steamId": null,
     "version": null
   },
   {
     "author": "Sierra",
     "name": "RimTraits - General Traits",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "TheElm",
-    "name": "Roofed Scanning",
     "steamId": null,
     "version": null
   },
@@ -174,12 +210,6 @@
     "version": null
   },
   {
-    "author": "Owlchemist",
-    "name": "Simple Utilities: Fridge",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "dhultgren",
     "name": "Smarter Construction",
     "steamId": null,
@@ -198,14 +228,14 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Furniture Expanded - Art",
+    "author": "VandarOrlevard",
+    "name": "Vandar's Medieval Overhaul Patches",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Plants Expanded",
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Art",
     "steamId": null,
     "version": null
   },
@@ -222,6 +252,12 @@
     "version": null
   },
   {
+    "author": "Accurex",
+    "name": "World Map Beautification Project: Medieval Overhaul",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Roo",
     "name": "Yuran race",
     "steamId": null,
@@ -230,6 +266,12 @@
   {
     "author": "FrozenSnowFox",
     "name": "[FSF] Better Camp Loot",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Evil Eye Guy",
+    "name": "Medieval Overhaul: Toggleable Stuff",
     "steamId": null,
     "version": null
   },
