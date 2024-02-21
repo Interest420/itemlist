@@ -7984,7 +7984,7 @@
       "abr": "mashedpotatoes",
       "category": "Meals",
       "defname": "DankPyon_MealMashedPotatoes",
-      "price": -10
+      "price": 28
     },
     {
       "abr": "matinghorn",
@@ -12772,7 +12772,7 @@
       "abr": "yuranmonokatana",
       "category": "Melee weapons",
       "defname": "YR_WP_monokatana",
-      "price": 1942
+      "price": -10
     },
     {
       "abr": "yuranmyeong-wol",

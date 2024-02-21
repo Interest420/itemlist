@@ -22081,12 +22081,12 @@
   },
   "DankPyon_MealMashedPotatoes": {
     "CustomName": null,
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0,
     "ResearchOverrides": null,
     "IsUsable": true,
@@ -22421,12 +22421,12 @@
   },
   "DankPyon_MealSteakWithWine": {
     "CustomName": null,
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1.0,
     "ResearchOverrides": null,
     "IsUsable": true,
@@ -35260,7 +35260,7 @@
     "KarmaType": null
   },
   "RK_FakeTail": {
-    "CustomName": null,
+    "CustomName": "ratkinfaketail",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -40260,7 +40260,7 @@
     "KarmaType": null
   },
   "MG_FakeTail": {
-    "CustomName": "ratkinfaketail",
+    "CustomName": "faketail",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
