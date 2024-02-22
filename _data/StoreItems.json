@@ -1804,7 +1804,7 @@
       "abr": "sheep",
       "category": "Animals",
       "defname": "Sheep",
-      "price": 350
+      "price": -10
     },
     {
       "abr": "alpaca",
@@ -6064,7 +6064,7 @@
       "abr": "boots",
       "category": "Footwear",
       "defname": "DankPyon_Footwear_BootsLeather",
-      "price": -10
+      "price": 173
     },
     {
       "abr": "braies",
