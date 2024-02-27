@@ -11812,19 +11812,19 @@
       "abr": "mutantarm",
       "category": "Teratogenic parts",
       "defname": "AA_MutantArm",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "mutanteye",
       "category": "Teratogenic parts",
       "defname": "AA_MutantEye",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "mutantleg",
       "category": "Teratogenic parts",
       "defname": "AA_MutantLeg",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "mycoidcolossus",
