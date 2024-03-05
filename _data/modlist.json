@@ -30,8 +30,14 @@
     "version": null
   },
   {
-    "author": "CalamaBanana",
-    "name": "Breachable Embrasures - An AI-Behaviour Change",
+    "author": "Roolo",
+    "name": "Search and Destroy",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Garethp",
+    "name": "Animals Search and Destroy",
     "steamId": null,
     "version": null
   },
@@ -54,6 +60,12 @@
     "version": null
   },
   {
+    "author": "Wolfcub05",
+    "name": "Draftable Animals",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Syrus",
     "name": "Healer Mech Serum Choice",
     "steamId": null,
@@ -66,50 +78,8 @@
     "version": null
   },
   {
-    "author": "BotchJob",
-    "name": "Medieval Fantasy Themed Rare Resources",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rince",
-    "name": "Medieval Go-juice",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Bonible",
-    "name": "Medieval Melee Sounds",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Evil Eye Guy",
-    "name": "Medieval Overhaul: Royalty",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Adamas",
-    "name": "Perfect Medieval Playthrough",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Viral Reaction",
-    "name": "Medieval Overhaul Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Antaios",
     "name": "Mod Medicine Patch",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Razar1",
-    "name": "Monstergirl Races",
     "steamId": null,
     "version": null
   },
@@ -144,24 +114,6 @@
     "version": null
   },
   {
-    "author": "BotchJob",
-    "name": "Medieval Fantasy Themed Quest Rewards",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Botch_Job",
-    "name": "Possessed Weapons",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Metalocif",
-    "name": "RWoM recipes for Possessed Weapons",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki and Taranchuk",
     "name": "Vanilla Books Expanded",
     "steamId": null,
@@ -174,8 +126,8 @@
     "version": null
   },
   {
-    "author": "Sierra",
-    "name": "RimFantasy - Medieval Overhaul Edition",
+    "author": "OskarPotocki, Atlas and Kikohi",
+    "name": "Vanilla Furniture Expanded",
     "steamId": null,
     "version": null
   },
@@ -186,14 +138,26 @@
     "version": null
   },
   {
-    "author": "krafs",
-    "name": "Scenario Amender [1.4]",
+    "author": "rooki1",
+    "name": "Rimsenal - Core",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Roolo",
-    "name": "Search and Destroy",
+    "author": "rooki1",
+    "name": "Rimsenal - Federation Faction Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "TheElm",
+    "name": "Roofed Scanning",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "krafs",
+    "name": "Scenario Amender [1.4]",
     "steamId": null,
     "version": null
   },
@@ -206,6 +170,12 @@
   {
     "author": "Feng Xinzi",
     "name": "Simple Ratkin Childrenswear",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple Utilities: Fridge",
     "steamId": null,
     "version": null
   },
@@ -228,14 +198,20 @@
     "version": null
   },
   {
-    "author": "VandarOrlevard",
-    "name": "Vandar's Medieval Overhaul Patches",
+    "author": "Ben Lubar and Efi",
+    "name": "Vanilla Books Expanded Expanded (Continued)",
     "steamId": null,
     "version": null
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
     "name": "Vanilla Furniture Expanded - Art",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Plants Expanded",
     "steamId": null,
     "version": null
   },
@@ -252,26 +228,8 @@
     "version": null
   },
   {
-    "author": "Accurex",
-    "name": "World Map Beautification Project: Medieval Overhaul",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roo",
-    "name": "Yuran race",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Better Camp Loot",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Evil Eye Guy",
-    "name": "Medieval Overhaul: Toggleable Stuff",
     "steamId": null,
     "version": null
   },
