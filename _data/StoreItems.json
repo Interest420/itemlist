@@ -7996,37 +7996,37 @@
       "abr": "4.73x33mmcaseless(ap)",
       "category": "4.73x33mm Caseless",
       "defname": "Ammo_473x33mmCaseless_AP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "4.73x33mmcaseless(ap-he)",
       "category": "4.73x33mm Caseless",
       "defname": "Ammo_473x33mmCaseless_HE",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "4.73x33mmcaseless(ap-i)",
       "category": "4.73x33mm Caseless",
       "defname": "Ammo_473x33mmCaseless_Incendiary",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "4.73x33mmcaseless(fmj)",
       "category": "4.73x33mm Caseless",
       "defname": "Ammo_473x33mmCaseless_FMJ",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "4.73x33mmcaseless(hp)",
       "category": "4.73x33mm Caseless",
       "defname": "Ammo_473x33mmCaseless_HP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "4.73x33mmcaseless(sabot)",
       "category": "4.73x33mm Caseless",
       "defname": "Ammo_473x33mmCaseless_Sabot",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "40x68mmchargecell(demolition)",
@@ -8458,7 +8458,7 @@
       "abr": "fletchercartridge",
       "category": "12x64mm Charged",
       "defname": "Ammo_FletcherDart",
-      "price": -10
+      "price": 11
     },
     {
       "abr": "fletchling",
@@ -8902,7 +8902,7 @@
       "abr": "plasmarifle",
       "category": "Federation weapons",
       "defname": "AD_Sentinel",
-      "price": 4817
+      "price": -10
     },
     {
       "abr": "platehelmet",
@@ -8992,37 +8992,37 @@
       "abr": "riflecartridge(ap)",
       "category": "Full power rifle ammo",
       "defname": "Ammo_Rifle_AP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "riflecartridge(ap-i)",
       "category": "Full power rifle ammo",
       "defname": "Ammo_Rifle_Incendiary",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "riflecartridge(fmj)",
       "category": "Full power rifle ammo",
       "defname": "Ammo_Rifle_FMJ",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "riflecartridge(he)",
       "category": "Full power rifle ammo",
       "defname": "Ammo_Rifle_HE",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "riflecartridge(hp)",
       "category": "Full power rifle ammo",
       "defname": "Ammo_Rifle_HP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "riflecartridge(sabot)",
       "category": "Full power rifle ammo",
       "defname": "Ammo_Rifle_Sabot",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "riotgear",
