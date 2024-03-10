@@ -7276,13 +7276,13 @@
       "abr": "modularacceleratorkit",
       "category": "Greydale modular conversion kit",
       "defname": "MRSKitH",
-      "price": -10
+      "price": 858
     },
     {
       "abr": "modulararmorkit",
       "category": "Greydale modular conversion kit",
       "defname": "MBPSKit",
-      "price": -10
+      "price": 2200
     },
     {
       "abr": "modularcarbine",
@@ -7348,13 +7348,13 @@
       "abr": "modularsecurityarmor",
       "category": "Megacorp armors",
       "defname": "Apparel_SecurityArmor",
-      "price": -10
+      "price": 1767
     },
     {
       "abr": "modularsidearmsystemkit",
       "category": "Greydale modular conversion kit",
       "defname": "MSSKit",
-      "price": -10
+      "price": 608
     },
     {
       "abr": "modularspitfire",
