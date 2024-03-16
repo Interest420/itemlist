@@ -550,7 +550,7 @@
       "abr": "healermechserum",
       "category": "Misc",
       "defname": "MechSerumHealer",
-      "price": 1500
+      "price": -10
     },
     {
       "abr": "resurrectormechserum",
