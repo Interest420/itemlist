@@ -268,7 +268,7 @@
       "abr": "chesstable",
       "category": "Furniture",
       "defname": "ChessTable",
-      "price": -10
+      "price": 281
     },
     {
       "abr": "pokertable",
@@ -9346,7 +9346,7 @@
       "abr": "yurancherrydango",
       "category": "Meals",
       "defname": "YR_yedoensisBerries_Dango",
-      "price": 25
+      "price": -10
     },
     {
       "abr": "yurancorolla",
