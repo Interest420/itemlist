@@ -3411,138 +3411,6 @@
       },
       "defName": "RT_Messy",
       "name": "messy"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
-      "degree": 2,
-      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "germaphobe"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
-      "degree": 1,
-      "description": "Timmy is very hygienic and will wash more frequently.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "hygienic"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
-      "degree": -1,
-      "description": "Timmy is very unhygienic and will wash less frequently.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "unhygienic"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
-      "degree": -2,
-      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "slob"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
-      "degree": 0,
-      "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Ideology Expanded - Memes and Structures",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VME_Elder",
-      "name": "elder"
-    },
-    {
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "A strict principle of nonviolence which applies to all living things.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": true,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Alpha Memes",
-        "karmaTypeForAdding": null
-      },
-      "defName": "AM_Ahimsa",
-      "name": "vowofnonviolence"
     }
   ],
   "races": [
@@ -3564,7 +3432,7 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": false,
+      "enabled": true,
       "name": "human",
       "price": 3000
     },
@@ -3601,7 +3469,7 @@
       },
       "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.",
       "defName": "Ratkin",
-      "enabled": false,
+      "enabled": true,
       "name": "Ratkin",
       "price": 3000
     },
@@ -3647,87 +3515,6 @@
       "data": {
         "customName": false,
         "stats": [
-          "+65.00 Mass",
-          "+100% Flammability",
-          "+$3000 Market value",
-          "+5 Honor value",
-          "+75 Carrying capacity",
-          "+100% Global learning factor",
-          "+80% Psychic sensitivity",
-          "+80% Rest rate multiplier",
-          "+70% Global work speed",
-          "+0 Foraged food amount",
-          "+120.00% Negotiation ability",
-          "+120.00% Social impact",
-          "+120.00% Trade price improvement",
-          "+40 Leather amount",
-          "+82% Pain shock threshold",
-          "+30% Mental break threshold",
-          "+22.0C Minimum comfortable temperature",
-          "+40.0C Maximum comfortable temperature",
-          "+5.20 Move speed",
-          "+95% Aiming time",
-          "+10.0 Melee dodge chance",
-          "+1.2 Melee hit chance"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "The Marvelous gift of glitterworld bionics. A humanoid with cat ears and a tail.",
-      "defName": "Alien_Nyaron",
-      "enabled": false,
-      "name": "Nyaron",
-      "price": 5000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+80.00 Mass",
-          "+70% Flammability",
-          "+$1750 Market value",
-          "+5.60 Move speed",
-          "-8.0C Minimum comfortable temperature",
-          "+18.0C Maximum comfortable temperature",
-          "+3 Honor value",
-          "+20.0% Armor - Blunt",
-          "+50 Leather amount",
-          "+105% Global learning factor",
-          "+110% Pain shock threshold",
-          "+125% Psychic sensitivity",
-          "-85% Toxic resistance",
-          "+85% Plant work speed",
-          "+90% Plant harvest yield",
-          "+90.00% Social impact",
-          "+85.00% Negotiation ability",
-          "+85.00% Trade price improvement",
-          "+130% Hunting stealth",
-          "+105% General labor speed",
-          "+105% Drug synthesis speed",
-          "+105% Drug cooking speed",
-          "+110% Butchery efficiency",
-          "+115.00% Tame animal chance",
-          "+115.00% Train animal chance",
-          "+115% Animal gather speed",
-          "+90% Aiming time",
-          "+1.1 Shooting accuracy",
-          "+1.1 Melee dodge chance",
-          "+1.1 Melee hit chance",
-          "+85 Carrying capacity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Arachne race lineage can be traced back to Arachne homeworld where the temperature fluctuate between cold and warm.\nArachnes over thousands of generations began to adapt to these temperature and ables themselves to withstand cold but in return have less tolerance to the heat",
-      "defName": "Arachne",
-      "enabled": false,
-      "name": "arachne",
-      "price": 3000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
           "+50.00 Mass",
           "+120% Flammability",
           "+$1500 Market value",
@@ -3751,9 +3538,9 @@
       },
       "description": "A mutant of the catgirl species that has developed a semblance of intelligence.",
       "defName": "MG_Catgirl",
-      "enabled": false,
+      "enabled": true,
       "name": "Catgirl",
-      "price": 2500
+      "price": 3000
     },
     {
       "data": {
@@ -3782,9 +3569,9 @@
       },
       "description": "A mutant of the wolfgirl species that has developed a semblance of intelligence.",
       "defName": "MG_Wolfgirl",
-      "enabled": false,
+      "enabled": true,
       "name": "Wolfgirl",
-      "price": 2500
+      "price": 3000
     },
     {
       "data": {
@@ -3813,9 +3600,9 @@
       },
       "description": "A mutant of the foxgirl species that has developed a semblance of intelligence.",
       "defName": "MG_Foxgirl",
-      "enabled": false,
+      "enabled": true,
       "name": "Foxgirl",
-      "price": 2500
+      "price": 3000
     },
     {
       "data": {
@@ -3844,9 +3631,9 @@
       },
       "description": "A Cowgirl that has developed a semblance of intelligence.",
       "defName": "MG_Cowgirl",
-      "enabled": false,
+      "enabled": true,
       "name": "Cowgirl",
-      "price": 2917
+      "price": 3000
     },
     {
       "data": {
@@ -3875,9 +3662,9 @@
       },
       "description": "A Harpy that has developed a semblance of intelligence.",
       "defName": "MG_Harpy",
-      "enabled": false,
+      "enabled": true,
       "name": "Harpy",
-      "price": 2667
+      "price": 3000
     },
     {
       "data": {
@@ -3906,9 +3693,9 @@
       },
       "description": "A mutant accumulation of slimy liquid that has developed a semblance of intelligence.",
       "defName": "MG_Slime",
-      "enabled": false,
+      "enabled": true,
       "name": "Slime",
-      "price": 3000
+      "price": 5000
     },
     {
       "data": {
@@ -3938,9 +3725,9 @@
       },
       "description": "A Baphomet that has developed a semblance of intelligence.",
       "defName": "MG_Baphomet",
-      "enabled": false,
+      "enabled": true,
       "name": "Baphomet",
-      "price": 3083
+      "price": 3000
     },
     {
       "data": {
@@ -3969,9 +3756,9 @@
       },
       "description": "A Centaur that has developed a semblance of intelligence.",
       "defName": "MG_Centaur",
-      "enabled": false,
+      "enabled": true,
       "name": "Centaur",
-      "price": 2917
+      "price": 5000
     },
     {
       "data": {
@@ -4001,7 +3788,7 @@
       },
       "description": "A mutant of the Forest Fairy species that has developed a semblance of intelligence./n A fragile existence that withers in a toxic environment.",
       "defName": "MG_ForestFairy",
-      "enabled": false,
+      "enabled": true,
       "name": "ForestFairy",
       "price": 3000
     },
@@ -4033,7 +3820,7 @@
       },
       "description": "A mutant of the Ice Fairy species that has developed a semblance of intelligence./n A fragile existence that cannot survive warm temperatures.",
       "defName": "MG_IceFairy",
-      "enabled": false,
+      "enabled": true,
       "name": "IceFairy",
       "price": 3000
     },
@@ -4065,9 +3852,9 @@
       },
       "description": "A mutant of the Dragon species that has developed a semblance of intelligence.",
       "defName": "MG_Dragon",
-      "enabled": false,
+      "enabled": true,
       "name": "Dragon",
-      "price": 3667
+      "price": 5000
     },
     {
       "data": {
@@ -4097,9 +3884,45 @@
       },
       "description": "A mutant of the Thrumbogirl species that has developed a semblance of intelligence.",
       "defName": "MG_Thrumbogirl",
-      "enabled": false,
+      "enabled": true,
       "name": "Thrumbogirl",
-      "price": 3667
+      "price": 5000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+65.00 Mass",
+          "+100% Flammability",
+          "+$3000 Market value",
+          "+5 Honor value",
+          "+75 Carrying capacity",
+          "+100% Global learning factor",
+          "+80% Psychic sensitivity",
+          "+80% Rest rate multiplier",
+          "+70% Global work speed",
+          "+0 Foraged food amount",
+          "+120.00% Negotiation ability",
+          "+120.00% Social impact",
+          "+120.00% Trade price improvement",
+          "+40 Leather amount",
+          "+82% Pain shock threshold",
+          "+30% Mental break threshold",
+          "+22.0C Minimum comfortable temperature",
+          "+40.0C Maximum comfortable temperature",
+          "+5.20 Move speed",
+          "+95% Aiming time",
+          "+10.0 Melee dodge chance",
+          "+1.2 Melee hit chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "The Marvelous gift of glitterworld bionics. A humanoid with cat ears and a tail.",
+      "defName": "Alien_Nyaron",
+      "enabled": true,
+      "name": "Nyaron",
+      "price": 5000
     },
     {
       "data": {
@@ -4156,9 +3979,9 @@
       },
       "description": "Yuran is an Ain race with the appearance of a rabbit, and its origin is not known precisely.\nAs a minority race with a small population, there are genetic problems and males do not exist. It continues.\nCentering on the Miko with special abilities that are passed on through blood lineage, they live in a small village-sized village and have faith in the large cherry tree in their hometown.",
       "defName": "Yuran_Race",
-      "enabled": false,
+      "enabled": true,
       "name": "Yuran",
-      "price": 2000
+      "price": 3000
     },
     {
       "data": {
@@ -4216,9 +4039,9 @@
       },
       "description": "Miko serves and manages the village as a kind of duty for Yuran belonging to a family of special lineage.",
       "defName": "Yuran_Race_Miko",
-      "enabled": false,
+      "enabled": true,
       "name": "Yuran Miko",
-      "price": 4667
+      "price": 5000
     },
     {
       "data": {
@@ -4279,34 +4102,52 @@
       "defName": "Yuran_Race_Miko_BlackSnake",
       "enabled": false,
       "name": "Yuran BlackSnake",
-      "price": 4667
+      "price": 3000
     },
     {
       "data": {
         "customName": false,
         "stats": [
-          "+70.00 Mass",
-          "+100% Flammability",
-          "-60.0C Minimum comfortable temperature",
-          "+200.0C Maximum comfortable temperature",
-          "+0% Psychic sensitivity",
-          "+0% Toxic resistance",
-          "+0 Meat amount",
-          "+0 Leather amount",
-          "+0 Carrying capacity",
-          "+0.00% Social impact",
-          "+0.0% Armor - Blunt",
-          "+0.0% Armor - Sharp",
-          "+0.0% Armor - Heat"
+          "+80.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+5.60 Move speed",
+          "-8.0C Minimum comfortable temperature",
+          "+18.0C Maximum comfortable temperature",
+          "+3 Honor value",
+          "+20.0% Armor - Blunt",
+          "+50 Leather amount",
+          "+105% Global learning factor",
+          "+110% Pain shock threshold",
+          "+125% Psychic sensitivity",
+          "-85% Toxic resistance",
+          "+85% Plant work speed",
+          "+90% Plant harvest yield",
+          "+90.00% Social impact",
+          "+85.00% Negotiation ability",
+          "+85.00% Trade price improvement",
+          "+130% Hunting stealth",
+          "+105% General labor speed",
+          "+105% Drug synthesis speed",
+          "+105% Drug cooking speed",
+          "+110% Butchery efficiency",
+          "+115.00% Tame animal chance",
+          "+115.00% Train animal chance",
+          "+115% Animal gather speed",
+          "+90% Aiming time",
+          "+1.1 Shooting accuracy",
+          "+1.1 Melee dodge chance",
+          "+1.1 Melee hit chance",
+          "+85 Carrying capacity"
         ],
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "A zombie",
-      "defName": "Zombie",
-      "enabled": false,
-      "name": "Zombie",
-      "price": 1
+      "description": "Arachne race lineage can be traced back to Arachne homeworld where the temperature fluctuate between cold and warm.\nArachnes over thousands of generations began to adapt to these temperature and ables themselves to withstand cold but in return have less tolerance to the heat",
+      "defName": "Arachne",
+      "enabled": true,
+      "name": "arachne",
+      "price": 3000
     }
   ]
 }

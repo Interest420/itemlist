@@ -12,24 +12,6 @@
     "version": null
   },
   {
-    "author": "Alan Dariva and Usagirei",
-    "name": "More Planning [1.4]",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "Allow Tool",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Books Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "dninemfive",
     "name": "Ambrosial Longevity",
     "steamId": null,
@@ -90,20 +72,8 @@
     "version": null
   },
   {
-    "author": "Peppsen",
-    "name": "P-Music",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Uncertainty",
-    "name": "Plants vs. Rimworld",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "jeonggihun",
-    "name": "Quarry retexture",
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Books Expanded",
     "steamId": null,
     "version": null
   },
@@ -120,6 +90,12 @@
     "version": null
   },
   {
+    "author": "Rizno",
+    "name": "RimFTL (Music Pack)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Sierra",
     "name": "RimTraits - General Traits",
     "steamId": null,
@@ -128,12 +104,6 @@
   {
     "author": "rooki1",
     "name": "Rimsenal - Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "TheElm",
-    "name": "Roofed Scanning",
     "steamId": null,
     "version": null
   },
@@ -198,20 +168,8 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson, Taranchuk and Reann Shepard",
-    "name": "Vanilla Ideology Expanded - Dryads",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
     "name": "Vanilla Plants Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Storytellers Expanded - Perry Persistent",
     "steamId": null,
     "version": null
   },
@@ -234,6 +192,18 @@
     "version": null
   },
   {
+    "author": "Alan Dariva and Usagirei",
+    "name": "More Planning [1.4]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Complex Jobs",
     "steamId": null,
@@ -242,6 +212,12 @@
   {
     "author": "FrozenSnowFox",
     "name": "[FSF] Filth Vanishes With Rain And Time",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "erdelf (original) & Kiame (support)",
+    "name": "[KV] Don't stop the music",
     "steamId": null,
     "version": null
   },
