@@ -136,7 +136,7 @@
       "abr": "royalbed",
       "category": "Furniture",
       "defname": "RoyalBed",
-      "price": -10
+      "price": 1467
     },
     {
       "abr": "hospitalbed",
@@ -7774,7 +7774,7 @@
       "abr": "royalposterbed",
       "category": "Furniture",
       "defname": "Bed_Kingsize",
-      "price": -10
+      "price": 2008
     },
     {
       "abr": "royaltable(1x1)",
@@ -8254,7 +8254,7 @@
       "abr": "hullfoamcanister",
       "category": "Items",
       "defname": "HullFoam",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "kidevahelmet",
