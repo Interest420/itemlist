@@ -6106,13 +6106,13 @@
       "abr": "proofofcontract(raccoonshikigami)",
       "category": "Misc",
       "defname": "YR_Skigami_BuildingRacoon",
-      "price": -10
+      "price": 958
     },
     {
       "abr": "proofofcontract(turtleshikigami)",
       "category": "Misc",
       "defname": "YR_Skigami_BuildingTurtle",
-      "price": -10
+      "price": 958
     },
     {
       "abr": "racoonshikigami",
@@ -9077,13 +9077,7 @@
       "category": "Melee weapons",
       "defname": "YP_BingJu",
       "price": 1325
-    },
-    {
-      "abr": "zombrella",
-      "category": "Misc",
-      "defname": "Zombrella",
-      "price": -10
     }
   ],
-  "total": 1514
+  "total": 1513
 }
