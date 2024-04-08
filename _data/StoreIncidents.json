@@ -1,6 +1,11 @@
 {
 	"incitems" : [
 	{
+		"abr": "tornado",
+		"price": 5000,
+		"karmatype": "Doom"
+	},
+	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -101,11 +106,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "orbitaltraderarrival",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "meteor",
 		"price": 150,
 		"karmatype": "Neutral"
@@ -128,6 +128,11 @@
 	{
 		"abr": "ambrosiasprout",
 		"price": 150,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "rarethrumbos",
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
@@ -166,7 +171,22 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "shippartpsychic",
+		"abr": "raid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "dropraid",
+		"price": 1500,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "weakraid",
+		"price": 1500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "siegeraid",
 		"price": 1500,
 		"karmatype": "Bad"
 	},
@@ -238,16 +258,6 @@
 	{
 		"abr": "healall",
 		"price": 10000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healanypawn",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healme",
-		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -331,5 +341,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 66
+	"total": 68
 }

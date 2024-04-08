@@ -72,6 +72,12 @@
     "version": null
   },
   {
+    "author": "Peppsen",
+    "name": "P-Music",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki and Taranchuk",
     "name": "Vanilla Books Expanded",
     "steamId": null,
@@ -84,26 +90,14 @@
     "version": null
   },
   {
-    "author": "OskarPotocki, Atlas and Kikohi",
+    "author": "OskarPotocki, Atlas, Kikohi and Sarg",
     "name": "Vanilla Furniture Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rizno",
-    "name": "RimFTL (Music Pack)",
     "steamId": null,
     "version": null
   },
   {
     "author": "Sierra",
     "name": "RimTraits - General Traits",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Core",
     "steamId": null,
     "version": null
   },
@@ -128,12 +122,6 @@
   {
     "author": "Feng Xinzi",
     "name": "Simple Ratkin Childrenswear",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Owlchemist",
-    "name": "Simple Utilities: Fridge",
     "steamId": null,
     "version": null
   },
@@ -164,6 +152,12 @@
   {
     "author": "Oskar Potocki and Sarg Bjornson",
     "name": "Vanilla Furniture Expanded - Art",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Taranchuk and Reann Shepard",
+    "name": "Vanilla Ideology Expanded - Dryads",
     "steamId": null,
     "version": null
   },
@@ -204,6 +198,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, xrushha, Taranchuk and Sarg Bjornson",
+    "name": "Vanilla Factions Expanded - Tribals",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Complex Jobs",
     "steamId": null,
@@ -216,8 +216,8 @@
     "version": null
   },
   {
-    "author": "erdelf (original) & Kiame (support)",
-    "name": "[KV] Don't stop the music",
+    "author": "jeonggihun",
+    "name": "[JGH] Quarry retexture",
     "steamId": null,
     "version": null
   },
