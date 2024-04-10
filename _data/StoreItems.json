@@ -1480,7 +1480,7 @@
       "abr": "pila",
       "category": "Ranged weapons",
       "defname": "Pila",
-      "price": 182
+      "price": -10
     },
     {
       "abr": "recurvebow",
