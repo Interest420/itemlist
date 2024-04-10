@@ -5074,7 +5074,7 @@
       "abr": "clawbar",
       "category": "Melee weapons",
       "defname": "Nr_Clawbar",
-      "price": 245
+      "price": -10
     },
     {
       "abr": "colossalaerofleet",
@@ -5698,7 +5698,7 @@
       "abr": "karambit",
       "category": "Melee weapons",
       "defname": "Nr_Karambit",
-      "price": 98
+      "price": -10
     },
     {
       "abr": "kidapronskirt",
