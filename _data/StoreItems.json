@@ -574,7 +574,7 @@
       "abr": "elephanttusk",
       "category": "Misc",
       "defname": "ElephantTusk",
-      "price": 133
+      "price": -10
     },
     {
       "abr": "packagedsurvivalmeal",
@@ -4354,7 +4354,7 @@
       "abr": "ratkinmagicwand",
       "category": "Melee weapons",
       "defname": "RK_MagicWand",
-      "price": 104
+      "price": -10
     },
     {
       "abr": "ratkinmaskhelmet",
@@ -6112,7 +6112,7 @@
       "abr": "proofofcontract(turtleshikigami)",
       "category": "Misc",
       "defname": "YR_Skigami_BuildingTurtle",
-      "price": 958
+      "price": -10
     },
     {
       "abr": "racoonshikigami",
@@ -6430,7 +6430,7 @@
       "abr": "turtleshikigami",
       "category": "Animals",
       "defname": "YR_Sikigami_Turtle",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "unblinkingeye",
