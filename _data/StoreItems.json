@@ -2776,7 +2776,7 @@
       "abr": "animalsbook",
       "category": "Books",
       "defname": "VBE_BookAnimals",
-      "price": 2258
+      "price": -10
     },
     {
       "abr": "apothecaryhat",
@@ -2812,7 +2812,7 @@
       "abr": "artbook",
       "category": "Books",
       "defname": "VBE_BookArt",
-      "price": 2258
+      "price": -10
     },
     {
       "abr": "babydecoration",
