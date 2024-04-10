@@ -5458,7 +5458,7 @@
       "abr": "gallatrosshorn",
       "category": "Items",
       "defname": "AA_GallatrossHorn",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "gallatrossleather",
@@ -6400,7 +6400,7 @@
       "abr": "thrumbogirlhorn",
       "category": "Items",
       "defname": "MG_ThrumboGirlHorn",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "thrumbogirlwool",
