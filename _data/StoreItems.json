@@ -1144,7 +1144,7 @@
       "abr": "simplehelmet",
       "category": "Headgear",
       "defname": "Apparel_SimpleHelmet",
-      "price": -10
+      "price": 153
     },
     {
       "abr": "flakhelmet",
@@ -3418,7 +3418,7 @@
       "abr": "mechlordhelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetMechlordHelmet",
-      "price": 8892
+      "price": -10
     },
     {
       "abr": "mechlordsuit",
@@ -4198,7 +4198,7 @@
       "abr": "ratkincrossbow",
       "category": "Ranged weapons",
       "defname": "RK_Crossbow",
-      "price": -10
+      "price": 158
     },
     {
       "abr": "ratkindagger",
@@ -4228,7 +4228,7 @@
       "abr": "ratkinenhancedcrossbow",
       "category": "Ranged weapons",
       "defname": "RK_EnhanceCrossBow",
-      "price": -10
+      "price": 263
     },
     {
       "abr": "ratkinexplorerhat",
