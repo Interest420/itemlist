@@ -18,6 +18,36 @@
     "version": null
   },
   {
+    "author": "CalamaBanana",
+    "name": "Breachable Embrasures - An AI-Behaviour Change",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Orion",
+    "name": "Cash Register",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Orion",
+    "name": "Gastronomy",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mewn Goddess",
+    "name": "Cash Register Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "test",
     "name": "Cherry Picker Duplicates List",
     "steamId": null,
@@ -42,8 +72,50 @@
     "version": null
   },
   {
+    "author": "Kure",
+    "name": "Kure's Rimworld of Magic Class Expansion Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Mlie",
     "name": "Less Arbitrary Surgery (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BotchJob",
+    "name": "Medieval Fantasy Themed Rare Resources",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rince",
+    "name": "Medieval Go-juice",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Bonible",
+    "name": "Medieval Melee Sounds",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Adamas",
+    "name": "Perfect Medieval Playthrough",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Evil Eye Guy",
+    "name": "Medieval Overhaul: Royalty",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Viral Reaction",
+    "name": "Medieval Overhaul Patches",
     "steamId": null,
     "version": null
   },
@@ -78,6 +150,30 @@
     "version": null
   },
   {
+    "author": "Joedox",
+    "name": "Patches: Medieval Overhaul - Gastronomy",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BotchJob",
+    "name": "Medieval Fantasy Themed Quest Rewards",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Botch_Job",
+    "name": "Possessed Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Metalocif",
+    "name": "RWoM recipes for Possessed Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki and Taranchuk",
     "name": "Vanilla Books Expanded",
     "steamId": null,
@@ -90,8 +186,8 @@
     "version": null
   },
   {
-    "author": "OskarPotocki, Atlas, Kikohi and Sarg",
-    "name": "Vanilla Furniture Expanded",
+    "author": "Sierra",
+    "name": "RimFantasy - Medieval Overhaul Edition",
     "steamId": null,
     "version": null
   },
@@ -144,8 +240,8 @@
     "version": null
   },
   {
-    "author": "Ben Lubar and Efi",
-    "name": "Vanilla Books Expanded Expanded (Continued)",
+    "author": "VandarOrlevard",
+    "name": "Vandar's Medieval Overhaul Patches",
     "steamId": null,
     "version": null
   },
@@ -156,20 +252,20 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson, Taranchuk and Reann Shepard",
-    "name": "Vanilla Ideology Expanded - Dryads",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Plants Expanded",
+    "author": "Oskar Potocki",
+    "name": "Vanilla Storytellers Expanded - Perry Persistent",
     "steamId": null,
     "version": null
   },
   {
     "author": "Carolusclen",
     "name": "World Map Beautification Project - for More Vanilla Biomes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Accurex",
+    "name": "World Map Beautification Project: Medieval Overhaul",
     "steamId": null,
     "version": null
   },
@@ -187,7 +283,7 @@
   },
   {
     "author": "Alan Dariva and Usagirei",
-    "name": "More Planning [1.4]",
+    "name": "More Planning [1.5]",
     "steamId": null,
     "version": null
   },
@@ -198,8 +294,8 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, xrushha, Taranchuk and Sarg Bjornson",
-    "name": "Vanilla Factions Expanded - Tribals",
+    "author": "Evil Eye Guy",
+    "name": "Medieval Overhaul: Toggleable Stuff",
     "steamId": null,
     "version": null
   },
@@ -212,12 +308,6 @@
   {
     "author": "FrozenSnowFox",
     "name": "[FSF] Filth Vanishes With Rain And Time",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "jeonggihun",
-    "name": "[JGH] Quarry retexture",
     "steamId": null,
     "version": null
   },
