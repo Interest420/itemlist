@@ -2141,8 +2141,8 @@
       "name": "undead"
     },
     {
-      "canAdd": false,
-      "canRemove": false,
+      "canAdd": true,
+      "canRemove": true,
       "addPrice": 5000,
       "removePrice": 1,
       "degree": 0,
