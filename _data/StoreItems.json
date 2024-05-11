@@ -2956,7 +2956,7 @@
       "abr": "animalsbook",
       "category": "Books",
       "defname": "VBE_BookAnimals",
-      "price": -10
+      "price": 2258
     },
     {
       "abr": "apothecaryhat",
@@ -14206,13 +14206,13 @@
       "abr": "ancientairconditioner",
       "category": "Misc",
       "defname": "VME_AncientAirConditioner",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientatm",
       "category": "Misc",
       "defname": "VME_AncientATM",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientbarrel",
@@ -14248,7 +14248,7 @@
       "abr": "ancientengineblock",
       "category": "Misc",
       "defname": "VME_AncientRustedEngineBlock",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientequipmentblocks",
@@ -14260,7 +14260,7 @@
       "abr": "ancientfence",
       "category": "Misc",
       "defname": "VME_AncientFence",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientgenerator",
@@ -14272,25 +14272,25 @@
       "abr": "ancientgiantwheel",
       "category": "Misc",
       "defname": "VME_AncientGiantWheel",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancienthydrant",
       "category": "Misc",
       "defname": "VME_AncientHydrant",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientkitchensink",
       "category": "Misc",
       "defname": "VME_AncientKitchenSink",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientlargecrate",
       "category": "Misc",
       "defname": "VME_AncientLargeCrate",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientlockerbank",
@@ -14302,7 +14302,7 @@
       "abr": "ancientlongcrate",
       "category": "Misc",
       "defname": "VME_AncientLongCrate",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientmachine",
@@ -14314,7 +14314,7 @@
       "abr": "ancientmacro-engineblock",
       "category": "Misc",
       "defname": "VME_AncientLargeRustedEngineBlock",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientmechdropbeacon",
@@ -14344,7 +14344,7 @@
       "abr": "ancientmicrowave",
       "category": "Misc",
       "defname": "VME_AncientMicrowave",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientmilitarycrate",
@@ -14368,7 +14368,7 @@
       "abr": "ancientoven",
       "category": "Misc",
       "defname": "VME_AncientOven",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientpipes",
@@ -14380,7 +14380,7 @@
       "abr": "ancientpostbox",
       "category": "Misc",
       "defname": "VME_AncientPostbox",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientrazorwire",
@@ -14392,7 +14392,7 @@
       "abr": "ancientrefrigerator",
       "category": "Misc",
       "defname": "VME_AncientRefrigerator",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientsecurityturret",
@@ -14404,13 +14404,13 @@
       "abr": "ancientshoppingcart",
       "category": "Misc",
       "defname": "VME_AncientShoppingCart",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientsmallcrate",
       "category": "Misc",
       "defname": "VME_AncientSmallCrate",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientspacejunk",
@@ -14434,7 +14434,7 @@
       "abr": "ancientstove",
       "category": "Misc",
       "defname": "VME_AncientStove",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientsystemrack",
@@ -14452,25 +14452,25 @@
       "abr": "ancienttoilet",
       "category": "Misc",
       "defname": "VME_AncientToilet",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientvendingmachine",
       "category": "Misc",
       "defname": "VME_AncientVendingMachine",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientwashingmachine",
       "category": "Misc",
       "defname": "VME_AncientWashingMachine",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "ancientwheel",
       "category": "Misc",
       "defname": "VME_AncientWheel",
-      "price": 0
+      "price": -10
     },
     {
       "abr": "bonfire",
@@ -15221,7 +15221,127 @@
       "category": "Medicine",
       "defname": "YR_MedicineHerbal",
       "price": -10
+    },
+    {
+      "abr": "zombrella",
+      "category": "Misc",
+      "defname": "Zombrella",
+      "price": 3333
+    },
+    {
+      "abr": "guestbed",
+      "category": "Furniture",
+      "defname": "BedGuest",
+      "price": 155
+    },
+    {
+      "abr": "guestdoublebed",
+      "category": "Furniture",
+      "defname": "DoubleBedGuest",
+      "price": 292
+    },
+    {
+      "abr": "guestroyalbed",
+      "category": "Furniture",
+      "defname": "RoyalBedGuest",
+      "price": 1467
+    },
+    {
+      "abr": "guesthospitalbed",
+      "category": "Furniture",
+      "defname": "HospitalBedGuest",
+      "price": 667
+    },
+    {
+      "abr": "guestbedroll",
+      "category": "Furniture",
+      "defname": "BedrollGuest",
+      "price": 137
+    },
+    {
+      "abr": "guestdoublebedroll",
+      "category": "Furniture",
+      "defname": "BedrollDoubleGuest",
+      "price": 290
+    },
+    {
+      "abr": "guestslabbed",
+      "category": "Furniture",
+      "defname": "SlabBedGuest",
+      "price": 102
+    },
+    {
+      "abr": "guestslabdoublebed",
+      "category": "Furniture",
+      "defname": "SlabDoubleBedGuest",
+      "price": 288
+    },
+    {
+      "abr": "guestdeathrestcasket",
+      "category": "Misc",
+      "defname": "DeathrestCasketGuest",
+      "price": 492
+    },
+    {
+      "abr": "guestcrib",
+      "category": "Furniture",
+      "defname": "CribGuest",
+      "price": 86
+    },
+    {
+      "abr": "guestlogslabbed",
+      "category": "Furniture",
+      "defname": "DankPyon_BedLogGuest",
+      "price": 153
+    },
+    {
+      "abr": "guestwickerbed",
+      "category": "Furniture",
+      "defname": "DankPyon_BedWickerGuest",
+      "price": 153
+    },
+    {
+      "abr": "guestdoublewickerbed",
+      "category": "Furniture",
+      "defname": "DankPyon_BedWickerDoubleGuest",
+      "price": 289
+    },
+    {
+      "abr": "gueststrawbed",
+      "category": "Furniture",
+      "defname": "DankPyon_StrawBedGuest",
+      "price": 171
+    },
+    {
+      "abr": "guestdoublestrawbed",
+      "category": "Furniture",
+      "defname": "DankPyon_StrawBedDoubleGuest",
+      "price": 326
+    },
+    {
+      "abr": "guestfurbed",
+      "category": "Furniture",
+      "defname": "DankPyon_BedFurGuest",
+      "price": 145
+    },
+    {
+      "abr": "guestdoublefurbed",
+      "category": "Furniture",
+      "defname": "DankPyon_BedFurDoubleGuest",
+      "price": 279
+    },
+    {
+      "abr": "guestroyaltudorbed",
+      "category": "Furniture",
+      "defname": "DankPyon_RoyalTudorBedGuest",
+      "price": 3592
+    },
+    {
+      "abr": "guestancientbed",
+      "category": "Misc",
+      "defname": "VME_AncientBedGuest",
+      "price": 5
     }
   ],
-  "total": 2537
+  "total": 2557
 }
