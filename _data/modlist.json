@@ -300,6 +300,30 @@
     "version": null
   },
   {
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.7.7366"
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.1"
+  },
+  {
+    "author": "Wemd",
+    "name": "[WD] Expanded Floors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "test",
+    "name": "Stuffable Floors XML Edition",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "nry",
     "name": "ToolkitCore",
     "steamId": "3013877477",
@@ -384,22 +408,10 @@
     "version": null
   },
   {
-    "author": "Dubwise",
-    "name": "Dubs Bad Hygiene",
-    "steamId": "836308268",
-    "version": "2.7.7366"
-  },
-  {
     "author": "Mehni",
     "name": "Pick Up And Haul",
     "steamId": "1279012058",
     "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
-  },
-  {
-    "author": "Imranfish",
-    "name": "XML Extensions",
-    "steamId": "2574315206",
-    "version": "1.7.1"
   },
   {
     "author": "FrozenSnowFox",
@@ -454,12 +466,6 @@
     "name": "[LTO] Colony Groups",
     "steamId": "2345493945",
     "version": "1.0.06"
-  },
-  {
-    "author": "Wemd",
-    "name": "[WD] Expanded Floors",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Krkr",
