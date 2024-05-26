@@ -1,6 +1,11 @@
 {
 	"incitems" : [
 	{
+		"abr": "tornado",
+		"price": 5000,
+		"karmatype": "Doom"
+	},
+	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -142,7 +147,12 @@
 	},
 	{
 		"abr": "travelergroup",
-		"price": 1500,
+		"price": 2500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "visitorgroup",
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
@@ -172,7 +182,7 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 5000,
+		"price": 10000,
 		"karmatype": "Good"
 	},
 	{
@@ -238,11 +248,6 @@
 	{
 		"abr": "prisoner",
 		"price": 800,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "visitcolony",
-		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
@@ -351,5 +356,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 70
+	"total": 71
 }
