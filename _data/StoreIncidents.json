@@ -236,6 +236,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "pawn",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "trait",
 		"price": 1,
 		"karmatype": "Good"
@@ -356,5 +361,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 71
+	"total": 72
 }
