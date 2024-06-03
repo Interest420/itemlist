@@ -550,7 +550,7 @@
       "abr": "healermechserum",
       "category": "Drugs",
       "defname": "MechSerumHealer",
-      "price": -10
+      "price": 1500
     },
     {
       "abr": "resurrectormechserum",
@@ -4618,7 +4618,7 @@
       "abr": "adrenalheart",
       "category": "Ghoul",
       "defname": "AdrenalHeart",
-      "price": -10
+      "price": 158
     },
     {
       "abr": "basin",
@@ -4714,7 +4714,7 @@
       "abr": "corrosiveheart",
       "category": "Ghoul",
       "defname": "CorrosiveHeart",
-      "price": -10
+      "price": 158
     },
     {
       "abr": "couch",
@@ -4822,13 +4822,13 @@
       "abr": "ghoulbarbs",
       "category": "Ghoul",
       "defname": "GhoulBarbs",
-      "price": -10
+      "price": 80
     },
     {
       "abr": "ghoulplating",
       "category": "Ghoul",
       "defname": "GhoulPlating",
-      "price": -10
+      "price": 142
     },
     {
       "abr": "ghoulresurrectionserum",
@@ -4900,7 +4900,7 @@
       "abr": "juggernautserum",
       "category": "Drugs",
       "defname": "JuggernautSerum",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "kitchensink",
@@ -4930,13 +4930,13 @@
       "abr": "metalbloodheart",
       "category": "Ghoul",
       "defname": "MetalbloodHeart",
-      "price": -10
+      "price": 158
     },
     {
       "abr": "metalbloodserum",
       "category": "Drugs",
       "defname": "MetalbloodSerum",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "mind-numbserum",
@@ -5344,7 +5344,7 @@
       "abr": "voidsightserum",
       "category": "Drugs",
       "defname": "VoidsightSerum",
-      "price": -10
+      "price": 100
     },
     {
       "abr": "walllamp",

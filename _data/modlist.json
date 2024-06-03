@@ -27,7 +27,7 @@
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
-    "version": "11.0.3"
+    "version": "11.0.4"
   },
   {
     "author": "Soul, Phaneron and Bradson",
@@ -60,6 +60,12 @@
     "version": "1.5.10.0"
   },
   {
+    "author": "Noise",
+    "name": "Cleansweeper Is Maid",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "GoryMoon",
     "name": "CloseAll",
     "steamId": "2018479759",
@@ -70,6 +76,12 @@
     "name": "Compact Hediffs",
     "steamId": "2031734067",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "miyamiya, twsta and vokaerian",
+    "name": "Compressed Raid",
+    "steamId": "3227665030",
+    "version": "1.5"
   },
   {
     "author": "Spdskatr and CaesarV6",
