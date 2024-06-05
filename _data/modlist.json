@@ -42,6 +42,24 @@
     "version": null
   },
   {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.1"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Arachne Race (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Madeline",
     "name": "Better ModMismatch Window",
     "steamId": "1872244972",
@@ -111,7 +129,7 @@
     "author": "Citrus",
     "name": "Expectations Modifier",
     "steamId": "1904336011",
-    "version": "3.2.2.0"
+    "version": "3.2.3.0"
   },
   {
     "author": "m00nl1ght",
@@ -162,6 +180,12 @@
     "version": null
   },
   {
+    "author": "Razar1",
+    "name": "Monstergirl Races",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Mooloh",
     "name": "Mooloh's Mythic Framework",
     "steamId": "2819828894",
@@ -180,6 +204,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Gloomylynx Nukafrog",
+    "name": "NewRatkinPlus",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Dave-EEs",
     "name": "No Random Relations",
     "steamId": "2583377522",
@@ -196,6 +226,12 @@
     "name": "Numbers",
     "steamId": "1414302321",
     "version": "1.0.0+930a1dac5636543bb9c7a958b78a0719e601ed5f"
+  },
+  {
+    "author": "Farmradish",
+    "name": "Nyaron race",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "SeoHyeon",
@@ -240,6 +276,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "FLASHPOINT55",
+    "name": "RPG Style Level Up Mod",
+    "steamId": "1995668415",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Uuugggg",
     "name": "Replace Stuff",
     "steamId": "1372003680",
@@ -264,12 +306,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Jaxe",
-    "name": "RimHUD",
-    "steamId": "1508850027",
-    "version": "1.15.3.0"
-  },
-  {
     "author": "aRandomKiwi",
     "name": "RimSaves",
     "steamId": "1713367505",
@@ -278,6 +314,12 @@
   {
     "author": "Sierra",
     "name": "RimTraits - General Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Core",
     "steamId": null,
     "version": null
   },
@@ -310,18 +352,6 @@
     "name": "Smarter Construction",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Bad Hygiene",
-    "steamId": "836308268",
-    "version": "2.7.7366"
-  },
-  {
-    "author": "Imranfish",
-    "name": "XML Extensions",
-    "steamId": "2574315206",
-    "version": "1.7.1"
   },
   {
     "author": "Wemd",
@@ -378,6 +408,24 @@
     "version": "1.0.1.0"
   },
   {
+    "author": "Jaxe",
+    "name": "RimHUD",
+    "steamId": "1508850027",
+    "version": "1.15.3.0"
+  },
+  {
+    "author": "legodude17 and Oskar Potocki",
+    "name": "Vanilla Skills Expanded",
+    "steamId": "2854967442",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Storytellers Expanded - Perry Persistent",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "1trickPwnyta",
     "name": "Unlimited Threat Scale",
     "steamId": "2562732435",
@@ -426,6 +474,12 @@
     "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
   },
   {
+    "author": "Oskar Potocki, Trunken and XeoNovaDan",
+    "name": "Vanilla Furniture Expanded - Security",
+    "steamId": "1845154007",
+    "version": "1.1.1.0"
+  },
+  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Complex Jobs",
     "steamId": null,
@@ -446,6 +500,12 @@
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
     "name": "Vanilla Plants Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roo",
+    "name": "Yuran race",
     "steamId": null,
     "version": null
   },
