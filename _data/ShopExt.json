@@ -1858,7 +1858,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Nearsighted",
@@ -1898,7 +1898,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Farsighted",
@@ -1930,7 +1930,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Athletic",
@@ -1962,7 +1962,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Stiff",
@@ -1992,7 +1992,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_GoodHygiene",
@@ -2022,7 +2022,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_PoorHygiene",
@@ -2054,7 +2054,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Persuasive",
@@ -2086,7 +2086,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Unconvincing",
@@ -2120,7 +2120,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Resilient",
@@ -2156,7 +2156,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Fragile",
@@ -2188,7 +2188,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Energetic",
@@ -2220,7 +2220,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Sluggish",
@@ -2250,7 +2250,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Restful",
@@ -2280,7 +2280,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Restless",
@@ -2312,7 +2312,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Efficient",
@@ -2344,7 +2344,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Inefficient",
@@ -2376,7 +2376,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Valiant",
@@ -2408,7 +2408,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Craven",
@@ -2438,7 +2438,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Rowdy",
@@ -2468,7 +2468,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Composed",
@@ -2498,7 +2498,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_HeatTolerant",
@@ -2528,7 +2528,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_HeatIntolerant",
@@ -2558,7 +2558,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_ColdTolerant",
@@ -2588,7 +2588,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_ColdIntolerant",
@@ -2620,7 +2620,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Muscular",
@@ -2652,7 +2652,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Frail",
@@ -2678,7 +2678,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Abstinent",
@@ -2704,7 +2704,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Ravenous",
@@ -2756,7 +2756,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Gifted",
@@ -2808,7 +2808,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Incompetent",
@@ -2840,7 +2840,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_PatientCook",
@@ -2872,7 +2872,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_ImpatientCook",
@@ -2912,7 +2912,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Healthy",
@@ -2952,7 +2952,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_ChronicallyIll",
@@ -2984,7 +2984,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_TemperatureTolerant",
@@ -3016,7 +3016,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_TemperatureIntolerant",
@@ -3050,7 +3050,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Coordinated",
@@ -3084,7 +3084,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Clumsy",
@@ -3126,7 +3126,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Hardy",
@@ -3170,7 +3170,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Feeble",
@@ -3200,7 +3200,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_EasilyAmused",
@@ -3230,7 +3230,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_ConstantlyBemused",
@@ -3262,7 +3262,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Inquisitive",
@@ -3294,7 +3294,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Ignorant",
@@ -3328,7 +3328,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Tidy",
@@ -3362,7 +3362,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Messy",
@@ -3657,7 +3657,7 @@
       },
       "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.",
       "defName": "Ratkin_Su",
-      "enabled": true,
+      "enabled": false,
       "name": "Ratkin subject",
       "price": 3000
     },
