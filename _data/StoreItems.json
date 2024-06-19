@@ -7645,12 +7645,6 @@
       "price": -10
     },
     {
-      "abr": "zombrella",
-      "category": "Misc",
-      "defname": "Zombrella",
-      "price": -10
-    },
-    {
       "abr": "▼▼",
       "category": "Animals",
       "defname": "YR_Sikigami_Snake_Noroi",
@@ -9727,11 +9721,23 @@
       "price": -10
     },
     {
+      "abr": "ballisticglass",
+      "category": "Manufactured",
+      "defname": "RB_BallisticGlass",
+      "price": 17
+    },
+    {
+      "abr": "glass",
+      "category": "Manufactured",
+      "defname": "RB_Glass",
+      "price": 3
+    },
+    {
       "abr": "yuranguardianstone",
       "category": "Security",
       "defname": "YR_yinyangretrogradestone",
-      "price": -10
+      "price": 177
     }
   ],
-  "total": 1622
+  "total": 1623
 }
