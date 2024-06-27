@@ -42,6 +42,18 @@
     "version": null
   },
   {
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
+    "version": "1.0.0"
+  },
+  {
+    "author": "jecrell and contributors",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.5.0.0"
+  },
+  {
     "author": "Imranfish",
     "name": "XML Extensions",
     "steamId": "2574315206",
@@ -132,12 +144,6 @@
     "version": "1.6.10.0"
   },
   {
-    "author": "Telefonmast",
-    "name": "Graphics Settings+",
-    "steamId": "1678847247",
-    "version": "1.0.0"
-  },
-  {
     "author": "Krypt",
     "name": "RWLayout",
     "steamId": "2209393954",
@@ -168,10 +174,22 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.6.3.0"
+  },
+  {
+    "author": "Kure",
+    "name": "Kure's Rimworld of Magic Class Expansion Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.12.14.0"
+    "version": "1.12.15+90aa040a4b9b24f520274fbe2ad3a6151b31e52c"
   },
   {
     "author": "Antaios",
@@ -288,18 +306,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Ideology Expanded - Memes and Structures",
-    "steamId": "2636329500",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sarg Bjornson, Helixien, Cassie, Luizi and Allie",
-    "name": "Alpha Memes",
-    "steamId": "2661356814",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki and Sarg Bjornson",
     "name": "Vanilla Furniture Expanded - Art",
     "steamId": null,
@@ -396,6 +402,12 @@
     "version": "2.7.7366"
   },
   {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Ideology Expanded - Memes and Structures",
+    "steamId": "2636329500",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Wemd",
     "name": "[WD] Expanded Floors",
     "steamId": null,
@@ -406,6 +418,12 @@
     "name": "Stuffable Floors XML Edition",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "DarkShadow44",
+    "name": "SurgeryImproved",
+    "steamId": "3233032071",
+    "version": "1.0.0.0"
   },
   {
     "author": "nry",
@@ -471,6 +489,12 @@
     "author": "1trickPwnyta",
     "name": "Visible Raid Points",
     "steamId": "2562730174",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Gege",
+    "name": "Xenotype Xenogerms (Continued)",
+    "steamId": "3272195098",
     "version": "1.0.0.0"
   },
   {
