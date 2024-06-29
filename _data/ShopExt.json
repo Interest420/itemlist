@@ -514,14 +514,14 @@
         "Only mental break \"FireStartingSpree\" allowed."
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "Flame meditation focus type allowed.",
           "Only mental break \"FireStartingSpree\" allowed."
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -54012,9 +54012,9 @@
     },
     {
       "canAdd": false,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
-      "removePrice": 3000,
+      "removePrice": 1,
       "degree": 0,
       "description": "Timmy's voice has a particularly Beautiful. This predisposes others to like him.",
       "stats": [],

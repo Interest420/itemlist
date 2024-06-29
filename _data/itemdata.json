@@ -12520,7 +12520,7 @@
     "KarmaType": null
   },
   "GU_RedWood": {
-    "CustomName": null,
+    "CustomName": "red-wood",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
