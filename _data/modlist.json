@@ -42,36 +42,6 @@
     "version": null
   },
   {
-    "author": "Telefonmast",
-    "name": "Graphics Settings+",
-    "steamId": "1678847247",
-    "version": "1.0.0"
-  },
-  {
-    "author": "jecrell and contributors",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.5.0.0"
-  },
-  {
-    "author": "Imranfish",
-    "name": "XML Extensions",
-    "steamId": "2574315206",
-    "version": "1.7.1"
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Zaljerem",
-    "name": "Arachne Race (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Madeline",
     "name": "Better ModMismatch Window",
     "steamId": "1872244972",
@@ -82,12 +52,6 @@
     "name": "Character Editor",
     "steamId": "1874644848",
     "version": "1.5.10.0"
-  },
-  {
-    "author": "Noise",
-    "name": "Cleansweeper Is Maid",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "GoryMoon",
@@ -162,22 +126,28 @@
     "version": null
   },
   {
-    "author": "Murmur",
-    "name": "Infestations Spawn in Darkness",
-    "steamId": "2017514331",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "キャデグ",
     "name": "Killfeed",
     "steamId": "1362098265",
     "version": "1.0.0.0"
   },
   {
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
+    "version": "1.0.0"
+  },
+  {
+    "author": "jecrell and contributors",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.5.0.0"
+  },
+  {
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.6.3.0"
+    "version": "2.6.3.2"
   },
   {
     "author": "Kure",
@@ -196,6 +166,18 @@
     "name": "Mod Medicine Patch",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.1"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
   },
   {
     "author": "Razar1",
@@ -222,12 +204,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Gloomylynx Nukafrog",
-    "name": "NewRatkinPlus",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Dave-EEs",
     "name": "No Random Relations",
     "steamId": "2583377522",
@@ -243,7 +219,7 @@
     "author": "Mehni",
     "name": "Numbers",
     "steamId": "1414302321",
-    "version": "1.0.0+930a1dac5636543bb9c7a958b78a0719e601ed5f"
+    "version": "1.0.0+183c4f489a9b068943040c691d34a3409e03fc3b"
   },
   {
     "author": "Farmradish",
@@ -396,12 +372,6 @@
     "version": null
   },
   {
-    "author": "Dubwise",
-    "name": "Dubs Bad Hygiene",
-    "steamId": "836308268",
-    "version": "2.7.7366"
-  },
-  {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
     "name": "Vanilla Ideology Expanded - Memes and Structures",
     "steamId": "2636329500",
@@ -540,10 +510,10 @@
     "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
   },
   {
-    "author": "Oskar Potocki, Trunken and XeoNovaDan",
-    "name": "Vanilla Furniture Expanded - Security",
-    "steamId": "1845154007",
-    "version": "1.1.1.0"
+    "author": "Oskar Potocki, xrushha, Taranchuk and Sarg Bjornson",
+    "name": "Vanilla Factions Expanded - Tribals",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "FrozenSnowFox",
@@ -556,12 +526,6 @@
     "name": "Apothecary (Continued)",
     "steamId": "2195469123",
     "version": "1.5.0"
-  },
-  {
-    "author": "Owlchemist",
-    "name": "Simple Utilities: Fridge",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
