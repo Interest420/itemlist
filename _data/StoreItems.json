@@ -8512,7 +8512,7 @@
       "abr": "arcanescript:???",
       "category": "Skill books",
       "defname": "BookOfQuestion",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanespell:arcanewall",
@@ -8548,235 +8548,235 @@
       "abr": "arcanetome:arbormancer",
       "category": "Skill books",
       "defname": "BookOfArbormancer",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:architect",
       "category": "Skill books",
       "defname": "BookOfArchitect",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:bard",
       "category": "Skill books",
       "defname": "BookOfBard",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:blackmage",
       "category": "Skill books",
       "defname": "BookOfBlackMage",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:brightmage",
       "category": "Skill books",
       "defname": "BookOfTheSun",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:chaosmage",
       "category": "Skill books",
       "defname": "BookOfChaos",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:chronomancer",
       "category": "Skill books",
       "defname": "BookOfChronomancer",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:cleric",
       "category": "Skill books",
       "defname": "BookOfCleric",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:demonology",
       "category": "Skill books",
       "defname": "BookOfDemons",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:duskbringer",
       "category": "Skill books",
       "defname": "BookOfDuskbringer",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:earth",
       "category": "Skill books",
       "defname": "BookOfEarth",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:elementalgunner",
       "category": "Skill books",
       "defname": "BookOfElementalGunner",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:enchanter",
       "category": "Skill books",
       "defname": "BookOfEnchanter",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:fire",
       "category": "Skill books",
       "defname": "BookOfInnerFire",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:golemancer",
       "category": "Skill books",
       "defname": "BookOfGolemancy",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:guardian",
       "category": "Skill books",
       "defname": "BookOfGuardian",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:harbinger",
       "category": "Skill books",
       "defname": "BookOfHarbinger",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:hemomancy",
       "category": "Skill books",
       "defname": "BookOfHemomancy",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:ice",
       "category": "Skill books",
       "defname": "BookOfHeartOfFrost",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:keeper",
       "category": "Skill books",
       "defname": "BookOfKeeper",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:lightning",
       "category": "Skill books",
       "defname": "BookOfStormBorn",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:nature",
       "category": "Skill books",
       "defname": "BookOfDruid",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:necromancer",
       "category": "Skill books",
       "defname": "BookOfNecromancer",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:ninja",
       "category": "Skill books",
       "defname": "BookOfNinja",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:oracle",
       "category": "Skill books",
       "defname": "BookOfOracle",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:power",
       "category": "Skill books",
       "defname": "BookOfArcanist",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:pridestalker",
       "category": "Skill books",
       "defname": "BookOfPridestalker",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:priest",
       "category": "Skill books",
       "defname": "BookOfPriest",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:redmage",
       "category": "Skill books",
       "defname": "BookOfRedMage",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:runeknight",
       "category": "Skill books",
       "defname": "BookOfRuneKnight",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:scholar",
       "category": "Skill books",
       "defname": "BookOfScholar",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:shadow",
       "category": "Skill books",
       "defname": "BookOfShadow",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:shadowbringer",
       "category": "Skill books",
       "defname": "BookOfShadowbringer",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:shaman",
       "category": "Skill books",
       "defname": "BookOfShamanism",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:summoning",
       "category": "Skill books",
       "defname": "BookOfSummoner",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:technomancy",
       "category": "Skill books",
       "defname": "BookOfMagitech",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:troubadour",
       "category": "Skill books",
       "defname": "BookOfTroubadour",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:warden",
       "category": "Skill books",
       "defname": "BookOfWarden",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "arcanetome:windmage",
       "category": "Skill books",
       "defname": "BookOfWindMage",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "architectspell:elementalrift",
@@ -8872,7 +8872,7 @@
       "abr": "bookofrecipes:chef",
       "category": "Skill books",
       "defname": "BookOfChef",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "bowskill:cripplingshot",
@@ -8902,7 +8902,7 @@
       "abr": "boxofdice:gambler",
       "category": "Skill books",
       "defname": "BookOfGambler",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "bracersofdefense",
@@ -8992,139 +8992,139 @@
       "abr": "combataugments:chempunk",
       "category": "Skill books",
       "defname": "BookOfChempunk",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combataugments:railbreaker",
       "category": "Skill books",
       "defname": "BookOfRailbreaker",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatform:blossomblader",
       "category": "Skill books",
       "defname": "BookOfBlossomBlader",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatform:deadeye",
       "category": "Skill books",
       "defname": "BookOfDeadeye",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatform:dragoon",
       "category": "Skill books",
       "defname": "BookOfDragoon",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatform:faceless",
       "category": "Skill books",
       "defname": "BookOfFaceless",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatform:gladiator",
       "category": "Skill books",
       "defname": "BookOfGladiator",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatform:gunbreaker",
       "category": "Skill books",
       "defname": "BookOfGunbreaker",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatform:gunner",
       "category": "Skill books",
       "defname": "BookOfGunner",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatform:gunslinger",
       "category": "Skill books",
       "defname": "BookOfGunslinger",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatform:holosmith",
       "category": "Skill books",
       "defname": "BookOfHolosmith",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatform:mechhunter",
       "category": "Skill books",
       "defname": "BookOfMechHunter",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatform:miner",
       "category": "Skill books",
       "defname": "BookOfMiner",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatform:mystic",
       "category": "Skill books",
       "defname": "BookOfMystic",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatform:nomad",
       "category": "Skill books",
       "defname": "BookOfNomad",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatform:scrapper",
       "category": "Skill books",
       "defname": "BookOfScrapper",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatform:spellbreaker",
       "category": "Skill books",
       "defname": "BookOfSpellbreaker",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatform:spellthief",
       "category": "Skill books",
       "defname": "BookOfSpellthief",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatform:striker",
       "category": "Skill books",
       "defname": "BookOfStriker",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatform:supportspecialist",
       "category": "Skill books",
       "defname": "BookOfSupportSpecialist",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatform:thunderblessed",
       "category": "Skill books",
       "defname": "BookOfThunderblessed",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatform:warrior",
       "category": "Skill books",
       "defname": "BookOfWarrior",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatinspiration:gadgeteer",
       "category": "Skill books",
       "defname": "BookOfGadgeteer",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatmanual",
@@ -9136,103 +9136,103 @@
       "abr": "combatpower:psionic",
       "category": "Skill books",
       "defname": "BookOfPsionic",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatstyle:ambusher",
       "category": "Skill books",
       "defname": "BookOfAmbusher",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatstyle:apothecary",
       "category": "Skill books",
       "defname": "BookOfApothecary",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatstyle:berserker",
       "category": "Skill books",
       "defname": "BookOfBerserker",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatstyle:bladedancer",
       "category": "Skill books",
       "defname": "BookOfBladedancer",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatstyle:bombardier",
       "category": "Skill books",
       "defname": "BookOfBombardier",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatstyle:chainwarden",
       "category": "Skill books",
       "defname": "BookOfChainwarden",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatstyle:commander",
       "category": "Skill books",
       "defname": "BookOfCommander",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatstyle:deathknight",
       "category": "Skill books",
       "defname": "BookOfDeathKnight",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatstyle:hawkeye",
       "category": "Skill books",
       "defname": "BookOfHawkeye",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatstyle:monk",
       "category": "Skill books",
       "defname": "BookOfMonk",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatstyle:ranger",
       "category": "Skill books",
       "defname": "BookOfRanger",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatstyle:reaper",
       "category": "Skill books",
       "defname": "BookOfReaper",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatstyle:saboteur",
       "category": "Skill books",
       "defname": "BookOfSaboteur",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatstyle:samurai",
       "category": "Skill books",
       "defname": "BookOfSamurai",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatstyle:scion",
       "category": "Skill books",
       "defname": "BookOfScion",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "combatstyle:sniper",
       "category": "Skill books",
       "defname": "BookOfSniper",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "commanderskill:diplomaticnegotiations",
@@ -9364,7 +9364,7 @@
       "abr": "divinetome:paladin",
       "category": "Skill books",
       "defname": "BookOfValiant",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "dragonslayerplate",
@@ -9934,7 +9934,7 @@
       "abr": "hippocraticoath:medic",
       "category": "Skill books",
       "defname": "BookOfMedic",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "hollowgolem",
@@ -10738,7 +10738,7 @@
       "abr": "serum:supersoldier",
       "category": "Skill books",
       "defname": "BookOfSuperSoldier",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "shadowessence",
@@ -11008,199 +11008,199 @@
       "abr": "tomeofinsight:explorer",
       "category": "Skill books",
       "defname": "BookOfExplorer",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "tornscript:arbormancer",
       "category": "Skill books",
       "defname": "Torn_BookOfArbormancer",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "tornscript:architect",
       "category": "Skill books",
       "defname": "Torn_BookOfArchitect",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "tornscript:bard",
       "category": "Skill books",
       "defname": "Torn_BookOfBard",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "tornscript:blackmage",
       "category": "Skill books",
       "defname": "Torn_BookOfBlackMage",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "tornscript:brightmage",
       "category": "Skill books",
       "defname": "Torn_BookOfTheSun",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "tornscript:chaos",
       "category": "Skill books",
       "defname": "Torn_BookOfChaos",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "tornscript:chromamage",
       "category": "Skill books",
       "defname": "Torn_BookOfChromaMage",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "tornscript:chronomancy",
       "category": "Skill books",
       "defname": "Torn_BookOfChronomancer",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "tornscript:cleric",
       "category": "Skill books",
       "defname": "Torn_BookOfCleric",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "tornscript:demonology",
       "category": "Skill books",
       "defname": "Torn_BookOfDemons",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "tornscript:enchanter",
       "category": "Skill books",
       "defname": "Torn_BookOfEnchanter",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "tornscript:fire",
       "category": "Skill books",
       "defname": "Torn_BookOfInnerFire",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "tornscript:geomancy",
       "category": "Skill books",
       "defname": "Torn_BookOfEarth",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "tornscript:golemancer",
       "category": "Skill books",
       "defname": "Torn_BookOfGolemancy",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "tornscript:harbinger",
       "category": "Skill books",
       "defname": "Torn_BookOfHarbinger",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "tornscript:hemomancy",
       "category": "Skill books",
       "defname": "Torn_BookOfHemomancy",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "tornscript:ice",
       "category": "Skill books",
       "defname": "Torn_BookOfHeartOfFrost",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "tornscript:keeper",
       "category": "Skill books",
       "defname": "Torn_BookOfKeeper",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "tornscript:lightning",
       "category": "Skill books",
       "defname": "Torn_BookOfStormBorn",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "tornscript:nature",
       "category": "Skill books",
       "defname": "Torn_BookOfNature",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "tornscript:necromancy",
       "category": "Skill books",
       "defname": "Torn_BookOfUndead",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "tornscript:oracle",
       "category": "Skill books",
       "defname": "Torn_BookOfOracle",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "tornscript:paladin",
       "category": "Skill books",
       "defname": "Torn_BookOfValiant",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "tornscript:power",
       "category": "Skill books",
       "defname": "Torn_BookOfArcanist",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "tornscript:priest",
       "category": "Skill books",
       "defname": "Torn_BookOfPriest",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "tornscript:runeknight",
       "category": "Skill books",
       "defname": "Torn_BookOfRuneKnight",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "tornscript:scholar",
       "category": "Skill books",
       "defname": "Torn_BookOfScholar",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "tornscript:shaman",
       "category": "Skill books",
       "defname": "Torn_BookOfShamanism",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "tornscript:summoning",
       "category": "Skill books",
       "defname": "Torn_BookOfSummoner",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "tornscript:technomancy",
       "category": "Skill books",
       "defname": "Torn_BookOfMagitech",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "tornscript:troubadour",
       "category": "Skill books",
       "defname": "Torn_BookOfTroubadour",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "tornscript:windmage",
       "category": "Skill books",
       "defname": "Torn_BookOfWindMage",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "troubadourskill:apexarrow",
@@ -11248,25 +11248,25 @@
       "abr": "twistedinspiration:plaguedoctor",
       "category": "Skill books",
       "defname": "BookOfPlaguedoctor",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "unfinishedarcanebook",
       "category": "Skill books",
       "defname": "UnfinishedAdvArcane",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "unfinishedmartialbook",
       "category": "Skill books",
       "defname": "UnfinishedMartial",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "unfinishedtornscript",
       "category": "Skill books",
       "defname": "UnfinishedArcane",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "unrefinedmagicyte",
