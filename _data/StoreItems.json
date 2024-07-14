@@ -7510,7 +7510,7 @@
       "abr": "yinyangmark",
       "category": "Furniture",
       "defname": "YR_TreeBase_Plus",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "yuran",
@@ -7564,7 +7564,7 @@
       "abr": "yuranbigcherrybox",
       "category": "Yuran Manufactured",
       "defname": "YR_TreeBox",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "yuranbigribbon",
