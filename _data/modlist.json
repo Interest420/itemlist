@@ -21,7 +21,7 @@
     "author": "bradson",
     "name": "Performance Fish",
     "steamId": "",
-    "version": "0.6.2.0"
+    "version": "0.6.2.0+79e8b5f70d53ac37ef43c08273e37bb8b34b041c"
   },
   {
     "author": "UnlimitedHugs",
@@ -42,6 +42,24 @@
     "version": null
   },
   {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.1"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Arachne Race (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Madeline",
     "name": "Better ModMismatch Window",
     "steamId": "1872244972",
@@ -52,6 +70,12 @@
     "name": "Character Editor",
     "steamId": "1874644848",
     "version": "1.5.10.0"
+  },
+  {
+    "author": "Noise",
+    "name": "Cleansweeper Is Maid",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "GoryMoon",
@@ -108,6 +132,12 @@
     "version": "1.6.10.0"
   },
   {
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
+    "version": "1.0.0"
+  },
+  {
     "author": "Krypt",
     "name": "RWLayout",
     "steamId": "2209393954",
@@ -126,34 +156,16 @@
     "version": null
   },
   {
+    "author": "Murmur",
+    "name": "Infestations Spawn in Darkness",
+    "steamId": "2017514331",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "キャデグ",
     "name": "Killfeed",
     "steamId": "1362098265",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Telefonmast",
-    "name": "Graphics Settings+",
-    "steamId": "1678847247",
-    "version": "1.0.0"
-  },
-  {
-    "author": "jecrell and contributors",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.5.0.0"
-  },
-  {
-    "author": "Torann",
-    "name": "A RimWorld of Magic",
-    "steamId": "1201382956",
-    "version": "2.6.3.2"
-  },
-  {
-    "author": "Kure",
-    "name": "Kure's Rimworld of Magic Class Expansion Pack",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "m00nl1ght",
@@ -166,18 +178,6 @@
     "name": "Mod Medicine Patch",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Imranfish",
-    "name": "XML Extensions",
-    "steamId": "2574315206",
-    "version": "1.7.1"
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
   },
   {
     "author": "Razar1",
@@ -202,6 +202,12 @@
     "name": "My Little Planet",
     "steamId": "1117406550",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Gloomylynx Nukafrog",
+    "name": "NewRatkinPlus",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Dave-EEs",
@@ -282,6 +288,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Smash Phil",
+    "name": "Vehicle Framework",
+    "steamId": "3014915404",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kentington, Thain and SonicTHI",
+    "name": "Save Our Ship 2",
+    "steamId": "1909914131",
+    "version": "0.0.0.0"
+  },
+  {
     "author": "Oskar Potocki and Sarg Bjornson",
     "name": "Vanilla Furniture Expanded - Art",
     "steamId": null,
@@ -318,6 +336,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Rizno",
+    "name": "RimFTL (Music Pack)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "aRandomKiwi",
     "name": "RimSaves",
     "steamId": "1713367505",
@@ -332,6 +356,12 @@
   {
     "author": "rooki1",
     "name": "Rimsenal - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Federation Faction Pack",
     "steamId": null,
     "version": null
   },
@@ -510,10 +540,10 @@
     "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
   },
   {
-    "author": "Oskar Potocki, xrushha, Taranchuk and Sarg Bjornson",
-    "name": "Vanilla Factions Expanded - Tribals",
-    "steamId": null,
-    "version": null
+    "author": "Oskar Potocki, Trunken and XeoNovaDan",
+    "name": "Vanilla Furniture Expanded - Security",
+    "steamId": "1845154007",
+    "version": "1.1.1.0"
   },
   {
     "author": "FrozenSnowFox",
@@ -526,6 +556,12 @@
     "name": "Apothecary (Continued)",
     "steamId": "2195469123",
     "version": "1.5.0"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple Utilities: Fridge",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
@@ -550,18 +586,6 @@
     "name": "[GMT] Trading Spot",
     "steamId": "2874517333",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
-    "name": "Quarry",
-    "steamId": "2007576583",
-    "version": "2.0.0"
-  },
-  {
-    "author": "jeonggihun",
-    "name": "[JGH] Quarry retexture",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "DerekBickley",
