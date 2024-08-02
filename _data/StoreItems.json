@@ -2644,73 +2644,73 @@
       "abr": "skilltrainer(shooting)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Shooting",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(melee)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Melee",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(construction)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Construction",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(mining)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Mining",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(cooking)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Cooking",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(plants)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Plants",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(animals)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Animals",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(crafting)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Crafting",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(artistic)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Artistic",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(medical)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Medicine",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(social)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Social",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(intellectual)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Intellectual",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "absinthe",
@@ -9091,18 +9091,6 @@
       "price": -10
     },
     {
-      "abr": "ballisticglass",
-      "category": "Manufactured",
-      "defname": "RB_BallisticGlass",
-      "price": 17
-    },
-    {
-      "abr": "glass",
-      "category": "Manufactured",
-      "defname": "RB_Glass",
-      "price": 3
-    },
-    {
       "abr": "yuranguardianstone",
       "category": "Security",
       "defname": "YR_yinyangretrogradestone",
@@ -9811,6 +9799,18 @@
       "price": 3333
     },
     {
+      "abr": "ballisticglass",
+      "category": "Manufactured",
+      "defname": "RB_BallisticGlass",
+      "price": 17
+    },
+    {
+      "abr": "glass",
+      "category": "Manufactured",
+      "defname": "RB_Glass",
+      "price": 3
+    },
+    {
       "abr": "yttakinxenogerm",
       "category": "Items",
       "defname": "Xenogerm_Yttakin",
@@ -9821,13 +9821,7 @@
       "category": "Items",
       "defname": "Xenogerm_YuranXenotype",
       "price": 3333
-    },
-    {
-      "abr": "zombrella",
-      "category": "Misc",
-      "defname": "Zombrella",
-      "price": 3333
     }
   ],
-  "total": 1638
+  "total": 1637
 }
