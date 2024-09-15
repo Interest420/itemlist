@@ -68,7 +68,13 @@ mods:
   author: true
 
 # Build settings
-theme: type-on-strap
+remote_theme: Interest420/Type-on-Strap
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
 markdown: kramdown
 sass:
   style: compressed
