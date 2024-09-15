@@ -59,7 +59,7 @@ commands:
   # Whether or not the command list will display the command's uage.
   usage: true
   # Whether or not the command list will display the mod that added it.
-  mod: true
+  mod: false
 
 mods:
   # Whether or not the mod list will display the mod's version.
