@@ -156,6 +156,16 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "shippartpoison",
+		"price": 7500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "shippartpsychic",
+		"price": 7500,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "infestation",
 		"price": 1500,
 		"karmatype": "Neutral"
@@ -306,5 +316,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 61
+	"total": 63
 }
