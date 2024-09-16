@@ -10612,7 +10612,7 @@
       "abr": "nutritionaljelly",
       "category": "Drugs",
       "defname": "Nutritional_jelly_thing",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "prosperityimplant",
@@ -10918,7 +10918,7 @@
       "abr": "voidtechskin",
       "category": "Voidtech apparel",
       "defname": "RHApparel_VOID_SpeedSkin",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "voidtechspine",
