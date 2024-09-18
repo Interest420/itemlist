@@ -532,7 +532,7 @@
       "abr": "psychicanimalpulser",
       "category": "Artifacts",
       "defname": "PsychicAnimalPulser",
-      "price": 1167
+      "price": -10
     },
     {
       "abr": "psychicsoothepulser",
@@ -9124,7 +9124,7 @@
       "abr": "shardanimalpulser",
       "category": "Artifacts",
       "defname": "ShardAnimalPulser",
-      "price": 875
+      "price": -10
     },
     {
       "abr": "shardbeacon",
@@ -10948,7 +10948,7 @@
       "abr": "wraithcannon",
       "category": "Ranged weapons",
       "defname": "RNGun_WraithCannon_HMG",
-      "price": -10
+      "price": 16667
     },
     {
       "abr": "x-duskimplant",
