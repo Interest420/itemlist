@@ -10810,7 +10810,7 @@
       "abr": "ultraboostimplant",
       "category": "Elite collection",
       "defname": "DF_UltraBoost_Implant",
-      "price": -10
+      "price": 25000
     },
     {
       "abr": "v.o.i.d.helmet",
@@ -10828,7 +10828,7 @@
       "abr": "v.o.i.d.reactive",
       "category": "Fairview armor",
       "defname": "RHApparel_VOIDReactive_PowerArmor",
-      "price": -10
+      "price": 8333
     },
     {
       "abr": "vengeanceguard",
