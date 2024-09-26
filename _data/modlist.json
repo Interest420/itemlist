@@ -84,6 +84,12 @@
     "version": "1.5.10.0"
   },
   {
+    "author": "Mlie",
+    "name": "Climate Cycle++ (Continued)",
+    "steamId": "2024296023",
+    "version": "1.5.0"
+  },
+  {
     "author": "GoryMoon",
     "name": "CloseAll",
     "steamId": "2018479759",
@@ -120,12 +126,6 @@
     "version": null
   },
   {
-    "author": "Dubwise",
-    "name": "Dubs Performance Analyzer",
-    "steamId": "2038874626",
-    "version": "1.0.0+2534407508e276c66794b6b0ba18f36e2117384e"
-  },
-  {
     "author": "Owlchemist",
     "name": "Cherry Picker",
     "steamId": "3230046902",
@@ -138,6 +138,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Onyxae",
+    "name": "Dragons Descent",
+    "steamId": "2026992161",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Performance Analyzer",
+    "steamId": "2038874626",
+    "version": "1.0.0+2534407508e276c66794b6b0ba18f36e2117384e"
+  },
+  {
     "author": "Erin",
     "name": "Erin's Cat Overhaul",
     "steamId": "2763428090",
@@ -148,6 +160,12 @@
     "name": "Expectations Modifier",
     "steamId": "1904336011",
     "version": "3.2.3.0"
+  },
+  {
+    "author": "FaintingGoat",
+    "name": "Forest Gods",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "m00nl1ght",
@@ -186,6 +204,24 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Zaljerem",
+    "name": "JecsLite - A RimWorld of Magic",
+    "steamId": "3312959701",
+    "version": "1.0.2.0"
+  },
+  {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.6.3.2"
+  },
+  {
+    "author": "Kure",
+    "name": "Kure's Rimworld of Magic Class Expansion Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "svc_bot",
     "name": "Luci heals more!",
     "steamId": "965087548",
@@ -196,6 +232,66 @@
     "name": "Map Preview",
     "steamId": "2800857642",
     "version": "1.12.17+6db7d75d6e1005522b3ed749fab1d56e12fc2a46"
+  },
+  {
+    "author": "BotchJob",
+    "name": "Medieval Fantasy Themed Rare Resources",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rince",
+    "name": "Medieval Go-juice",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Bonible",
+    "name": "Medieval Melee Sounds",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Soul, Phaneron and Bradson",
+    "name": "Adaptive Storage Framework",
+    "steamId": "3033901359",
+    "version": "1.1.1"
+  },
+  {
+    "author": "legodude17 and Oskar Potocki",
+    "name": "Vanilla Outposts Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Processor Framework",
+    "steamId": "3210544395",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SirLalaPyon",
+    "name": "Medieval Overhaul",
+    "steamId": "3219596926",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Liuyu",
+    "name": "Medieval Overhaul - Adaptive Storage Graphic Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Evil Eye Guy",
+    "name": "Medieval Overhaul: Royalty",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Viral Reaction",
+    "name": "Medieval Overhaul Patches",
+    "steamId": "3015529451",
+    "version": "1.0.0.0"
   },
   {
     "author": "Antaios",
@@ -282,6 +378,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "BotchJob",
+    "name": "Medieval Fantasy Themed Quest Rewards",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Botch_Job",
+    "name": "Possessed Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "iamrespawn",
     "name": "Prosthetic No Missing Body Parts (Continued)",
     "steamId": "2739055353",
@@ -298,6 +406,18 @@
     "name": "QualityBuilder",
     "steamId": "754637870",
     "version": "1.0.18"
+  },
+  {
+    "author": "Jaxe",
+    "name": "RimHUD",
+    "steamId": "1508850027",
+    "version": "1.15.3.0"
+  },
+  {
+    "author": "MrSamuelStreamer, Feldoh, Skullywag and Sandwish",
+    "name": "RPG Adventure Flavour Pack",
+    "steamId": "2916348220",
+    "version": "0.0.0.0"
   },
   {
     "author": "Sandy",
@@ -324,12 +444,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Soul, Phaneron and Bradson",
-    "name": "Adaptive Storage Framework",
-    "steamId": "3033901359",
-    "version": "1.1.1"
-  },
-  {
     "author": "Oskar Potocki and Sarg Bjornson",
     "name": "Vanilla Furniture Expanded - Props and Decor",
     "steamId": "2102143149",
@@ -348,16 +462,16 @@
     "version": "2.1.0+7d56af4a193adaf667037ad4fdfbcf54b8c71fce"
   },
   {
+    "author": "Mlie",
+    "name": "Remove Industrial Stuff",
+    "steamId": "2294378964",
+    "version": "1.5.0"
+  },
+  {
     "author": "Uuugggg",
     "name": "Replace Stuff",
     "steamId": "1372003680",
     "version": "1.1.0.0"
-  },
-  {
-    "author": "OskarPotocki, Atlas, Kikohi and Sarg",
-    "name": "Vanilla Furniture Expanded",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Garethp",
@@ -366,10 +480,10 @@
     "version": "2.0.3"
   },
   {
-    "author": "Scorpio and Taranchuk",
-    "name": "Resource Dictionary",
-    "steamId": "2817607528",
-    "version": "1.0.0.0"
+    "author": "Sierra",
+    "name": "RimFantasy: Medieval Overhaul Edition",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "aRandomKiwi",
@@ -380,18 +494,6 @@
   {
     "author": "Sierra",
     "name": "RimTraits: General Traits",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Federation Faction Pack",
     "steamId": null,
     "version": null
   },
@@ -438,12 +540,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "void",
-    "name": "Terraform Rimworld",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "nry",
     "name": "ToolkitCore",
     "steamId": "3013877477",
@@ -474,14 +570,8 @@
     "version": "1.1.0.0"
   },
   {
-    "author": "Oskar Potocki, dninemfive, Kikohi and Sarg",
-    "name": "Vanilla Furniture Expanded - Farming",
-    "steamId": "1957158779",
-    "version": "1.0.1.0"
-  },
-  {
-    "author": "legodude17 and Oskar Potocki",
-    "name": "Vanilla Outposts Expanded",
+    "author": "SarahLambar",
+    "name": "Vanilla Outpost Expanded Medieval Overhaul Patch",
     "steamId": null,
     "version": null
   },
@@ -492,38 +582,14 @@
     "version": null
   },
   {
-    "author": "Jaxe",
-    "name": "RimHUD",
-    "steamId": "1508850027",
-    "version": "1.15.3.0"
-  },
-  {
     "author": "legodude17 and Oskar Potocki",
     "name": "Vanilla Skills Expanded",
     "steamId": "2854967442",
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki, Kikohi and Sarg Bjornson",
-    "name": "Vanilla Storytellers Expanded - Winston Waves",
-    "steamId": "3215569151",
-    "version": "1.0.2.2"
-  },
-  {
-    "author": "Smash Phil",
-    "name": "Vehicle Framework",
-    "steamId": "3014915404",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk, Reann Shepard and Sarg",
-    "name": "Vanilla Vehicles Expanded",
-    "steamId": "3014906877",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki and Smash Phil",
-    "name": "Vanilla Vehicles Expanded - Upgrades",
+    "author": "Oskar Potocki",
+    "name": "Vanilla Storytellers Expanded - Perry Persistent",
     "steamId": null,
     "version": null
   },
@@ -558,6 +624,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Better Camp Loot",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Dubwise",
     "name": "Dubs Mint Menus",
     "steamId": "1446523594",
@@ -576,22 +648,16 @@
     "version": null
   },
   {
-    "author": "Dubwise",
-    "name": "Dubs Bad Hygiene",
-    "steamId": "836308268",
-    "version": "2.7.7366"
+    "author": "Evil Eye Guy",
+    "name": "Medieval Overhaul: Toggleable Stuff",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Mehni",
     "name": "Pick Up And Haul",
     "steamId": "1279012058",
     "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
-  },
-  {
-    "author": "Oskar Potocki, Trunken and XeoNovaDan",
-    "name": "Vanilla Furniture Expanded - Security",
-    "steamId": "1845154007",
-    "version": "1.1.1.0"
   },
   {
     "author": "FrozenSnowFox",
@@ -606,12 +672,6 @@
     "version": "1.5.0"
   },
   {
-    "author": "Owlchemist",
-    "name": "Simple Utilities: Fridge",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki, Kikohi, Helixien and Sarg",
     "name": "Vanilla Events Expanded",
     "steamId": "1938420742",
@@ -622,18 +682,6 @@
     "name": "Vanilla Ideology Expanded - Memes and Structures",
     "steamId": "2636329500",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Plants Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk and Reann Shepard",
-    "name": "Vanilla Vehicles Expanded - Tier 3",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "FrozenSnowFox",
@@ -658,12 +706,6 @@
     "name": "[L] House Maid Nukos 1.5",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Chicken Plucker",
-    "name": "[RH2] Faction: V.O.I.D.",
-    "steamId": "2883208829",
-    "version": "1.0.0.0"
   },
   {
     "author": "Wemd",
