@@ -54086,7 +54086,7 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": true,
+      "enabled": false,
       "name": "human",
       "price": 3000
     },
@@ -54123,7 +54123,7 @@
       },
       "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.",
       "defName": "Ratkin",
-      "enabled": true,
+      "enabled": false,
       "name": "Ratkin",
       "price": 3000
     },
@@ -54197,7 +54197,7 @@
       },
       "description": "The Marvelous gift of glitterworld bionics. A humanoid with cat ears and a tail.",
       "defName": "Alien_Nyaron",
-      "enabled": true,
+      "enabled": false,
       "name": "Nyaron",
       "price": 5000
     },
@@ -54242,7 +54242,7 @@
       },
       "description": "Arachne race lineage can be traced back to Arachne homeworld where the temperature fluctuate between cold and warm.\nArachnes over thousands of generations began to adapt to these temperature and ables themselves to withstand cold but in return have less tolerance to the heat",
       "defName": "Arachne",
-      "enabled": true,
+      "enabled": false,
       "name": "arachne",
       "price": 5000
     },
@@ -54273,7 +54273,7 @@
       },
       "description": "A mutant of the catgirl species that has developed a semblance of intelligence.",
       "defName": "MG_Catgirl",
-      "enabled": true,
+      "enabled": false,
       "name": "Catgirl",
       "price": 3000
     },
@@ -54304,7 +54304,7 @@
       },
       "description": "A mutant of the wolfgirl species that has developed a semblance of intelligence.",
       "defName": "MG_Wolfgirl",
-      "enabled": true,
+      "enabled": false,
       "name": "Wolfgirl",
       "price": 3000
     },
@@ -54335,7 +54335,7 @@
       },
       "description": "A mutant of the foxgirl species that has developed a semblance of intelligence.",
       "defName": "MG_Foxgirl",
-      "enabled": true,
+      "enabled": false,
       "name": "Foxgirl",
       "price": 3000
     },
@@ -54366,7 +54366,7 @@
       },
       "description": "A Cowgirl that has developed a semblance of intelligence.",
       "defName": "MG_Cowgirl",
-      "enabled": true,
+      "enabled": false,
       "name": "Cowgirl",
       "price": 3000
     },
@@ -54397,7 +54397,7 @@
       },
       "description": "A Harpy that has developed a semblance of intelligence.",
       "defName": "MG_Harpy",
-      "enabled": true,
+      "enabled": false,
       "name": "Harpy",
       "price": 3000
     },
@@ -54428,7 +54428,7 @@
       },
       "description": "A mutant accumulation of slimy liquid that has developed a semblance of intelligence.",
       "defName": "MG_Slime",
-      "enabled": true,
+      "enabled": false,
       "name": "Slime",
       "price": 5000
     },
@@ -54460,7 +54460,7 @@
       },
       "description": "A Baphomet that has developed a semblance of intelligence.",
       "defName": "MG_Baphomet",
-      "enabled": true,
+      "enabled": false,
       "name": "Baphomet",
       "price": 3000
     },
@@ -54491,7 +54491,7 @@
       },
       "description": "A Centaur that has developed a semblance of intelligence.",
       "defName": "MG_Centaur",
-      "enabled": true,
+      "enabled": false,
       "name": "Centaur",
       "price": 5000
     },
@@ -54523,7 +54523,7 @@
       },
       "description": "A mutant of the Forest Fairy species that has developed a semblance of intelligence./n A fragile existence that withers in a toxic environment.",
       "defName": "MG_ForestFairy",
-      "enabled": true,
+      "enabled": false,
       "name": "ForestFairy",
       "price": 3000
     },
@@ -54555,7 +54555,7 @@
       },
       "description": "A mutant of the Ice Fairy species that has developed a semblance of intelligence./n A fragile existence that cannot survive warm temperatures.",
       "defName": "MG_IceFairy",
-      "enabled": true,
+      "enabled": false,
       "name": "IceFairy",
       "price": 3000
     },
@@ -54587,7 +54587,7 @@
       },
       "description": "A mutant of the Dragon species that has developed a semblance of intelligence.",
       "defName": "MG_Dragon",
-      "enabled": true,
+      "enabled": false,
       "name": "Dragon",
       "price": 5000
     },
@@ -54619,7 +54619,7 @@
       },
       "description": "A mutant of the Thrumbogirl species that has developed a semblance of intelligence.",
       "defName": "MG_Thrumbogirl",
-      "enabled": true,
+      "enabled": false,
       "name": "Thrumbogirl",
       "price": 5000
     },
@@ -54678,7 +54678,7 @@
       },
       "description": "Yuran is an Ain race with the appearance of a rabbit, and its origin is not known precisely.\nAs a minority race with a small population, there are genetic problems and males do not exist. It continues.\nCentering on the Miko with special abilities that are passed on through blood lineage, they live in a small village-sized village and have faith in the large cherry tree in their hometown.",
       "defName": "Yuran_Race",
-      "enabled": true,
+      "enabled": false,
       "name": "Yuran",
       "price": 3000
     },
@@ -55066,7 +55066,7 @@
       },
       "description": "Anties are genetically engineered beings by a private company to replace dying soldiers on the battle field.\n\nEverything has gone south when the company has let their guard down to celebrate their recent progress. Due to a mistake made by one of the employees, the Anties have been set free from the lab and ended up in space.\n\nTheir personalities are gentle by nature, but they were made to know only but war. On each planet they end up, they burn everything down to ash, using themselves as the main source of the fuel.\n\nAnty is hermaphrodite, has no externally exposed reproductive organs, but has both a scrotum and ovaries in the abdomen.\n\nAnty's gender is indicated based on her reproductive system, which was a little more developed prior to consuming the Nutritional jelly.\n\nThe average height of common anty ergates and queen ants is 140cm, while soldier ants are 170cm. Depending on needs or the type of hive, it can transform or grow up to 200cm.",
       "defName": "Anty",
-      "enabled": true,
+      "enabled": false,
       "name": "Anty",
       "price": 3000
     }
