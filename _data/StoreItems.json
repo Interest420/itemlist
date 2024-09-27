@@ -6256,13 +6256,13 @@
       "abr": "metalbloodserum",
       "category": "Drugs",
       "defname": "MetalbloodSerum",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "mind-numbserum",
       "category": "Drugs",
       "defname": "MindNumbSerum",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "monolithfragment",
@@ -7771,12 +7771,6 @@
       "price": -10
     },
     {
-      "abr": "barrel(originaldisplay)",
-      "category": "Furniture",
-      "defname": "DankPyon_RusticBarrel_ASF",
-      "price": -10
-    },
-    {
       "abr": "basiccomponent",
       "category": "Manufactured",
       "defname": "DankPyon_ComponentBasic",
@@ -8803,12 +8797,6 @@
       "price": -10
     },
     {
-      "abr": "crate2x2(originaldisplay)",
-      "category": "Furniture",
-      "defname": "DankPyon_Crate2x2_ASF",
-      "price": -10
-    },
-    {
       "abr": "crossbow",
       "category": "Ranged weapons",
       "defname": "DankPyon_Crossbow",
@@ -8836,12 +8824,6 @@
       "abr": "cupboard",
       "category": "Furniture",
       "defname": "DankPyon_RusticCupboardEmpty",
-      "price": -10
-    },
-    {
-      "abr": "cupboard(originaldisplay)",
-      "category": "Furniture",
-      "defname": "DankPyon_RusticCupboard_ASF",
       "price": -10
     },
     {
@@ -9493,12 +9475,6 @@
       "price": -10
     },
     {
-      "abr": "emptycart(originaldisplay)",
-      "category": "Furniture",
-      "defname": "DankPyon_Storage_Cart_ASF",
-      "price": -10
-    },
-    {
       "abr": "emptycookingpot",
       "category": "Furniture",
       "defname": "DankPyon_OnTop_Kitchen_CookingPot",
@@ -9550,18 +9526,6 @@
       "abr": "emptyplate",
       "category": "Furniture",
       "defname": "DankPyon_OnTop_Kitchen_Plate",
-      "price": -10
-    },
-    {
-      "abr": "emptyrack(originaldisplay)",
-      "category": "Furniture",
-      "defname": "DankPyon_Rack_ASF",
-      "price": -10
-    },
-    {
-      "abr": "emptyshelf(originaldisplay)",
-      "category": "Furniture",
-      "defname": "DankPyon_Shelf_ASF",
       "price": -10
     },
     {
@@ -11197,12 +11161,6 @@
       "price": -10
     },
     {
-      "abr": "largebarrel(originaldisplay)",
-      "category": "Furniture",
-      "defname": "DankPyon_RusticBarrelBig_ASF",
-      "price": -10
-    },
-    {
       "abr": "largebookshelf",
       "category": "Furniture",
       "defname": "DankPyon_RusticBookshelf1x2c",
@@ -11254,12 +11212,6 @@
       "abr": "largecrate(unhold)",
       "category": "Furniture",
       "defname": "DankPyon_Crate2x2_Unhold",
-      "price": -10
-    },
-    {
-      "abr": "largeemptyshelf(originaldisplay)",
-      "category": "Furniture",
-      "defname": "DankPyon_LargeShelf_ASF",
       "price": -10
     },
     {
@@ -13483,12 +13435,6 @@
       "price": -10
     },
     {
-      "abr": "sack(originaldisplay)",
-      "category": "Furniture",
-      "defname": "DankPyon_Sack_ASF",
-      "price": -10
-    },
-    {
       "abr": "sackcloth",
       "category": "Apparel",
       "defname": "DankPyon_Apparel_Sackcloth",
@@ -15583,18 +15529,6 @@
       "price": -10
     },
     {
-      "abr": "aestheticnose",
-      "category": "Bionic",
-      "defname": "AestheticNose",
-      "price": -10
-    },
-    {
-      "abr": "aestheticshaper",
-      "category": "Bionic",
-      "defname": "AestheticShaper",
-      "price": -10
-    },
-    {
       "abr": "airwireheadset",
       "category": "Headgear",
       "defname": "Apparel_AirwireHeadset",
@@ -15865,33 +15799,9 @@
       "price": -10
     },
     {
-      "abr": "archotecharm",
-      "category": "Archotech",
-      "defname": "ArchotechArm",
-      "price": -10
-    },
-    {
-      "abr": "archotecheye",
-      "category": "Archotech",
-      "defname": "ArchotechEye",
-      "price": -10
-    },
-    {
-      "abr": "archotechleg",
-      "category": "Archotech",
-      "defname": "ArchotechLeg",
-      "price": -10
-    },
-    {
       "abr": "ark",
       "category": "Inert relics",
       "defname": "RelicInertArk",
-      "price": -10
-    },
-    {
-      "abr": "armorskingland",
-      "category": "Bionic",
-      "defname": "ArmorskinGland",
       "price": -10
     },
     {
@@ -15967,82 +15877,10 @@
       "price": -10
     },
     {
-      "abr": "bionicarm",
-      "category": "Bionic",
-      "defname": "BionicArm",
-      "price": -10
-    },
-    {
-      "abr": "bioniccattail",
-      "category": "Bionic",
-      "defname": "Nr_BioCatTail",
-      "price": -10
-    },
-    {
-      "abr": "bionicear",
-      "category": "Bionic",
-      "defname": "BionicEar",
-      "price": -10
-    },
-    {
-      "abr": "bioniceye",
-      "category": "Bionic",
-      "defname": "BionicEye",
-      "price": -10
-    },
-    {
-      "abr": "bionicheart",
-      "category": "Bionic",
-      "defname": "BionicHeart",
-      "price": -10
-    },
-    {
-      "abr": "bionicjaw",
-      "category": "Bionic",
-      "defname": "BionicJaw",
-      "price": -10
-    },
-    {
-      "abr": "bionicleg",
-      "category": "Bionic",
-      "defname": "BionicLeg",
-      "price": -10
-    },
-    {
-      "abr": "bionicspine",
-      "category": "Bionic",
-      "defname": "BionicSpine",
-      "price": -10
-    },
-    {
-      "abr": "bionicstomach",
-      "category": "Bionic",
-      "defname": "BionicStomach",
-      "price": -10
-    },
-    {
-      "abr": "bionictail",
-      "category": "Bionic",
-      "defname": "MG_BionicTail",
-      "price": -10
-    },
-    {
-      "abr": "bionictail",
-      "category": "Bionic",
-      "defname": "RK_BionicTail",
-      "price": -10
-    },
-    {
-      "abr": "bionictongue",
-      "category": "Bionic",
-      "defname": "BionicTongue",
-      "price": -10
-    },
-    {
       "abr": "biosculpterpod",
       "category": "Misc",
       "defname": "BiosculpterPod",
-      "price": 758
+      "price": -10
     },
     {
       "abr": "bloodofagod",
@@ -16126,30 +15964,6 @@
       "abr": "chatoyansniperrifle",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_ChRifle",
-      "price": -10
-    },
-    {
-      "abr": "circadianassistant",
-      "category": "Bionic",
-      "defname": "CircadianAssistant",
-      "price": -10
-    },
-    {
-      "abr": "circadianhalf-cycler",
-      "category": "Bionic",
-      "defname": "CircadianHalfCycler",
-      "price": -10
-    },
-    {
-      "abr": "coagulator",
-      "category": "Bionic",
-      "defname": "Coagulator",
-      "price": -10
-    },
-    {
-      "abr": "cochlearimplant",
-      "category": "Prosthetic",
-      "defname": "CochlearImplant",
       "price": -10
     },
     {
@@ -16237,40 +16051,22 @@
       "price": -10
     },
     {
-      "abr": "deathacidifier",
-      "category": "Bionic",
-      "defname": "DeathAcidifier",
-      "price": -10
-    },
-    {
       "abr": "deathrestaccelerator",
       "category": "Misc",
       "defname": "DeathrestAccelerator",
-      "price": 1183
+      "price": -10
     },
     {
       "abr": "deathrestcasket",
       "category": "Misc",
       "defname": "DeathrestCasket",
-      "price": 492
+      "price": -10
     },
     {
       "abr": "deepdrill",
       "category": "Production",
       "defname": "DeepDrill",
       "price": 483
-    },
-    {
-      "abr": "detoxifierkidney",
-      "category": "Bionic",
-      "defname": "DetoxifierKidney",
-      "price": -10
-    },
-    {
-      "abr": "detoxifierlung",
-      "category": "Bionic",
-      "defname": "DetoxifierLung",
-      "price": -10
     },
     {
       "abr": "dirtmolexenogerm",
@@ -16303,12 +16099,6 @@
       "price": -10
     },
     {
-      "abr": "drillarm",
-      "category": "Prosthetic",
-      "defname": "DrillArm",
-      "price": -10
-    },
-    {
       "abr": "druglab",
       "category": "Production",
       "defname": "DrugLab",
@@ -16318,12 +16108,6 @@
       "abr": "druidxenogerm",
       "category": "Items",
       "defname": "Xenogerm_MSSRPG_Druid",
-      "price": -10
-    },
-    {
-      "abr": "elbowblade",
-      "category": "Prosthetic",
-      "defname": "ElbowBlade",
       "price": -10
     },
     {
@@ -16399,16 +16183,10 @@
       "price": -10
     },
     {
-      "abr": "fieldhand",
-      "category": "Prosthetic",
-      "defname": "FieldHand",
-      "price": -10
-    },
-    {
       "abr": "firefoampopper",
       "category": "Misc",
       "defname": "FirefoamPopper",
-      "price": 300
+      "price": -10
     },
     {
       "abr": "firefoamshell",
@@ -16483,12 +16261,6 @@
       "price": -10
     },
     {
-      "abr": "gastro-analyzer",
-      "category": "Bionic",
-      "defname": "GastroAnalyzer",
-      "price": -10
-    },
-    {
       "abr": "genebank",
       "category": "Production",
       "defname": "GeneBank",
@@ -16516,7 +16288,7 @@
       "abr": "glucosoidpump",
       "category": "Misc",
       "defname": "GlucosoidPump",
-      "price": 858
+      "price": -10
     },
     {
       "abr": "go-juice",
@@ -16549,22 +16321,10 @@
       "price": -10
     },
     {
-      "abr": "handtalon",
-      "category": "Prosthetic",
-      "defname": "HandTalon",
-      "price": -10
-    },
-    {
       "abr": "harpyxenogerm",
       "category": "Items",
       "defname": "Xenogerm_MG_Harpy",
       "price": 3333
-    },
-    {
-      "abr": "healingenhancer",
-      "category": "Bionic",
-      "defname": "HealingEnhancer",
-      "price": -10
     },
     {
       "abr": "heater",
@@ -16594,13 +16354,13 @@
       "abr": "hemogenamplifier",
       "category": "Misc",
       "defname": "HemogenAmplifier",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "hemopump",
       "category": "Misc",
       "defname": "Hemopump",
-      "price": 600
+      "price": -10
     },
     {
       "abr": "hexagelbattery",
@@ -16693,12 +16453,6 @@
       "price": 192
     },
     {
-      "abr": "immunoenhancer",
-      "category": "Bionic",
-      "defname": "Immunoenhancer",
-      "price": -10
-    },
-    {
       "abr": "impidxenogerm",
       "category": "Items",
       "defname": "Xenogerm_Impid",
@@ -16741,12 +16495,6 @@
       "price": -10
     },
     {
-      "abr": "joywire",
-      "category": "Prosthetic",
-      "defname": "Joywire",
-      "price": -10
-    },
-    {
       "abr": "jumppack",
       "category": "Utility",
       "defname": "Apparel_PackJump",
@@ -16756,12 +16504,6 @@
       "abr": "kidhelmet",
       "category": "Headgear",
       "defname": "Apparel_KidHelmet",
-      "price": -10
-    },
-    {
-      "abr": "kneespike",
-      "category": "Prosthetic",
-      "defname": "KneeSpike",
       "price": -10
     },
     {
@@ -16789,12 +16531,6 @@
       "price": -10
     },
     {
-      "abr": "learningassistant",
-      "category": "Bionic",
-      "defname": "LearningAssistant",
-      "price": -10
-    },
-    {
       "abr": "legendaryweapon",
       "category": "Special melee weapons",
       "defname": "Nr_Lightbringer",
@@ -16804,7 +16540,7 @@
       "abr": "lightball",
       "category": "Misc",
       "defname": "LightBall",
-      "price": 154
+      "price": -10
     },
     {
       "abr": "linepithemaxenogerm",
@@ -16834,12 +16570,6 @@
       "abr": "loudspeaker",
       "category": "Misc",
       "defname": "Loudspeaker",
-      "price": 367
-    },
-    {
-      "abr": "loveenhancer",
-      "category": "Bionic",
-      "defname": "LoveEnhancer",
       "price": -10
     },
     {
@@ -16864,12 +16594,6 @@
       "abr": "magexenogerm",
       "category": "Items",
       "defname": "Xenogerm_MSSRPG_Mage",
-      "price": -10
-    },
-    {
-      "abr": "magicalsensitizer",
-      "category": "Archotech",
-      "defname": "PsychicSensitizer",
       "price": -10
     },
     {
@@ -16900,7 +16624,7 @@
       "abr": "mechbooster",
       "category": "Misc",
       "defname": "MechBooster",
-      "price": 575
+      "price": -10
     },
     {
       "abr": "mechgestationprocessor",
@@ -16963,12 +16687,6 @@
       "price": 11
     },
     {
-      "abr": "mindscrew",
-      "category": "Prosthetic",
-      "defname": "Mindscrew",
-      "price": -10
-    },
-    {
       "abr": "minifoldpdw",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_MfoldPdw",
@@ -17008,7 +16726,7 @@
       "abr": "multi-analyzer",
       "category": "Misc",
       "defname": "MultiAnalyzer",
-      "price": 1700
+      "price": -10
     },
     {
       "abr": "n.p.crifle",
@@ -17026,18 +16744,6 @@
       "abr": "neuralsupercharger",
       "category": "Misc",
       "defname": "NeuralSupercharger",
-      "price": 408
-    },
-    {
-      "abr": "neurocalculator",
-      "category": "Bionic",
-      "defname": "Neurocalculator",
-      "price": -10
-    },
-    {
-      "abr": "nuclearstomach",
-      "category": "Bionic",
-      "defname": "NuclearStomach",
       "price": -10
     },
     {
@@ -17086,12 +16792,6 @@
       "abr": "orbitaltradebeacon",
       "category": "Misc",
       "defname": "OrbitalTradeBeacon",
-      "price": 185
-    },
-    {
-      "abr": "painstopper",
-      "category": "Prosthetic",
-      "defname": "Painstopper",
       "price": -10
     },
     {
@@ -17131,21 +16831,9 @@
       "price": -10
     },
     {
-      "abr": "plasteelhorn",
-      "category": "Prosthetic",
-      "defname": "MG_PlasteelHorn",
-      "price": -10
-    },
-    {
       "abr": "pollutionpump",
       "category": "Misc",
       "defname": "PollutionPump",
-      "price": 315
-    },
-    {
-      "abr": "powerclaw",
-      "category": "Prosthetic",
-      "defname": "PowerClaw",
       "price": -10
     },
     {
@@ -17185,46 +16873,16 @@
       "price": -10
     },
     {
-      "abr": "prostheticarm",
-      "category": "Prosthetic",
-      "defname": "SimpleProstheticArm",
-      "price": -10
-    },
-    {
-      "abr": "prostheticheart",
-      "category": "Prosthetic",
-      "defname": "SimpleProstheticHeart",
-      "price": -10
-    },
-    {
-      "abr": "prostheticleg",
-      "category": "Prosthetic",
-      "defname": "SimpleProstheticLeg",
-      "price": -10
-    },
-    {
       "abr": "psychicaginglance",
       "category": "Artifacts",
       "defname": "PubertyLance",
       "price": -10
     },
     {
-      "abr": "psychicharmonizer",
-      "category": "Archotech",
-      "defname": "PsychicHarmonizer",
-      "price": -10
-    },
-    {
-      "abr": "psychicreader",
-      "category": "Archotech",
-      "defname": "PsychicReader",
-      "price": -10
-    },
-    {
       "abr": "psychofluidpump",
       "category": "Misc",
       "defname": "PsychofluidPump",
-      "price": 2042
+      "price": -10
     },
     {
       "abr": "pumpshotgun",
@@ -17437,22 +17095,10 @@
       "price": -10
     },
     {
-      "abr": "reprocessorstomach",
-      "category": "Bionic",
-      "defname": "ReprocessorStomach",
-      "price": -10
-    },
-    {
       "abr": "repurposedlandmine",
       "category": "Security",
       "defname": "AT_TP_AMM",
       "price": 992
-    },
-    {
-      "abr": "revenantvertebrae",
-      "category": "Bionic",
-      "defname": "RevenantVertebrae",
-      "price": -10
     },
     {
       "abr": "revolver",
@@ -17500,7 +17146,7 @@
       "abr": "shiplandingbeacon",
       "category": "Misc",
       "defname": "ShipLandingBeacon",
-      "price": 185
+      "price": -10
     },
     {
       "abr": "sickle",
@@ -17590,7 +17236,7 @@
       "abr": "sleepaccelerator",
       "category": "Misc",
       "defname": "SleepAccelerator",
-      "price": 458
+      "price": -10
     },
     {
       "abr": "slimecoreextract",
@@ -17827,18 +17473,6 @@
       "price": -10
     },
     {
-      "abr": "sterilizingstomach",
-      "category": "Bionic",
-      "defname": "DetoxifierStomach",
-      "price": -10
-    },
-    {
-      "abr": "stoneskingland",
-      "category": "Bionic",
-      "defname": "StoneskinGland",
-      "price": -10
-    },
-    {
       "abr": "stormhammer",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Zeushammer",
@@ -17887,12 +17521,6 @@
       "price": -10
     },
     {
-      "abr": "toughskingland",
-      "category": "Bionic",
-      "defname": "ToughskinGland",
-      "price": -10
-    },
-    {
       "abr": "toxgrenades",
       "category": "Grenades",
       "defname": "Weapon_GrenadeTox",
@@ -17935,22 +17563,10 @@
       "price": -10
     },
     {
-      "abr": "venomfangs",
-      "category": "Prosthetic",
-      "defname": "VenomFangs",
-      "price": -10
-    },
-    {
-      "abr": "venomtalon",
-      "category": "Prosthetic",
-      "defname": "VenomTalon",
-      "price": -10
-    },
-    {
       "abr": "vitalsmonitor",
       "category": "Misc",
       "defname": "VitalsMonitor",
-      "price": 358
+      "price": -10
     },
     {
       "abr": "wake-up",
@@ -18031,5 +17647,5 @@
       "price": 3333
     }
   ],
-  "total": 3005
+  "total": 2941
 }
