@@ -9580,13 +9580,13 @@
       "abr": "essenceofmagic",
       "category": "Magic artifacts",
       "defname": "TM_MagicArtifact_MagicEssence",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "essenceofmight",
       "category": "Magic artifacts",
       "defname": "TM_MagicArtifact_MightEssence",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "explorer'sarchive",
@@ -12076,13 +12076,13 @@
       "abr": "namedarmet",
       "category": "Headgear",
       "defname": "DankPyon_Headgear_ArmetNamed",
-      "price": 6567
+      "price": -10
     },
     {
       "abr": "namedfullplate",
       "category": "Apparel",
       "defname": "DankPyon_Apparel_FullPlateNamed",
-      "price": 9008
+      "price": -10
     },
     {
       "abr": "namedgreataxe",
@@ -15766,7 +15766,7 @@
       "abr": "aphidfarm",
       "category": "Production",
       "defname": "At_Aphidfarm",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "arachneassassinarmor",
@@ -16066,7 +16066,7 @@
       "abr": "deepdrill",
       "category": "Production",
       "defname": "DeepDrill",
-      "price": 483
+      "price": -10
     },
     {
       "abr": "dirtmolexenogerm",
@@ -16102,7 +16102,7 @@
       "abr": "druglab",
       "category": "Production",
       "defname": "DrugLab",
-      "price": 525
+      "price": -10
     },
     {
       "abr": "druidxenogerm",
@@ -16114,25 +16114,25 @@
       "abr": "electricsmelter",
       "category": "Production",
       "defname": "ElectricSmelter",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "electricsmithy",
       "category": "Production",
       "defname": "ElectricSmithy",
-      "price": 492
+      "price": -10
     },
     {
       "abr": "electricstove",
       "category": "Production",
       "defname": "ElectricStove",
-      "price": 375
+      "price": -10
     },
     {
       "abr": "electrictailorbench",
       "category": "Production",
       "defname": "ElectricTailoringBench",
-      "price": 533
+      "price": -10
     },
     {
       "abr": "eltexianxenogerm",
@@ -16162,7 +16162,7 @@
       "abr": "exoskeletonautomine",
       "category": "Production",
       "defname": "AntyExoskeleton_Production",
-      "price": 1642
+      "price": -10
     },
     {
       "abr": "exoskeletonchunkcoverkit",
@@ -16264,7 +16264,7 @@
       "abr": "genebank",
       "category": "Production",
       "defname": "GeneBank",
-      "price": 242
+      "price": -10
     },
     {
       "abr": "geniexenogerm",
@@ -16588,7 +16588,7 @@
       "abr": "machiningtable",
       "category": "Production",
       "defname": "TableMachining",
-      "price": 758
+      "price": -10
     },
     {
       "abr": "magexenogerm",
@@ -16918,13 +16918,13 @@
       "abr": "ratkinelectricsmithy",
       "category": "Production",
       "defname": "RK_ElectricSmithy",
-      "price": 533
+      "price": -10
     },
     {
       "abr": "ratkinelectrictailorbench",
       "category": "Production",
       "defname": "RK_ElectricTailoringBench",
-      "price": 542
+      "price": -10
     },
     {
       "abr": "ratkinflechetterifle",
@@ -17074,7 +17074,7 @@
       "abr": "refleumincubator",
       "category": "Production",
       "defname": "At_farm",
-      "price": 4433
+      "price": -10
     },
     {
       "abr": "remoterepairer",
@@ -17482,7 +17482,7 @@
       "abr": "subcoreencoder",
       "category": "Production",
       "defname": "SubcoreEncoder",
-      "price": 525
+      "price": -10
     },
     {
       "abr": "sunlamp",
@@ -17548,7 +17548,7 @@
       "abr": "transitionrefleumincubator",
       "category": "Production",
       "defname": "At_TransitionRefleumincubator",
-      "price": 14150
+      "price": -10
     },
     {
       "abr": "tubetelevision",

@@ -43840,7 +43840,7 @@
     "KarmaType": null
   },
   "DankPyon_LindwurmScales": {
-    "CustomName": null,
+    "CustomName": "lindwurmscales-loot",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
