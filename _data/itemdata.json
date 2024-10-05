@@ -10120,7 +10120,7 @@
     "KarmaType": null
   },
   "DankPyon_Mixture_Stardust": {
-    "CustomName": null,
+    "CustomName": "stardust-crafted",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
