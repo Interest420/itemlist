@@ -13294,19 +13294,19 @@
       "abr": "rusticbed(blue)",
       "category": "Furniture",
       "defname": "DankPyon_Bed_Rustic_Blue",
-      "price": -10
+      "price": 442
     },
     {
       "abr": "rusticbed(green)",
       "category": "Furniture",
       "defname": "DankPyon_Bed_Rustic_Green",
-      "price": -10
+      "price": 442
     },
     {
       "abr": "rusticbed(red)",
       "category": "Furniture",
       "defname": "DankPyon_Bed_Rustic_Red",
-      "price": -10
+      "price": 442
     },
     {
       "abr": "rusticchest",
