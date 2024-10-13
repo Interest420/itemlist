@@ -15505,30 +15505,6 @@
       "price": -10
     },
     {
-      "abr": "advancedfortification",
-      "category": "Books",
-      "defname": "EEG_Tier3_Fortification",
-      "price": -10
-    },
-    {
-      "abr": "advancedmeleeweapons",
-      "category": "Books",
-      "defname": "EEG_Tier3_Melee",
-      "price": -10
-    },
-    {
-      "abr": "advancedrangedweapons",
-      "category": "Books",
-      "defname": "EEG_Tier3_Ranged",
-      "price": -10
-    },
-    {
-      "abr": "advancedresources",
-      "category": "Books",
-      "defname": "EEG_Tier2_Ressources",
-      "price": -10
-    },
-    {
       "abr": "airwireheadset",
       "category": "Headgear",
       "defname": "Apparel_AirwireHeadset",
@@ -17647,5 +17623,5 @@
       "price": 3333
     }
   ],
-  "total": 2941
+  "total": 2937
 }
