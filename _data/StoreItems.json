@@ -664,7 +664,7 @@
       "abr": "gold",
       "category": "Raw resources",
       "defname": "Gold",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "steel",
@@ -976,7 +976,7 @@
       "abr": "duster",
       "category": "Misc",
       "defname": "Apparel_Duster",
-      "price": -10
+      "price": 327
     },
     {
       "abr": "jacket",
@@ -1054,7 +1054,7 @@
       "abr": "gladius",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Gladius",
-      "price": -10
+      "price": 239
     },
     {
       "abr": "longsword",
@@ -9724,7 +9724,7 @@
       "abr": "engineblock",
       "category": "Car parts",
       "defname": "VVE_EngineBlock",
-      "price": -10
+      "price": 542
     },
     {
       "abr": "equipmentassemblyfacility",
@@ -9766,7 +9766,7 @@
       "abr": "federationjumpsuit",
       "category": "Apparel",
       "defname": "FedSuit",
-      "price": -10
+      "price": 292
     },
     {
       "abr": "fieldhand",
