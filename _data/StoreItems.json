@@ -670,7 +670,7 @@
       "abr": "steel",
       "category": "Raw resources",
       "defname": "Steel",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "plasteel",
@@ -682,7 +682,7 @@
       "abr": "wood",
       "category": "Raw resources",
       "defname": "WoodLog",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "uranium",
@@ -718,7 +718,7 @@
       "abr": "hyperweave",
       "category": "Textiles",
       "defname": "Hyperweave",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "sheepwool",
@@ -2350,7 +2350,7 @@
       "abr": "flutonic",
       "category": "Tonics",
       "defname": "AYFluTonic",
-      "price": -10
+      "price": 37
     },
     {
       "abr": "garlicbulbs",
@@ -10408,7 +10408,7 @@
       "abr": "militaryration",
       "category": "Meals",
       "defname": "AM_MRE",
-      "price": -10
+      "price": 42
     },
     {
       "abr": "militarystandardrifle",
