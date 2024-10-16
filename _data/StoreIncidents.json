@@ -46,18 +46,8 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "heatwave",
-		"price": 750,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "flashstorm",
 		"price": 400,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "coldsnap",
-		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
@@ -68,11 +58,6 @@
 	{
 		"abr": "shortcircuit",
 		"price": 500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "eclipse",
-		"price": 450,
 		"karmatype": "Bad"
 	},
 	{
@@ -326,5 +311,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 65
+	"total": 62
 }
