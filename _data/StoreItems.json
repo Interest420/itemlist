@@ -412,7 +412,7 @@
       "abr": "finemeal",
       "category": "Meals",
       "defname": "MealFine",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "vegetarianfinemeal",
@@ -556,7 +556,7 @@
       "abr": "herbalmedicine",
       "category": "Medicine",
       "defname": "MedicineHerbal",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "glitterworldmedicine",
@@ -568,7 +568,7 @@
       "abr": "component",
       "category": "Manufactured",
       "defname": "ComponentIndustrial",
-      "price": -10
+      "price": 53
     },
     {
       "abr": "advancedcomponent",
@@ -586,7 +586,7 @@
       "abr": "chemfuel",
       "category": "Manufactured",
       "defname": "Chemfuel",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "reinforcedbarrel",
@@ -676,7 +676,7 @@
       "abr": "plasteel",
       "category": "Raw resources",
       "defname": "Plasteel",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "wood",
