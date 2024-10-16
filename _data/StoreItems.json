@@ -658,7 +658,7 @@
       "abr": "silver",
       "category": "Raw resources",
       "defname": "Silver",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "gold",
@@ -700,7 +700,7 @@
       "abr": "cloth",
       "category": "Textiles",
       "defname": "Cloth",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "synthread",
@@ -2338,7 +2338,7 @@
       "abr": "facemask",
       "category": "Headgear",
       "defname": "Apparel_ClothMask",
-      "price": -10
+      "price": 38
     },
     {
       "abr": "firefoampoppack",
@@ -8710,7 +8710,7 @@
       "abr": "ai2a",
       "category": "Medicine",
       "defname": "AM_AI2A",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "air-conindoorunit",
@@ -9298,7 +9298,7 @@
       "abr": "civilianrifle",
       "category": "Ranged weapons",
       "defname": "AM_ADAR",
-      "price": -10
+      "price": 1017
     },
     {
       "abr": "classicpotatochips",
