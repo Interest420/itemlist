@@ -58,7 +58,7 @@
       "abr": "smokeleafjoint",
       "category": "Drugs",
       "defname": "SmokeleafJoint",
-      "price": -10
+      "price": 18
     },
     {
       "abr": "wake-up",
@@ -1150,7 +1150,7 @@
       "abr": "flakhelmet",
       "category": "Headgear",
       "defname": "Apparel_AdvancedHelmet",
-      "price": -10
+      "price": 442
     },
     {
       "abr": "marinehelmet",
@@ -1186,7 +1186,7 @@
       "abr": "psychicshocklance",
       "category": "Utility",
       "defname": "Apparel_PsychicShockLance",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "psychicinsanitylance",
@@ -9628,7 +9628,7 @@
       "abr": "brasslionstatue",
       "category": "Rare items",
       "defname": "AM_BrassLionStatue",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "briefcase",
@@ -9736,7 +9736,7 @@
       "abr": "carsuspension",
       "category": "Car parts",
       "defname": "VVE_CarSuspension",
-      "price": -10
+      "price": 150
     },
     {
       "abr": "cartransmission",
