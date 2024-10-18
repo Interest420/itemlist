@@ -124,7 +124,7 @@
       "abr": "bed",
       "category": "Furniture",
       "defname": "Bed",
-      "price": -10
+      "price": 155
     },
     {
       "abr": "doublebed",
@@ -1156,7 +1156,7 @@
       "abr": "marinehelmet",
       "category": "Headgear",
       "defname": "Apparel_PowerArmorHelmet",
-      "price": -10
+      "price": 1058
     },
     {
       "abr": "reconhelmet",
@@ -1264,7 +1264,7 @@
       "abr": "marinearmor",
       "category": "Armor",
       "defname": "Apparel_PowerArmor",
-      "price": -10
+      "price": 3392
     },
     {
       "abr": "reconarmor",
@@ -6952,7 +6952,7 @@
       "abr": "minigrenades",
       "category": "Grenades",
       "defname": "GD_Bobcat",
-      "price": -10
+      "price": 575
     },
     {
       "abr": "modularacceleratorkit",
@@ -7018,7 +7018,7 @@
       "abr": "modularpioneerarmor",
       "category": "GD Modular Body Protection Ststem",
       "defname": "Apparel_PioneerArmor",
-      "price": -10
+      "price": 2642
     },
     {
       "abr": "modularrifle",
@@ -8668,7 +8668,7 @@
       "abr": "bioferrite",
       "category": "Raw resources",
       "defname": "Bioferrite",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "bioferriteharvester",
@@ -9166,7 +9166,7 @@
       "abr": "analgesicregenerationinjector",
       "category": "Drugs",
       "defname": "AM_AnalgesicRegenerationInjector",
-      "price": -10
+      "price": 1500
     },
     {
       "abr": "ancientcashregister",
@@ -10012,7 +10012,7 @@
       "abr": "cruciblecore",
       "category": "Manufactured",
       "defname": "CrucibleCore",
-      "price": -10
+      "price": 83
     },
     {
       "abr": "cruciblepistol",
@@ -10246,7 +10246,7 @@
       "abr": "foerum",
       "category": "Raw resources",
       "defname": "Foerum",
-      "price": -10
+      "price": 11
     },
     {
       "abr": "foldingtent",
@@ -12670,7 +12670,7 @@
       "abr": "weaponcomponent",
       "category": "Military components",
       "defname": "AM_ComponentWeapon",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "weaponrack",
