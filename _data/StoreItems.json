@@ -16,7 +16,7 @@
       "abr": "ambrosia",
       "category": "Drugs",
       "defname": "Ambrosia",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "go-juice",
@@ -658,7 +658,7 @@
       "abr": "insectjelly",
       "category": "Animal products",
       "defname": "InsectJelly",
-      "price": -10
+      "price": 13
     },
     {
       "abr": "chickenegg(unfert.)",
@@ -1720,7 +1720,7 @@
       "abr": "megaspider",
       "category": "Animals",
       "defname": "Megaspider",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "thrumbo",
@@ -3334,7 +3334,7 @@
       "abr": "mechlink",
       "category": "Mechtech",
       "defname": "Mechlink",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "mechlordhelmet",
@@ -5842,7 +5842,7 @@
       "abr": "torbicarapidcaster",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_RapidCaster",
-      "price": -10
+      "price": 1658
     },
     {
       "abr": "unblinkingeye",
