@@ -70,7 +70,7 @@
       "abr": "psylinkneuroformer",
       "category": "Archotech",
       "defname": "PsychicAmplifier",
-      "price": -10
+      "price": 4333
     },
     {
       "abr": "heart",
@@ -106,7 +106,7 @@
       "abr": "smallsculpture",
       "category": "Art",
       "defname": "SculptureSmall",
-      "price": -10
+      "price": 275
     },
     {
       "abr": "largesculpture",
@@ -6844,7 +6844,7 @@
       "abr": "dropsuithelmet",
       "category": "Megacorp headgears",
       "defname": "Apparel_DropsuitH",
-      "price": -10
+      "price": 1200
     },
     {
       "abr": "dualshardpistols",
@@ -9010,7 +9010,7 @@
       "abr": "turretpack",
       "category": "Utility",
       "defname": "Apparel_PackTurret",
-      "price": -10
+      "price": 392
     },
     {
       "abr": "twistedmeat",
@@ -9556,7 +9556,7 @@
       "abr": "armoredconcealedrig",
       "category": "Armor",
       "defname": "AM_MK4aConcealed",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "armoreddefensiverig",
