@@ -4,7 +4,7 @@
       "abr": "beer",
       "category": "Drugs",
       "defname": "Beer",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "wort",
@@ -766,7 +766,7 @@
       "abr": "advancedcomponent",
       "category": "Manufactured",
       "defname": "ComponentSpacer",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "neutroamine",
@@ -6868,7 +6868,7 @@
       "abr": "firesupporthelmet",
       "category": "Megacorp headgears",
       "defname": "Apparel_FSArmorH",
-      "price": -10
+      "price": 1317
     },
     {
       "abr": "gdmultilauncher",
@@ -6886,7 +6886,7 @@
       "abr": "hazardhelmet",
       "category": "Megacorp headgears",
       "defname": "Apparel_HazardCarapaceH",
-      "price": -10
+      "price": 1108
     },
     {
       "abr": "impactknuckle",
@@ -10714,7 +10714,7 @@
       "abr": "marksmangear",
       "category": "Apparel",
       "defname": "Apparel_MarksmanGear",
-      "price": -10
+      "price": 2258
     },
     {
       "abr": "marksmangearhelmet",
