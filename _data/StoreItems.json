@@ -1102,7 +1102,7 @@
       "abr": "shieldbelt",
       "category": "Utility",
       "defname": "Apparel_ShieldBelt",
-      "price": -10
+      "price": 650
     },
     {
       "abr": "cowboyhat",
@@ -2140,7 +2140,7 @@
       "abr": "personamonosword",
       "category": "Persona weapons",
       "defname": "MeleeWeapon_MonoSwordBladelink",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "personazeushammer",
@@ -9058,7 +9058,7 @@
       "abr": "glass",
       "category": "Manufactured",
       "defname": "RB_Glass",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "yuranguardianstone",
@@ -10204,7 +10204,7 @@
       "abr": "essentialbalm",
       "category": "Drugs",
       "defname": "AM_EssentialBalm",
-      "price": -10
+      "price": 83
     },
     {
       "abr": "exoskeletonautomine",
@@ -10762,7 +10762,7 @@
       "abr": "metalbloodinjector",
       "category": "Drugs",
       "defname": "AM_MetalbloodInjector",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "militaryration",
