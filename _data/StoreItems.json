@@ -136,7 +136,7 @@
       "abr": "royalbed",
       "category": "Furniture",
       "defname": "RoyalBed",
-      "price": -10
+      "price": 1467
     },
     {
       "abr": "hospitalbed",
@@ -796,7 +796,7 @@
       "abr": "rawfungus",
       "category": "Vegetarian",
       "defname": "RawFungus",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "rice",
@@ -9820,7 +9820,7 @@
       "abr": "cellregenerationinjector",
       "category": "Drugs",
       "defname": "AM_CellRegenerationInjector",
-      "price": -10
+      "price": 4167
     },
     {
       "abr": "centaurxenogerm",
@@ -10396,7 +10396,7 @@
       "abr": "heavybarrelassaultrifle",
       "category": "Ranged weapons",
       "defname": "AM_M5A3LT",
-      "price": -10
+      "price": 2583
     },
     {
       "abr": "heavycompositeplate",
@@ -12502,7 +12502,7 @@
       "abr": "survivalkit",
       "category": "Drugs",
       "defname": "AM_BigSurgicalBag",
-      "price": -10
+      "price": 750
     },
     {
       "abr": "swarmyegg",
