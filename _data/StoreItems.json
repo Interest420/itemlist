@@ -244,7 +244,7 @@
       "abr": "dresser",
       "category": "Furniture",
       "defname": "Dresser",
-      "price": -10
+      "price": 179
     },
     {
       "abr": "horseshoespin",
@@ -916,7 +916,7 @@
       "abr": "uranium",
       "category": "Raw resources",
       "defname": "Uranium",
-      "price": -10
+      "price": 10
     },
     {
       "abr": "jade",
@@ -6820,7 +6820,7 @@
       "abr": "closecombathelmet",
       "category": "Headgear",
       "defname": "Apparel_CloseCombatHelmet",
-      "price": -10
+      "price": 1092
     },
     {
       "abr": "combatblade",
@@ -10024,7 +10024,7 @@
       "abr": "crucibleprecisionrifle",
       "category": "Federation weapons",
       "defname": "AD_CruciblePresicionRifle",
-      "price": -10
+      "price": 2133
     },
     {
       "abr": "cruciblerifle",
@@ -10606,7 +10606,7 @@
       "abr": "legolandmarkbuilding",
       "category": "Rare items",
       "defname": "AM_LEGO_LandmarkBuilding_NotOpen",
-      "price": -10
+      "price": 1500
     },
     {
       "abr": "legolandmarkbuilding",
