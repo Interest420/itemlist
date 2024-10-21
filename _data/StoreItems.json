@@ -6322,7 +6322,7 @@
       "abr": "psychicsensitizer",
       "category": "Archotech",
       "defname": "PsychicSensitizer",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "pumpkins",
@@ -9184,7 +9184,7 @@
       "abr": "ancientgrizzlykit",
       "category": "Medicine",
       "defname": "AM_AncientGrizzly",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "ancientlargemilitarysuppliescase",
@@ -9694,7 +9694,7 @@
       "abr": "cannedstewedmuffalo",
       "category": "Meals",
       "defname": "AM_CannedStewedBeef",
-      "price": -10
+      "price": 250
     },
     {
       "abr": "canopy",
@@ -10228,7 +10228,7 @@
       "abr": "fanta",
       "category": "Meals",
       "defname": "AM_Fanta",
-      "price": -10
+      "price": 58
     },
     {
       "abr": "federationjumpsuit",
@@ -10438,7 +10438,7 @@
       "abr": "ibuprofen",
       "category": "Drugs",
       "defname": "AM_Ibuprofen",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "icefairyxenogerm",
