@@ -7144,7 +7144,7 @@
       "abr": "spacerbodysuit",
       "category": "Apparel",
       "defname": "Carbonsuit",
-      "price": -10
+      "price": 608
     },
     {
       "abr": "spikelance",
@@ -8944,7 +8944,7 @@
       "abr": "shard",
       "category": "Manufactured",
       "defname": "Shard",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "shardanimalpulser",
@@ -10480,7 +10480,7 @@
       "abr": "intelmap",
       "category": "Rare items",
       "defname": "AM_IntelMap",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "italianredstewpotatochips",
@@ -11338,7 +11338,7 @@
       "abr": "psytrainer(firetornado)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_FlameTornado",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "psytrainer(firingfocus)",
@@ -12208,7 +12208,7 @@
       "abr": "refleum",
       "category": "Raw resources",
       "defname": "Refleum",
-      "price": -10
+      "price": 22
     },
     {
       "abr": "refleumgasthrower",
