@@ -28,7 +28,7 @@
       "abr": "luciferium",
       "category": "Drugs",
       "defname": "Luciferium",
-      "price": -10
+      "price": 117
     },
     {
       "abr": "penoxycyline",
@@ -6004,13 +6004,13 @@
       "abr": "bionicheart",
       "category": "Bionic",
       "defname": "BionicHeart",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "bionicleg",
       "category": "Bionic",
       "defname": "BionicLeg",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "bionicspine",
@@ -6028,7 +6028,7 @@
       "abr": "bionictail",
       "category": "Bionic",
       "defname": "RK_BionicTail",
-      "price": 1717
+      "price": -10
     },
     {
       "abr": "bionictongue",
@@ -9718,13 +9718,13 @@
       "abr": "carexhaust",
       "category": "Car parts",
       "defname": "VVE_CarExhaust",
-      "price": -10
+      "price": 133
     },
     {
       "abr": "carfueltank",
       "category": "Car parts",
       "defname": "VVE_CarFuelTank",
-      "price": -10
+      "price": 158
     },
     {
       "abr": "carradiator",
