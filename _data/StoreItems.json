@@ -46,7 +46,7 @@
       "abr": "psychitetea",
       "category": "Drugs",
       "defname": "PsychiteTea",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "yayo",
@@ -6106,13 +6106,13 @@
       "abr": "detoxifierkidney",
       "category": "Bionic",
       "defname": "DetoxifierKidney",
-      "price": -10
+      "price": 1800
     },
     {
       "abr": "detoxifierlung",
       "category": "Bionic",
       "defname": "DetoxifierLung",
-      "price": -10
+      "price": 1542
     },
     {
       "abr": "doublewiderefrigerator",
@@ -6814,7 +6814,7 @@
       "abr": "closecombatarmor",
       "category": "Megacorp armors",
       "defname": "Apparel_CloseCombatArmor",
-      "price": -10
+      "price": 4050
     },
     {
       "abr": "closecombathelmet",
@@ -7336,7 +7336,7 @@
       "abr": "shower",
       "category": "Hygiene",
       "defname": "ShowerStuff",
-      "price": -10
+      "price": 90
     },
     {
       "abr": "simpleshower",
