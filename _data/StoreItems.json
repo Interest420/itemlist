@@ -982,7 +982,7 @@
       "abr": "plainleather",
       "category": "Leathers",
       "defname": "Leather_Plain",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "dogleather",
@@ -2548,7 +2548,7 @@
       "abr": "beef",
       "category": "Meat",
       "defname": "Meat_Cow",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "insectmeat",
@@ -3706,7 +3706,7 @@
       "abr": "epicureandelight",
       "category": "Meals",
       "defname": "MooMF_MealEpicurean",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "mythmaker",
@@ -5998,7 +5998,7 @@
       "abr": "bioniceye",
       "category": "Bionic",
       "defname": "BionicEye",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "bionicheart",
@@ -12058,7 +12058,7 @@
       "abr": "psytrainer(wordofinspiration)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_WordofInspiration",
-      "price": -10
+      "price": 1833
     },
     {
       "abr": "psytrainer(wordofjoy)",
