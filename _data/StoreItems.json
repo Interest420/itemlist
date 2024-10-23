@@ -4780,7 +4780,7 @@
       "abr": "crystallinecaracal",
       "category": "Animals",
       "defname": "AA_CrystallineCaracal",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "crystalmit",
@@ -9946,7 +9946,7 @@
       "abr": "confidentialintelmap",
       "category": "Rare items",
       "defname": "AM_ConfidentialIntelMapA",
-      "price": -10
+      "price": 7500
     },
     {
       "abr": "confidentialintelmap",
@@ -11194,7 +11194,7 @@
       "abr": "psytrainer(craftpsyring)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_CraftPsyRing",
-      "price": -10
+      "price": 2833
     },
     {
       "abr": "psytrainer(crafttimeskip)",
@@ -11392,7 +11392,7 @@
       "abr": "psytrainer(grouplink)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_GroupLink",
-      "price": -10
+      "price": 2333
     },
     {
       "abr": "psytrainer(guardianskipbarrier)",
@@ -12244,7 +12244,7 @@
       "abr": "riotgear",
       "category": "Apparel",
       "defname": "Apparel_Judicator",
-      "price": -10
+      "price": 3675
     },
     {
       "abr": "riotgearhelmet",

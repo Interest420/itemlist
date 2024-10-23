@@ -36420,7 +36420,7 @@
     "KarmaType": null
   },
   "AM_ConfidentialIntelMapA": {
-    "CustomName": null,
+    "CustomName": "confidentialintelmap1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -36440,7 +36440,7 @@
     "KarmaType": null
   },
   "AM_ConfidentialIntelMapB": {
-    "CustomName": null,
+    "CustomName": "confidentialintelmap2",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
