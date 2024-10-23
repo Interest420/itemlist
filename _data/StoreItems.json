@@ -8998,7 +8998,7 @@
       "abr": "textbook",
       "category": "Books",
       "defname": "TextBook",
-      "price": -10
+      "price": 267
     },
     {
       "abr": "tome",
@@ -9850,7 +9850,7 @@
       "abr": "classicpotatochips",
       "category": "Meals",
       "defname": "AM_PotatoChipsA",
-      "price": -10
+      "price": 83
     },
     {
       "abr": "closecombatdmr",
@@ -10078,7 +10078,7 @@
       "abr": "deluxecannedmuffalo",
       "category": "Meals",
       "defname": "AM_DeliciousCannedBeef",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "dilapidatedmap",
@@ -12100,7 +12100,7 @@
       "abr": "psytrainer(wordofserenity)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_WordofSerenity",
-      "price": -10
+      "price": 1833
     },
     {
       "abr": "psytrainer(wordoftrust)",
@@ -12418,7 +12418,7 @@
       "abr": "sprite",
       "category": "Meals",
       "defname": "AM_Sprite",
-      "price": -10
+      "price": 58
     },
     {
       "abr": "ssd",
