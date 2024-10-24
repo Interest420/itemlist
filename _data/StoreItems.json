@@ -6310,7 +6310,7 @@
       "abr": "psychicharmonizer",
       "category": "Archotech",
       "defname": "PsychicHarmonizer",
-      "price": -10
+      "price": 1333
     },
     {
       "abr": "psychicreader",
@@ -8014,7 +8014,7 @@
       "abr": "hanasake",
       "category": "Drugs",
       "defname": "YR_Hanasake",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "harpy",
@@ -9226,7 +9226,7 @@
       "abr": "antibiotic",
       "category": "Drugs",
       "defname": "AM_Antibiotic",
-      "price": -10
+      "price": 92
     },
     {
       "abr": "anty",
@@ -9388,7 +9388,7 @@
       "abr": "antyexoskeleton",
       "category": "Raw resources",
       "defname": "AntyExoskeleton",
-      "price": -10
+      "price": 10
     },
     {
       "abr": "antyflakvest",
@@ -11200,7 +11200,7 @@
       "abr": "psytrainer(crafttimeskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_CraftTimeskip",
-      "price": -10
+      "price": 1833
     },
     {
       "abr": "psytrainer(cropburst)",
