@@ -544,7 +544,7 @@
       "abr": "personacore",
       "category": "Misc",
       "defname": "AIPersonaCore",
-      "price": -10
+      "price": 6667
     },
     {
       "abr": "healermechserum",
@@ -9730,7 +9730,7 @@
       "abr": "carradiator",
       "category": "Car parts",
       "defname": "VVE_CarRadiator",
-      "price": -10
+      "price": 150
     },
     {
       "abr": "carsuspension",
@@ -9862,7 +9862,7 @@
       "abr": "closedoxygencylinder",
       "category": "Utility",
       "defname": "AM_ClosedOxygenCylinder",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "clothesrack",
@@ -11680,7 +11680,7 @@
       "abr": "psytrainer(psychicsooth(female))",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_SootheFemale",
-      "price": -10
+      "price": 2333
     },
     {
       "abr": "psytrainer(psychicsooth(male))",
@@ -11860,7 +11860,7 @@
       "abr": "psytrainer(stealvitality)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_StealVitality",
-      "price": -10
+      "price": 1833
     },
     {
       "abr": "psytrainer(steelconstruct)",
