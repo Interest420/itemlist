@@ -7714,7 +7714,7 @@
       "abr": "blacksnakestaff",
       "category": "Ranged weapons",
       "defname": "YR_WP_Staff_BlackSnake",
-      "price": -10
+      "price": 265
     },
     {
       "abr": "blacksnakestaff(bondage)",
@@ -9004,7 +9004,7 @@
       "abr": "tome",
       "category": "Books",
       "defname": "Tome",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "turretpack",
@@ -11290,7 +11290,7 @@
       "abr": "psytrainer(essencetransfer)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_EssenceTransfer",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "psytrainer(explosion)",
@@ -11668,7 +11668,7 @@
       "abr": "psytrainer(psychicguidance)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_PsychicGuidance",
-      "price": -10
+      "price": 1333
     },
     {
       "abr": "psytrainer(psychicshock)",
@@ -11998,7 +11998,7 @@
       "abr": "psytrainer(vortex)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Vortex",
-      "price": -10
+      "price": 2833
     },
     {
       "abr": "psytrainer(wallraise)",
