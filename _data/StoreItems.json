@@ -2644,7 +2644,7 @@
       "abr": "skilltrainer(shooting)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Shooting",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(melee)",
@@ -4696,7 +4696,7 @@
       "abr": "chatoyansniperrifle",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_ChRifle",
-      "price": -10
+      "price": 1783
     },
     {
       "abr": "chemfuelmyrmidon",
@@ -11056,7 +11056,7 @@
       "abr": "psytrainer(berserkpulse)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_BerserkPulse",
-      "price": -10
+      "price": 2833
     },
     {
       "abr": "psytrainer(berserk)",
@@ -11398,7 +11398,7 @@
       "abr": "psytrainer(guardianskipbarrier)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_GuardianSkipbarrier",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "psytrainer(guidedshot)",
@@ -11446,7 +11446,7 @@
       "abr": "psytrainer(icecrystal)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_IceCrystal",
-      "price": -10
+      "price": 1833
     },
     {
       "abr": "psytrainer(iceshield)",

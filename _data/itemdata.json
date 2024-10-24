@@ -32221,7 +32221,7 @@
   },
   "Tome": {
     "CustomName": null,
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -32381,7 +32381,7 @@
   },
   "Schematic": {
     "CustomName": null,
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -32401,7 +32401,7 @@
   },
   "TextBook": {
     "CustomName": null,
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
