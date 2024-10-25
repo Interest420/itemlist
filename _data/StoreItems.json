@@ -1594,7 +1594,7 @@
       "abr": "chicken",
       "category": "Animals",
       "defname": "Chicken",
-      "price": -10
+      "price": 83
     },
     {
       "abr": "duck",
@@ -1972,7 +1972,7 @@
       "abr": "low-shieldpack",
       "category": "Utility",
       "defname": "Apparel_PackBroadshield",
-      "price": -10
+      "price": 717
     },
     {
       "abr": "eltexhelmet",
@@ -2080,13 +2080,13 @@
       "abr": "prestigemarinearmor",
       "category": "Armor",
       "defname": "Apparel_ArmorMarinePrestige",
-      "price": -10
+      "price": 4500
     },
     {
       "abr": "prestigemarinehelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorMarineHelmetPrestige",
-      "price": -10
+      "price": 1700
     },
     {
       "abr": "cataphractarmor",
@@ -2176,7 +2176,7 @@
       "abr": "zeushammer",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Zeushammer",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "plasmasword",
@@ -3796,7 +3796,7 @@
       "abr": "relief",
       "category": "Art",
       "defname": "VFE_Relief",
-      "price": -10
+      "price": 1983
     },
     {
       "abr": "smallrug",
@@ -5266,7 +5266,7 @@
       "abr": "machairodus",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_FlakCaster",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "mammothworm",
@@ -6862,7 +6862,7 @@
       "abr": "firesupportarmor",
       "category": "Megacorp armors",
       "defname": "Apparel_FSArmor",
-      "price": -10
+      "price": 4217
     },
     {
       "abr": "firesupporthelmet",
@@ -9754,7 +9754,7 @@
       "abr": "carwiring",
       "category": "Car parts",
       "defname": "VVE_CarWiring",
-      "price": -10
+      "price": 208
     },
     {
       "abr": "cardboardbox",
@@ -10132,7 +10132,7 @@
       "abr": "eltex",
       "category": "Manufactured",
       "defname": "VPE_Eltex",
-      "price": -10
+      "price": 278
     },
     {
       "abr": "eltexcape",
