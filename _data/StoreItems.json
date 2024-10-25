@@ -1180,7 +1180,7 @@
       "abr": "smokepoppack",
       "category": "Utility",
       "defname": "Apparel_SmokepopBelt",
-      "price": -10
+      "price": 292
     },
     {
       "abr": "psychicshocklance",
@@ -3064,7 +3064,7 @@
       "abr": "gingertea",
       "category": "Herbal Teas",
       "defname": "AYGingerTea",
-      "price": -10
+      "price": 9
     },
     {
       "abr": "ginkgoleaves",
@@ -3214,7 +3214,7 @@
       "abr": "kaletea",
       "category": "Herbal Teas",
       "defname": "AYKaleTea",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "kidhelmet",
@@ -11830,7 +11830,7 @@
       "abr": "psytrainer(speedboost)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_SpeedBoost",
-      "price": -10
+      "price": 1333
     },
     {
       "abr": "psytrainer(spincut)",
@@ -11890,7 +11890,7 @@
       "abr": "psytrainer(summonblackscarab)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_SummonBlackScarab",
-      "price": -10
+      "price": 1833
     },
     {
       "abr": "psytrainer(summonblackspelopede)",
