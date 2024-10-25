@@ -268,7 +268,7 @@
       "abr": "chesstable",
       "category": "Furniture",
       "defname": "ChessTable",
-      "price": -10
+      "price": 281
     },
     {
       "abr": "pokertable",
@@ -2554,7 +2554,7 @@
       "abr": "insectmeat",
       "category": "Meat",
       "defname": "Meat_Megaspider",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "humanmeat",
@@ -7702,7 +7702,7 @@
       "abr": "bigcherry",
       "category": "Yuran Manufactured",
       "defname": "YR_yedoensisBerries_Big",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "bionictail",
@@ -8926,7 +8926,7 @@
       "abr": "schematic",
       "category": "Books",
       "defname": "Schematic",
-      "price": -10
+      "price": 250
     },
     {
       "abr": "scrapcubesculpture",
@@ -10918,7 +10918,7 @@
       "abr": "pepsi",
       "category": "Meals",
       "defname": "AM_Pepsi",
-      "price": -10
+      "price": 58
     },
     {
       "abr": "pigskinxenogerm",
