@@ -6172,7 +6172,7 @@
       "abr": "immunoenhancer",
       "category": "Bionic",
       "defname": "Immunoenhancer",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "joywire",
@@ -11212,7 +11212,7 @@
       "abr": "psytrainer(darkness)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Darkness",
-      "price": -10
+      "price": 1333
     },
     {
       "abr": "psytrainer(darkvision)",
@@ -11320,7 +11320,7 @@
       "abr": "psytrainer(fatalblow)",
       "category": "Psytrainers",
       "defname": "Psytrainer_AAVPE_FatalBlow",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "psytrainer(firebeam)",
@@ -12022,7 +12022,7 @@
       "abr": "psytrainer(wordofalliance)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_WordofAlliance",
-      "price": -10
+      "price": 2333
     },
     {
       "abr": "psytrainer(wordofanimals)",
@@ -12082,7 +12082,7 @@
       "abr": "psytrainer(wordofproductivity)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_WordofProductivity",
-      "price": -10
+      "price": 1833
     },
     {
       "abr": "psytrainer(wordofprogress)",
