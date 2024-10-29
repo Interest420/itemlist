@@ -2674,7 +2674,7 @@
       "abr": "skilltrainer(plants)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Plants",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(animals)",
@@ -6070,7 +6070,7 @@
       "abr": "coagulator",
       "category": "Bionic",
       "defname": "Coagulator",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "coarserocksalt",
@@ -6166,7 +6166,7 @@
       "abr": "healingenhancer",
       "category": "Bionic",
       "defname": "HealingEnhancer",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "immunoenhancer",
@@ -11968,7 +11968,7 @@
       "abr": "psytrainer(timeskipmeditation)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_TimeskipMeditation",
-      "price": -10
+      "price": 1333
     },
     {
       "abr": "psytrainer(transmutation)",
@@ -12658,7 +12658,7 @@
       "abr": "waybill",
       "category": "Rare items",
       "defname": "AM_WayBill",
-      "price": -10
+      "price": 4250
     },
     {
       "abr": "weaponcase",
@@ -12731,7 +12731,13 @@
       "category": "Items",
       "defname": "Xenogerm_YuranXenotype",
       "price": -10
+    },
+    {
+      "abr": "meowsentrypack",
+      "category": "Utility",
+      "defname": "Nr_Apparel_SentryPack",
+      "price": 2350
     }
   ],
-  "total": 2122
+  "total": 2123
 }
