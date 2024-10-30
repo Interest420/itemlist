@@ -2710,7 +2710,7 @@
       "abr": "skilltrainer(intellectual)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Intellectual",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "absinthe",
@@ -3400,7 +3400,7 @@
       "abr": "poluxseed",
       "category": "Misc",
       "defname": "PoluxSeed",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "potash",
@@ -4138,7 +4138,7 @@
       "abr": "ratkinoutdoorbackpack",
       "category": "Ratkin apparel",
       "defname": "RK_OutdoorBackpack",
-      "price": -10
+      "price": 311
     },
     {
       "abr": "ratkinpackage",
@@ -7768,7 +7768,7 @@
       "abr": "cherry",
       "category": "Vegetarian",
       "defname": "YR_yedoensisBerries",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "cowgirl",
@@ -11098,7 +11098,7 @@
       "abr": "psytrainer(bramblemaze)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_BrambleMaze",
-      "price": -10
+      "price": 1333
     },
     {
       "abr": "psytrainer(breatheflame)",
@@ -11116,7 +11116,7 @@
       "abr": "psytrainer(burden)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Burden",
-      "price": -10
+      "price": 1333
     },
     {
       "abr": "psytrainer(chainbolt)",
@@ -11284,7 +11284,7 @@
       "abr": "psytrainer(enthrall)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_Enthrall",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "psytrainer(essencetransfer)",
