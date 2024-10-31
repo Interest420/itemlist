@@ -658,7 +658,7 @@
       "abr": "silver",
       "category": "Metallics",
       "defname": "Silver",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "gold",
@@ -700,7 +700,7 @@
       "abr": "cloth",
       "category": "Textiles",
       "defname": "Cloth",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "synthread",
@@ -1264,7 +1264,7 @@
       "abr": "muffalo",
       "category": "Animals",
       "defname": "Muffalo",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "bison",
@@ -1360,7 +1360,7 @@
       "abr": "thrumbo",
       "category": "Animals",
       "defname": "Thrumbo",
-      "price": -10
+      "price": 6667
     },
     {
       "abr": "cobra",
@@ -1456,7 +1456,7 @@
       "abr": "boomrat",
       "category": "Animals",
       "defname": "Boomrat",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "raccoon",
@@ -3754,7 +3754,7 @@
       "abr": "chameleonyakwool,winter",
       "category": "Wools",
       "defname": "AA_ChameleonYakWoolWinter",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "chargedblizzariskegg(fert.)",
@@ -5818,7 +5818,7 @@
       "abr": "yuranbow",
       "category": "Ranged weapons",
       "defname": "YR_WP_Bow",
-      "price": -10
+      "price": 154
     },
     {
       "abr": "yuranbrewery",
@@ -7078,7 +7078,7 @@
       "abr": "apples",
       "category": "Vegetarian",
       "defname": "DankPyon_RawApples",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "arachneleatherhide",
@@ -7558,7 +7558,7 @@
       "abr": "basiccomponent",
       "category": "Manufactured",
       "defname": "DankPyon_ComponentBasic",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "battleelixir",
@@ -9616,7 +9616,7 @@
       "abr": "grapes",
       "category": "Vegetarian",
       "defname": "DankPyon_RawGrapes",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "greathelm",
@@ -11776,7 +11776,7 @@
       "abr": "rawwood",
       "category": "Wood logs",
       "defname": "DankPyon_RawWood",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "rawwood(1x2)",
