@@ -16,7 +16,7 @@
       "abr": "ambrosia",
       "category": "Drugs",
       "defname": "Ambrosia",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "luciferium",
@@ -112,7 +112,7 @@
       "abr": "bedroll",
       "category": "Furniture",
       "defname": "Bedroll",
-      "price": -10
+      "price": 137
     },
     {
       "abr": "doublebedroll",
@@ -712,7 +712,7 @@
       "abr": "devilstrand",
       "category": "Textiles",
       "defname": "DevilstrandCloth",
-      "price": -10
+      "price": 9
     },
     {
       "abr": "hyperweave",
@@ -6688,7 +6688,7 @@
       "abr": "nuko",
       "category": "Animals",
       "defname": "Maidnukos",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "nuko",
@@ -7876,7 +7876,7 @@
       "abr": "cabbages",
       "category": "Vegetarian",
       "defname": "DankPyon_RawCabbages",
-      "price": -10
+      "price": 6
     },
     {
       "abr": "camelhidehide",
@@ -17122,7 +17122,7 @@
       "abr": "runite",
       "category": "Metallics",
       "defname": "Runite",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "shieldfloatunitpack",
