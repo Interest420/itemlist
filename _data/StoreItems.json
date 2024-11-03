@@ -82,7 +82,7 @@
       "abr": "largesculpture",
       "category": "Art",
       "defname": "SculptureLarge",
-      "price": -10
+      "price": 517
     },
     {
       "abr": "grandsculpture",
@@ -358,7 +358,7 @@
       "abr": "psychicsoothepulser",
       "category": "Artifacts",
       "defname": "PsychicSoothePulser",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "healermechserum",
@@ -460,7 +460,7 @@
       "abr": "chocolate",
       "category": "Foods",
       "defname": "Chocolate",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "milk",
@@ -1006,7 +1006,7 @@
       "abr": "cape",
       "category": "Noble apparel",
       "defname": "Apparel_Cape",
-      "price": -10
+      "price": 367
     },
     {
       "abr": "sandstoneblocks",
@@ -1714,7 +1714,7 @@
       "abr": "monosword",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_MonoSword",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "plasmasword",
@@ -3526,7 +3526,7 @@
       "abr": "animusvox",
       "category": "Animals",
       "defname": "AA_AnimusVox",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "arcticlion",
@@ -5332,7 +5332,7 @@
       "abr": "cherry",
       "category": "Vegetarian",
       "defname": "YR_yedoensisBerries",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "cowgirl",
@@ -5632,7 +5632,7 @@
       "abr": "redwood",
       "category": "Raw resources",
       "defname": "YR_Red_wood",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "shintaoslab(broad)",
@@ -7366,7 +7366,7 @@
       "abr": "automatoncrossbow",
       "category": "Possessed weapons",
       "defname": "BotchJob_PossessedAutomatonCrossbow",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "bakingtools",
@@ -10450,7 +10450,7 @@
       "abr": "lightningjavelin",
       "category": "Possessed weapons",
       "defname": "BotchJob_PossessedLightningJavelin",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "lightningspell:chargebattery",
@@ -10528,7 +10528,7 @@
       "abr": "linen",
       "category": "Textiles",
       "defname": "DankPyon_Linen",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "livingtreeshield",
@@ -11896,13 +11896,13 @@
       "abr": "ringofhaste",
       "category": "Jewelry",
       "defname": "DankPyon_Ring_Haste",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "ringofholding",
       "category": "Jewelry",
       "defname": "DankPyon_Ring_Holding",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "ringofkeenintellect",
@@ -12208,7 +12208,7 @@
       "abr": "rusticbed(blue)",
       "category": "Furniture",
       "defname": "DankPyon_Bed_Rustic_Blue",
-      "price": -10
+      "price": 442
     },
     {
       "abr": "rusticbed(green)",
@@ -12244,7 +12244,7 @@
       "abr": "rusticdoublebed(blue)",
       "category": "Furniture",
       "defname": "DankPyon_Bed_RusticDouble_Blue",
-      "price": -10
+      "price": 875
     },
     {
       "abr": "rusticdoublebed(green)",
@@ -12634,7 +12634,7 @@
       "abr": "silk",
       "category": "Textiles",
       "defname": "DankPyon_Silk",
-      "price": -10
+      "price": 8
     },
     {
       "abr": "silkgolem",
