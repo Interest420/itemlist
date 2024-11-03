@@ -454,7 +454,7 @@
       "abr": "pemmican",
       "category": "Foods",
       "defname": "Pemmican",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "chocolate",
@@ -664,7 +664,7 @@
       "abr": "gold",
       "category": "Metallics",
       "defname": "Gold",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "steel",
@@ -6082,7 +6082,7 @@
       "abr": "yurantalismanoftheearth",
       "category": "Yuran Apparel",
       "defname": "YR_AP_Sharp",
-      "price": -10
+      "price": 270
     },
     {
       "abr": "yurantalismanoftheforest",
