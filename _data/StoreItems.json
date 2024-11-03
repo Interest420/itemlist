@@ -562,7 +562,7 @@
       "abr": "glitterworldmedicine",
       "category": "Medicine",
       "defname": "MedicineUltratech",
-      "price": -10
+      "price": 83
     },
     {
       "abr": "component",
@@ -7102,7 +7102,7 @@
       "abr": "arcalleum",
       "category": "Raw resources",
       "defname": "TM_Arcalleum",
-      "price": -10
+      "price": 22
     },
     {
       "abr": "arcanecraftingbench",
@@ -11446,7 +11446,7 @@
       "abr": "paregoric",
       "category": "Drugs",
       "defname": "DankPyon_Paregoric",
-      "price": -10
+      "price": 392
     },
     {
       "abr": "paregoricmixture",
@@ -13666,7 +13666,7 @@
       "abr": "unrefinedmagicyte",
       "category": "Refined magicyte",
       "defname": "RawMagicyte",
-      "price": -10
+      "price": 8
     },
     {
       "abr": "vegetablepot",
@@ -15694,7 +15694,7 @@
       "abr": "skilltome(archery)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Shooting",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltome(artistic)",
