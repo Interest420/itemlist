@@ -1870,7 +1870,7 @@
       "abr": "slavecollar",
       "category": "Headgear",
       "defname": "Apparel_Collar",
-      "price": -10
+      "price": 94
     },
     {
       "abr": "authoritycap",
@@ -2500,7 +2500,7 @@
       "abr": "kaletea",
       "category": "Herbal Teas",
       "defname": "AYKaleTea",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "kidpants",
@@ -6592,7 +6592,7 @@
       "abr": "antyexoskeleton",
       "category": "Metallics",
       "defname": "AntyExoskeleton",
-      "price": -10
+      "price": 10
     },
     {
       "abr": "antyhiveguard",
@@ -6742,7 +6742,7 @@
       "abr": "refleum",
       "category": "Metallics",
       "defname": "Refleum",
-      "price": -10
+      "price": 22
     },
     {
       "abr": "swarmyegg",
@@ -8392,7 +8392,7 @@
       "abr": "demonscale",
       "category": "Raw resources",
       "defname": "TM_Demonscale",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "direboar",
@@ -8692,7 +8692,7 @@
       "abr": "driedmeat",
       "category": "Meat",
       "defname": "DankPyon_DriedMeat",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "druidspell:briarpatch",
@@ -11254,7 +11254,7 @@
       "abr": "oillamp",
       "category": "Furniture",
       "defname": "DankPyon_RusticLamp",
-      "price": -10
+      "price": 118
     },
     {
       "abr": "onenglish",
