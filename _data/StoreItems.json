@@ -22,7 +22,7 @@
       "abr": "luciferium",
       "category": "Drugs",
       "defname": "Luciferium",
-      "price": -10
+      "price": 117
     },
     {
       "abr": "psychitetea",
@@ -670,7 +670,7 @@
       "abr": "steel",
       "category": "Metallics",
       "defname": "Steel",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "plasteel",
@@ -7624,7 +7624,7 @@
       "abr": "blackdragon",
       "category": "Animals",
       "defname": "Black_Dragon",
-      "price": -10
+      "price": 11000
     },
     {
       "abr": "blackdragonegg(fert.)",
@@ -10186,7 +10186,7 @@
       "abr": "ironingot",
       "category": "Metallics",
       "defname": "DankPyon_IronIngot",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "ironingotstack(1x1)",
