@@ -1012,7 +1012,7 @@
       "abr": "sandstoneblocks",
       "category": "Stone blocks",
       "defname": "BlocksSandstone",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "graniteblocks",
@@ -2386,7 +2386,7 @@
       "abr": "gingertea",
       "category": "Herbal Teas",
       "defname": "AYGingerTea",
-      "price": -10
+      "price": 9
     },
     {
       "abr": "ginkgoleaves",
@@ -2728,7 +2728,7 @@
       "abr": "smellingsalts",
       "category": "Salts",
       "defname": "AYSmellingSalts",
-      "price": -10
+      "price": 24
     },
     {
       "abr": "stjohnswortflowers",
@@ -8152,7 +8152,7 @@
       "abr": "combatmanual",
       "category": "Books",
       "defname": "TM_CombatManual",
-      "price": -10
+      "price": 1333
     },
     {
       "abr": "combatpower:psionic",
@@ -8194,7 +8194,7 @@
       "abr": "combatstyle:ranger",
       "category": "Skill books",
       "defname": "BookOfRanger",
-      "price": -10
+      "price": 4292
     },
     {
       "abr": "combatstyle:sniper",
@@ -9274,7 +9274,7 @@
       "abr": "gambeson",
       "category": "Apparel",
       "defname": "Dankpyon_Apparel_Gambeson",
-      "price": -10
+      "price": 293
     },
     {
       "abr": "gardeningbox",
@@ -9736,7 +9736,7 @@
       "abr": "grimoire",
       "category": "Books",
       "defname": "TM_Grimoire",
-      "price": -10
+      "price": 1333
     },
     {
       "abr": "grindingwheel",
@@ -10696,7 +10696,7 @@
       "abr": "magespell:magelight",
       "category": "Scrolls",
       "defname": "SpellOf_MageLight",
-      "price": -10
+      "price": 633
     },
     {
       "abr": "magespell:magiccooler",
@@ -11728,13 +11728,13 @@
       "abr": "quiver",
       "category": "Utility",
       "defname": "DankPyon_Apparel_Quiver",
-      "price": -10
+      "price": 194
     },
     {
       "abr": "raredragonleather",
       "category": "Leathers",
       "defname": "Rare_Dragon_Leather",
-      "price": -10
+      "price": 38
     },
     {
       "abr": "raredragonleatherhide",
@@ -12202,7 +12202,7 @@
       "abr": "runesandsigils",
       "category": "Apparel",
       "defname": "DankPyon_Apparel_RunesAndSigils",
-      "price": -10
+      "price": 600
     },
     {
       "abr": "rusticbed(blue)",
