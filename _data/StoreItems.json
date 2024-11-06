@@ -370,7 +370,7 @@
       "abr": "resurrectormechserum",
       "category": "Drugs",
       "defname": "MechSerumResurrector",
-      "price": -10
+      "price": 2833
     },
     {
       "abr": "techprofsubpersonacore",
@@ -2860,7 +2860,7 @@
       "abr": "wormwoodtonic",
       "category": "Tonics",
       "defname": "AYWormwoodTonic",
-      "price": -10
+      "price": 18
     },
     {
       "abr": "xenogerm",
@@ -3850,7 +3850,7 @@
       "abr": "crystallinecaracal",
       "category": "Animals",
       "defname": "AA_CrystallineCaracal",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "crystalmit",
@@ -7342,7 +7342,7 @@
       "abr": "armorofthevaliant",
       "category": "Magic apparel",
       "defname": "RoyalArmor",
-      "price": -10
+      "price": 2750
     },
     {
       "abr": "armorstatue",
@@ -9010,7 +9010,7 @@
       "abr": "fighterskill:gearrepair",
       "category": "Scrolls",
       "defname": "SkillOf_GearRepair",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "fighterskill:heavyblow",
@@ -9664,7 +9664,7 @@
       "abr": "griffon",
       "category": "Animals",
       "defname": "DankPyon_Griffon",
-      "price": -10
+      "price": 7500
     },
     {
       "abr": "griffonberry",
@@ -9730,7 +9730,7 @@
       "abr": "grilledskewers",
       "category": "Meals",
       "defname": "DankPyon_MealGrilledSkewers",
-      "price": -10
+      "price": 35
     },
     {
       "abr": "grimoire",
@@ -9934,7 +9934,7 @@
       "abr": "helmofthevaliant",
       "category": "Magic apparel",
       "defname": "RoyalHelm",
-      "price": -10
+      "price": 975
     },
     {
       "abr": "heraldicgreathelm(amboise)",
@@ -10630,7 +10630,7 @@
       "abr": "magerobe",
       "category": "Magic apparel",
       "defname": "DarkRobe",
-      "price": -10
+      "price": 3767
     },
     {
       "abr": "magespell:arcanebolt",
@@ -10642,7 +10642,7 @@
       "abr": "magespell:blink",
       "category": "Scrolls",
       "defname": "SpellOf_Blink",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "magespell:blur",
@@ -10672,7 +10672,7 @@
       "abr": "magespell:heal",
       "category": "Scrolls",
       "defname": "SpellOf_Heal",
-      "price": -10
+      "price": 767
     },
     {
       "abr": "magespell:ignite",
@@ -10852,7 +10852,7 @@
       "abr": "mantleofprotection",
       "category": "Magic apparel",
       "defname": "TM_MantleOfProtection",
-      "price": -10
+      "price": 1367
     },
     {
       "abr": "marblegolem",
@@ -12526,7 +12526,7 @@
       "abr": "shardofspiritextraction",
       "category": "Magic artifacts",
       "defname": "TM_Artifact_ClassExtraction",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "sheepcheese",
@@ -16960,7 +16960,7 @@
       "abr": "miliratraditionalattire(style1)",
       "category": "Milira OnSkin",
       "defname": "Milira_BasicDressI",
-      "price": -10
+      "price": 321
     },
     {
       "abr": "miliratraditionalattire(style2)",
