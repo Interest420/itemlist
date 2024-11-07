@@ -5842,7 +5842,7 @@
       "abr": "yurancherrydango",
       "category": "Meals",
       "defname": "YR_yedoensisBerries_Dango",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "yurancorolla",
@@ -6316,7 +6316,7 @@
       "abr": "schematic",
       "category": "Books",
       "defname": "Schematic",
-      "price": -10
+      "price": 250
     },
     {
       "abr": "scrapcubesculpture",
@@ -6370,7 +6370,7 @@
       "abr": "textbook",
       "category": "Books",
       "defname": "TextBook",
-      "price": -10
+      "price": 267
     },
     {
       "abr": "tome",
@@ -7168,7 +7168,7 @@
       "abr": "arcanescript:???",
       "category": "Skill books",
       "defname": "BookOfQuestion",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "arcanespell:gateway",
@@ -9040,7 +9040,7 @@
       "abr": "fighterskill:sprint",
       "category": "Scrolls",
       "defname": "SkillOf_Sprint",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "fighterskill:strongback",
@@ -11692,7 +11692,7 @@
       "abr": "pumpkins",
       "category": "Vegetarian",
       "defname": "DankPyon_RawPumpkins",
-      "price": -10
+      "price": 18
     },
     {
       "abr": "purpledragon",
@@ -13744,7 +13744,7 @@
       "abr": "wanderer'scloak",
       "category": "Magic apparel",
       "defname": "TM_MaestersCloak",
-      "price": -10
+      "price": 1375
     },
     {
       "abr": "warbow",
@@ -13822,7 +13822,7 @@
       "abr": "wheat",
       "category": "Grains",
       "defname": "DankPyon_RawWheat",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "whitedragon",
