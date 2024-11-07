@@ -1132,7 +1132,7 @@
       "abr": "orbitalpowerbeamtargeter",
       "category": "Utility",
       "defname": "OrbitalTargeterPowerBeam",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "tornadogenerator",
@@ -1174,7 +1174,7 @@
       "abr": "cougar",
       "category": "Animals",
       "defname": "Cougar",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "panther",
@@ -4864,7 +4864,7 @@
       "abr": "wildpod",
       "category": "Animals",
       "defname": "AA_Wildpod",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "wildpodsporeclump(fert.)",
