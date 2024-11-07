@@ -9256,7 +9256,7 @@
       "abr": "furcloak",
       "category": "Apparel",
       "defname": "DankPyon_Apparel_FurCloak",
-      "price": -10
+      "price": 1367
     },
     {
       "abr": "furnace",
@@ -9298,7 +9298,7 @@
       "abr": "gemofphysicalinsight",
       "category": "Magic artifacts",
       "defname": "GemstoneOfInsight_Might",
-      "price": -10
+      "price": 4000
     },
     {
       "abr": "geomancerspell:meteor",
@@ -12130,7 +12130,7 @@
       "abr": "rubynecklace",
       "category": "Jewelry",
       "defname": "DankPyon_Necklace_Ruby",
-      "price": -10
+      "price": 808
     },
     {
       "abr": "rubyring",
@@ -13630,7 +13630,7 @@
       "abr": "unfinishedmartialbook",
       "category": "Skill books",
       "defname": "UnfinishedMartial",
-      "price": -10
+      "price": 3425
     },
     {
       "abr": "unfinishedtornscript",
