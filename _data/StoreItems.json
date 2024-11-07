@@ -6784,7 +6784,7 @@
       "abr": "additionalfurpadding",
       "category": "Apparel",
       "defname": "DankPyon_Apparel_AdditionalFurPadding",
-      "price": -10
+      "price": 1108
     },
     {
       "abr": "adrenalinegland",
@@ -8188,7 +8188,7 @@
       "abr": "combatstyle:monk",
       "category": "Skill books",
       "defname": "BookOfMonk",
-      "price": -10
+      "price": 4292
     },
     {
       "abr": "combatstyle:ranger",
@@ -8956,7 +8956,7 @@
       "abr": "essenceofmagic",
       "category": "Magic artifacts",
       "defname": "TM_MagicArtifact_MagicEssence",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "essenceofmight",
@@ -9292,7 +9292,7 @@
       "abr": "gemofarcaneinsight",
       "category": "Magic artifacts",
       "defname": "GemstoneOfInsight_Magic",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "gemofphysicalinsight",
@@ -10666,7 +10666,7 @@
       "abr": "magespell:extinguish",
       "category": "Scrolls",
       "defname": "SpellOf_Extinguish",
-      "price": -10
+      "price": 567
     },
     {
       "abr": "magespell:heal",
@@ -12838,7 +12838,7 @@
       "abr": "splintedboots",
       "category": "Footwear",
       "defname": "DankPyon_Footwear_BootsSplinted",
-      "price": -10
+      "price": 191
     },
     {
       "abr": "splintedchausses",
@@ -12850,7 +12850,7 @@
       "abr": "splintedgloves",
       "category": "Handwear",
       "defname": "DankPyon_Handwear_GlovesSplinted",
-      "price": -10
+      "price": 191
     },
     {
       "abr": "spraypylon",
