@@ -688,7 +688,7 @@
       "abr": "uranium",
       "category": "Metallics",
       "defname": "Uranium",
-      "price": -10
+      "price": 10
     },
     {
       "abr": "jade",
@@ -7666,7 +7666,7 @@
       "abr": "bluedragon",
       "category": "Animals",
       "defname": "Blue_Dragon",
-      "price": -10
+      "price": 11000
     },
     {
       "abr": "bluedragonegg(fert.)",
@@ -8164,25 +8164,25 @@
       "abr": "combatstyle:apothecary",
       "category": "Skill books",
       "defname": "BookOfApothecary",
-      "price": -10
+      "price": 4292
     },
     {
       "abr": "combatstyle:bladedancer",
       "category": "Skill books",
       "defname": "BookOfBladedancer",
-      "price": -10
+      "price": 4292
     },
     {
       "abr": "combatstyle:commander",
       "category": "Skill books",
       "defname": "BookOfCommander",
-      "price": -10
+      "price": 4292
     },
     {
       "abr": "combatstyle:deathknight",
       "category": "Skill books",
       "defname": "BookOfDeathKnight",
-      "price": -10
+      "price": 4292
     },
     {
       "abr": "combatstyle:monk",
@@ -8962,7 +8962,7 @@
       "abr": "essenceofmight",
       "category": "Magic artifacts",
       "defname": "TM_MagicArtifact_MightEssence",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "explorer'sarchive",
@@ -12136,7 +12136,7 @@
       "abr": "rubyring",
       "category": "Jewelry",
       "defname": "DankPyon_Ring_Ruby",
-      "price": -10
+      "price": 808
     },
     {
       "abr": "rubyskull",
