@@ -958,7 +958,7 @@
       "abr": "pants",
       "category": "Misc",
       "defname": "Apparel_Pants",
-      "price": -10
+      "price": 143
     },
     {
       "abr": "t-shirt",
@@ -6226,7 +6226,7 @@
       "abr": "harbingerseed",
       "category": "Misc",
       "defname": "HarbingerSeed",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "holdingplatform",
@@ -7768,7 +7768,7 @@
       "abr": "bracersofdeflection",
       "category": "Magic artifacts",
       "defname": "TM_Artifact_BracersOfDeflection",
-      "price": -10
+      "price": 1558
     },
     {
       "abr": "bracersofthepacifist",
@@ -8596,7 +8596,7 @@
       "abr": "dragonslayerplate",
       "category": "Magic apparel",
       "defname": "TM_DragonSlayer",
-      "price": -10
+      "price": 6933
     },
     {
       "abr": "dragonstatueritual",
