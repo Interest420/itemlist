@@ -1690,7 +1690,7 @@
       "abr": "personazeushammer",
       "category": "Persona weapons",
       "defname": "MeleeWeapon_ZeusHammerBladelink",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "personaplasmasword",
@@ -5542,7 +5542,7 @@
       "abr": "hanasake",
       "category": "Drugs",
       "defname": "YR_Hanasake",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "harpy",
@@ -5614,7 +5614,7 @@
       "abr": "racoonshikigami",
       "category": "Animals",
       "defname": "YR_Sikigami_Racoon",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "ratkincannonshell",
@@ -8074,7 +8074,7 @@
       "abr": "cloakofsupremacy",
       "category": "Magic apparel",
       "defname": "DemonLordCloak",
-      "price": -10
+      "price": 4233
     },
     {
       "abr": "closedbascinethelmet",
@@ -9028,7 +9028,7 @@
       "abr": "fighterskill:legion",
       "category": "Scrolls",
       "defname": "SkillOf_Legion",
-      "price": -10
+      "price": 1333
     },
     {
       "abr": "fighterskill:pommelstrike",
@@ -10762,7 +10762,7 @@
       "abr": "magespell:summonminion",
       "category": "Scrolls",
       "defname": "SpellOf_SummonMinion",
-      "price": -10
+      "price": 1750
     },
     {
       "abr": "magespell:sunlight",
@@ -16174,7 +16174,7 @@
       "abr": "adamantite",
       "category": "Metallics",
       "defname": "Adamantite",
-      "price": -10
+      "price": 23
     },
     {
       "abr": "alp",
