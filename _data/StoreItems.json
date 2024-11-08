@@ -694,7 +694,7 @@
       "abr": "jade",
       "category": "Raw resources",
       "defname": "Jade",
-      "price": -10
+      "price": 8
     },
     {
       "abr": "cloth",
@@ -862,7 +862,7 @@
       "abr": "thrumbofur",
       "category": "Leathers",
       "defname": "Leather_Thrumbo",
-      "price": -10
+      "price": 23
     },
     {
       "abr": "patchleather",
@@ -7156,7 +7156,7 @@
       "abr": "arcanegemofwonder",
       "category": "Refined magicyte",
       "defname": "TM_EStone_wonder",
-      "price": -10
+      "price": 4417
     },
     {
       "abr": "arcanehood",
@@ -9016,7 +9016,7 @@
       "abr": "fighterskill:heavyblow",
       "category": "Scrolls",
       "defname": "SkillOf_HeavyBlow",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "fighterskill:innerhealing",
@@ -10846,7 +10846,7 @@
       "abr": "manaweave",
       "category": "Textiles",
       "defname": "TM_Manaweave",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "mantleofprotection",
@@ -13624,7 +13624,7 @@
       "abr": "unfinishedarcanebook",
       "category": "Skill books",
       "defname": "UnfinishedAdvArcane",
-      "price": -10
+      "price": 4392
     },
     {
       "abr": "unfinishedmartialbook",
