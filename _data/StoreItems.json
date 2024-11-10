@@ -382,7 +382,7 @@
       "abr": "thrumbohorn",
       "category": "Misc",
       "defname": "ThrumboHorn",
-      "price": -10
+      "price": 1333
     },
     {
       "abr": "elephanttusk",
@@ -6826,7 +6826,7 @@
       "abr": "ale",
       "category": "Drugs",
       "defname": "DankPyon_Ale",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "alewort",
@@ -6916,7 +6916,7 @@
       "abr": "ancientmail",
       "category": "Magic apparel",
       "defname": "AncientMail",
-      "price": -10
+      "price": 2742
     },
     {
       "abr": "ancientmetallurgyschematic",
@@ -7246,7 +7246,7 @@
       "abr": "arcanetome:lightning",
       "category": "Skill books",
       "defname": "BookOfStormBorn",
-      "price": -10
+      "price": 5500
     },
     {
       "abr": "arcanetome:nature",
@@ -10654,7 +10654,7 @@
       "abr": "magespell:dirtdevil",
       "category": "Scrolls",
       "defname": "SpellOf_DirtDevil",
-      "price": -10
+      "price": 967
     },
     {
       "abr": "magespell:emp",
@@ -13258,7 +13258,7 @@
       "abr": "thrumboaxe",
       "category": "Melee",
       "defname": "TM_ThrumboAxe",
-      "price": -10
+      "price": 7750
     },
     {
       "abr": "thrumbobattleaxe",
