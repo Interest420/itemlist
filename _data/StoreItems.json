@@ -11986,7 +11986,7 @@
       "abr": "roxmeat",
       "category": "Meat",
       "defname": "Meat_DankPyon_Rox",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "roxrug(3x3)",
@@ -15688,7 +15688,7 @@
       "abr": "skilltome(animalhandling)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Animals",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltome(archery)",
