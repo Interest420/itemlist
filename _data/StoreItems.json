@@ -1684,7 +1684,7 @@
       "abr": "personamonosword",
       "category": "Persona weapons",
       "defname": "MeleeWeapon_MonoSwordBladelink",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "personazeushammer",
@@ -8134,7 +8134,7 @@
       "abr": "coldcrystalbowl",
       "category": "Furniture",
       "defname": "RF_ColdCrystalBowl",
-      "price": -10
+      "price": 350
     },
     {
       "abr": "combatform:faceless",
@@ -9184,7 +9184,7 @@
       "abr": "flour",
       "category": "Flour",
       "defname": "DankPyon_Flour",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "flyagaric",
@@ -12892,7 +12892,7 @@
       "abr": "stardust",
       "category": "Drugs",
       "defname": "DankPyon_Stardust",
-      "price": -10
+      "price": 533
     },
     {
       "abr": "steakwithwine",
@@ -13282,7 +13282,7 @@
       "abr": "thrumbosaber",
       "category": "Melee",
       "defname": "TM_ThrumboSaber",
-      "price": -10
+      "price": 5833
     },
     {
       "abr": "timber(1x1)",
@@ -13840,7 +13840,7 @@
       "abr": "whitestagheart",
       "category": "Misc",
       "defname": "FG_WhiteStagHeart",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "wickerbed",
@@ -13852,7 +13852,7 @@
       "abr": "wine",
       "category": "Drugs",
       "defname": "DankPyon_Wine",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "winecupboard",
