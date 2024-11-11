@@ -13570,7 +13570,7 @@
       "abr": "truedragon",
       "category": "Animals",
       "defname": "True_Dragon",
-      "price": -10
+      "price": 13167
     },
     {
       "abr": "truedragonegg(fert.)",
@@ -15742,7 +15742,7 @@
       "abr": "skilltome(melee)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Melee",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltome(mining)",
