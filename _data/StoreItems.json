@@ -10612,7 +10612,7 @@
       "abr": "luhix",
       "category": "Drugs",
       "defname": "DankPyon_Luhix",
-      "price": -10
+      "price": 625
     },
     {
       "abr": "luhixmixture",
@@ -11434,7 +11434,7 @@
       "abr": "paragon'shelm",
       "category": "Magic apparel",
       "defname": "ParagonHelm",
-      "price": -10
+      "price": 1725
     },
     {
       "abr": "parchedskin",
@@ -13696,7 +13696,7 @@
       "abr": "vigorpill",
       "category": "Drugs",
       "defname": "DankPyon_VigorPill",
-      "price": -10
+      "price": 100
     },
     {
       "abr": "vigorpillmixture",
