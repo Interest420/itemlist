@@ -754,7 +754,7 @@
       "abr": "plainleather",
       "category": "Leathers",
       "defname": "Leather_Plain",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "dogleather",
@@ -7564,7 +7564,7 @@
       "abr": "battleelixir",
       "category": "Drugs",
       "defname": "DankPyon_BattleElixir",
-      "price": -10
+      "price": 208
     },
     {
       "abr": "battleelixirmixture",
@@ -8356,7 +8356,7 @@
       "abr": "decimation",
       "category": "Melee",
       "defname": "TM_Decimation",
-      "price": -10
+      "price": 6050
     },
     {
       "abr": "deepgreendiamondrug(2x4)",
@@ -11266,7 +11266,7 @@
       "abr": "onions",
       "category": "Vegetarian",
       "defname": "DankPyon_RawOnions",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "onyx",
@@ -11908,7 +11908,7 @@
       "abr": "ringofkeenintellect",
       "category": "Magic artifacts",
       "defname": "TM_Artifact_RingOfKeenIntellect",
-      "price": -10
+      "price": 3500
     },
     {
       "abr": "ringofmalice",
@@ -11998,7 +11998,7 @@
       "abr": "roxsteak",
       "category": "Meals",
       "defname": "DankPyon_MealRoxSteak",
-      "price": -10
+      "price": 125
     },
     {
       "abr": "roxwool",
@@ -12898,7 +12898,7 @@
       "abr": "steakwithwine",
       "category": "Meals",
       "defname": "DankPyon_MealSteakWithWine",
-      "price": -10
+      "price": 92
     },
     {
       "abr": "steelingotstack(1x1)",
