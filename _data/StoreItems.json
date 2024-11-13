@@ -3880,7 +3880,7 @@
       "abr": "desertave",
       "category": "Animals",
       "defname": "AA_DesertAve",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "desertaveegg(fert.)",
@@ -7180,7 +7180,7 @@
       "abr": "arcanetome:bard",
       "category": "Skill books",
       "defname": "BookOfBard",
-      "price": -10
+      "price": 5500
     },
     {
       "abr": "arcanetome:brightmage",
@@ -8380,7 +8380,7 @@
       "abr": "demonhide",
       "category": "Leathers",
       "defname": "TM_Demonhide",
-      "price": -10
+      "price": 27
     },
     {
       "abr": "demon'sfang",
@@ -12352,7 +12352,7 @@
       "abr": "sackcloth",
       "category": "Apparel",
       "defname": "DankPyon_Apparel_Sackcloth",
-      "price": -10
+      "price": 143
     },
     {
       "abr": "salt",
@@ -13582,7 +13582,7 @@
       "abr": "truedragonleather",
       "category": "Leathers",
       "defname": "True_Dragon_Leather",
-      "price": -10
+      "price": 71
     },
     {
       "abr": "truedragonleatherhide",
@@ -17189,7 +17189,25 @@
       "category": "Furniture",
       "defname": "Milira_UnstableReactor",
       "price": -10
+    },
+    {
+      "abr": "yuransacredcorolla",
+      "category": "Yuran hat",
+      "defname": "YR_AP_Flower_AddonD",
+      "price": 1333
+    },
+    {
+      "abr": "yuransacreddress",
+      "category": "Yuran Apparel",
+      "defname": "YR_AP_Addon_GoddessDress",
+      "price": 5167
+    },
+    {
+      "abr": "yuransacreddressbox",
+      "category": "Yuran Manufactured",
+      "defname": "YR_ClothBox_GoddessDress",
+      "price": 7000
     }
   ],
-  "total": 2865
+  "total": 2868
 }
