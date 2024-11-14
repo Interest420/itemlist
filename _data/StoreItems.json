@@ -28,7 +28,7 @@
       "abr": "psychitetea",
       "category": "Drugs",
       "defname": "PsychiteTea",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "smokeleafjoint",
@@ -364,7 +364,7 @@
       "abr": "healermechserum",
       "category": "Drugs",
       "defname": "MechSerumHealer",
-      "price": -10
+      "price": 2167
     },
     {
       "abr": "resurrectormechserum",
