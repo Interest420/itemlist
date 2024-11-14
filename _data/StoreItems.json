@@ -1126,7 +1126,7 @@
       "abr": "orbitalbombardmenttargeter",
       "category": "Utility",
       "defname": "OrbitalTargeterBombardment",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "orbitalpowerbeamtargeter",
@@ -2434,7 +2434,7 @@
       "abr": "hemogenpack",
       "category": "Foods",
       "defname": "HemogenPack",
-      "price": -10
+      "price": 8
     },
     {
       "abr": "henbanejoint",
@@ -6088,7 +6088,7 @@
       "abr": "yurantalismanoftheforest",
       "category": "Yuran Apparel",
       "defname": "YR_AP_Blunt",
-      "price": -10
+      "price": 270
     },
     {
       "abr": "yurantalismanofwater",
@@ -8140,7 +8140,7 @@
       "abr": "combatform:faceless",
       "category": "Skill books",
       "defname": "BookOfFaceless",
-      "price": -10
+      "price": 4292
     },
     {
       "abr": "combatform:gladiator",
@@ -8476,7 +8476,7 @@
       "abr": "disciplehood",
       "category": "Magic apparel",
       "defname": "TM_DiscipleHood",
-      "price": -10
+      "price": 567
     },
     {
       "abr": "disciplerobe",
@@ -9286,7 +9286,7 @@
       "abr": "garlic",
       "category": "Vegetarian",
       "defname": "DankPyon_RawGarlic",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "gemofarcaneinsight",
@@ -10078,7 +10078,7 @@
       "abr": "hunter'sstew",
       "category": "Meals",
       "defname": "DankPyon_MealHuntersStew",
-      "price": -10
+      "price": 37
     },
     {
       "abr": "huntingbow",
@@ -11752,7 +11752,7 @@
       "abr": "rawherbs",
       "category": "Foods",
       "defname": "DankPyon_RawHerb",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "rawmithril",
@@ -11770,7 +11770,7 @@
       "abr": "rawsausage",
       "category": "Meals",
       "defname": "DankPyon_Sausages",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "rawwood",
@@ -14416,7 +14416,7 @@
       "abr": "bloodofagod",
       "category": "Drugs",
       "defname": "FG_ForestGodBlood",
-      "price": -10
+      "price": 2167
     },
     {
       "abr": "bluegelbattery",
