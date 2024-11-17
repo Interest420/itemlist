@@ -33100,7 +33100,7 @@
     "KarmaType": null
   },
   "KaiYangChip": {
-    "CustomName": null,
+    "CustomName": "ky-01manchanitorbrainchip",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -33520,7 +33520,7 @@
     "KarmaType": null
   },
   "QBZoneooneXuanMing_Elite": {
-    "CustomName": null,
+    "CustomName": "qbz-101ae-xmem-rifle",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
@@ -33700,7 +33700,7 @@
     "KarmaType": null
   },
   "CMC_TaoTie_Persona": {
-    "CustomName": null,
+    "CustomName": "qbzl-823taotieiiparticlelance",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
@@ -33820,7 +33820,7 @@
     "KarmaType": null
   },
   "QLUX_Pulse_Projector_Persona": {
-    "CustomName": null,
+    "CustomName": "qlu-x-zhiipulsecannon",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
@@ -33880,7 +33880,7 @@
     "KarmaType": null
   },
   "CMC_EMPsword_sevenstars": {
-    "CustomName": null,
+    "CustomName": "anti-entropysword",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -33920,7 +33920,7 @@
     "KarmaType": null
   },
   "TangDaoPersona": {
-    "CustomName": null,
+    "CustomName": "personaceletechblade",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
