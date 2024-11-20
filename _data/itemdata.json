@@ -38540,7 +38540,7 @@
     "KarmaType": null
   },
   "Milira_PlasmaRifle": {
-    "CustomName": null,
+    "CustomName": "plasmarifle-m",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
