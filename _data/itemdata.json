@@ -27940,7 +27940,7 @@
     "KarmaType": null
   },
   "MG_BionicTail": {
-    "CustomName": null,
+    "CustomName": "bionictail-mg",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -35240,7 +35240,7 @@
     "KarmaType": null
   },
   "LTS_BionicTail": {
-    "CustomName": null,
+    "CustomName": "bionictail-lts",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
