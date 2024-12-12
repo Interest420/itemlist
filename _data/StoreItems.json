@@ -4696,7 +4696,7 @@
       "abr": "chatoyansniperrifle",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_ChRifle",
-      "price": 1783
+      "price": -10
     },
     {
       "abr": "chemfuelmyrmidon",
@@ -4774,7 +4774,7 @@
       "abr": "cribitepistol",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_CriPistol",
-      "price": 367
+      "price": -10
     },
     {
       "abr": "crystallinecaracal",
@@ -5242,7 +5242,7 @@
       "abr": "lastpunishmentincinerator",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_Punishment",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "legendaryweapon",
@@ -5266,7 +5266,7 @@
       "abr": "machairodus",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_FlakCaster",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "mammothworm",
@@ -5344,7 +5344,7 @@
       "abr": "minifoldpdw",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_MfoldPdw",
-      "price": 625
+      "price": -10
     },
     {
       "abr": "minisword",
@@ -5410,7 +5410,7 @@
       "abr": "n.p.crifle",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_NpcRifle",
-      "price": 1483
+      "price": -10
     },
     {
       "abr": "needlepost",
@@ -5530,7 +5530,7 @@
       "abr": "nyaronstalkbow",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_Stkbow",
-      "price": 2667
+      "price": -10
     },
     {
       "abr": "ocularjelly",
@@ -5842,7 +5842,7 @@
       "abr": "torbicarapidcaster",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_RapidCaster",
-      "price": 1658
+      "price": -10
     },
     {
       "abr": "unblinkingeye",
@@ -8266,7 +8266,7 @@
       "abr": "yuranbow",
       "category": "Ranged weapons",
       "defname": "YR_WP_Bow",
-      "price": 154
+      "price": -10
     },
     {
       "abr": "yuranbrewery",
@@ -8278,7 +8278,7 @@
       "abr": "yuranchargefirelock",
       "category": "Ranged weapons",
       "defname": "YR_WP_MonoGun",
-      "price": 1942
+      "price": -10
     },
     {
       "abr": "yurancheongpung",
@@ -8302,7 +8302,7 @@
       "abr": "yuranfirelock",
       "category": "Ranged weapons",
       "defname": "YR_WP_Gun",
-      "price": 467
+      "price": -10
     },
     {
       "abr": "yuranflowerdecoration",
@@ -8398,7 +8398,7 @@
       "abr": "yurankunai",
       "category": "Ranged weapons",
       "defname": "YR_WP_kunai",
-      "price": 244
+      "price": -10
     },
     {
       "abr": "yuranlotuslantern",
@@ -8506,7 +8506,7 @@
       "abr": "yuranspear",
       "category": "Ranged weapons",
       "defname": "YR_WP_Spear",
-      "price": 383
+      "price": -10
     },
     {
       "abr": "yuranstaff",
