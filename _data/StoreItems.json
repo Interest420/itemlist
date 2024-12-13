@@ -754,7 +754,7 @@
       "abr": "glitterworldmedicine",
       "category": "Medicine",
       "defname": "MedicineUltratech",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "component",
@@ -2410,7 +2410,7 @@
       "abr": "robe",
       "category": "Misc",
       "defname": "Apparel_Robe",
-      "price": 297
+      "price": -10
     },
     {
       "abr": "torturecrown",
@@ -3334,7 +3334,7 @@
       "abr": "mechlink",
       "category": "Mechtech",
       "defname": "Mechlink",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "mechlordhelmet",
@@ -10240,7 +10240,7 @@
       "abr": "makeshiftcruciblerifle",
       "category": "Ranged weapons",
       "defname": "Gun_MCrucibleRifle",
-      "price": 408
+      "price": -10
     },
     {
       "abr": "marksmangear",
