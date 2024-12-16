@@ -2734,7 +2734,7 @@
       "abr": "aloecream",
       "category": "Ointments",
       "defname": "AYAloeCream",
-      "price": -10
+      "price": 75
     },
     {
       "abr": "aloeleaves",
@@ -2974,25 +2974,25 @@
       "abr": "elixirofcalming",
       "category": "Elixirs",
       "defname": "AYElixirCalming",
-      "price": -10
+      "price": 100
     },
     {
       "abr": "elixirofinciting",
       "category": "Elixirs",
       "defname": "AYElixirInciting",
-      "price": -10
+      "price": 100
     },
     {
       "abr": "elixiroflucidity",
       "category": "Elixirs",
       "defname": "AYElixirLucidity",
-      "price": -10
+      "price": 100
     },
     {
       "abr": "elixirofsoothing",
       "category": "Elixirs",
       "defname": "AYElixirSoothing",
-      "price": -10
+      "price": 100
     },
     {
       "abr": "embryo",
@@ -3016,7 +3016,7 @@
       "abr": "flutonic",
       "category": "Tonics",
       "defname": "AYFluTonic",
-      "price": -10
+      "price": 75
     },
     {
       "abr": "foamturret",
@@ -3064,7 +3064,7 @@
       "abr": "gingertea",
       "category": "Herbal Teas",
       "defname": "AYGingerTea",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "ginkgoleaves",
@@ -3100,7 +3100,7 @@
       "abr": "ginsengtea",
       "category": "Herbal Teas",
       "defname": "AYGinsengTea",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "glucosoidpump",
@@ -3214,7 +3214,7 @@
       "abr": "kaletea",
       "category": "Herbal Teas",
       "defname": "AYKaleTea",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "kidhelmet",
@@ -3274,7 +3274,7 @@
       "abr": "lavenderbalm",
       "category": "Ointments",
       "defname": "AYLavenderBalm",
-      "price": -10
+      "price": 75
     },
     {
       "abr": "lavenderflowers",
@@ -3292,7 +3292,7 @@
       "abr": "lavendersoap",
       "category": "Ointments",
       "defname": "AYLavenderSoap",
-      "price": -10
+      "price": 75
     },
     {
       "abr": "limeplasterblocks",
@@ -3376,7 +3376,7 @@
       "abr": "nettletea",
       "category": "Herbal Teas",
       "defname": "AYNettleTea",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "ovum",
@@ -3448,7 +3448,7 @@
       "abr": "quininetea",
       "category": "Herbal Teas",
       "defname": "AYQuinineTea",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "remoterepairer",
@@ -3490,7 +3490,7 @@
       "abr": "scarcream",
       "category": "Ointments",
       "defname": "AYScarCream",
-      "price": -10
+      "price": 150
     },
     {
       "abr": "schooldesk",
@@ -3514,7 +3514,7 @@
       "abr": "smellingsalts",
       "category": "Salts",
       "defname": "AYSmellingSalts",
-      "price": -10
+      "price": 50
     },
     {
       "abr": "stjohnswortflowers",
@@ -3550,7 +3550,7 @@
       "abr": "stomachsalts",
       "category": "Salts",
       "defname": "AYStomachSalts",
-      "price": -10
+      "price": 50
     },
     {
       "abr": "subcoreencoder",
@@ -3622,7 +3622,7 @@
       "abr": "turmerictea",
       "category": "Herbal Teas",
       "defname": "AYTurmericTea",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "wasterat",
@@ -3646,7 +3646,7 @@
       "abr": "willowtonic",
       "category": "Tonics",
       "defname": "AYWillowTonic",
-      "price": -10
+      "price": 75
     },
     {
       "abr": "woodashes",
@@ -3670,7 +3670,7 @@
       "abr": "wormwoodtonic",
       "category": "Tonics",
       "defname": "AYWormwoodTonic",
-      "price": -10
+      "price": 75
     },
     {
       "abr": "xenogerm",
@@ -3688,7 +3688,7 @@
       "abr": "yarrowcream",
       "category": "Ointments",
       "defname": "AYYarrowCream",
-      "price": -10
+      "price": 75
     },
     {
       "abr": "yarrowmaterial",
@@ -8446,31 +8446,31 @@
       "abr": "yuranrabbitstatue(crafting)",
       "category": "Yuran rabbit statue",
       "defname": "YR_ManekiUsagi_Craft",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "yuranrabbitstatue(goodharvest)",
       "category": "Yuran rabbit statue",
       "defname": "YR_ManekiUsagi_Plant",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "yuranrabbitstatue(immunity)",
       "category": "Yuran rabbit statue",
       "defname": "YR_ManekiUsagi_Immunity",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "yuranrabbitstatue(recovery)",
       "category": "Yuran rabbit statue",
       "defname": "YR_ManekiUsagi_Heal",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "yuranrabbitstatue(stable)",
       "category": "Yuran rabbit statue",
       "defname": "YR_ManekiUsagi_Stability",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "yuransewingmachine",
@@ -8824,7 +8824,7 @@
       "abr": "novel",
       "category": "Books",
       "defname": "Novel",
-      "price": -10
+      "price": 267
     },
     {
       "abr": "plantmonster",
@@ -8866,7 +8866,7 @@
       "abr": "schematic",
       "category": "Books",
       "defname": "Schematic",
-      "price": -10
+      "price": 250
     },
     {
       "abr": "scrapcubesculpture",
@@ -8938,13 +8938,13 @@
       "abr": "textbook",
       "category": "Books",
       "defname": "TextBook",
-      "price": -10
+      "price": 267
     },
     {
       "abr": "tome",
       "category": "Books",
       "defname": "Tome",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "turretpack",

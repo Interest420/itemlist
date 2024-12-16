@@ -108,12 +108,6 @@
     "version": "1.1.3"
   },
   {
-    "author": "void",
-    "name": "Character Editor",
-    "steamId": "1874644848",
-    "version": "1.5.10.0"
-  },
-  {
     "author": "GoryMoon",
     "name": "CloseAll",
     "steamId": "2018479759",
@@ -324,6 +318,24 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki, xrushha, Taranchuk and Sarg Bjornson",
+    "name": "Vanilla Factions Expanded - Tribals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Wemd",
+    "name": "[WD] Expanded Floors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ferny",
+    "name": "Progression: Core",
+    "steamId": "3301868772",
+    "version": "0.0.0.0"
+  },
+  {
     "author": "iamrespawn",
     "name": "Prosthetic No Missing Body Parts (Continued)",
     "steamId": "2739055353",
@@ -466,6 +478,18 @@
     "name": "Smarter Construction",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.5.10.0"
+  },
+  {
+    "author": "nightz",
+    "name": "Sos2 Eva Patcher",
+    "steamId": "3253743384",
+    "version": "0.1.0.0+121d03b08a02a89e447d9387bb8e33d1a1271656"
   },
   {
     "author": "TheCafFiend",
@@ -612,12 +636,6 @@
     "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
   },
   {
-    "author": "Oskar Potocki, xrushha, Taranchuk and Sarg Bjornson",
-    "name": "Vanilla Factions Expanded - Tribals",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki, Trunken and XeoNovaDan",
     "name": "Vanilla Furniture Expanded - Security",
     "steamId": "1845154007",
@@ -688,12 +706,6 @@
     "name": "[SYR] Harvest Yield (Continued)",
     "steamId": "3253521389",
     "version": "1.5.1"
-  },
-  {
-    "author": "Wemd",
-    "name": "[WD] Expanded Floors",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Krkr",
