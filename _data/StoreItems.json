@@ -106,19 +106,19 @@
       "abr": "smallsculpture",
       "category": "Art",
       "defname": "SculptureSmall",
-      "price": -10
+      "price": 275
     },
     {
       "abr": "largesculpture",
       "category": "Art",
       "defname": "SculptureLarge",
-      "price": -10
+      "price": 517
     },
     {
       "abr": "grandsculpture",
       "category": "Art",
       "defname": "SculptureGrand",
-      "price": -10
+      "price": 1967
     },
     {
       "abr": "bed",
@@ -1564,7 +1564,7 @@
       "abr": "yorkshireterrier",
       "category": "Animals",
       "defname": "YorkshireTerrier",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "guineapig",
@@ -1576,13 +1576,13 @@
       "abr": "labradorretriever",
       "category": "Animals",
       "defname": "LabradorRetriever",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "husky",
       "category": "Animals",
       "defname": "Husky",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "monkey",
@@ -1624,13 +1624,13 @@
       "abr": "boomalope",
       "category": "Animals",
       "defname": "Boomalope",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "muffalo",
       "category": "Animals",
       "defname": "Muffalo",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "bison",
@@ -1726,7 +1726,7 @@
       "abr": "thrumbo",
       "category": "Animals",
       "defname": "Thrumbo",
-      "price": -10
+      "price": 6667
     },
     {
       "abr": "cobra",
@@ -1822,7 +1822,7 @@
       "abr": "boomrat",
       "category": "Animals",
       "defname": "Boomrat",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "raccoon",
@@ -2194,7 +2194,7 @@
       "abr": "eltexstaff",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_PsyfocusStaff",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "terrorsculpture",
@@ -3718,31 +3718,31 @@
       "abr": "archotechsculpture",
       "category": "Art",
       "defname": "VFE_ArchotechSculpture",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "carving",
       "category": "Art",
       "defname": "VFE_Carving",
-      "price": -10
+      "price": 342
     },
     {
       "abr": "decorativeplantpot",
       "category": "Art",
       "defname": "VFE_DecorativePlantPot",
-      "price": -10
+      "price": 143
     },
     {
       "abr": "grandrug",
       "category": "Art",
       "defname": "VFE_RugGrand",
-      "price": -10
+      "price": 883
     },
     {
       "abr": "grandstatue",
       "category": "Art",
       "defname": "VFE_StatueGrand",
-      "price": -10
+      "price": 1125
     },
     {
       "abr": "hologrambase",
@@ -3754,61 +3754,61 @@
       "abr": "largerug",
       "category": "Art",
       "defname": "VFE_RugLarge",
-      "price": -10
+      "price": 492
     },
     {
       "abr": "largestatue",
       "category": "Art",
       "defname": "VFE_StatueLarge",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "monument",
       "category": "Art",
       "defname": "VFE_Monument",
-      "price": -10
+      "price": 2100
     },
     {
       "abr": "obelisk",
       "category": "Art",
       "defname": "VFE_Obelisk",
-      "price": -10
+      "price": 775
     },
     {
       "abr": "pillar",
       "category": "Art",
       "defname": "VFE_Pillar",
-      "price": -10
+      "price": 450
     },
     {
       "abr": "plinth",
       "category": "Art",
       "defname": "VFE_Plinth",
-      "price": -10
+      "price": 442
     },
     {
       "abr": "pottery",
       "category": "Art",
       "defname": "VFE_Pottery",
-      "price": -10
+      "price": 143
     },
     {
       "abr": "relief",
       "category": "Art",
       "defname": "VFE_Relief",
-      "price": -10
+      "price": 1983
     },
     {
       "abr": "smallrug",
       "category": "Art",
       "defname": "VFE_RugSmall",
-      "price": -10
+      "price": 184
     },
     {
       "abr": "smallstatue",
       "category": "Art",
       "defname": "VFE_StatueSmall",
-      "price": -10
+      "price": 275
     },
     {
       "abr": "ballista",
@@ -4090,7 +4090,7 @@
       "abr": "ratkinmagicwand",
       "category": "Melee weapons",
       "defname": "RK_MagicWand",
-      "price": 104
+      "price": -10
     },
     {
       "abr": "ratkinmaskhelmet",
@@ -4438,7 +4438,7 @@
       "abr": "animusvox",
       "category": "Animals",
       "defname": "AA_AnimusVox",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "arcticlion",
@@ -5056,7 +5056,7 @@
       "abr": "genix",
       "category": "Animals",
       "defname": "AA_Genix",
-      "price": -10
+      "price": 625
     },
     {
       "abr": "giantcrownedsilkie",
@@ -8032,7 +8032,7 @@
       "abr": "racoonshikigami",
       "category": "Animals",
       "defname": "YR_Sikigami_Racoon",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "ratkincannonshell",
@@ -8116,7 +8116,7 @@
       "abr": "supercooledcream",
       "category": "Drugs",
       "defname": "SupercooledCream",
-      "price": 33
+      "price": -10
     },
     {
       "abr": "thrumbogirl",
@@ -9376,7 +9376,7 @@
       "abr": "auxiliarypistol",
       "category": "Federation weapons",
       "defname": "AD_AuxPistol",
-      "price": 298
+      "price": -10
     },
     {
       "abr": "baphometxenogerm",
@@ -10870,13 +10870,13 @@
       "abr": "nuko",
       "category": "Animals",
       "defname": "Maidnukos",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "nuko",
       "category": "Animals",
       "defname": "SeniorMaidnukos",
-      "price": -10
+      "price": 2167
     },
     {
       "abr": "nukohair",
@@ -10942,7 +10942,7 @@
       "abr": "plasmagrenade",
       "category": "Grenades",
       "defname": "AD_FedPlasmaGrenades",
-      "price": 1500
+      "price": -10
     },
     {
       "abr": "plasmapistol",
@@ -10960,7 +10960,7 @@
       "abr": "plasmarifle",
       "category": "Federation weapons",
       "defname": "AD_Sentinel",
-      "price": 4817
+      "price": -10
     },
     {
       "abr": "plasmashockgrenadebelt",
