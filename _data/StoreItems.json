@@ -940,7 +940,7 @@
       "abr": "devilstrand",
       "category": "Textiles",
       "defname": "DevilstrandCloth",
-      "price": 25
+      "price": 9
     },
     {
       "abr": "hyperweave",
@@ -1816,7 +1816,7 @@
       "abr": "rat",
       "category": "Animals",
       "defname": "Rat",
-      "price": -10
+      "price": 58
     },
     {
       "abr": "boomrat",
