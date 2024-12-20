@@ -7657,24 +7657,6 @@
       "price": -10
     },
     {
-      "abr": "blacksnakestaff(bondage)",
-      "category": "Ranged weapons",
-      "defname": "YR_WP_StaffB_BlackSnake",
-      "price": -10
-    },
-    {
-      "abr": "blacksnakestaff(cooldown)",
-      "category": "Ranged weapons",
-      "defname": "YR_WP_Staff_Cooldown_BlackSnake",
-      "price": -10
-    },
-    {
-      "abr": "blacksnakestaff(disturbing)",
-      "category": "Ranged weapons",
-      "defname": "YR_WP_StaffC_BlackSnake",
-      "price": -10
-    },
-    {
       "abr": "bonfire",
       "category": "Misc",
       "defname": "VME_Bonfire",
@@ -8512,24 +8494,6 @@
       "abr": "yuranstaff",
       "category": "Ranged weapons",
       "defname": "YR_WP_Staff",
-      "price": -10
-    },
-    {
-      "abr": "yuranstaff(bondage)",
-      "category": "Ranged weapons",
-      "defname": "YR_WP_StaffB",
-      "price": -10
-    },
-    {
-      "abr": "yuranstaff(cooldown)",
-      "category": "Ranged weapons",
-      "defname": "YR_WP_Staff_Cooldown",
-      "price": -10
-    },
-    {
-      "abr": "yuranstaff(disturbing)",
-      "category": "Ranged weapons",
-      "defname": "YR_WP_StaffC",
       "price": -10
     },
     {
@@ -11728,55 +11692,55 @@
       "abr": "caralternator",
       "category": "Car parts",
       "defname": "VVE_CarAlternator",
-      "price": -10
+      "price": 158
     },
     {
       "abr": "carbattery",
       "category": "Car parts",
       "defname": "VVE_CarBattery",
-      "price": -10
+      "price": 200
     },
     {
       "abr": "carexhaust",
       "category": "Car parts",
       "defname": "VVE_CarExhaust",
-      "price": -10
+      "price": 133
     },
     {
       "abr": "carfueltank",
       "category": "Car parts",
       "defname": "VVE_CarFuelTank",
-      "price": -10
+      "price": 158
     },
     {
       "abr": "carradiator",
       "category": "Car parts",
       "defname": "VVE_CarRadiator",
-      "price": -10
+      "price": 150
     },
     {
       "abr": "carsuspension",
       "category": "Car parts",
       "defname": "VVE_CarSuspension",
-      "price": -10
+      "price": 150
     },
     {
       "abr": "cartransmission",
       "category": "Car parts",
       "defname": "VVE_CarTransmission",
-      "price": -10
+      "price": 283
     },
     {
       "abr": "carwheel",
       "category": "Car parts",
       "defname": "VVE_CarWheel",
-      "price": -10
+      "price": 117
     },
     {
       "abr": "carwiring",
       "category": "Car parts",
       "defname": "VVE_CarWiring",
-      "price": -10
+      "price": 208
     },
     {
       "abr": "chunk",
@@ -12125,7 +12089,25 @@
       "category": "Items",
       "defname": "Xenogerm_YuranXenotypeBlackSnake",
       "price": -10
+    },
+    {
+      "abr": "antynylanderiaadditionalarmor",
+      "category": "Anty gear",
+      "defname": "AT_AP_AdditionalPower_E",
+      "price": 2725
+    },
+    {
+      "abr": "antynylanderiaarmor",
+      "category": "Anty gear",
+      "defname": "AT_AP_Power_E",
+      "price": 4217
+    },
+    {
+      "abr": "antynylanderiahelmet",
+      "category": "Anty Headgear",
+      "defname": "AT_AP_Power_Head_E",
+      "price": 2975
     }
   ],
-  "total": 2021
+  "total": 2018
 }
