@@ -2644,73 +2644,73 @@
       "abr": "skilltrainer(shooting)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Shooting",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(melee)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Melee",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(construction)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Construction",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(mining)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Mining",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(cooking)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Cooking",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(plants)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Plants",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(animals)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Animals",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(crafting)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Crafting",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(artistic)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Artistic",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(medical)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Medicine",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(social)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Social",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(intellectual)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Intellectual",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "absinthe",
@@ -4696,7 +4696,7 @@
       "abr": "chatoyansniperrifle",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_ChRifle",
-      "price": -10
+      "price": 1783
     },
     {
       "abr": "chemfuelmyrmidon",
@@ -4774,7 +4774,7 @@
       "abr": "cribitepistol",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_CriPistol",
-      "price": -10
+      "price": 367
     },
     {
       "abr": "crystallinecaracal",
@@ -4852,7 +4852,7 @@
       "abr": "dunealisk",
       "category": "Animals",
       "defname": "AA_Dunealisk",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "dunealiskclutchmother",
@@ -5242,7 +5242,7 @@
       "abr": "lastpunishmentincinerator",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_Punishment",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "legendaryweapon",
@@ -5266,7 +5266,7 @@
       "abr": "machairodus",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_FlakCaster",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "mammothworm",
@@ -5344,7 +5344,7 @@
       "abr": "minifoldpdw",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_MfoldPdw",
-      "price": -10
+      "price": 600
     },
     {
       "abr": "minisword",
@@ -5410,7 +5410,7 @@
       "abr": "n.p.crifle",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_NpcRifle",
-      "price": -10
+      "price": 1408
     },
     {
       "abr": "needlepost",
@@ -5530,7 +5530,7 @@
       "abr": "nyaronstalkbow",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_Stkbow",
-      "price": -10
+      "price": 1500
     },
     {
       "abr": "ocularjelly",
@@ -5842,7 +5842,7 @@
       "abr": "torbicarapidcaster",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_RapidCaster",
-      "price": -10
+      "price": 1658
     },
     {
       "abr": "unblinkingeye",
@@ -9304,7 +9304,7 @@
       "abr": "antyxenogerm",
       "category": "Items",
       "defname": "Xenogerm_AntyXenotype",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "antyx-wargiftbox",
@@ -9346,7 +9346,7 @@
       "abr": "baphometxenogerm",
       "category": "Items",
       "defname": "Xenogerm_MG_Baphomet",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "barrel",
@@ -9430,13 +9430,13 @@
       "abr": "catgirlxenogerm",
       "category": "Items",
       "defname": "Xenogerm_MG_Catgirl",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "centaurxenogerm",
       "category": "Items",
       "defname": "Xenogerm_MG_Centaur",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "chest",
@@ -9754,7 +9754,7 @@
       "abr": "cowgirlxenogerm",
       "category": "Items",
       "defname": "Xenogerm_MG_Cowgirl",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "cradol'sshadow",
@@ -9838,7 +9838,7 @@
       "abr": "dirtmolexenogerm",
       "category": "Items",
       "defname": "Xenogerm_Dirtmole",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "dorylusxenogerm",
@@ -9850,7 +9850,7 @@
       "abr": "dragonxenogerm",
       "category": "Items",
       "defname": "Xenogerm_MG_Dragon",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "dreadheart",
@@ -9934,13 +9934,13 @@
       "abr": "forestfairyxenogerm",
       "category": "Items",
       "defname": "Xenogerm_MG_ForestFairy",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "foxgirlxenogerm",
       "category": "Items",
       "defname": "Xenogerm_MG_Foxgirl",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "fridge",
@@ -9958,7 +9958,7 @@
       "abr": "geniexenogerm",
       "category": "Items",
       "defname": "Xenogerm_Genie",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "ghoulbioferriteextractor",
@@ -10012,7 +10012,7 @@
       "abr": "harpyxenogerm",
       "category": "Items",
       "defname": "Xenogerm_MG_Harpy",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "haybale",
@@ -10048,7 +10048,7 @@
       "abr": "highmatexenogerm",
       "category": "Items",
       "defname": "Xenogerm_Highmate",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "hiveguardcocoon",
@@ -10060,7 +10060,7 @@
       "abr": "hussarxenogerm",
       "category": "Items",
       "defname": "Xenogerm_Hussar",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "hyper-adrenalinegland",
@@ -10072,13 +10072,13 @@
       "abr": "icefairyxenogerm",
       "category": "Items",
       "defname": "Xenogerm_MG_IceFairy",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "impidxenogerm",
       "category": "Items",
       "defname": "Xenogerm_Impid",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "industrialskip",
@@ -10804,7 +10804,7 @@
       "abr": "neanderthalxenogerm",
       "category": "Items",
       "defname": "Xenogerm_Neanderthal",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "nerveshredderclaw",
@@ -10882,7 +10882,7 @@
       "abr": "pigskinxenogerm",
       "category": "Items",
       "defname": "Xenogerm_Pigskin",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "plasmaburstmg",
@@ -11164,7 +11164,7 @@
       "abr": "sanguophagexenogerm",
       "category": "Items",
       "defname": "Xenogerm_Sanguophage",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "serketistslab(broad)",
@@ -11248,7 +11248,7 @@
       "abr": "slimexenogerm",
       "category": "Items",
       "defname": "Xenogerm_MG_Slime",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "smallfloatunitpack",
@@ -11380,7 +11380,7 @@
       "abr": "thrumbogirlxenogerm",
       "category": "Items",
       "defname": "Xenogerm_MG_Thrumbogirl",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "transitionrefleum",
@@ -11464,7 +11464,7 @@
       "abr": "wasterxenogerm",
       "category": "Items",
       "defname": "Xenogerm_Waster",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "weaponrack",
@@ -11482,7 +11482,7 @@
       "abr": "wolfgirlxenogerm",
       "category": "Items",
       "defname": "Xenogerm_MG_Wolfgirl",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "woodcrate",
@@ -11506,7 +11506,7 @@
       "abr": "yttakinxenogerm",
       "category": "Items",
       "defname": "Xenogerm_Yttakin",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "yuransacredcorolla",
@@ -11530,7 +11530,7 @@
       "abr": "yuranxenogerm",
       "category": "Items",
       "defname": "Xenogerm_YuranXenotype",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "advancedholodeck",
@@ -11764,7 +11764,7 @@
       "abr": "engineblock",
       "category": "Car parts",
       "defname": "VVE_EngineBlock",
-      "price": -10
+      "price": 542
     },
     {
       "abr": "entanglementmanifold",
@@ -11800,7 +11800,7 @@
       "abr": "gremlinxenogerm",
       "category": "Items",
       "defname": "Xenogerm_Gremlin",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "heavyevahelmet",
