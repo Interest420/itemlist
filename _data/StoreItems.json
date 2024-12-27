@@ -7300,7 +7300,7 @@
       "abr": "torchsword",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_TorchSword",
-      "price": -10
+      "price": 1242
     },
     {
       "abr": "vectorshot",
