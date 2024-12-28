@@ -2140,19 +2140,19 @@
       "abr": "personamonosword",
       "category": "Persona weapons",
       "defname": "MeleeWeapon_MonoSwordBladelink",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "personazeushammer",
       "category": "Persona weapons",
       "defname": "MeleeWeapon_ZeusHammerBladelink",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "personaplasmasword",
       "category": "Persona weapons",
       "defname": "MeleeWeapon_PlasmaSwordBladelink",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "axe",
@@ -12107,7 +12107,13 @@
       "category": "Anty Headgear",
       "defname": "AT_AP_Power_Head_E",
       "price": 2975
+    },
+    {
+      "abr": "miliracivilianterminalheadset",
+      "category": "Milira Overhead",
+      "defname": "Milira_MilianHomeTerminal",
+      "price": 367
     }
   ],
-  "total": 2018
+  "total": 2019
 }
