@@ -754,7 +754,7 @@
       "abr": "glitterworldmedicine",
       "category": "Medicine",
       "defname": "MedicineUltratech",
-      "price": -10
+      "price": 83
     },
     {
       "abr": "component",
@@ -5920,19 +5920,19 @@
       "abr": "archotecharm",
       "category": "Archotech",
       "defname": "ArchotechArm",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "archotecheye",
       "category": "Archotech",
       "defname": "ArchotechEye",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "archotechleg",
       "category": "Archotech",
       "defname": "ArchotechLeg",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "archotechshieldgenerator",
@@ -6310,19 +6310,19 @@
       "abr": "psychicharmonizer",
       "category": "Archotech",
       "defname": "PsychicHarmonizer",
-      "price": -10
+      "price": 1333
     },
     {
       "abr": "psychicreader",
       "category": "Archotech",
       "defname": "PsychicReader",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psychicsensitizer",
       "category": "Archotech",
       "defname": "PsychicSensitizer",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "pumpkins",
@@ -9328,13 +9328,13 @@
       "abr": "archotechvoicebox",
       "category": "Archotech",
       "defname": "ArchotechVoicebox",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "archotechwomb",
       "category": "Archotech",
       "defname": "Archowomb",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "auxiliarypistol",
@@ -10978,13 +10978,13 @@
       "abr": "psychiclevitator",
       "category": "Archotech",
       "defname": "PsychicLevitator",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psychicnullifier",
       "category": "Archotech",
       "defname": "PsychicNullifier",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psychicreaper",
@@ -11560,7 +11560,7 @@
       "abr": "architerepairgel",
       "category": "Drugs",
       "defname": "ArchotechRepairGel",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "archolifepod",
@@ -11584,43 +11584,43 @@
       "abr": "archotechear",
       "category": "Archotech",
       "defname": "SoSArchotechEar",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "archotechheart",
       "category": "Archotech",
       "defname": "SoSArchotechHeart",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "archotechjaw",
       "category": "Archotech",
       "defname": "SoSArchotechJaw",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "archotechkidney",
       "category": "Archotech",
       "defname": "SoSArchotechKidney",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "archotechliver",
       "category": "Archotech",
       "defname": "SoSArchotechLiver",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "archotechlung",
       "category": "Archotech",
       "defname": "SoSArchotechLung",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "archotechnose",
       "category": "Archotech",
       "defname": "SoSArchotechNose",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "archotechpillaralpha",
@@ -11650,19 +11650,19 @@
       "abr": "archotechskin",
       "category": "Archotech",
       "defname": "SoSArchotechSkin",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "archotechspine",
       "category": "Archotech",
       "defname": "SoSArchotechSpine",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "archotechstomach",
       "category": "Archotech",
       "defname": "SoSArchotechStomach",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "archotechuplink",
@@ -11770,7 +11770,7 @@
       "abr": "entanglementmanifold",
       "category": "Items",
       "defname": "SoSEntanglementManifold",
-      "price": -10
+      "price": 6667
     },
     {
       "abr": "evahelmet",
@@ -11788,7 +11788,7 @@
       "abr": "exoticparticles",
       "category": "Manufactured",
       "defname": "ArchotechExoticParticles",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "garagecabinet",
@@ -11872,13 +11872,13 @@
       "abr": "psychicmanipulator",
       "category": "Archotech",
       "defname": "SoSPsychicManipulator",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "psychicpredictor",
       "category": "Archotech",
       "defname": "SoSPsychicPredictor",
-      "price": -10
+      "price": 2333
     },
     {
       "abr": "recyclotron",
