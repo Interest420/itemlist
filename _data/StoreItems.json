@@ -898,7 +898,7 @@
       "abr": "steel",
       "category": "Raw resources",
       "defname": "Steel",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "plasteel",
@@ -8830,7 +8830,7 @@
       "abr": "schematic",
       "category": "Books",
       "defname": "Schematic",
-      "price": -10
+      "price": 250
     },
     {
       "abr": "scrapcubesculpture",
@@ -8902,7 +8902,7 @@
       "abr": "textbook",
       "category": "Books",
       "defname": "TextBook",
-      "price": -10
+      "price": 267
     },
     {
       "abr": "tome",
