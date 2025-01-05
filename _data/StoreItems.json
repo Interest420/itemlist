@@ -28,7 +28,7 @@
       "abr": "luciferium",
       "category": "Drugs",
       "defname": "Luciferium",
-      "price": -10
+      "price": 117
     },
     {
       "abr": "penoxycyline",
@@ -70,7 +70,7 @@
       "abr": "psylinkneuroformer",
       "category": "Archotech",
       "defname": "PsychicAmplifier",
-      "price": -10
+      "price": 4333
     },
     {
       "abr": "heart",
@@ -148,7 +148,7 @@
       "abr": "bedroll",
       "category": "Furniture",
       "defname": "Bedroll",
-      "price": -10
+      "price": 137
     },
     {
       "abr": "doublebedroll",
@@ -754,7 +754,7 @@
       "abr": "glitterworldmedicine",
       "category": "Medicine",
       "defname": "MedicineUltratech",
-      "price": -10
+      "price": 83
     },
     {
       "abr": "component",
@@ -886,7 +886,7 @@
       "abr": "silver",
       "category": "Raw resources",
       "defname": "Silver",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "gold",
@@ -904,7 +904,7 @@
       "abr": "plasteel",
       "category": "Raw resources",
       "defname": "Plasteel",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "wood",
@@ -1186,7 +1186,7 @@
       "abr": "psychicshocklance",
       "category": "Utility",
       "defname": "Apparel_PsychicShockLance",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "psychicinsanitylance",
@@ -1198,7 +1198,7 @@
       "abr": "tribalwear",
       "category": "Misc",
       "defname": "Apparel_TribalA",
-      "price": -10
+      "price": 211
     },
     {
       "abr": "parka",
@@ -5968,7 +5968,7 @@
       "abr": "bearberries",
       "category": "Raw fruits",
       "defname": "VCE_Bearberry",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "beets",
@@ -6316,7 +6316,7 @@
       "abr": "psychicreader",
       "category": "Archotech",
       "defname": "PsychicReader",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psychicsensitizer",
@@ -7084,7 +7084,7 @@
       "abr": "psytrainer(manhunterpulse)",
       "category": "Psytrainers",
       "defname": "Psytrainer_ManhunterPulse",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psytrainer(masschaosskip)",
@@ -8284,7 +8284,7 @@
       "abr": "yuranfirelock",
       "category": "Ranged weapons",
       "defname": "YR_WP_Gun",
-      "price": -10
+      "price": 467
     },
     {
       "abr": "yuranflowerdecoration",
