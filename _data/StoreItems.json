@@ -112,7 +112,7 @@
       "abr": "largesculpture",
       "category": "Art",
       "defname": "SculptureLarge",
-      "price": -10
+      "price": 517
     },
     {
       "abr": "grandsculpture",
@@ -124,13 +124,13 @@
       "abr": "bed",
       "category": "Furniture",
       "defname": "Bed",
-      "price": -10
+      "price": 155
     },
     {
       "abr": "doublebed",
       "category": "Furniture",
       "defname": "DoubleBed",
-      "price": -10
+      "price": 292
     },
     {
       "abr": "royalbed",
@@ -922,7 +922,7 @@
       "abr": "jade",
       "category": "Raw resources",
       "defname": "Jade",
-      "price": -10
+      "price": 8
     },
     {
       "abr": "cloth",
@@ -1090,7 +1090,7 @@
       "abr": "thrumbofur",
       "category": "Leathers",
       "defname": "Leather_Thrumbo",
-      "price": -10
+      "price": 23
     },
     {
       "abr": "patchleather",
@@ -1276,7 +1276,7 @@
       "abr": "cape",
       "category": "Noble apparel",
       "defname": "Apparel_Cape",
-      "price": -10
+      "price": 367
     },
     {
       "abr": "sandstoneblocks",
@@ -10840,7 +10840,7 @@
       "abr": "nuko",
       "category": "Animals",
       "defname": "SeniorMaidnukos",
-      "price": -10
+      "price": 2167
     },
     {
       "abr": "nukohair",
