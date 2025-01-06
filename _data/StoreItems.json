@@ -598,7 +598,7 @@
       "abr": "finemeal",
       "category": "Meals",
       "defname": "MealFine",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "vegetarianfinemeal",
@@ -1822,7 +1822,7 @@
       "abr": "boomrat",
       "category": "Animals",
       "defname": "Boomrat",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "raccoon",
@@ -5932,7 +5932,7 @@
       "abr": "archotechleg",
       "category": "Archotech",
       "defname": "ArchotechLeg",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "archotechshieldgenerator",
