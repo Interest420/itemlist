@@ -1981,7 +1981,7 @@
   },
   "MealSurvivalPack": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -2041,7 +2041,7 @@
   },
   "MealFine": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,

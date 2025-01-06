@@ -136,7 +136,7 @@
       "abr": "royalbed",
       "category": "Furniture",
       "defname": "RoyalBed",
-      "price": -10
+      "price": 1467
     },
     {
       "abr": "hospitalbed",
@@ -580,7 +580,7 @@
       "abr": "packagedsurvivalmeal",
       "category": "Meals",
       "defname": "MealSurvivalPack",
-      "price": -10
+      "price": 40
     },
     {
       "abr": "nutrientpastemeal",
@@ -892,7 +892,7 @@
       "abr": "gold",
       "category": "Raw resources",
       "defname": "Gold",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "steel",
@@ -1990,7 +1990,7 @@
       "abr": "eltexshirt",
       "category": "Misc",
       "defname": "Apparel_PsyfocusShirt",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "eltexvest",
@@ -7186,7 +7186,7 @@
       "abr": "psytrainer(wordoftrust)",
       "category": "Psytrainers",
       "defname": "Psytrainer_WordOfTrust",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "reflactorcarapace",
