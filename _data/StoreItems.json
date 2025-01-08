@@ -1144,7 +1144,7 @@
       "abr": "simplehelmet",
       "category": "Headgear",
       "defname": "Apparel_SimpleHelmet",
-      "price": -10
+      "price": 153
     },
     {
       "abr": "flakhelmet",
@@ -1318,7 +1318,7 @@
       "abr": "mace",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Mace",
-      "price": -10
+      "price": 203
     },
     {
       "abr": "gladius",
@@ -2176,7 +2176,7 @@
       "abr": "zeushammer",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Zeushammer",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "plasmasword",
@@ -3322,7 +3322,7 @@
       "abr": "mechanoidtransponder",
       "category": "Misc",
       "defname": "MechanoidTransponder",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "mechcommanderhelmet",
@@ -5842,7 +5842,7 @@
       "abr": "torbicarapidcaster",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_RapidCaster",
-      "price": -10
+      "price": 1658
     },
     {
       "abr": "unblinkingeye",
