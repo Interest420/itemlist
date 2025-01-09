@@ -928,7 +928,7 @@
       "abr": "cloth",
       "category": "Textiles",
       "defname": "Cloth",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "synthread",
@@ -970,7 +970,7 @@
       "abr": "muffalowool",
       "category": "Wools",
       "defname": "WoolMuffalo",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "bisonwool",
@@ -1060,7 +1060,7 @@
       "abr": "foxfur",
       "category": "Leathers",
       "defname": "Leather_Fox",
-      "price": -10
+      "price": 6
     },
     {
       "abr": "lizardskin",
@@ -2170,7 +2170,7 @@
       "abr": "monosword",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_MonoSword",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "zeushammer",
@@ -2974,7 +2974,7 @@
       "abr": "elixirofcalming",
       "category": "Elixirs",
       "defname": "AYElixirCalming",
-      "price": -10
+      "price": 38
     },
     {
       "abr": "elixirofinciting",
@@ -3334,7 +3334,7 @@
       "abr": "mechlink",
       "category": "Mechtech",
       "defname": "Mechlink",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "mechlordhelmet",
@@ -4696,7 +4696,7 @@
       "abr": "chatoyansniperrifle",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_ChRifle",
-      "price": -10
+      "price": 1783
     },
     {
       "abr": "chemfuelmyrmidon",
@@ -7936,7 +7936,7 @@
       "abr": "hanasake",
       "category": "Drugs",
       "defname": "YR_Hanasake",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "harpy",
@@ -7996,7 +7996,7 @@
       "abr": "plasteelhorn",
       "category": "Prosthetic",
       "defname": "MG_PlasteelHorn",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "proofofcontract(raccoonshikigami)",
@@ -9634,7 +9634,7 @@
       "abr": "classpermit:knight",
       "category": "Items",
       "defname": "Milian_NamePlate_Knight",
-      "price": -10
+      "price": 200
     },
     {
       "abr": "classpermit:pawn",
@@ -10192,7 +10192,7 @@
       "abr": "lustroussteel",
       "category": "Raw resources",
       "defname": "Milira_SplendidSteel",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "magneticrailrifle",
@@ -10762,13 +10762,13 @@
       "abr": "miliravalkyriearmor",
       "category": "Milira OnSkin",
       "defname": "Milira_ValkyrArmor",
-      "price": -10
+      "price": 11808
     },
     {
       "abr": "miliravalkyriehelmet",
       "category": "Milira Overhead",
       "defname": "Milira_ValkyrHelmet",
-      "price": -10
+      "price": 2725
     },
     {
       "abr": "milira'sgreatsword",
@@ -10780,7 +10780,7 @@
       "abr": "milira'slance",
       "category": "Melee weapons",
       "defname": "Milira_Lance",
-      "price": -10
+      "price": 6667
     },
     {
       "abr": "milira'ssickle",
@@ -10798,7 +10798,7 @@
       "abr": "milira'swarhammer",
       "category": "Melee weapons",
       "defname": "Milira_Hammer",
-      "price": -10
+      "price": 6667
     },
     {
       "abr": "neanderthalxenogerm",
@@ -10852,7 +10852,7 @@
       "abr": "nukoidbell",
       "category": "Utility",
       "defname": "Nukoidbell",
-      "price": -10
+      "price": 750
     },
     {
       "abr": "nukomilk",
@@ -11260,7 +11260,7 @@
       "abr": "solarcrystal",
       "category": "Manufactured",
       "defname": "Milira_SolarCrystal",
-      "price": -10
+      "price": 42
     },
     {
       "abr": "solarfuel",
@@ -11278,7 +11278,7 @@
       "abr": "solar-forgedsteel",
       "category": "Raw resources",
       "defname": "Milira_SunPlateSteel",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "solenopsisxenogerm",
