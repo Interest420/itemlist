@@ -8,7 +8,6 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 4.3"
-gem "type-on-strap", "~> 2.4"
 gem "jekyll-remote-theme"
 gem "jekyll-feed"
 gem "jekyll-paginate"
