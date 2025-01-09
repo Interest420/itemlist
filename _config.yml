@@ -1,5 +1,5 @@
 # Metadata
-title: "SirRandoo's Purchase List"
+title: "Interest's Purchase List"
 favicon: assets/img/favicon.png
 description: A custom version of Toolkit's item list to support all the latest features of Utils.
 
@@ -23,7 +23,7 @@ store:
 #   limit       → Whether or not the list will display when a trait can bypass the trait limit.
 #   description → Whether or not the list will display the trait's description.
   traits:
-    conflicts: true
+    conflicts: false
     stats: true
     karma: true
     limit: true
@@ -40,12 +40,12 @@ store:
     karma: true
     quantity: true
     mod: true
-    usage: true
+    usage: false
   events:
     usage: true
-    mod: true
+    mod: false
   animals:
-    usage: true
+    usage: false
     mod: true
     weight: true
     quantity: true
@@ -59,7 +59,7 @@ commands:
   # Whether or not the command list will display the command's uage.
   usage: true
   # Whether or not the command list will display the mod that added it.
-  mod: true
+  mod: false
 
 mods:
   # Whether or not the mod list will display the mod's version.
@@ -68,7 +68,13 @@ mods:
   author: true
 
 # Build settings
-theme: type-on-strap
+remote_theme: Interest420/Type-on-Strap
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
 markdown: kramdown
 sass:
   style: compressed
