@@ -1102,7 +1102,7 @@
       "abr": "shieldbelt",
       "category": "Utility",
       "defname": "Apparel_ShieldBelt",
-      "price": -10
+      "price": 650
     },
     {
       "abr": "cowboyhat",
@@ -1906,7 +1906,7 @@
       "abr": "unstablepowercell",
       "category": "Special",
       "defname": "UnstablePowerCell",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "mechnode",
@@ -3502,7 +3502,7 @@
       "abr": "signalchip",
       "category": "Manufactured",
       "defname": "SignalChip",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "smallshelf",
@@ -6166,7 +6166,7 @@
       "abr": "healingenhancer",
       "category": "Bionic",
       "defname": "HealingEnhancer",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "immunoenhancer",
@@ -7024,7 +7024,7 @@
       "abr": "psytrainer(berserkpulse)",
       "category": "Psytrainers",
       "defname": "Psytrainer_BerserkPulse",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psytrainer(berserk)",
@@ -7078,7 +7078,7 @@
       "abr": "psytrainer(invisibility)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Invisibility",
-      "price": -10
+      "price": 1417
     },
     {
       "abr": "psytrainer(manhunterpulse)",
@@ -7120,7 +7120,7 @@
       "abr": "psytrainer(skipshield)",
       "category": "Psytrainers",
       "defname": "Psytrainer_BulletShield",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psytrainer(smokepop)",
@@ -9790,7 +9790,7 @@
       "abr": "crucibleprecisionrifle",
       "category": "Federation weapons",
       "defname": "AD_CruciblePresicionRifle",
-      "price": -10
+      "price": 2133
     },
     {
       "abr": "cruciblerifle",
@@ -9874,7 +9874,7 @@
       "abr": "eltexadornments",
       "category": "Bionic",
       "defname": "EltexAdornments",
-      "price": -10
+      "price": 1808
     },
     {
       "abr": "energycrucible",
