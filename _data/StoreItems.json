@@ -760,7 +760,7 @@
       "abr": "component",
       "category": "Manufactured",
       "defname": "ComponentIndustrial",
-      "price": -10
+      "price": 53
     },
     {
       "abr": "advancedcomponent",
@@ -940,7 +940,7 @@
       "abr": "devilstrand",
       "category": "Textiles",
       "defname": "DevilstrandCloth",
-      "price": -10
+      "price": 9
     },
     {
       "abr": "hyperweave",
@@ -1150,7 +1150,7 @@
       "abr": "flakhelmet",
       "category": "Headgear",
       "defname": "Apparel_AdvancedHelmet",
-      "price": -10
+      "price": 442
     },
     {
       "abr": "marinehelmet",
@@ -1210,7 +1210,7 @@
       "abr": "pants",
       "category": "Misc",
       "defname": "Apparel_Pants",
-      "price": -10
+      "price": 143
     },
     {
       "abr": "t-shirt",
@@ -1222,7 +1222,7 @@
       "abr": "button-downshirt",
       "category": "Misc",
       "defname": "Apparel_CollarShirt",
-      "price": -10
+      "price": 166
     },
     {
       "abr": "duster",
@@ -2368,7 +2368,7 @@
       "abr": "slavecollar",
       "category": "Headgear",
       "defname": "Apparel_Collar",
-      "price": -10
+      "price": 94
     },
     {
       "abr": "authoritycap",
@@ -7690,7 +7690,7 @@
       "abr": "cherry",
       "category": "Vegetarian",
       "defname": "YR_yedoensisBerries",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "cowgirl",
@@ -8044,7 +8044,7 @@
       "abr": "redwood",
       "category": "Raw resources",
       "defname": "YR_Red_wood",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "shintaoslab(broad)",
@@ -8572,7 +8572,7 @@
       "abr": "bioferrite",
       "category": "Raw resources",
       "defname": "Bioferrite",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "bioferriteharvester",
