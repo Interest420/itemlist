@@ -5926,7 +5926,7 @@
       "abr": "archotecheye",
       "category": "Archotech",
       "defname": "ArchotechEye",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "archotechleg",
@@ -7642,7 +7642,7 @@
       "abr": "bigcherry",
       "category": "Yuran Manufactured",
       "defname": "YR_yedoensisBerries_Big",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "bionictail",
@@ -9376,7 +9376,7 @@
       "abr": "bionicfaceplate",
       "category": "Bionic",
       "defname": "LTS_FaceplateArachnid",
-      "price": -10
+      "price": 2608
     },
     {
       "abr": "bionictail",
@@ -11746,7 +11746,7 @@
       "abr": "glass",
       "category": "Manufactured",
       "defname": "RB_Glass",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "hottub",
