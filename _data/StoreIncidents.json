@@ -146,16 +146,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "travelergroup",
-		"price": 2500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "visitorgroup",
-		"price": 5000,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "skillincrease",
 		"price": 200,
 		"karmatype": "Good"
@@ -233,6 +223,11 @@
 	{
 		"abr": "reviveanypawn",
 		"price": 3000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "pawn",
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -356,5 +351,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 71
+	"total": 70
 }

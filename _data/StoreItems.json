@@ -3004,7 +3004,7 @@
       "abr": "facemask",
       "category": "Headgear",
       "defname": "Apparel_ClothMask",
-      "price": -10
+      "price": 38
     },
     {
       "abr": "firefoampoppack",
@@ -3316,7 +3316,7 @@
       "abr": "mechgestationprocessor",
       "category": "Mechtech",
       "defname": "MechFormfeeder",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "mechanoidtransponder",
@@ -8008,7 +8008,7 @@
       "abr": "proofofcontract(turtleshikigami)",
       "category": "Misc",
       "defname": "YR_Skigami_BuildingTurtle",
-      "price": -10
+      "price": 958
     },
     {
       "abr": "racoonshikigami",
@@ -8128,7 +8128,7 @@
       "abr": "turtleshikigami",
       "category": "Animals",
       "defname": "YR_Sikigami_Turtle",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "wickerman",

@@ -188,7 +188,7 @@
     "HasGlobalCooldown": false,
     "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 300,
+    "LocalCooldown": 120,
     "Mod": "Twitch Toolkit"
   },
   "tradercaravan": {
@@ -204,15 +204,15 @@
     "HasGlobalCooldown": false,
     "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 60,
+    "LocalCooldown": 120,
     "Mod": "Twitch Toolkit"
   },
   "meteor": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 120,
     "Mod": "Twitch Toolkit"
   },
   "maninblack": {
@@ -228,7 +228,7 @@
     "HasGlobalCooldown": false,
     "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 60,
+    "LocalCooldown": 120,
     "Mod": "Twitch Toolkit"
   },
   "psychicdrone": {
@@ -252,7 +252,7 @@
     "HasGlobalCooldown": false,
     "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 60,
+    "LocalCooldown": 120,
     "Mod": "Twitch Toolkit"
   },
   "herdmigration": {
@@ -300,7 +300,7 @@
     "HasGlobalCooldown": false,
     "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 60,
+    "LocalCooldown": 120,
     "Mod": "Twitch Toolkit"
   },
   "visitorgroup": {
@@ -353,9 +353,9 @@
   },
   "militaryaid": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
+    "HasGlobalCooldown": true,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
+    "GlobalCooldown": 600,
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
@@ -371,7 +371,7 @@
     "EventType": "Default",
     "HasGlobalCooldown": true,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 600,
+    "GlobalCooldown": 900,
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
@@ -516,7 +516,7 @@
     "HasGlobalCooldown": false,
     "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 150,
+    "LocalCooldown": 120,
     "Mod": "Twitch Toolkit"
   },
   "torytalkervote": {
