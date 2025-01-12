@@ -3064,7 +3064,7 @@
       "abr": "gingertea",
       "category": "Herbal Teas",
       "defname": "AYGingerTea",
-      "price": -10
+      "price": 9
     },
     {
       "abr": "ginkgoleaves",
@@ -8014,7 +8014,7 @@
       "abr": "racoonshikigami",
       "category": "Animals",
       "defname": "YR_Sikigami_Racoon",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "ratkincannonshell",
@@ -8272,7 +8272,7 @@
       "abr": "yurancherrydango",
       "category": "Meals",
       "defname": "YR_yedoensisBerries_Dango",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "yurancorolla",
@@ -10252,7 +10252,7 @@
       "abr": "meowsentrypack",
       "category": "Utility",
       "defname": "Nr_Apparel_SentryPack",
-      "price": -10
+      "price": 2350
     },
     {
       "abr": "metabolicengine",
@@ -11224,7 +11224,7 @@
       "abr": "signalbooster(standard)",
       "category": "Mechtech",
       "defname": "SignalBooster",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "signalbooster(ultra)",
