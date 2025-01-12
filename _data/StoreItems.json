@@ -34,7 +34,7 @@
       "abr": "penoxycyline",
       "category": "Drugs",
       "defname": "Penoxycyline",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "flake",
@@ -550,7 +550,7 @@
       "abr": "healermechserum",
       "category": "Drugs",
       "defname": "MechSerumHealer",
-      "price": -10
+      "price": 2167
     },
     {
       "abr": "resurrectormechserum",
@@ -628,7 +628,7 @@
       "abr": "carnivorelavishmeal",
       "category": "Meals",
       "defname": "MealLavish_Meat",
-      "price": -10
+      "price": 67
     },
     {
       "abr": "kibble",
@@ -1426,7 +1426,7 @@
       "abr": "minigun",
       "category": "Ranged weapons",
       "defname": "Gun_Minigun",
-      "price": -10
+      "price": 1933
     },
     {
       "abr": "triplerocketlauncher",
@@ -2686,13 +2686,13 @@
       "abr": "skilltrainer(crafting)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Crafting",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(artistic)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Artistic",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(medical)",
@@ -3514,7 +3514,7 @@
       "abr": "smellingsalts",
       "category": "Salts",
       "defname": "AYSmellingSalts",
-      "price": -10
+      "price": 24
     },
     {
       "abr": "stjohnswortflowers",
@@ -3670,7 +3670,7 @@
       "abr": "wormwoodtonic",
       "category": "Tonics",
       "defname": "AYWormwoodTonic",
-      "price": -10
+      "price": 18
     },
     {
       "abr": "xenogerm",
@@ -7726,7 +7726,7 @@
       "abr": "dragonscales",
       "category": "Raw resources",
       "defname": "MG_Dragon_Scales",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "eldritchslab(broad)",
@@ -8806,7 +8806,7 @@
       "abr": "revenantspine",
       "category": "Misc",
       "defname": "RevenantSpine",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "revenantvertebrae",
@@ -8848,7 +8848,7 @@
       "abr": "shard",
       "category": "Manufactured",
       "defname": "Shard",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "shardanimalpulser",
@@ -9622,7 +9622,7 @@
       "abr": "classpermit:bishop",
       "category": "Items",
       "defname": "Milian_NamePlate_Bishop",
-      "price": -10
+      "price": 200
     },
     {
       "abr": "classpermit:king",
@@ -11164,7 +11164,7 @@
       "abr": "sanguophagexenogerm",
       "category": "Items",
       "defname": "Xenogerm_Sanguophage",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "serketistslab(broad)",
@@ -11206,7 +11206,7 @@
       "abr": "shoulderturret",
       "category": "Prosthetic",
       "defname": "LTS_ShoulderTurret",
-      "price": -10
+      "price": 708
     },
     {
       "abr": "sickle",
@@ -11248,7 +11248,7 @@
       "abr": "slimexenogerm",
       "category": "Items",
       "defname": "Xenogerm_MG_Slime",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "smallfloatunitpack",
@@ -11266,7 +11266,7 @@
       "abr": "solarfuel",
       "category": "Manufactured",
       "defname": "Milira_SunLightFuel",
-      "price": -10
+      "price": 13
     },
     {
       "abr": "solarreflector",
