@@ -538,7 +538,7 @@
       "abr": "psychicsoothepulser",
       "category": "Artifacts",
       "defname": "PsychicSoothePulser",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "personacore",
@@ -6544,13 +6544,13 @@
       "abr": "arachnevalkyriearmor",
       "category": "Arachne battle armor",
       "defname": "Arachne_Valkyrie",
-      "price": -10
+      "price": 783
     },
     {
       "abr": "arachnevalkyriehelmet",
       "category": "Headgear",
       "defname": "Arachne_Valkyrie_Helmet",
-      "price": -10
+      "price": 215
     },
     {
       "abr": "longwaveradio",
@@ -10234,7 +10234,7 @@
       "abr": "mechwomb",
       "category": "Mechtech",
       "defname": "Mechwomb",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "medicinecabinet",
