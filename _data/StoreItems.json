@@ -514,7 +514,7 @@
       "abr": "vanometricpowercell",
       "category": "Special",
       "defname": "VanometricPowerCell",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "infinitechemreactor",
@@ -1156,7 +1156,7 @@
       "abr": "marinehelmet",
       "category": "Headgear",
       "defname": "Apparel_PowerArmorHelmet",
-      "price": -10
+      "price": 1058
     },
     {
       "abr": "reconhelmet",
@@ -3424,7 +3424,7 @@
       "abr": "powerfocuschip",
       "category": "Manufactured",
       "defname": "PowerfocusChip",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "preservemix",
@@ -6748,7 +6748,7 @@
       "abr": "closecombatarmor",
       "category": "Megacorp armors",
       "defname": "Apparel_CloseCombatArmor",
-      "price": -10
+      "price": 4050
     },
     {
       "abr": "closecombathelmet",
@@ -6778,7 +6778,7 @@
       "abr": "dropsuithelmet",
       "category": "Megacorp headgears",
       "defname": "Apparel_DropsuitH",
-      "price": -10
+      "price": 1200
     },
     {
       "abr": "dualshardpistols",
@@ -8716,7 +8716,7 @@
       "abr": "hellcatrifle",
       "category": "Ranged weapons",
       "defname": "Gun_HellcatRifle",
-      "price": -10
+      "price": 825
     },
     {
       "abr": "holdingplatform",
@@ -9640,7 +9640,7 @@
       "abr": "classpermit:pawn",
       "category": "Items",
       "defname": "Milian_NamePlate_Pawn",
-      "price": -10
+      "price": 100
     },
     {
       "abr": "classpermit:queen",
@@ -10066,7 +10066,7 @@
       "abr": "hyper-adrenalinegland",
       "category": "Bionic",
       "defname": "HyperAdrenalineGland",
-      "price": -10
+      "price": 858
     },
     {
       "abr": "icefairyxenogerm",
@@ -10936,7 +10936,7 @@
       "abr": "prestigesubdermalarmour",
       "category": "Bionic",
       "defname": "LTS_PrestigeSubdermalArmour",
-      "price": -10
+      "price": 4658
     },
     {
       "abr": "proty",
@@ -10990,13 +10990,13 @@
       "abr": "psychicreaper",
       "category": "Bionic",
       "defname": "LTS_PsychicReaper",
-      "price": -10
+      "price": 875
     },
     {
       "abr": "psychicsustainer",
       "category": "Bionic",
       "defname": "PsychicSustainer",
-      "price": -10
+      "price": 858
     },
     {
       "abr": "pulsebeamgun",
@@ -11218,7 +11218,7 @@
       "abr": "signalbooster(high)",
       "category": "Mechtech",
       "defname": "SignalBoosterHigh",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "signalbooster(standard)",
@@ -11452,7 +11452,7 @@
       "abr": "voidlink",
       "category": "Bionic",
       "defname": "LTS_Voidlink",
-      "price": -10
+      "price": 875
     },
     {
       "abr": "warprogrammerinterface",
