@@ -22,7 +22,7 @@
       "abr": "go-juice",
       "category": "Drugs",
       "defname": "GoJuice",
-      "price": -10
+      "price": 88
     },
     {
       "abr": "luciferium",
@@ -9652,7 +9652,7 @@
       "abr": "classpermit:rook",
       "category": "Items",
       "defname": "Milian_NamePlate_Rook",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "clawtail",
@@ -11062,7 +11062,7 @@
       "abr": "red-bursthalberd",
       "category": "Anty weapons",
       "defname": "AT_RedHalberd",
-      "price": -10
+      "price": 3267
     },
     {
       "abr": "red-burstlinerifle",
