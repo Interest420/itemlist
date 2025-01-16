@@ -1264,7 +1264,7 @@
       "abr": "marinearmor",
       "category": "Armor",
       "defname": "Apparel_PowerArmor",
-      "price": -10
+      "price": 3392
     },
     {
       "abr": "reconarmor",
@@ -5050,7 +5050,7 @@
       "abr": "gallatrossleather",
       "category": "Leathers",
       "defname": "Leather_Gallatross",
-      "price": -10
+      "price": 27
     },
     {
       "abr": "genix",
@@ -6004,7 +6004,7 @@
       "abr": "bionicheart",
       "category": "Bionic",
       "defname": "BionicHeart",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "bionicleg",
@@ -6718,7 +6718,7 @@
       "abr": "amr",
       "category": "JI weapons",
       "defname": "JI_Gramr",
-      "price": -10
+      "price": 2142
     },
     {
       "abr": "artilleryarmor",
@@ -6754,7 +6754,7 @@
       "abr": "closecombathelmet",
       "category": "Headgear",
       "defname": "Apparel_CloseCombatHelmet",
-      "price": -10
+      "price": 1092
     },
     {
       "abr": "combatblade",
@@ -6796,13 +6796,13 @@
       "abr": "firesupportarmor",
       "category": "Megacorp armors",
       "defname": "Apparel_FSArmor",
-      "price": -10
+      "price": 4217
     },
     {
       "abr": "firesupporthelmet",
       "category": "Megacorp headgears",
       "defname": "Apparel_FSArmorH",
-      "price": -10
+      "price": 1317
     },
     {
       "abr": "gdmultilauncher",
@@ -10270,7 +10270,7 @@
       "abr": "metalhorrorsymbiont",
       "category": "Bionic",
       "defname": "MetalhorrorSymbiont",
-      "price": -10
+      "price": 875
     },
     {
       "abr": "miliananalyticheadset",
@@ -11320,7 +11320,7 @@
       "abr": "strengthenhancer",
       "category": "Bionic",
       "defname": "StrengthEnhancer",
-      "price": -10
+      "price": 1383
     },
     {
       "abr": "subdermalarmour",
