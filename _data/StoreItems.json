@@ -2674,7 +2674,7 @@
       "abr": "skilltrainer(plants)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Plants",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(animals)",
@@ -3352,7 +3352,7 @@
       "abr": "nanostructuringchip",
       "category": "Manufactured",
       "defname": "NanostructuringChip",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "nettlehemp",
@@ -6322,7 +6322,7 @@
       "abr": "psychicsensitizer",
       "category": "Archotech",
       "defname": "PsychicSensitizer",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "pumpkins",
@@ -10522,13 +10522,13 @@
       "abr": "miliradaedalusarmor",
       "category": "Milira OnSkin",
       "defname": "Milira_DaedalusArmor",
-      "price": -10
+      "price": 11208
     },
     {
       "abr": "miliradaedaluscrown",
       "category": "Milira Overhead",
       "defname": "Milira_DaedalusHelmet",
-      "price": -10
+      "price": 5367
     },
     {
       "abr": "miliradaedaluswings",
