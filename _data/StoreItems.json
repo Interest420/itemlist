@@ -4312,7 +4312,7 @@
       "abr": "strawberrybeer",
       "category": "Drugs",
       "defname": "RK_StrawberryBeer",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "whitecoat",
@@ -9382,7 +9382,7 @@
       "abr": "bionictail",
       "category": "Bionic",
       "defname": "LTS_BionicTail",
-      "price": -10
+      "price": 2275
     },
     {
       "abr": "bionicwomb",
