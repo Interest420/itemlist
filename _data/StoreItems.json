@@ -2644,7 +2644,7 @@
       "abr": "skilltrainer(shooting)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Shooting",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(melee)",
@@ -7144,7 +7144,7 @@
       "abr": "psytrainer(vertigopulse)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VertigoPulse",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "psytrainer(wallraise)",
@@ -8812,7 +8812,7 @@
       "abr": "revenantvertebrae",
       "category": "Bionic",
       "defname": "RevenantVertebrae",
-      "price": -10
+      "price": 3158
     },
     {
       "abr": "ritualmask",
@@ -11104,13 +11104,13 @@
       "abr": "remotedominator",
       "category": "Mechtech",
       "defname": "RemoteDominator",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "remoteresurrector",
       "category": "Mechtech",
       "defname": "RemoteResurrector",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "repulsivegrenadebelt",
@@ -11230,7 +11230,7 @@
       "abr": "signalbooster(ultra)",
       "category": "Mechtech",
       "defname": "SignalBoosterUltra",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "skeletalbracing",
@@ -11458,7 +11458,7 @@
       "abr": "warprogrammerinterface",
       "category": "Mechtech",
       "defname": "WarprogrammerInterface",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "wasterxenogerm",
