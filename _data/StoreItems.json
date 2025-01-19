@@ -4,7 +4,7 @@
       "abr": "beer",
       "category": "Drugs",
       "defname": "Beer",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "wort",
@@ -2710,7 +2710,7 @@
       "abr": "skilltrainer(intellectual)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Intellectual",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "absinthe",
@@ -6106,13 +6106,13 @@
       "abr": "detoxifierkidney",
       "category": "Bionic",
       "defname": "DetoxifierKidney",
-      "price": -10
+      "price": 1800
     },
     {
       "abr": "detoxifierlung",
       "category": "Bionic",
       "defname": "DetoxifierLung",
-      "price": -10
+      "price": 1542
     },
     {
       "abr": "doublewiderefrigerator",
@@ -9400,7 +9400,7 @@
       "abr": "blacksightdevice",
       "category": "Bionic",
       "defname": "BlacksightDevice",
-      "price": -10
+      "price": 6492
     },
     {
       "abr": "bookshelf",
@@ -10774,7 +10774,7 @@
       "abr": "milira'sgreatsword",
       "category": "Melee weapons",
       "defname": "Milira_TwoHandSword",
-      "price": -10
+      "price": 6667
     },
     {
       "abr": "milira'slance",
@@ -10816,7 +10816,7 @@
       "abr": "neuralheatsink",
       "category": "Bionic",
       "defname": "NeuralHeatsink",
-      "price": -10
+      "price": 2492
     },
     {
       "abr": "nociosphereemitter",
@@ -10828,7 +10828,7 @@
       "abr": "noctolithsensor",
       "category": "Misc",
       "defname": "NoctolithSensor",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "nuko",
@@ -10924,7 +10924,7 @@
       "abr": "plasmarifle",
       "category": "Federation weapons",
       "defname": "AD_Sentinel",
-      "price": -10
+      "price": 4817
     },
     {
       "abr": "plasmashockgrenadebelt",
@@ -11134,7 +11134,7 @@
       "abr": "retributiveimpaler",
       "category": "Bionic",
       "defname": "DefensiveImpaler",
-      "price": -10
+      "price": 858
     },
     {
       "abr": "riotgear",
@@ -11188,7 +11188,7 @@
       "abr": "shoulderchargeturret",
       "category": "Bionic",
       "defname": "LTS_ShoulderChargeTurret",
-      "price": -10
+      "price": 1867
     },
     {
       "abr": "shouldermortar",
