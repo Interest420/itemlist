@@ -1102,7 +1102,7 @@
       "abr": "shieldbelt",
       "category": "Utility",
       "defname": "Apparel_ShieldBelt",
-      "price": -10
+      "price": 650
     },
     {
       "abr": "cowboyhat",
@@ -1990,19 +1990,19 @@
       "abr": "eltexshirt",
       "category": "Misc",
       "defname": "Apparel_PsyfocusShirt",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "eltexvest",
       "category": "Misc",
       "defname": "Apparel_PsyfocusVest",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "eltexrobe",
       "category": "Misc",
       "defname": "Apparel_PsyfocusRobe",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "formalshirt",
@@ -2194,7 +2194,7 @@
       "abr": "eltexstaff",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_PsyfocusStaff",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "terrorsculpture",
@@ -13276,7 +13276,7 @@
       "abr": "miliraportableglorybeacon",
       "category": "Milira Utility",
       "defname": "Milira_DropBeaconPack",
-      "price": 2608
+      "price": -10
     },
     {
       "abr": "miliraportableresonator(bishop)",
