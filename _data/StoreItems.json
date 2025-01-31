@@ -70,7 +70,7 @@
       "abr": "psylinkneuroformer",
       "category": "Archotech",
       "defname": "PsychicAmplifier",
-      "price": -10
+      "price": 4333
     },
     {
       "abr": "heart",
@@ -580,7 +580,7 @@
       "abr": "packagedsurvivalmeal",
       "category": "Meals",
       "defname": "MealSurvivalPack",
-      "price": -10
+      "price": 40
     },
     {
       "abr": "nutrientpastemeal",
@@ -886,7 +886,7 @@
       "abr": "silver",
       "category": "Raw resources",
       "defname": "Silver",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "gold",
@@ -4132,25 +4132,25 @@
       "abr": "chameleonyakwool,desert",
       "category": "Wools",
       "defname": "AA_ChameleonYakWoolDesert",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "chameleonyakwool,jungle",
       "category": "Wools",
       "defname": "AA_ChameleonYakWoolJungle",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "chameleonyakwool,temperate",
       "category": "Wools",
       "defname": "AA_ChameleonYakWoolTemperate",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "chameleonyakwool,winter",
       "category": "Wools",
       "defname": "AA_ChameleonYakWoolWinter",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "chargedblizzariskegg(fert.)",
@@ -8968,7 +8968,7 @@
       "abr": "bionictail",
       "category": "Bionic",
       "defname": "LTS_BionicTail",
-      "price": 2275
+      "price": -10
     },
     {
       "abr": "bionictail",
@@ -10564,7 +10564,7 @@
       "abr": "nuko",
       "category": "Animals",
       "defname": "SeniorMaidnukos",
-      "price": 2167
+      "price": -10
     },
     {
       "abr": "nukohair",
@@ -10636,13 +10636,13 @@
       "abr": "plasmarifle",
       "category": "Ranged weapons",
       "defname": "Milira_PlasmaRifle",
-      "price": 4708
+      "price": -10
     },
     {
       "abr": "plasmarifle",
       "category": "Federation weapons",
       "defname": "AD_Sentinel",
-      "price": 4817
+      "price": -10
     },
     {
       "abr": "plasmashockgrenadebelt",
