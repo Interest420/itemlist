@@ -4,7 +4,7 @@
       "abr": "beer",
       "category": "Drugs",
       "defname": "Beer",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "wort",
@@ -22,7 +22,7 @@
       "abr": "go-juice",
       "category": "Drugs",
       "defname": "GoJuice",
-      "price": -10
+      "price": 88
     },
     {
       "abr": "luciferium",
@@ -910,7 +910,7 @@
       "abr": "wood",
       "category": "Raw resources",
       "defname": "WoodLog",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "uranium",
@@ -1246,7 +1246,7 @@
       "abr": "flakvest",
       "category": "Armor",
       "defname": "Apparel_FlakVest",
-      "price": -10
+      "price": 375
     },
     {
       "abr": "flakpants",
@@ -2644,7 +2644,7 @@
       "abr": "skilltrainer(shooting)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Shooting",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(melee)",
@@ -4720,7 +4720,7 @@
       "abr": "lastpunishmentincinerator",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_Punishment",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "legendaryweapon",
