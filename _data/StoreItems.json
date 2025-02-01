@@ -892,13 +892,13 @@
       "abr": "gold",
       "category": "Raw resources",
       "defname": "Gold",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "steel",
       "category": "Raw resources",
       "defname": "Steel",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "plasteel",
@@ -1102,7 +1102,7 @@
       "abr": "shieldbelt",
       "category": "Utility",
       "defname": "Apparel_ShieldBelt",
-      "price": -10
+      "price": 650
     },
     {
       "abr": "cowboyhat",
@@ -1906,7 +1906,7 @@
       "abr": "unstablepowercell",
       "category": "Special",
       "defname": "UnstablePowerCell",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "mechnode",
@@ -2170,7 +2170,7 @@
       "abr": "monosword",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_MonoSword",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "zeushammer",
