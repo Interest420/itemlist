@@ -46,7 +46,7 @@
       "abr": "psychitetea",
       "category": "Drugs",
       "defname": "PsychiteTea",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "yayo",
@@ -922,7 +922,7 @@
       "abr": "jade",
       "category": "Raw resources",
       "defname": "Jade",
-      "price": -10
+      "price": 8
     },
     {
       "abr": "cloth",
@@ -2014,7 +2014,7 @@
       "abr": "corset",
       "category": "Noble apparel",
       "defname": "Apparel_Corset",
-      "price": -10
+      "price": 222
     },
     {
       "abr": "formalvest",
@@ -2368,7 +2368,7 @@
       "abr": "slavecollar",
       "category": "Headgear",
       "defname": "Apparel_Collar",
-      "price": -10
+      "price": 94
     },
     {
       "abr": "authoritycap",
@@ -5206,7 +5206,7 @@
       "abr": "skysteel",
       "category": "Raw resources",
       "defname": "AA_SkySteel",
-      "price": -10
+      "price": 8
     },
     {
       "abr": "slurrypede",
@@ -5350,7 +5350,7 @@
       "abr": "wildpod",
       "category": "Animals",
       "defname": "AA_Wildpod",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "wildpodsporeclump(fert.)",
@@ -7210,7 +7210,7 @@
       "abr": "hanasake",
       "category": "Drugs",
       "defname": "YR_Hanasake",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "harpy",
@@ -7822,7 +7822,7 @@
       "abr": "bioferrite",
       "category": "Raw resources",
       "defname": "Bioferrite",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "bioferriteharvester",
