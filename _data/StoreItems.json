@@ -136,7 +136,7 @@
       "abr": "royalbed",
       "category": "Furniture",
       "defname": "RoyalBed",
-      "price": -10
+      "price": 1467
     },
     {
       "abr": "hospitalbed",
@@ -628,7 +628,7 @@
       "abr": "carnivorelavishmeal",
       "category": "Meals",
       "defname": "MealLavish_Meat",
-      "price": -10
+      "price": 67
     },
     {
       "abr": "kibble",
@@ -1150,7 +1150,7 @@
       "abr": "flakhelmet",
       "category": "Headgear",
       "defname": "Apparel_AdvancedHelmet",
-      "price": -10
+      "price": 442
     },
     {
       "abr": "marinehelmet",
@@ -5320,7 +5320,7 @@
       "abr": "torbicarapidcaster",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_RapidCaster",
-      "price": -10
+      "price": 1658
     },
     {
       "abr": "unblinkingeye",
@@ -7000,7 +7000,7 @@
       "abr": "dragonscales",
       "category": "Raw resources",
       "defname": "MG_Dragon_Scales",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "eldritchslab(broad)",
