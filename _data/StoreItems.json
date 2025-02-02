@@ -754,7 +754,7 @@
       "abr": "glitterworldmedicine",
       "category": "Medicine",
       "defname": "MedicineUltratech",
-      "price": -10
+      "price": 83
     },
     {
       "abr": "component",
@@ -1264,7 +1264,7 @@
       "abr": "marinearmor",
       "category": "Armor",
       "defname": "Apparel_PowerArmor",
-      "price": -10
+      "price": 3392
     },
     {
       "abr": "reconarmor",
@@ -1822,7 +1822,7 @@
       "abr": "boomrat",
       "category": "Animals",
       "defname": "Boomrat",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "raccoon",
@@ -2668,7 +2668,7 @@
       "abr": "skilltrainer(cooking)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Cooking",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(plants)",
@@ -6046,7 +6046,7 @@
       "abr": "closecombathelmet",
       "category": "Headgear",
       "defname": "Apparel_CloseCombatHelmet",
-      "price": -10
+      "price": 1092
     },
     {
       "abr": "combatblade",
@@ -6088,7 +6088,7 @@
       "abr": "firesupportarmor",
       "category": "Megacorp armors",
       "defname": "Apparel_FSArmor",
-      "price": -10
+      "price": 4217
     },
     {
       "abr": "firesupporthelmet",
@@ -11704,7 +11704,7 @@
       "abr": "vanguardaccelerator",
       "category": "Bionic",
       "defname": "LTS_Vanguard",
-      "price": -10
+      "price": 2608
     },
     {
       "abr": "venomtail",
@@ -11878,7 +11878,7 @@
       "abr": "emptyinfuser",
       "category": "Infusers",
       "defname": "Infusion_InfuserEmpty",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "engineblock",
