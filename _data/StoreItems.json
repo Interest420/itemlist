@@ -16,7 +16,7 @@
       "abr": "ambrosia",
       "category": "Drugs",
       "defname": "Ambrosia",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "go-juice",
@@ -64,7 +64,7 @@
       "abr": "wake-up",
       "category": "Drugs",
       "defname": "WakeUp",
-      "price": -10
+      "price": 58
     },
     {
       "abr": "psylinkneuroformer",
@@ -772,7 +772,7 @@
       "abr": "neutroamine",
       "category": "Manufactured",
       "defname": "Neutroamine",
-      "price": -10
+      "price": 10
     },
     {
       "abr": "chemfuel",
@@ -3010,7 +3010,7 @@
       "abr": "firefoampoppack",
       "category": "Utility",
       "defname": "Apparel_FirefoampopPack",
-      "price": -10
+      "price": 253
     },
     {
       "abr": "flutonic",
@@ -3040,7 +3040,7 @@
       "abr": "gasmask",
       "category": "Headgear",
       "defname": "Apparel_GasMask",
-      "price": -10
+      "price": 176
     },
     {
       "abr": "genebank",
@@ -10420,7 +10420,7 @@
       "abr": "milirastarshipbattery",
       "category": "Manufactured",
       "defname": "Milira_StarshipBattery",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "milirasunhat",
