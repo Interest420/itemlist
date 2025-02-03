@@ -11518,7 +11518,7 @@
       "abr": "solarfuel",
       "category": "Manufactured",
       "defname": "Milira_SunLightFuel",
-      "price": -10
+      "price": 13
     },
     {
       "abr": "solarreflector",
