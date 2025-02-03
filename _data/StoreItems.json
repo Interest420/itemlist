@@ -5398,7 +5398,7 @@
       "abr": "archotecheye",
       "category": "Archotech",
       "defname": "ArchotechEye",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "archotechleg",
@@ -5584,7 +5584,7 @@
       "abr": "healingenhancer",
       "category": "Bionic",
       "defname": "HealingEnhancer",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "immunoenhancer",
@@ -5734,7 +5734,7 @@
       "abr": "psychicsensitizer",
       "category": "Archotech",
       "defname": "PsychicSensitizer",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "pumpkins",
