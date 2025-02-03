@@ -1972,7 +1972,7 @@
       "abr": "low-shieldpack",
       "category": "Utility",
       "defname": "Apparel_PackBroadshield",
-      "price": -10
+      "price": 717
     },
     {
       "abr": "eltexhelmet",
@@ -3502,7 +3502,7 @@
       "abr": "signalchip",
       "category": "Manufactured",
       "defname": "SignalChip",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "smallshelf",
@@ -7984,7 +7984,7 @@
       "abr": "incinerator",
       "category": "Ranged weapons",
       "defname": "Gun_Incinerator",
-      "price": -10
+      "price": 883
     },
     {
       "abr": "juggernautserum",
@@ -9232,7 +9232,7 @@
       "abr": "classpermit:bishop",
       "category": "Items",
       "defname": "Milian_NamePlate_Bishop",
-      "price": -10
+      "price": 200
     },
     {
       "abr": "classpermit:king",
@@ -9742,7 +9742,7 @@
       "abr": "hyper-adrenalinegland",
       "category": "Bionic",
       "defname": "HyperAdrenalineGland",
-      "price": -10
+      "price": 858
     },
     {
       "abr": "industrialskip",
