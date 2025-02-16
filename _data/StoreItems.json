@@ -2698,7 +2698,7 @@
       "abr": "skilltrainer(medical)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Medicine",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(social)",
@@ -3646,7 +3646,7 @@
       "abr": "willowtonic",
       "category": "Tonics",
       "defname": "AYWillowTonic",
-      "price": -10
+      "price": 18
     },
     {
       "abr": "woodashes",
@@ -6406,7 +6406,7 @@
       "abr": "psytrainer(skip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Skip",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "psytrainer(skipshield)",
@@ -10264,7 +10264,7 @@
       "abr": "miliradustcoat",
       "category": "Milira Shell",
       "defname": "Milira_Dustcoat",
-      "price": -10
+      "price": 742
     },
     {
       "abr": "miliraelegancegown",
@@ -10300,7 +10300,7 @@
       "abr": "milirafashionablecasualwear",
       "category": "Milira OnSkin",
       "defname": "Milira_DelicateDressD",
-      "price": -10
+      "price": 575
     },
     {
       "abr": "milirafeather",
