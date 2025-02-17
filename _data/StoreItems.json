@@ -916,7 +916,7 @@
       "abr": "uranium",
       "category": "Raw resources",
       "defname": "Uranium",
-      "price": -10
+      "price": 10
     },
     {
       "abr": "jade",
@@ -1210,7 +1210,7 @@
       "abr": "pants",
       "category": "Misc",
       "defname": "Apparel_Pants",
-      "price": -10
+      "price": 143
     },
     {
       "abr": "t-shirt",
@@ -1318,7 +1318,7 @@
       "abr": "mace",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Mace",
-      "price": -10
+      "price": 203
     },
     {
       "abr": "gladius",
@@ -3334,7 +3334,7 @@
       "abr": "mechlink",
       "category": "Mechtech",
       "defname": "Mechlink",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "mechlordhelmet",
@@ -4174,7 +4174,7 @@
       "abr": "chatoyansniperrifle",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_ChRifle",
-      "price": -10
+      "price": 1783
     },
     {
       "abr": "chemfuelmyrmidon",
@@ -7210,7 +7210,7 @@
       "abr": "hanasake",
       "category": "Drugs",
       "defname": "YR_Hanasake",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "harpy",
