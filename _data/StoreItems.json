@@ -538,7 +538,7 @@
       "abr": "psychicsoothepulser",
       "category": "Artifacts",
       "defname": "PsychicSoothePulser",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "personacore",
@@ -580,7 +580,7 @@
       "abr": "packagedsurvivalmeal",
       "category": "Meals",
       "defname": "MealSurvivalPack",
-      "price": -10
+      "price": 40
     },
     {
       "abr": "nutrientpastemeal",
@@ -760,7 +760,7 @@
       "abr": "component",
       "category": "Manufactured",
       "defname": "ComponentIndustrial",
-      "price": -10
+      "price": 53
     },
     {
       "abr": "advancedcomponent",
