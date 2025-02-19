@@ -4,7 +4,7 @@
       "abr": "beer",
       "category": "Drugs",
       "defname": "Beer",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "wort",
@@ -16,13 +16,13 @@
       "abr": "ambrosia",
       "category": "Drugs",
       "defname": "Ambrosia",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "go-juice",
       "category": "Drugs",
       "defname": "GoJuice",
-      "price": -10
+      "price": 88
     },
     {
       "abr": "luciferium",
@@ -46,7 +46,7 @@
       "abr": "psychitetea",
       "category": "Drugs",
       "defname": "PsychiteTea",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "yayo",
@@ -124,13 +124,13 @@
       "abr": "bed",
       "category": "Furniture",
       "defname": "Bed",
-      "price": -10
+      "price": 155
     },
     {
       "abr": "doublebed",
       "category": "Furniture",
       "defname": "DoubleBed",
-      "price": -10
+      "price": 292
     },
     {
       "abr": "royalbed",
@@ -892,7 +892,7 @@
       "abr": "gold",
       "category": "Raw resources",
       "defname": "Gold",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "steel",
@@ -922,7 +922,7 @@
       "abr": "jade",
       "category": "Raw resources",
       "defname": "Jade",
-      "price": -10
+      "price": 8
     },
     {
       "abr": "cloth",
@@ -1150,7 +1150,7 @@
       "abr": "flakhelmet",
       "category": "Headgear",
       "defname": "Apparel_AdvancedHelmet",
-      "price": -10
+      "price": 442
     },
     {
       "abr": "marinehelmet",
@@ -1246,7 +1246,7 @@
       "abr": "flakvest",
       "category": "Armor",
       "defname": "Apparel_FlakVest",
-      "price": -10
+      "price": 375
     },
     {
       "abr": "flakpants",
@@ -1276,7 +1276,7 @@
       "abr": "cape",
       "category": "Noble apparel",
       "defname": "Apparel_Cape",
-      "price": -10
+      "price": 367
     },
     {
       "abr": "sandstoneblocks",
@@ -1972,7 +1972,7 @@
       "abr": "low-shieldpack",
       "category": "Utility",
       "defname": "Apparel_PackBroadshield",
-      "price": -10
+      "price": 717
     },
     {
       "abr": "eltexhelmet",
@@ -2698,7 +2698,7 @@
       "abr": "skilltrainer(medical)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Medicine",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(social)",
@@ -2980,7 +2980,7 @@
       "abr": "elixirofinciting",
       "category": "Elixirs",
       "defname": "AYElixirInciting",
-      "price": -10
+      "price": 48
     },
     {
       "abr": "elixiroflucidity",
@@ -3514,7 +3514,7 @@
       "abr": "smellingsalts",
       "category": "Salts",
       "defname": "AYSmellingSalts",
-      "price": -10
+      "price": 24
     },
     {
       "abr": "stjohnswortflowers",
@@ -6352,7 +6352,7 @@
       "abr": "psytrainer(farskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Farskip",
-      "price": -10
+      "price": 1417
     },
     {
       "abr": "psytrainer(flashstorm)",
@@ -7990,7 +7990,7 @@
       "abr": "juggernautserum",
       "category": "Drugs",
       "defname": "JuggernautSerum",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "labcoat",
@@ -8080,7 +8080,7 @@
       "abr": "schematic",
       "category": "Books",
       "defname": "Schematic",
-      "price": -10
+      "price": 250
     },
     {
       "abr": "scrapcubesculpture",
@@ -8152,7 +8152,7 @@
       "abr": "textbook",
       "category": "Books",
       "defname": "TextBook",
-      "price": -10
+      "price": 267
     },
     {
       "abr": "tome",
@@ -9250,7 +9250,7 @@
       "abr": "classpermit:pawn",
       "category": "Items",
       "defname": "Milian_NamePlate_Pawn",
-      "price": -10
+      "price": 100
     },
     {
       "abr": "classpermit:queen",
@@ -10636,7 +10636,7 @@
       "abr": "plasmarifle",
       "category": "Ranged weapons",
       "defname": "Milira_PlasmaRifle",
-      "price": -10
+      "price": 4708
     },
     {
       "abr": "plasmarifle",
@@ -11530,7 +11530,7 @@
       "abr": "solar-forgedsteel",
       "category": "Raw resources",
       "defname": "Milira_SunPlateSteel",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "solenopsisxenogerm",
@@ -11878,7 +11878,7 @@
       "abr": "emptyinfuser",
       "category": "Infusers",
       "defname": "Infusion_InfuserEmpty",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "engineblock",
