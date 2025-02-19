@@ -766,7 +766,7 @@
       "abr": "advancedcomponent",
       "category": "Manufactured",
       "defname": "ComponentSpacer",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "neutroamine",
@@ -1102,7 +1102,7 @@
       "abr": "shieldbelt",
       "category": "Utility",
       "defname": "Apparel_ShieldBelt",
-      "price": -10
+      "price": 650
     },
     {
       "abr": "cowboyhat",
@@ -1726,7 +1726,7 @@
       "abr": "thrumbo",
       "category": "Animals",
       "defname": "Thrumbo",
-      "price": -10
+      "price": 6667
     },
     {
       "abr": "cobra",
@@ -3064,7 +3064,7 @@
       "abr": "gingertea",
       "category": "Herbal Teas",
       "defname": "AYGingerTea",
-      "price": -10
+      "price": 9
     },
     {
       "abr": "ginkgoleaves",
@@ -3352,7 +3352,7 @@
       "abr": "nanostructuringchip",
       "category": "Manufactured",
       "defname": "NanostructuringChip",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "nettlehemp",
@@ -9334,7 +9334,7 @@
       "abr": "combatplatform:energybubble",
       "category": "Milira Utility",
       "defname": "Milira_CombatDrone_EnergyBubble",
-      "price": -10
+      "price": 692
     },
     {
       "abr": "combat-stimjelly",
@@ -9568,7 +9568,7 @@
       "abr": "featherthread",
       "category": "Textiles",
       "defname": "Milira_FeatherThread",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "federationjumpsuit",
@@ -9910,7 +9910,7 @@
       "abr": "lustroussteel",
       "category": "Raw resources",
       "defname": "Milira_SplendidSteel",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "magneticrailrifle",
@@ -9970,7 +9970,7 @@
       "abr": "meowsentrypack",
       "category": "Utility",
       "defname": "Nr_Apparel_SentryPack",
-      "price": -10
+      "price": 2350
     },
     {
       "abr": "metabolicengine",
@@ -10264,7 +10264,7 @@
       "abr": "miliradustcoat",
       "category": "Milira Shell",
       "defname": "Milira_Dustcoat",
-      "price": -10
+      "price": 742
     },
     {
       "abr": "miliraelegancegown",
@@ -10564,7 +10564,7 @@
       "abr": "nuko",
       "category": "Animals",
       "defname": "SeniorMaidnukos",
-      "price": -10
+      "price": 2167
     },
     {
       "abr": "nukohair",
@@ -11464,7 +11464,7 @@
       "abr": "signalbooster(standard)",
       "category": "Mechtech",
       "defname": "SignalBooster",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "signalbooster(ultra)",
@@ -11494,7 +11494,7 @@
       "abr": "smallfloatunitpack",
       "category": "Milira Utility",
       "defname": "Milira_FloatUnitPack",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "smallshieldgenerator",
@@ -11512,7 +11512,7 @@
       "abr": "solarcrystal",
       "category": "Manufactured",
       "defname": "Milira_SolarCrystal",
-      "price": -10
+      "price": 42
     },
     {
       "abr": "solarfuel",
