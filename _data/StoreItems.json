@@ -5320,7 +5320,7 @@
       "abr": "torbicarapidcaster",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_RapidCaster",
-      "price": -10
+      "price": 1658
     },
     {
       "abr": "unblinkingeye",
@@ -6424,7 +6424,7 @@
       "abr": "psytrainer(solarpinhole)",
       "category": "Psytrainers",
       "defname": "Psytrainer_SolarPinhole",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "psytrainer(stun)",
