@@ -946,7 +946,7 @@
       "abr": "hyperweave",
       "category": "Textiles",
       "defname": "Hyperweave",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "sheepwool",
@@ -5536,7 +5536,7 @@
       "abr": "detoxifierkidney",
       "category": "Bionic",
       "defname": "DetoxifierKidney",
-      "price": -10
+      "price": 1800
     },
     {
       "abr": "detoxifierlung",
@@ -6094,7 +6094,7 @@
       "abr": "firesupporthelmet",
       "category": "Megacorp headgears",
       "defname": "Apparel_FSArmorH",
-      "price": -10
+      "price": 1317
     },
     {
       "abr": "gdmultilauncher",
@@ -7294,7 +7294,7 @@
       "abr": "redwood",
       "category": "Raw resources",
       "defname": "YR_Red_wood",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "shintaoslab(broad)",
@@ -10306,7 +10306,7 @@
       "abr": "milirafeather",
       "category": "Textiles",
       "defname": "Milira_Feather",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "miliraglorybeacon",
@@ -10636,13 +10636,13 @@
       "abr": "plasmarifle",
       "category": "Ranged weapons",
       "defname": "Milira_PlasmaRifle",
-      "price": 4708
+      "price": -10
     },
     {
       "abr": "plasmarifle",
       "category": "Federation weapons",
       "defname": "AD_Sentinel",
-      "price": -10
+      "price": 4817
     },
     {
       "abr": "plasmashockgrenadebelt",
@@ -11440,7 +11440,7 @@
       "abr": "shoulderturret",
       "category": "Prosthetic",
       "defname": "LTS_ShoulderTurret",
-      "price": -10
+      "price": 708
     },
     {
       "abr": "shower",
