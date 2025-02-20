@@ -2368,7 +2368,7 @@
       "abr": "slavecollar",
       "category": "Headgear",
       "defname": "Apparel_Collar",
-      "price": -10
+      "price": 94
     },
     {
       "abr": "authoritycap",
@@ -2674,7 +2674,7 @@
       "abr": "skilltrainer(plants)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Plants",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(animals)",
@@ -4744,7 +4744,7 @@
       "abr": "machairodus",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_FlakCaster",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "mammothworm",
@@ -5458,7 +5458,7 @@
       "abr": "bionicheart",
       "category": "Bionic",
       "defname": "BionicHeart",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "bionicleg",
@@ -5500,7 +5500,7 @@
       "abr": "circadianassistant",
       "category": "Bionic",
       "defname": "CircadianAssistant",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "circadianhalf-cycler",
@@ -6370,7 +6370,7 @@
       "abr": "psytrainer(invisibility)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Invisibility",
-      "price": -10
+      "price": 1417
     },
     {
       "abr": "psytrainer(manhunterpulse)",
@@ -6406,7 +6406,7 @@
       "abr": "psytrainer(skip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Skip",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "psytrainer(skipshield)",
@@ -6418,7 +6418,7 @@
       "abr": "psytrainer(smokepop)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Smokepop",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "psytrainer(solarpinhole)",
@@ -7822,7 +7822,7 @@
       "abr": "bioferrite",
       "category": "Raw resources",
       "defname": "Bioferrite",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "bioferriteharvester",
@@ -9298,7 +9298,7 @@
       "abr": "combatdrone:minigun",
       "category": "Milira Utility",
       "defname": "Milira_CombatDrone_MiniGun",
-      "price": -10
+      "price": 2417
     },
     {
       "abr": "combatdrone:quadruplerocketlauncher",
@@ -10186,7 +10186,7 @@
       "abr": "miliraacademyuniform(style2)",
       "category": "Milira OnSkin",
       "defname": "Milira_DelicateDressA_II",
-      "price": -10
+      "price": 575
     },
     {
       "abr": "miliraartemisarmor(assault)",
@@ -10474,7 +10474,7 @@
       "abr": "miliratravellerhood",
       "category": "Milira Overhead",
       "defname": "Milira_Hood",
-      "price": -10
+      "price": 900
     },
     {
       "abr": "milirauniversalworkbench",
