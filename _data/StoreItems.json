@@ -5542,7 +5542,7 @@
       "abr": "detoxifierlung",
       "category": "Bionic",
       "defname": "DetoxifierLung",
-      "price": -10
+      "price": 1542
     },
     {
       "abr": "drillarm",
@@ -5632,7 +5632,7 @@
       "abr": "nuclearstomach",
       "category": "Bionic",
       "defname": "NuclearStomach",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "onions",
@@ -9520,7 +9520,7 @@
       "abr": "eltexadornments",
       "category": "Bionic",
       "defname": "EltexAdornments",
-      "price": -10
+      "price": 1808
     },
     {
       "abr": "empbomb",
