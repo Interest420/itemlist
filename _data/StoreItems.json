@@ -34,7 +34,7 @@
       "abr": "penoxycyline",
       "category": "Drugs",
       "defname": "Penoxycyline",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "flake",
@@ -64,7 +64,7 @@
       "abr": "wake-up",
       "category": "Drugs",
       "defname": "WakeUp",
-      "price": -10
+      "price": 58
     },
     {
       "abr": "psylinkneuroformer",
@@ -550,7 +550,7 @@
       "abr": "healermechserum",
       "category": "Drugs",
       "defname": "MechSerumHealer",
-      "price": -10
+      "price": 2167
     },
     {
       "abr": "resurrectormechserum",
@@ -1264,7 +1264,7 @@
       "abr": "marinearmor",
       "category": "Armor",
       "defname": "Apparel_PowerArmor",
-      "price": -10
+      "price": 3392
     },
     {
       "abr": "reconarmor",
@@ -3580,7 +3580,7 @@
       "abr": "toxshell",
       "category": "Mortar shells",
       "defname": "Shell_Toxic",
-      "price": -10
+      "price": 92
     },
     {
       "abr": "toxalope",
@@ -4990,13 +4990,13 @@
       "abr": "nyaronpowerarmor",
       "category": "Nyaron Apparels",
       "defname": "Nr_PowerArmor",
-      "price": -10
+      "price": 2958
     },
     {
       "abr": "nyaronpowerarmorhelmet",
       "category": "Headgear",
       "defname": "Nr_PowerArmorHelmet",
-      "price": -10
+      "price": 1217
     },
     {
       "abr": "nyaronsimpleuniform",
@@ -6046,7 +6046,7 @@
       "abr": "closecombathelmet",
       "category": "Headgear",
       "defname": "Apparel_CloseCombatHelmet",
-      "price": -10
+      "price": 1092
     },
     {
       "abr": "combatblade",
@@ -7636,7 +7636,7 @@
       "abr": "yuranlotuslantern",
       "category": "Yuran Manufactured",
       "defname": "YR_Random_lantern",
-      "price": -10
+      "price": 75
     },
     {
       "abr": "yuranmiko",
@@ -9232,7 +9232,7 @@
       "abr": "classpermit:bishop",
       "category": "Items",
       "defname": "Milian_NamePlate_Bishop",
-      "price": -10
+      "price": 200
     },
     {
       "abr": "classpermit:king",
