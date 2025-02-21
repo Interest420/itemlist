@@ -598,7 +598,7 @@
       "abr": "finemeal",
       "category": "Meals",
       "defname": "MealFine",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "vegetarianfinemeal",
@@ -802,7 +802,7 @@
       "abr": "rice",
       "category": "Vegetarian",
       "defname": "RawRice",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "agavefruit",
@@ -1492,7 +1492,7 @@
       "abr": "orbitalbombardmenttargeter",
       "category": "Utility",
       "defname": "OrbitalTargeterBombardment",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "orbitalpowerbeamtargeter",
@@ -1792,7 +1792,7 @@
       "abr": "alpaca",
       "category": "Animals",
       "defname": "Alpaca",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "megasloth",
@@ -3130,7 +3130,7 @@
       "abr": "hemogenpack",
       "category": "Foods",
       "defname": "HemogenPack",
-      "price": -10
+      "price": 8
     },
     {
       "abr": "hemopump",
@@ -3424,7 +3424,7 @@
       "abr": "powerfocuschip",
       "category": "Manufactured",
       "defname": "PowerfocusChip",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "preservemix",
@@ -3982,7 +3982,7 @@
       "abr": "behemoth",
       "category": "Animals",
       "defname": "AA_Behemoth",
-      "price": -10
+      "price": 8333
     },
     {
       "abr": "behemothscales",
@@ -5086,7 +5086,7 @@
       "abr": "raptorshrimp",
       "category": "Animals",
       "defname": "AA_RaptorShrimp",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "ravager",
@@ -5434,7 +5434,7 @@
       "abr": "bionicarm",
       "category": "Bionic",
       "defname": "BionicArm",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "bioniccattail",
@@ -7282,13 +7282,13 @@
       "abr": "proofofcontract(turtleshikigami)",
       "category": "Misc",
       "defname": "YR_Skigami_BuildingTurtle",
-      "price": -10
+      "price": 958
     },
     {
       "abr": "racoonshikigami",
       "category": "Animals",
       "defname": "YR_Sikigami_Racoon",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "redwood",
@@ -7522,7 +7522,7 @@
       "abr": "yurancherrydango",
       "category": "Meals",
       "defname": "YR_yedoensisBerries_Dango",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "yurancorolla",
@@ -8422,7 +8422,7 @@
       "abr": "alkalicoatimplant",
       "category": "Bionic",
       "defname": "DeacidifierMembrane",
-      "price": -10
+      "price": 858
     },
     {
       "abr": "ammocrate",
@@ -8602,7 +8602,7 @@
       "abr": "antyexoskeleton",
       "category": "Raw resources",
       "defname": "AntyExoskeleton",
-      "price": -10
+      "price": 10
     },
     {
       "abr": "antyflakvest",
@@ -8728,7 +8728,7 @@
       "abr": "antyshootingpheromone",
       "category": "Drugs",
       "defname": "Antypheromone_Shooting",
-      "price": -10
+      "price": 42
     },
     {
       "abr": "antysolenopsisegg",
@@ -8968,7 +8968,7 @@
       "abr": "bionictail",
       "category": "Bionic",
       "defname": "LTS_BionicTail",
-      "price": -10
+      "price": 2275
     },
     {
       "abr": "bionictail",
@@ -9370,7 +9370,7 @@
       "abr": "cranialinsulation",
       "category": "Bionic",
       "defname": "CranialInsulation",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "crate",
@@ -10540,7 +10540,7 @@
       "abr": "neuralheatsink",
       "category": "Bionic",
       "defname": "NeuralHeatsink",
-      "price": -10
+      "price": 2492
     },
     {
       "abr": "nociosphereemitter",
@@ -11260,7 +11260,7 @@
       "abr": "refleum",
       "category": "Raw resources",
       "defname": "Refleum",
-      "price": -10
+      "price": 22
     },
     {
       "abr": "refleumgasthrower",
