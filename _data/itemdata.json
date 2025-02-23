@@ -39718,5 +39718,25 @@
     "version": 2,
     "Mod": "Yuran race",
     "KarmaType": null
+  },
+  "Milira_SingleHandblade": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Milira Race",
+    "KarmaType": null
   }
 }

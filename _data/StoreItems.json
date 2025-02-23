@@ -112,7 +112,7 @@
       "abr": "largesculpture",
       "category": "Art",
       "defname": "SculptureLarge",
-      "price": -10
+      "price": 517
     },
     {
       "abr": "grandsculpture",
@@ -562,7 +562,7 @@
       "abr": "techprofsubpersonacore",
       "category": "Misc",
       "defname": "TechprofSubpersonaCore",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "thrumbohorn",
@@ -1186,7 +1186,7 @@
       "abr": "psychicshocklance",
       "category": "Utility",
       "defname": "Apparel_PsychicShockLance",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "psychicinsanitylance",
@@ -1960,7 +1960,7 @@
       "abr": "shieldcore",
       "category": "Misc",
       "defname": "BroadshieldCore",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "jumppack",
@@ -2644,7 +2644,7 @@
       "abr": "skilltrainer(shooting)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Shooting",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(melee)",
@@ -3190,7 +3190,7 @@
       "abr": "iedtoxtrap",
       "category": "Security",
       "defname": "TrapIED_ToxGas",
-      "price": -10
+      "price": 192
     },
     {
       "abr": "integratorheadset",
@@ -3316,7 +3316,7 @@
       "abr": "mechgestationprocessor",
       "category": "Mechtech",
       "defname": "MechFormfeeder",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "mechanoidtransponder",
@@ -5392,7 +5392,7 @@
       "abr": "archotecharm",
       "category": "Archotech",
       "defname": "ArchotechArm",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "archotecheye",
@@ -6040,7 +6040,7 @@
       "abr": "closecombatarmor",
       "category": "Megacorp armors",
       "defname": "Apparel_CloseCombatArmor",
-      "price": -10
+      "price": 4050
     },
     {
       "abr": "closecombathelmet",
@@ -9952,7 +9952,7 @@
       "abr": "mechwomb",
       "category": "Mechtech",
       "defname": "Mechwomb",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "medicinecabinet",
@@ -10108,7 +10108,7 @@
       "abr": "milianpowercore",
       "category": "Manufactured",
       "defname": "Milira_MilianReactor",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "milianrangerarmor",
@@ -11290,13 +11290,13 @@
       "abr": "remotedominator",
       "category": "Mechtech",
       "defname": "RemoteDominator",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "remoteresurrector",
       "category": "Mechtech",
       "defname": "RemoteResurrector",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "repulsivegrenadebelt",
@@ -11458,7 +11458,7 @@
       "abr": "signalbooster(high)",
       "category": "Mechtech",
       "defname": "SignalBoosterHigh",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "signalbooster(standard)",
@@ -11470,7 +11470,7 @@
       "abr": "signalbooster(ultra)",
       "category": "Mechtech",
       "defname": "SignalBoosterUltra",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "simpleshower",
@@ -11578,7 +11578,7 @@
       "abr": "strengthenhancer",
       "category": "Bionic",
       "defname": "StrengthEnhancer",
-      "price": -10
+      "price": 1383
     },
     {
       "abr": "subdermalarmour",
@@ -11734,7 +11734,7 @@
       "abr": "warprogrammerinterface",
       "category": "Mechtech",
       "defname": "WarprogrammerInterface",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "washingmachine",
@@ -11915,7 +11915,13 @@
       "category": "Infusers",
       "defname": "Infusion_Infuser_Uncommon",
       "price": -10
+    },
+    {
+      "abr": "milira'sblade",
+      "category": "Melee weapons",
+      "defname": "Milira_SingleHandblade",
+      "price": 6667
     }
   ],
-  "total": 1986
+  "total": 1987
 }
