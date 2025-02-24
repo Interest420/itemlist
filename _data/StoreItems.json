@@ -5374,13 +5374,13 @@
       "abr": "aestheticnose",
       "category": "Bionic",
       "defname": "AestheticNose",
-      "price": -10
+      "price": 975
     },
     {
       "abr": "aestheticshaper",
       "category": "Bionic",
       "defname": "AestheticShaper",
-      "price": -10
+      "price": 1383
     },
     {
       "abr": "apples",
@@ -5584,7 +5584,7 @@
       "abr": "healingenhancer",
       "category": "Bionic",
       "defname": "HealingEnhancer",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "immunoenhancer",
@@ -6592,7 +6592,7 @@
       "abr": "torchsword",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_TorchSword",
-      "price": -10
+      "price": 1242
     },
     {
       "abr": "vectorshot",
@@ -8650,7 +8650,7 @@
       "abr": "antymilitaryuniform",
       "category": "Anty gear",
       "defname": "AT_AP_Shooter_A",
-      "price": -10
+      "price": 608
     },
     {
       "abr": "antymilitaryuniformcloak",
@@ -8860,7 +8860,7 @@
       "abr": "archotechvoicebox",
       "category": "Archotech",
       "defname": "ArchotechVoicebox",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "archotechwomb",
@@ -8962,7 +8962,7 @@
       "abr": "bionicfaceplate",
       "category": "Bionic",
       "defname": "LTS_FaceplateArachnid",
-      "price": -10
+      "price": 2608
     },
     {
       "abr": "bionictail",
@@ -9412,7 +9412,7 @@
       "abr": "crucibleprecisionrifle",
       "category": "Federation weapons",
       "defname": "AD_CruciblePresicionRifle",
-      "price": -10
+      "price": 2133
     },
     {
       "abr": "cruciblerifle",
@@ -10246,7 +10246,7 @@
       "abr": "miliradaedalusarmor",
       "category": "Milira OnSkin",
       "defname": "Milira_DaedalusArmor",
-      "price": -10
+      "price": 11208
     },
     {
       "abr": "miliradaedaluscrown",
@@ -10636,7 +10636,7 @@
       "abr": "plasmarifle",
       "category": "Ranged weapons",
       "defname": "Milira_PlasmaRifle",
-      "price": -10
+      "price": 4708
     },
     {
       "abr": "plasmarifle",
@@ -10720,7 +10720,7 @@
       "abr": "psychicreaper",
       "category": "Bionic",
       "defname": "LTS_PsychicReaper",
-      "price": -10
+      "price": 875
     },
     {
       "abr": "psychicsustainer",
