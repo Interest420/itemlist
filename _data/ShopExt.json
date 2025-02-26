@@ -3550,7 +3550,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3000,
       "removePrice": 1,
       "degree": 0,
@@ -3765,6 +3765,8 @@
           "+80% Psychic sensitivity",
           "+80% Rest rate multiplier",
           "+70% Global work speed",
+          "+150.00% Tame animal chance",
+          "+120.00% Train animal chance",
           "+0 Foraged food amount",
           "+120.00% Negotiation ability",
           "+120.00% Social impact",
