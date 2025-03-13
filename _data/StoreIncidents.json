@@ -101,11 +101,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "tradercaravan",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "orbitaltraderarrival",
 		"price": 2500,
 		"karmatype": "Good"
@@ -169,11 +164,6 @@
 		"abr": "shippartpsychic",
 		"price": 1500,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "militaryaid",
-		"price": 10000,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "raid",
@@ -351,5 +341,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 70
+	"total": 68
 }
