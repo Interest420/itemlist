@@ -11020,7 +11020,7 @@
       "abr": "arcanegemofwonder",
       "category": "Refined magicyte",
       "defname": "TM_EStone_wonder",
-      "price": 4417
+      "price": -10
     },
     {
       "abr": "arcanehood",
@@ -12832,7 +12832,7 @@
       "abr": "gemofphysicalinsight",
       "category": "Magic artifacts",
       "defname": "GemstoneOfInsight_Might",
-      "price": 4000
+      "price": -10
     },
     {
       "abr": "geomancerspell:meteor",
@@ -13570,49 +13570,49 @@
       "abr": "majorarcanegemofacceleration",
       "category": "Refined magicyte",
       "defname": "TM_EStone_coolDown_major",
-      "price": 1592
+      "price": -10
     },
     {
       "abr": "majorarcanegemofconservation",
       "category": "Refined magicyte",
       "defname": "TM_EStone_mpCost_major",
-      "price": 1592
+      "price": -10
     },
     {
       "abr": "majorarcanegemofforce",
       "category": "Refined magicyte",
       "defname": "TM_EStone_arcaneDmg_major",
-      "price": 1592
+      "price": -10
     },
     {
       "abr": "majorarcanegemofholding",
       "category": "Refined magicyte",
       "defname": "TM_EStone_maxMP_major",
-      "price": 1592
+      "price": -10
     },
     {
       "abr": "majorarcanegemoflearning",
       "category": "Refined magicyte",
       "defname": "TM_EStone_xpGain_major",
-      "price": 1592
+      "price": -10
     },
     {
       "abr": "majorarcanegemofregeneration",
       "category": "Refined magicyte",
       "defname": "TM_EStone_mpRegenRate_major",
-      "price": 1592
+      "price": -10
     },
     {
       "abr": "majorarcanegemofresistance",
       "category": "Refined magicyte",
       "defname": "TM_EStone_arcaneRes_major",
-      "price": 1592
+      "price": -10
     },
     {
       "abr": "majorarcanegemofwonder",
       "category": "Refined magicyte",
       "defname": "TM_EStone_wonder_major",
-      "price": 10917
+      "price": -10
     },
     {
       "abr": "manapotion",
@@ -13792,7 +13792,7 @@
       "abr": "minorarcanegemofwonder",
       "category": "Refined magicyte",
       "defname": "TM_EStone_wonder_minor",
-      "price": 1983
+      "price": -10
     },
     {
       "abr": "mole",
