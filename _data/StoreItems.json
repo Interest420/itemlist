@@ -580,7 +580,7 @@
       "abr": "packagedsurvivalmeal",
       "category": "Meals",
       "defname": "MealSurvivalPack",
-      "price": -10
+      "price": 40
     },
     {
       "abr": "nutrientpastemeal",
@@ -1972,7 +1972,7 @@
       "abr": "low-shieldpack",
       "category": "Utility",
       "defname": "Apparel_PackBroadshield",
-      "price": -10
+      "price": 717
     },
     {
       "abr": "eltexhelmet",
@@ -2698,7 +2698,7 @@
       "abr": "skilltrainer(medical)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Medicine",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(social)",
@@ -5398,7 +5398,7 @@
       "abr": "archotecheye",
       "category": "Archotech",
       "defname": "ArchotechEye",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "archotechleg",
@@ -10618,7 +10618,7 @@
       "abr": "antigraintorpedo",
       "category": "Torpedoes",
       "defname": "ShipTorpedo_Antimatter",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "architerepairgel",
@@ -10720,7 +10720,7 @@
       "abr": "archotechspine",
       "category": "Archotech",
       "defname": "SoSArchotechSpine",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "archotechstomach",
@@ -11050,13 +11050,13 @@
       "abr": "evahelmet",
       "category": "Headgear",
       "defname": "Apparel_SpaceSuitHelmet",
-      "price": -10
+      "price": 675
     },
     {
       "abr": "evasuit",
       "category": "Armor",
       "defname": "Apparel_SpaceSuitBody",
-      "price": -10
+      "price": 1267
     },
     {
       "abr": "exoticparticles",
@@ -11104,7 +11104,7 @@
       "abr": "high-explosivetorpedo",
       "category": "Torpedoes",
       "defname": "ShipTorpedo_HighExplosive",
-      "price": -10
+      "price": 433
     },
     {
       "abr": "hullfoamcanister",
@@ -11770,7 +11770,7 @@
       "abr": "psychicmanipulator",
       "category": "Archotech",
       "defname": "SoSPsychicManipulator",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "psychicpredictor",
