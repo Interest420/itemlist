@@ -11878,235 +11878,235 @@
       "abr": "shipblueprint(escortfrigate)",
       "category": "Ship blueprints",
       "defname": "ShipBPEsFr",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "shipblueprint(explorationvessel)",
       "category": "Ship blueprints",
       "defname": "ShipBPExplorationVessel",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "shipblueprint(fireflyclasstransport)",
       "category": "Ship blueprints",
       "defname": "ShipBPCargoFirefly",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "shipblueprint(frigate)",
       "category": "Ship blueprints",
       "defname": "ShipBPFrigateWinged",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "shipblueprint(gunship)",
       "category": "Ship blueprints",
       "defname": "ShipBPGu",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "shipblueprint(heavybomber)",
       "category": "Ship blueprints",
       "defname": "ShipBPBomberHeavy",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "shipblueprint(heavymercenaryfrigate)",
       "category": "Ship blueprints",
       "defname": "ShipBPHeMeFr",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "shipblueprint(interplanetarycorvette)",
       "category": "Ship blueprints",
       "defname": "ShipBPIpCv",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "shipblueprint(ironcladclassfrigate)",
       "category": "Ship blueprints",
       "defname": "ShipBPFrigateIronclad",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "shipblueprint(lightcruiser)",
       "category": "Ship blueprints",
       "defname": "ShipBPLiCr",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "shipblueprint(miningrig)",
       "category": "Ship blueprints",
       "defname": "ShipBPMiningRig",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "shipblueprint(oldmartiancorvette)",
       "category": "Ship blueprints",
       "defname": "ShipBPCorvetteMartian",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "shipblueprint(piercercorvette)",
       "category": "Ship blueprints",
       "defname": "ShipBPPiCv",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "shipblueprint(quickdeploycorvette)",
       "category": "Ship blueprints",
       "defname": "ShipBPQiDpCv",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "shipblueprint(smalltransport)",
       "category": "Ship blueprints",
       "defname": "ShipBPTransportSmall",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "shipblueprint(thorclasscruiser)",
       "category": "Ship blueprints",
       "defname": "ShipBPCruiserThor",
-      "price": 10000
+      "price": -10
     },
     {
       "abr": "shipblueprint(torpedodestroyer)",
       "category": "Ship blueprints",
       "defname": "ShipBPDestroyer",
-      "price": 6667
+      "price": -10
     },
     {
       "abr": "shipcapacitor",
       "category": "Furniture",
       "defname": "ShipCapacitorSmall",
-      "price": 908
+      "price": -10
     },
     {
       "abr": "shipcomputercore",
       "category": "Buildings",
       "defname": "Ship_ComputerCore",
-      "price": 9742
+      "price": -10
     },
     {
       "abr": "shipsalvage",
       "category": "Special",
       "defname": "ShipChunkSalvage",
-      "price": 1758
+      "price": -10
     },
     {
       "abr": "smallfloatunitpack",
       "category": "Milira Utility",
       "defname": "Milira_FloatUnitPack",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "solarcrystal",
       "category": "Manufactured",
       "defname": "Milira_SolarCrystal",
-      "price": 42
+      "price": -10
     },
     {
       "abr": "solarfuel",
       "category": "Manufactured",
       "defname": "Milira_SunLightFuel",
-      "price": 13
+      "price": -10
     },
     {
       "abr": "solarreflector",
       "category": "Misc",
       "defname": "Milira_Heliostat",
-      "price": 226
+      "price": -10
     },
     {
       "abr": "solar-forgedsteel",
       "category": "Raw resources",
       "defname": "Milira_SunPlateSteel",
-      "price": 30
+      "price": -10
     },
     {
       "abr": "spacetelescope",
       "category": "Recreation",
       "defname": "TelescopeSpace",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "spacercrib",
       "category": "Furniture",
       "defname": "SpaceCrib",
-      "price": 575
+      "price": -10
     },
     {
       "abr": "stellapede",
       "category": "Animals",
       "defname": "Stellapede",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "sunblastfurnacebooster",
       "category": "Misc",
       "defname": "Milira_SunBlasterBoosterJar",
-      "price": 4425
+      "price": -10
     },
     {
       "abr": "sunblastfurnacecoremodel",
       "category": "Manufactured",
       "defname": "Milira_FurnaceCoreModel",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "sunlightfruit",
       "category": "Plant matter",
       "defname": "Milira_SunLightFruit",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "survivalbelt",
       "category": "Utility",
       "defname": "Apparel_SpaceSurvivalBelt",
-      "price": 178
+      "price": -10
     },
     {
       "abr": "techprint(molten-saltenergystation)",
       "category": "Techprints",
       "defname": "Techprint_Milira_SunLightFuelGenerator",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "twin-rotorpropulsionsystem",
       "category": "Milian Utility",
       "defname": "Milira_Booster",
-      "price": 3408
+      "price": -10
     },
     {
       "abr": "unstablereactorvessel",
       "category": "Furniture",
       "defname": "Milira_UnstableReactor",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "uraniumfuelpod",
       "category": "Manufactured",
       "defname": "ShuttleFuelPods",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "vanoroot",
       "category": "Vegetarian",
       "defname": "RawVanoroot",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "wallsunlamp",
       "category": "Furniture",
       "defname": "WallSunLampSoS",
-      "price": 97
+      "price": -10
     },
     {
       "abr": "weathernormalizationdevice",
       "category": "Artifacts",
       "defname": "WeatherCancelDevice",
-      "price": 2000
+      "price": -10
     }
   ],
   "total": 2018
