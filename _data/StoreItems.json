@@ -2656,7 +2656,7 @@
       "abr": "skilltrainer(construction)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Construction",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(mining)",
@@ -2674,7 +2674,7 @@
       "abr": "skilltrainer(plants)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Plants",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(animals)",
@@ -2710,7 +2710,7 @@
       "abr": "skilltrainer(intellectual)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Intellectual",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "absinthe",
@@ -6046,7 +6046,7 @@
       "abr": "closecombathelmet",
       "category": "Headgear",
       "defname": "Apparel_CloseCombatHelmet",
-      "price": -10
+      "price": 1092
     },
     {
       "abr": "combatblade",
@@ -10450,7 +10450,7 @@
       "abr": "rareinfuser",
       "category": "Infusers",
       "defname": "Infusion_Infuser_Rare",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "transitionrefleum",
@@ -10660,7 +10660,7 @@
       "abr": "archotechjaw",
       "category": "Archotech",
       "defname": "SoSArchotechJaw",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "archotechkidney",
