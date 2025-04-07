@@ -34,7 +34,7 @@
       "abr": "penoxycyline",
       "category": "Drugs",
       "defname": "Penoxycyline",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "flake",
@@ -538,7 +538,7 @@
       "abr": "psychicsoothepulser",
       "category": "Artifacts",
       "defname": "PsychicSoothePulser",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "personacore",
@@ -6406,7 +6406,7 @@
       "abr": "psytrainer(skip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Skip",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "psytrainer(skipshield)",
@@ -12088,7 +12088,7 @@
       "abr": "uraniumfuelpod",
       "category": "Manufactured",
       "defname": "ShuttleFuelPods",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "vanoroot",
