@@ -2686,7 +2686,7 @@
       "abr": "skilltrainer(crafting)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Crafting",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(artistic)",
@@ -3214,7 +3214,7 @@
       "abr": "kaletea",
       "category": "Herbal Teas",
       "defname": "AYKaleTea",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "kidhelmet",
@@ -3490,7 +3490,7 @@
       "abr": "scarcream",
       "category": "Ointments",
       "defname": "AYScarCream",
-      "price": -10
+      "price": 87
     },
     {
       "abr": "schooldesk",
@@ -6040,7 +6040,7 @@
       "abr": "closecombatarmor",
       "category": "Megacorp armors",
       "defname": "Apparel_CloseCombatArmor",
-      "price": -10
+      "price": 4050
     },
     {
       "abr": "closecombathelmet",
@@ -6070,7 +6070,7 @@
       "abr": "dropsuithelmet",
       "category": "Megacorp headgears",
       "defname": "Apparel_DropsuitH",
-      "price": -10
+      "price": 1200
     },
     {
       "abr": "dualshardpistols",
@@ -9628,7 +9628,7 @@
       "abr": "psychicnullifier",
       "category": "Archotech",
       "defname": "PsychicNullifier",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psychicreaper",
