@@ -3334,7 +3334,7 @@
       "abr": "mechlink",
       "category": "Mechtech",
       "defname": "Mechlink",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "mechlordhelmet",
@@ -5728,7 +5728,7 @@
       "abr": "psychicreader",
       "category": "Archotech",
       "defname": "PsychicReader",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psychicsensitizer",
@@ -7324,7 +7324,7 @@
       "abr": "slimecoreextract",
       "category": "Items",
       "defname": "SlimeExtract",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "slimejelly",
@@ -8788,13 +8788,13 @@
       "abr": "arachnescoutarmor",
       "category": "Arachne power armor",
       "defname": "Arachne_Scout_Armor",
-      "price": -10
+      "price": 2808
     },
     {
       "abr": "arachnescouthelmet",
       "category": "Headgear",
       "defname": "Arachne_Scout_Helmet",
-      "price": -10
+      "price": 1008
     },
     {
       "abr": "arachnescythe",
@@ -10600,7 +10600,7 @@
       "abr": "activecamouflage",
       "category": "Bionic",
       "defname": "LTS_StealthSystem",
-      "price": -10
+      "price": 2383
     },
     {
       "abr": "advancedholodeck",
