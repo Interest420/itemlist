@@ -5320,7 +5320,7 @@
       "abr": "torbicarapidcaster",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_RapidCaster",
-      "price": -10
+      "price": 1658
     },
     {
       "abr": "unblinkingeye",
@@ -5392,7 +5392,7 @@
       "abr": "archotecharm",
       "category": "Archotech",
       "defname": "ArchotechArm",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "archotecheye",
@@ -6064,7 +6064,7 @@
       "abr": "dropsuit",
       "category": "Megacorp armors",
       "defname": "Apparel_Dropsuit",
-      "price": -10
+      "price": 3550
     },
     {
       "abr": "dropsuithelmet",
@@ -6544,7 +6544,7 @@
       "abr": "spacerbodysuit",
       "category": "Apparel",
       "defname": "Carbonsuit",
-      "price": -10
+      "price": 608
     },
     {
       "abr": "spikelance",
@@ -12107,7 +12107,13 @@
       "category": "Artifacts",
       "defname": "WeatherCancelDevice",
       "price": -10
+    },
+    {
+      "abr": "miliraconceptweaponry:cyclops",
+      "category": "Milira Utility",
+      "defname": "Milira_ConceptWeaponry_Cyclops",
+      "price": 15050
     }
   ],
-  "total": 2018
+  "total": 2019
 }
