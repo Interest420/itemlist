@@ -70,7 +70,7 @@
       "abr": "psylinkneuroformer",
       "category": "Archotech",
       "defname": "PsychicAmplifier",
-      "price": -10
+      "price": 4333
     },
     {
       "abr": "heart",
@@ -946,7 +946,7 @@
       "abr": "hyperweave",
       "category": "Textiles",
       "defname": "Hyperweave",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "sheepwool",
@@ -1210,7 +1210,7 @@
       "abr": "pants",
       "category": "Misc",
       "defname": "Apparel_Pants",
-      "price": -10
+      "price": 143
     },
     {
       "abr": "t-shirt",
@@ -1222,7 +1222,7 @@
       "abr": "button-downshirt",
       "category": "Misc",
       "defname": "Apparel_CollarShirt",
-      "price": -10
+      "price": 166
     },
     {
       "abr": "duster",
@@ -2704,7 +2704,7 @@
       "abr": "skilltrainer(social)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Social",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(intellectual)",
@@ -5404,7 +5404,7 @@
       "abr": "archotechleg",
       "category": "Archotech",
       "defname": "ArchotechLeg",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "armorskingland",
@@ -6352,7 +6352,7 @@
       "abr": "psytrainer(farskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Farskip",
-      "price": -10
+      "price": 1417
     },
     {
       "abr": "psytrainer(flashstorm)",
@@ -9580,7 +9580,7 @@
       "abr": "prestigesubdermalarmour",
       "category": "Bionic",
       "defname": "LTS_PrestigeSubdermalArmour",
-      "price": -10
+      "price": 4658
     },
     {
       "abr": "proty",
@@ -10756,7 +10756,7 @@
       "abr": "cellularadaptor",
       "category": "Bionic",
       "defname": "LTS_CellularAdapter",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "churchdossier:bishopclass",
@@ -11776,7 +11776,7 @@
       "abr": "psychicpredictor",
       "category": "Archotech",
       "defname": "SoSPsychicPredictor",
-      "price": -10
+      "price": 2333
     },
     {
       "abr": "pulsebeamgun",
