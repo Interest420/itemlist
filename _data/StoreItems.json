@@ -16,7 +16,7 @@
       "abr": "ambrosia",
       "category": "Drugs",
       "defname": "Ambrosia",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "go-juice",
@@ -6448,7 +6448,7 @@
       "abr": "psytrainer(waterskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Waterskip",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "psytrainer(wordofinspiration)",
@@ -10654,7 +10654,7 @@
       "abr": "archotechheart",
       "category": "Archotech",
       "defname": "SoSArchotechHeart",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "archotechjaw",
@@ -10726,7 +10726,7 @@
       "abr": "archotechstomach",
       "category": "Archotech",
       "defname": "SoSArchotechStomach",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "archotechuplink",
@@ -10996,7 +10996,7 @@
       "abr": "combatdrone:minigun",
       "category": "Milira Utility",
       "defname": "Milira_CombatDrone_MiniGun",
-      "price": -10
+      "price": 2417
     },
     {
       "abr": "combatdrone:quadruplerocketlauncher",
@@ -11020,7 +11020,7 @@
       "abr": "combatplatform:energybubble",
       "category": "Milira Utility",
       "defname": "Milira_CombatDrone_EnergyBubble",
-      "price": -10
+      "price": 692
     },
     {
       "abr": "cosmopillar",
@@ -11068,7 +11068,7 @@
       "abr": "featherthread",
       "category": "Textiles",
       "defname": "Milira_FeatherThread",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "gravitationalgrenadebelt",
@@ -11158,7 +11158,7 @@
       "abr": "lustroussteel",
       "category": "Raw resources",
       "defname": "Milira_SplendidSteel",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "magneticrailrifle",
@@ -11446,7 +11446,7 @@
       "abr": "miliradustcoat",
       "category": "Milira Shell",
       "defname": "Milira_Dustcoat",
-      "price": -10
+      "price": 742
     },
     {
       "abr": "miliraelegancegown",
@@ -11656,7 +11656,7 @@
       "abr": "miliratravellerhood",
       "category": "Milira Overhead",
       "defname": "Milira_Hood",
-      "price": -10
+      "price": 900
     },
     {
       "abr": "milirauniversalworkbench",
@@ -11998,19 +11998,19 @@
       "abr": "smallfloatunitpack",
       "category": "Milira Utility",
       "defname": "Milira_FloatUnitPack",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "solarcrystal",
       "category": "Manufactured",
       "defname": "Milira_SolarCrystal",
-      "price": -10
+      "price": 42
     },
     {
       "abr": "solarfuel",
       "category": "Manufactured",
       "defname": "Milira_SunLightFuel",
-      "price": -10
+      "price": 13
     },
     {
       "abr": "solarreflector",
