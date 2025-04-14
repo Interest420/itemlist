@@ -550,7 +550,7 @@
       "abr": "healermechserum",
       "category": "Drugs",
       "defname": "MechSerumHealer",
-      "price": -10
+      "price": 2167
     },
     {
       "abr": "resurrectormechserum",
@@ -6370,7 +6370,7 @@
       "abr": "psytrainer(invisibility)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Invisibility",
-      "price": -10
+      "price": 1417
     },
     {
       "abr": "psytrainer(manhunterpulse)",
@@ -9160,7 +9160,7 @@
       "abr": "eltexadornments",
       "category": "Bionic",
       "defname": "EltexAdornments",
-      "price": -10
+      "price": 1808
     },
     {
       "abr": "empbomb",
@@ -9508,7 +9508,7 @@
       "abr": "neuralheatsink",
       "category": "Bionic",
       "defname": "NeuralHeatsink",
-      "price": -10
+      "price": 2492
     },
     {
       "abr": "nociosphereemitter",
@@ -10288,7 +10288,7 @@
       "abr": "shoulderchargeturret",
       "category": "Bionic",
       "defname": "LTS_ShoulderChargeTurret",
-      "price": -10
+      "price": 1867
     },
     {
       "abr": "shouldermortar",
@@ -10396,7 +10396,7 @@
       "abr": "strengthenhancer",
       "category": "Bionic",
       "defname": "StrengthEnhancer",
-      "price": -10
+      "price": 1383
     },
     {
       "abr": "subdermalarmour",
