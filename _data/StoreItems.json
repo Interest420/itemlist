@@ -3706,7 +3706,7 @@
       "abr": "epicureandelight",
       "category": "Meals",
       "defname": "MooMF_MealEpicurean",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "mythmaker",
@@ -5734,7 +5734,7 @@
       "abr": "psychicsensitizer",
       "category": "Archotech",
       "defname": "PsychicSensitizer",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "pumpkins",
@@ -9268,7 +9268,7 @@
       "abr": "hackingport",
       "category": "Bionic",
       "defname": "HackingPortImplant",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "halberd",
@@ -12022,7 +12022,7 @@
       "abr": "solar-forgedsteel",
       "category": "Raw resources",
       "defname": "Milira_SunPlateSteel",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "spacetelescope",
@@ -12112,7 +12112,7 @@
       "abr": "miliraconceptweaponry:cyclops",
       "category": "Milira Utility",
       "defname": "Milira_ConceptWeaponry_Cyclops",
-      "price": 15050
+      "price": -10
     }
   ],
   "total": 2019
