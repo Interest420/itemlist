@@ -31020,7 +31020,7 @@
     "KarmaType": null
   },
   "CranialInsulation": {
-    "CustomName": null,
+    "CustomName": "electromagneticinsulation",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -39269,7 +39269,7 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": true,
+    "IsUsable": false,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,

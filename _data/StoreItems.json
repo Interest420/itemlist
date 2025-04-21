@@ -514,7 +514,7 @@
       "abr": "vanometricpowercell",
       "category": "Special",
       "defname": "VanometricPowerCell",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "infinitechemreactor",
@@ -5374,13 +5374,13 @@
       "abr": "aestheticnose",
       "category": "Bionic",
       "defname": "AestheticNose",
-      "price": -10
+      "price": 975
     },
     {
       "abr": "aestheticshaper",
       "category": "Bionic",
       "defname": "AestheticShaper",
-      "price": -10
+      "price": 1383
     },
     {
       "abr": "apples",
@@ -5584,7 +5584,7 @@
       "abr": "healingenhancer",
       "category": "Bionic",
       "defname": "HealingEnhancer",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "immunoenhancer",
@@ -6316,7 +6316,7 @@
       "abr": "psytrainer(berserkpulse)",
       "category": "Psytrainers",
       "defname": "Psytrainer_BerserkPulse",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psytrainer(berserk)",
@@ -8320,7 +8320,7 @@
       "abr": "slimexenogerm",
       "category": "Items",
       "defname": "Xenogerm_MG_Slime",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "thrumbogirlxenogerm",
@@ -8914,13 +8914,13 @@
       "abr": "bionicfaceplate",
       "category": "Bionic",
       "defname": "LTS_FaceplateArachnid",
-      "price": -10
+      "price": 2608
     },
     {
       "abr": "bionictail",
       "category": "Bionic",
       "defname": "LTS_BionicTail",
-      "price": -10
+      "price": 2275
     },
     {
       "abr": "bionictail",
@@ -9028,7 +9028,7 @@
       "abr": "cranialinsulation",
       "category": "Bionic",
       "defname": "CranialInsulation",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "crate",
@@ -10624,7 +10624,7 @@
       "abr": "architerepairgel",
       "category": "Drugs",
       "defname": "ArchotechRepairGel",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "archolifepod",
@@ -10666,7 +10666,7 @@
       "abr": "archotechkidney",
       "category": "Archotech",
       "defname": "SoSArchotechKidney",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "archotechliver",
@@ -11062,7 +11062,7 @@
       "abr": "exoticparticles",
       "category": "Manufactured",
       "defname": "ArchotechExoticParticles",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "featherthread",
@@ -11404,7 +11404,7 @@
       "abr": "milirablackbodycondress",
       "category": "Milira OnSkin",
       "defname": "Milira_DelicateDressC",
-      "price": -10
+      "price": 575
     },
     {
       "abr": "milirabloodstainedfeather",
@@ -12076,7 +12076,7 @@
       "abr": "twin-rotorpropulsionsystem",
       "category": "Milian Utility",
       "defname": "Milira_Booster",
-      "price": -10
+      "price": 3408
     },
     {
       "abr": "unstablereactorvessel",
