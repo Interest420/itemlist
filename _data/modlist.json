@@ -36,6 +36,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Storytellers Expanded - Winston Waves",
+    "steamId": "3215569151",
+    "version": "1.0.2.2"
+  },
+  {
     "author": "Imranfish",
     "name": "XML Extensions",
     "steamId": "2574315206",
@@ -46,18 +52,6 @@
     "name": "Humanoid Alien Races",
     "steamId": "839005762",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Smash Phil",
-    "name": "Vehicle Framework",
-    "steamId": "3014915404",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Kentington, Thain and SonicTHI",
-    "name": "Save Our Ship 2",
-    "steamId": "1909914131",
-    "version": "0.0.0.0"
   },
   {
     "author": "Roo",
@@ -82,6 +76,12 @@
     "name": "Better ModMismatch Window",
     "steamId": "1872244972",
     "version": "1.1.3"
+  },
+  {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.5.10.0"
   },
   {
     "author": "Owlchemist",
@@ -222,8 +222,20 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "\"Carl\"",
-    "name": "Low-Tech Ship pack for SOS2",
+    "author": "Zaljerem",
+    "name": "JecsLite - A RimWorld of Magic",
+    "steamId": "3312959701",
+    "version": "1.0.2.0"
+  },
+  {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.6.3.4"
+  },
+  {
+    "author": "Kure",
+    "name": "Kure's Rimworld of Magic Class Expansion Pack",
     "steamId": null,
     "version": null
   },
@@ -268,12 +280,6 @@
     "name": "Mooloh's Mythic Framework",
     "steamId": "2819828894",
     "version": "0.0.0.0"
-  },
-  {
-    "author": "Zylle",
-    "name": "More Vanilla Biomes",
-    "steamId": "1931453053",
-    "version": "0.1.5.01"
   },
   {
     "author": "Oblitus",
@@ -322,6 +328,12 @@
     "name": "Optimization: Meats - C# Edition",
     "steamId": "2542931556",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Peppsen",
+    "name": "P-Music",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Taranchuk",
@@ -414,12 +426,6 @@
     "version": "2.0.3"
   },
   {
-    "author": "Rizno",
-    "name": "RimFTL (Music Pack)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "aRandomKiwi",
     "name": "RimSaves",
     "steamId": "1713367505",
@@ -480,28 +486,16 @@
     "version": null
   },
   {
-    "author": "void",
-    "name": "Character Editor",
-    "steamId": "1874644848",
-    "version": "1.5.10.0"
-  },
-  {
-    "author": "nightz",
-    "name": "Sos2 Eva Patcher",
-    "steamId": "3253743384",
-    "version": "0.1.0.0+121d03b08a02a89e447d9387bb8e33d1a1271656"
-  },
-  {
-    "author": "TheCafFiend",
-    "name": "Spinal Engines for SOS2",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "DarkShadow44",
     "name": "SurgeryImproved",
     "steamId": "3233032071",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Lanilor",
+    "name": "Terra Project Core (Continued)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "nry",
@@ -534,16 +528,16 @@
     "version": "1.1.0.0"
   },
   {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Furniture Expanded - Art",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki, dninemfive, Kikohi and Sarg",
     "name": "Vanilla Furniture Expanded - Farming",
     "steamId": "1957158779",
     "version": "1.0.1.0"
+  },
+  {
+    "author": "legodude17 and Oskar Potocki",
+    "name": "Vanilla Outposts Expanded",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "ComradeAlexey",
@@ -612,10 +606,22 @@
     "version": null
   },
   {
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.7.7366"
+  },
+  {
     "author": "Mehni",
     "name": "Pick Up And Haul",
     "steamId": "1279012058",
     "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, erdelf, Roolo, Smash Phil, Taranchuk, xrushha, Kikohi and legodude17",
+    "name": "Vanilla Factions Expanded - Pirates",
+    "steamId": "2723801948",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, Trunken and XeoNovaDan",
@@ -636,10 +642,28 @@
     "version": "1.5.0"
   },
   {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Art",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien and Oracle of Thessia",
+    "name": "ReBuild: Doors and Corners",
+    "steamId": "3262718980",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Owlchemist",
     "name": "Simple Utilities: Fridge",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki, Kikohi, Helixien and Sarg",
+    "name": "Vanilla Events Expanded",
+    "steamId": "1938420742",
+    "version": "1.1.0"
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
