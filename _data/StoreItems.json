@@ -940,7 +940,7 @@
       "abr": "devilstrand",
       "category": "Textiles",
       "defname": "DevilstrandCloth",
-      "price": 25
+      "price": 9
     },
     {
       "abr": "hyperweave",
@@ -5797,12 +5797,6 @@
       "price": 650
     },
     {
-      "abr": "bench",
-      "category": "Furniture",
-      "defname": "Seat_Bench",
-      "price": -10
-    },
-    {
       "abr": "countertop",
       "category": "Furniture",
       "defname": "Table_Counter",
@@ -5810,7 +5804,7 @@
     },
     {
       "abr": "dartsboard",
-      "category": "Furniture",
+      "category": "Recreation",
       "defname": "Joy_DartsBoard",
       "price": 174
     },
@@ -5879,12 +5873,6 @@
       "category": "Furniture",
       "defname": "Light_Streetlamp",
       "price": -10
-    },
-    {
-      "abr": "punchingbag",
-      "category": "Furniture",
-      "defname": "Joy_PunchingBag",
-      "price": 375
     },
     {
       "abr": "roulettetable",
@@ -15023,7 +15011,73 @@
       "category": "Yuran Manufactured",
       "defname": "YR_ClothBox_GoddessDress",
       "price": 7000
+    },
+    {
+      "abr": "yuranroyalslavecloth",
+      "category": "Yuran Apparel",
+      "defname": "YR_AP_RoyalSlave",
+      "price": 303
+    },
+    {
+      "abr": "chiseleddoublebed",
+      "category": "Furniture",
+      "defname": "VFE_Bed_StoneSlabDouble",
+      "price": 318
+    },
+    {
+      "abr": "coffeetable",
+      "category": "Furniture",
+      "defname": "VFE_CoffeeTable",
+      "price": 121
+    },
+    {
+      "abr": "desklamp",
+      "category": "Furniture",
+      "defname": "VFE_DeskLamp",
+      "price": 49
+    },
+    {
+      "abr": "floorlamp",
+      "category": "Furniture",
+      "defname": "VFE_FloorLamp",
+      "price": 66
+    },
+    {
+      "abr": "longplantpot",
+      "category": "Furniture",
+      "defname": "VFE_LongPlantPot",
+      "price": 68
+    },
+    {
+      "abr": "lounger",
+      "category": "Furniture",
+      "defname": "VFE_Lounger",
+      "price": 174
+    },
+    {
+      "abr": "modularcouch",
+      "category": "Furniture",
+      "defname": "VFE_ModularCouch",
+      "price": 375
+    },
+    {
+      "abr": "royalstandinglamp",
+      "category": "Furniture",
+      "defname": "VFE_RoyalLamp",
+      "price": 150
+    },
+    {
+      "abr": "royalwardrobe",
+      "category": "Furniture",
+      "defname": "VFE_RoyalWardrobe",
+      "price": 1142
+    },
+    {
+      "abr": "simpledoublebed",
+      "category": "Furniture",
+      "defname": "VFE_Bed_SimpleDouble",
+      "price": 274
     }
   ],
-  "total": 2504
+  "total": 2513
 }
