@@ -47600,7 +47600,7 @@
     "KarmaType": null
   },
   "AD_Sentinel": {
-    "CustomName": null,
+    "CustomName": "plasmarifle-fed",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
