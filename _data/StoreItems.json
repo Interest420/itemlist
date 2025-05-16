@@ -3532,7 +3532,7 @@
       "abr": "biomutationlance",
       "category": "Utility",
       "defname": "Apparel_BiomutationLance",
-      "price": 1417
+      "price": -10
     },
     {
       "abr": "labcoat",
@@ -13583,7 +13583,79 @@
       "category": "Misc",
       "defname": "Zombrella",
       "price": -10
+    },
+    {
+      "abr": "caralternator",
+      "category": "Car parts",
+      "defname": "VVE_CarAlternator",
+      "price": -10
+    },
+    {
+      "abr": "carbattery",
+      "category": "Car parts",
+      "defname": "VVE_CarBattery",
+      "price": -10
+    },
+    {
+      "abr": "carexhaust",
+      "category": "Car parts",
+      "defname": "VVE_CarExhaust",
+      "price": -10
+    },
+    {
+      "abr": "carfueltank",
+      "category": "Car parts",
+      "defname": "VVE_CarFuelTank",
+      "price": -10
+    },
+    {
+      "abr": "carradiator",
+      "category": "Car parts",
+      "defname": "VVE_CarRadiator",
+      "price": -10
+    },
+    {
+      "abr": "carsuspension",
+      "category": "Car parts",
+      "defname": "VVE_CarSuspension",
+      "price": -10
+    },
+    {
+      "abr": "cartransmission",
+      "category": "Car parts",
+      "defname": "VVE_CarTransmission",
+      "price": -10
+    },
+    {
+      "abr": "carwheel",
+      "category": "Car parts",
+      "defname": "VVE_CarWheel",
+      "price": -10
+    },
+    {
+      "abr": "carwiring",
+      "category": "Car parts",
+      "defname": "VVE_CarWiring",
+      "price": -10
+    },
+    {
+      "abr": "engineblock",
+      "category": "Car parts",
+      "defname": "VVE_EngineBlock",
+      "price": -10
+    },
+    {
+      "abr": "garagecabinet",
+      "category": "Misc",
+      "defname": "VVE_GarageCabinet",
+      "price": 667
+    },
+    {
+      "abr": "refuelingpump",
+      "category": "Misc",
+      "defname": "VVE_RefuelingPump",
+      "price": -10
     }
   ],
-  "total": 2264
+  "total": 2276
 }
