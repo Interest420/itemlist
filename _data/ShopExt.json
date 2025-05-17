@@ -2072,42 +2072,6 @@
       "addPrice": 3000,
       "removePrice": 3000,
       "degree": 0,
-      "description": "Timmy's faith is firm. It allows him to move under any circumstances.",
-      "stats": [
-        "+10% pain shock threshold",
-        "-15% mental break threshold"
-      ],
-      "conflicts": [
-        "carefulshooter",
-        "trigger-happy",
-        "wimp"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "carefulshooter",
-          "trigger-happy",
-          "wimp"
-        ],
-        "stats": [
-          "+10% pain shock threshold",
-          "-15% mental break threshold"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "NewRatkinPlus",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Faith",
-      "name": "faith"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
-      "degree": 0,
       "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
       "stats": [],
       "conflicts": [],
@@ -4387,85 +4351,6 @@
       "enabled": false,
       "name": "Thrumbogirl",
       "price": 3667
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+50.00 Mass",
-          "+100% Flammability",
-          "+1.2 Melee dodge chance",
-          "+0% Melee critical chance",
-          "+0% Melee parry chance",
-          "+$2000 Market value",
-          "+4.85 Move speed",
-          "+31.0C Max comfortable temperature",
-          "+6.0C Min comfortable temperature",
-          "+110% Immunity gain speed",
-          "+45 Carrying capacity",
-          "+70% Pain shock threshold",
-          "+90% Toxic environment resistance",
-          "+110% Eating speed",
-          "+35 Meat amount",
-          "+30 Leather amount",
-          "+118% Aiming time",
-          "+85.00% Negotiation ability",
-          "+107.00% Social impact",
-          "+110% Mining speed",
-          "+105% Mining yield",
-          "+110% Plant work speed",
-          "+115% Hunting stealth",
-          "+90% Construction speed",
-          "+80% Research speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.",
-      "defName": "Ratkin",
-      "enabled": false,
-      "name": "Ratkin",
-      "price": 3333
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+50.00 Mass",
-          "+100% Flammability",
-          "+1.2 Melee dodge chance",
-          "+0% Melee critical chance",
-          "+0% Melee parry chance",
-          "+$2000 Market value",
-          "+4.85 Move speed",
-          "+31.0C Max comfortable temperature",
-          "+6.0C Min comfortable temperature",
-          "+110% Immunity gain speed",
-          "+45 Carrying capacity",
-          "+70% Pain shock threshold",
-          "+80% Toxic environment resistance",
-          "+110% Eating speed",
-          "+35 Meat amount",
-          "+30 Leather amount",
-          "+118% Aiming time",
-          "+75.00% Negotiation ability",
-          "+95.00% Social impact",
-          "+110% Mining speed",
-          "+105% Mining yield",
-          "+110% Plant work speed",
-          "+115% Hunting stealth",
-          "+90% Construction speed",
-          "+80% Research speed",
-          "+85% Psychic sensitivity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.",
-      "defName": "Ratkin_Su",
-      "enabled": false,
-      "name": "Ratkin subject",
-      "price": 3333
     },
     {
       "data": {
