@@ -1360,31 +1360,31 @@
       "abr": "tribalwear",
       "category": "Misc",
       "defname": "Apparel_TribalA",
-      "price": -10
+      "price": 211
     },
     {
       "abr": "parka",
       "category": "Misc",
       "defname": "Apparel_Parka",
-      "price": -10
+      "price": 315
     },
     {
       "abr": "pants",
       "category": "Misc",
       "defname": "Apparel_Pants",
-      "price": -10
+      "price": 76
     },
     {
       "abr": "t-shirt",
       "category": "Misc",
       "defname": "Apparel_BasicShirt",
-      "price": -10
+      "price": 76
     },
     {
       "abr": "button-downshirt",
       "category": "Misc",
       "defname": "Apparel_CollarShirt",
-      "price": -10
+      "price": 100
     },
     {
       "abr": "duster",
@@ -1396,7 +1396,7 @@
       "abr": "jacket",
       "category": "Misc",
       "defname": "Apparel_Jacket",
-      "price": -10
+      "price": 242
     },
     {
       "abr": "platearmor",
@@ -1444,7 +1444,7 @@
       "abr": "robe",
       "category": "Misc",
       "defname": "Apparel_Robe",
-      "price": -10
+      "price": 297
     },
     {
       "abr": "sandstoneblocks",
@@ -3232,7 +3232,7 @@
       "abr": "sash",
       "category": "Misc",
       "defname": "Apparel_Sash",
-      "price": -10
+      "price": 89
     },
     {
       "abr": "toxgrenade",
@@ -3538,7 +3538,7 @@
       "abr": "labcoat",
       "category": "Misc",
       "defname": "Apparel_LabCoat",
-      "price": -10
+      "price": 263
     },
     {
       "abr": "hellcatrifle",
@@ -12604,7 +12604,7 @@
       "abr": "riflecartridge(ap)",
       "category": "Full power rifle ammo",
       "defname": "Ammo_Rifle_AP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "riflecartridge(hp)",
