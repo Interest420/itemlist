@@ -970,7 +970,7 @@
       "abr": "chemfuel",
       "category": "Manufactured",
       "defname": "Chemfuel",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "reinforcedbarrel",
@@ -1060,7 +1060,7 @@
       "abr": "plasteel",
       "category": "Raw resources",
       "defname": "Plasteel",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "wood",
@@ -1390,7 +1390,7 @@
       "abr": "duster",
       "category": "Misc",
       "defname": "Apparel_Duster",
-      "price": -10
+      "price": 327
     },
     {
       "abr": "jacket",
