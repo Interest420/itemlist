@@ -826,7 +826,7 @@
       "abr": "pemmican",
       "category": "Foods",
       "defname": "Pemmican",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "chocolate",
@@ -3448,7 +3448,7 @@
       "abr": "bioferrite",
       "category": "Raw resources",
       "defname": "Bioferrite",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "dreadleather",
@@ -12166,7 +12166,7 @@
       "abr": "skilltrainer(shooting)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Shooting",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(melee)",
@@ -12766,7 +12766,7 @@
       "abr": "shotgunshell(buck)",
       "category": "Shotgun ammo",
       "defname": "Ammo_Shotgun_Buck",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "shotgunshell(slug)",
