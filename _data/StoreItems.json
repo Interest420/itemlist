@@ -244,7 +244,7 @@
       "abr": "smallsculpture",
       "category": "Art",
       "defname": "SculptureSmall",
-      "price": -10
+      "price": 275
     },
     {
       "abr": "largesculpture",
@@ -2884,7 +2884,7 @@
       "abr": "mechlink",
       "category": "Mechtech",
       "defname": "Mechlink",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "controlsublink(standard)",
@@ -12040,7 +12040,7 @@
       "abr": "psytrainer(skip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Skip",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "psytrainer(wallraise)",
@@ -12400,7 +12400,7 @@
       "abr": "nyaronpowercell",
       "category": "Advanced",
       "defname": "Ammo_NyaronCell",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "nyaronflakgrenade",
@@ -13085,7 +13085,13 @@
       "category": "Light cannon shell",
       "defname": "Ammo_LightCannonShell_HE_TFuzed",
       "price": 38
+    },
+    {
+      "abr": "lightcannonshell(sabot)",
+      "category": "Light cannon shell",
+      "defname": "Ammo_LightCannonShell_Sabot",
+      "price": 22
     }
   ],
-  "total": 2181
+  "total": 2182
 }
