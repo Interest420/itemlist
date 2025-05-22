@@ -22,7 +22,7 @@
       "abr": "beer",
       "category": "Drugs",
       "defname": "Beer",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "wort",
@@ -34,55 +34,55 @@
       "abr": "ambrosia",
       "category": "Drugs",
       "defname": "Ambrosia",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "go-juice",
       "category": "Drugs",
       "defname": "GoJuice",
-      "price": -10
+      "price": 88
     },
     {
       "abr": "luciferium",
       "category": "Drugs",
       "defname": "Luciferium",
-      "price": -10
+      "price": 117
     },
     {
       "abr": "penoxycyline",
       "category": "Drugs",
       "defname": "Penoxycyline",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "flake",
       "category": "Drugs",
       "defname": "Flake",
-      "price": -10
+      "price": 23
     },
     {
       "abr": "psychitetea",
       "category": "Drugs",
       "defname": "PsychiteTea",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "yayo",
       "category": "Drugs",
       "defname": "Yayo",
-      "price": -10
+      "price": 35
     },
     {
       "abr": "smokeleafjoint",
       "category": "Drugs",
       "defname": "SmokeleafJoint",
-      "price": -10
+      "price": 18
     },
     {
       "abr": "wake-up",
       "category": "Drugs",
       "defname": "WakeUp",
-      "price": -10
+      "price": 58
     },
     {
       "abr": "psylinkneuroformer",
@@ -934,19 +934,19 @@
       "abr": "herbalmedicine",
       "category": "Medicine",
       "defname": "MedicineHerbal",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "medicine",
       "category": "Medicine",
       "defname": "MedicineIndustrial",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "glitterworldmedicine",
       "category": "Medicine",
       "defname": "MedicineUltratech",
-      "price": -10
+      "price": 83
     },
     {
       "abr": "component",
@@ -1054,7 +1054,7 @@
       "abr": "steel",
       "category": "Raw resources",
       "defname": "Steel",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "plasteel",
@@ -1072,7 +1072,7 @@
       "abr": "uranium",
       "category": "Raw resources",
       "defname": "Uranium",
-      "price": -10
+      "price": 10
     },
     {
       "abr": "jade",
@@ -3424,7 +3424,7 @@
       "abr": "metalbloodserum",
       "category": "Drugs",
       "defname": "MetalbloodSerum",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "juggernautserum",
@@ -4066,7 +4066,7 @@
       "abr": "medicinalcactipinequill",
       "category": "Medicine",
       "defname": "AA_CactipineQuill",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "bluemilk",
@@ -5086,7 +5086,7 @@
       "abr": "psycho",
       "category": "Drugs",
       "defname": "Psycho",
-      "price": -10
+      "price": 12
     },
     {
       "abr": "loadingbench",
@@ -5338,7 +5338,7 @@
       "abr": "berdanmodel1870(bayonet)",
       "category": "Guns Galore",
       "defname": "CGF1_MWP_Berdan_Model1870_Bayonet_",
-      "price": -10
+      "price": 425
     },
     {
       "abr": "berdanmodel1870cavalry",
@@ -6406,13 +6406,13 @@
       "abr": "supercooledcream",
       "category": "Drugs",
       "defname": "SupercooledCream",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "liquidamber",
       "category": "Drugs",
       "defname": "LiquidAmber",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "icefairydust",
@@ -6424,7 +6424,7 @@
       "abr": "crystalblue",
       "category": "Drugs",
       "defname": "CrystalBlue",
-      "price": -10
+      "price": 83
     },
     {
       "abr": "forestfairydust",
@@ -6436,13 +6436,13 @@
       "abr": "crystalgreen",
       "category": "Drugs",
       "defname": "CrystalGreen",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "arcanefluid",
       "category": "Drugs",
       "defname": "MG_ArcaneFluid",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "slimejelly",
@@ -7150,7 +7150,7 @@
       "abr": "n.p.crifle",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_NpcRifle",
-      "price": -10
+      "price": 1408
     },
     {
       "abr": "lastpunishmentincinerator",
@@ -9376,19 +9376,19 @@
       "abr": "tsingtao",
       "category": "Drugs",
       "defname": "AM_TsingtaoBeer",
-      "price": -10
+      "price": 42
     },
     {
       "abr": "budweiser",
       "category": "Drugs",
       "defname": "AM_Budweiser",
-      "price": -10
+      "price": 42
     },
     {
       "abr": "milkbeer",
       "category": "Drugs",
       "defname": "AM_MilkBeer",
-      "price": -10
+      "price": 42
     },
     {
       "abr": "coca-cola",
@@ -9700,85 +9700,85 @@
       "abr": "surgicalbag",
       "category": "Drugs",
       "defname": "AM_SurgicalBag",
-      "price": -10
+      "price": 617
     },
     {
       "abr": "survivalkit",
       "category": "Drugs",
       "defname": "AM_BigSurgicalBag",
-      "price": -10
+      "price": 750
     },
     {
       "abr": "ai2a",
       "category": "Medicine",
       "defname": "AM_AI2A",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "hemostaticagent",
       "category": "Medicine",
       "defname": "AM_HemostaticAgent",
-      "price": -10
+      "price": 50
     },
     {
       "abr": "firstaidkit",
       "category": "Medicine",
       "defname": "AM_FirstAidKit",
-      "price": -10
+      "price": 67
     },
     {
       "abr": "salewakit",
       "category": "Medicine",
       "defname": "AM_Salewa",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "grizzlykit",
       "category": "Medicine",
       "defname": "AM_Grizzly",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "ancientgrizzlykit",
       "category": "Medicine",
       "defname": "AM_AncientGrizzly",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "metalbloodinjector",
       "category": "Drugs",
       "defname": "AM_MetalbloodInjector",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "analgesicregenerationinjector",
       "category": "Drugs",
       "defname": "AM_AnalgesicRegenerationInjector",
-      "price": -10
+      "price": 1500
     },
     {
       "abr": "cellregenerationinjector",
       "category": "Drugs",
       "defname": "AM_CellRegenerationInjector",
-      "price": -10
+      "price": 4167
     },
     {
       "abr": "essentialbalm",
       "category": "Drugs",
       "defname": "AM_EssentialBalm",
-      "price": -10
+      "price": 83
     },
     {
       "abr": "ibuprofen",
       "category": "Drugs",
       "defname": "AM_Ibuprofen",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "antibiotic",
       "category": "Drugs",
       "defname": "AM_Antibiotic",
-      "price": -10
+      "price": 92
     },
     {
       "abr": "m7spearcqb",
@@ -10048,133 +10048,133 @@
       "abr": "elixirofcalming",
       "category": "Elixirs",
       "defname": "AYElixirCalming",
-      "price": -10
+      "price": 38
     },
     {
       "abr": "elixirofinciting",
       "category": "Elixirs",
       "defname": "AYElixirInciting",
-      "price": -10
+      "price": 48
     },
     {
       "abr": "elixiroflucidity",
       "category": "Elixirs",
       "defname": "AYElixirLucidity",
-      "price": -10
+      "price": 27
     },
     {
       "abr": "elixirofsoothing",
       "category": "Elixirs",
       "defname": "AYElixirSoothing",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "aloecream",
       "category": "Ointments",
       "defname": "AYAloeCream",
-      "price": -10
+      "price": 44
     },
     {
       "abr": "lavenderbalm",
       "category": "Ointments",
       "defname": "AYLavenderBalm",
-      "price": -10
+      "price": 43
     },
     {
       "abr": "lavendersoap",
       "category": "Ointments",
       "defname": "AYLavenderSoap",
-      "price": -10
+      "price": 22
     },
     {
       "abr": "scarcream",
       "category": "Ointments",
       "defname": "AYScarCream",
-      "price": -10
+      "price": 87
     },
     {
       "abr": "yarrowcream",
       "category": "Ointments",
       "defname": "AYYarrowCream",
-      "price": -10
+      "price": 32
     },
     {
       "abr": "smellingsalts",
       "category": "Salts",
       "defname": "AYSmellingSalts",
-      "price": -10
+      "price": 24
     },
     {
       "abr": "stomachsalts",
       "category": "Salts",
       "defname": "AYStomachSalts",
-      "price": -10
+      "price": 12
     },
     {
       "abr": "henbanejoint",
       "category": "Smokes",
       "defname": "AYHenbaneJoint",
-      "price": -10
+      "price": 18
     },
     {
       "abr": "gingertea",
       "category": "Herbal Teas",
       "defname": "AYGingerTea",
-      "price": -10
+      "price": 9
     },
     {
       "abr": "ginsengtea",
       "category": "Herbal Teas",
       "defname": "AYGinsengTea",
-      "price": -10
+      "price": 12
     },
     {
       "abr": "henbanetea",
       "category": "Herbal Teas",
       "defname": "AYHenbaneTea",
-      "price": -10
+      "price": 8
     },
     {
       "abr": "kaletea",
       "category": "Herbal Teas",
       "defname": "AYKaleTea",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "nettletea",
       "category": "Herbal Teas",
       "defname": "AYNettleTea",
-      "price": -10
+      "price": 6
     },
     {
       "abr": "quininetea",
       "category": "Herbal Teas",
       "defname": "AYQuinineTea",
-      "price": -10
+      "price": 7
     },
     {
       "abr": "turmerictea",
       "category": "Herbal Teas",
       "defname": "AYTurmericTea",
-      "price": -10
+      "price": 12
     },
     {
       "abr": "flutonic",
       "category": "Tonics",
       "defname": "AYFluTonic",
-      "price": -10
+      "price": 37
     },
     {
       "abr": "willowtonic",
       "category": "Tonics",
       "defname": "AYWillowTonic",
-      "price": -10
+      "price": 18
     },
     {
       "abr": "wormwoodtonic",
       "category": "Tonics",
       "defname": "AYWormwoodTonic",
-      "price": -10
+      "price": 18
     },
     {
       "abr": "apothecaryrobe",
@@ -10216,7 +10216,7 @@
       "abr": "absinthe",
       "category": "Alcohol",
       "defname": "AYAbsinthe",
-      "price": -10
+      "price": 56
     },
     {
       "abr": "absinthemash",
@@ -10546,13 +10546,13 @@
       "abr": "yarrowbandages",
       "category": "Medicine",
       "defname": "AYYarrowBandage",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "treatedherbalmedicine",
       "category": "Medicine",
       "defname": "AYTreatedMedHerb",
-      "price": -10
+      "price": 38
     },
     {
       "abr": "planter",
