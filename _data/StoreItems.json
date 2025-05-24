@@ -700,7 +700,7 @@
       "abr": "vanometricpowercell",
       "category": "Special",
       "defname": "VanometricPowerCell",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "infinitechemreactor",
@@ -1066,7 +1066,7 @@
       "abr": "wood",
       "category": "Raw resources",
       "defname": "WoodLog",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "uranium",
@@ -1078,7 +1078,7 @@
       "abr": "jade",
       "category": "Raw resources",
       "defname": "Jade",
-      "price": -10
+      "price": 8
     },
     {
       "abr": "cloth",
@@ -8134,7 +8134,7 @@
       "abr": "makeshiftcruciblerifle",
       "category": "Ranged weapons",
       "defname": "Gun_MCrucibleRifle",
-      "price": -10
+      "price": 408
     },
     {
       "abr": "scarecrow",
@@ -12172,7 +12172,7 @@
       "abr": "skilltrainer(melee)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Melee",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(construction)",
@@ -12220,7 +12220,7 @@
       "abr": "skilltrainer(medical)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Medicine",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(social)",
