@@ -106,7 +106,7 @@
       "abr": "archotechleg",
       "category": "Archotech",
       "defname": "ArchotechLeg",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "bioniceye",
@@ -766,55 +766,55 @@
       "abr": "packagedsurvivalmeal",
       "category": "Meals",
       "defname": "MealSurvivalPack",
-      "price": -10
+      "price": 40
     },
     {
       "abr": "nutrientpastemeal",
       "category": "Meals",
       "defname": "MealNutrientPaste",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "simplemeal",
       "category": "Meals",
       "defname": "MealSimple",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "finemeal",
       "category": "Meals",
       "defname": "MealFine",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "vegetarianfinemeal",
       "category": "Meals",
       "defname": "MealFine_Veg",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "carnivorefinemeal",
       "category": "Meals",
       "defname": "MealFine_Meat",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "lavishmeal",
       "category": "Meals",
       "defname": "MealLavish",
-      "price": -10
+      "price": 67
     },
     {
       "abr": "vegetarianlavishmeal",
       "category": "Meals",
       "defname": "MealLavish_Veg",
-      "price": -10
+      "price": 67
     },
     {
       "abr": "carnivorelavishmeal",
       "category": "Meals",
       "defname": "MealLavish_Meat",
-      "price": -10
+      "price": 67
     },
     {
       "abr": "kibble",
@@ -832,7 +832,7 @@
       "abr": "chocolate",
       "category": "Foods",
       "defname": "Chocolate",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "milk",
@@ -844,7 +844,7 @@
       "abr": "insectjelly",
       "category": "Animal products",
       "defname": "InsectJelly",
-      "price": -10
+      "price": 13
     },
     {
       "abr": "skull",
@@ -1726,7 +1726,7 @@
       "abr": "cat",
       "category": "Animals",
       "defname": "Cat",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "yorkshireterrier",
@@ -1744,13 +1744,13 @@
       "abr": "labradorretriever",
       "category": "Animals",
       "defname": "LabradorRetriever",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "husky",
       "category": "Animals",
       "defname": "Husky",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "monkey",
@@ -1762,13 +1762,13 @@
       "abr": "chicken",
       "category": "Animals",
       "defname": "Chicken",
-      "price": -10
+      "price": 83
     },
     {
       "abr": "duck",
       "category": "Animals",
       "defname": "Duck",
-      "price": -10
+      "price": 100
     },
     {
       "abr": "turkey",
@@ -1990,7 +1990,7 @@
       "abr": "boomrat",
       "category": "Animals",
       "defname": "Boomrat",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "raccoon",
@@ -2032,13 +2032,13 @@
       "abr": "redfox",
       "category": "Animals",
       "defname": "Fox_Red",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "arcticfox",
       "category": "Animals",
       "defname": "Fox_Arctic",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "psychicsensitizer",
@@ -4060,7 +4060,7 @@
       "abr": "blackhiveinsectjelly",
       "category": "Animal products",
       "defname": "AA_BlackInsectJelly",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "medicinalcactipinequill",
@@ -4084,7 +4084,7 @@
       "abr": "disgustingnutrientpastemeal",
       "category": "Meals",
       "defname": "AA_DisgustingMealNutrientPaste",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "gallatrosshorn",
@@ -4342,7 +4342,7 @@
       "abr": "animusvox",
       "category": "Animals",
       "defname": "AA_AnimusVox",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "arcticlion",
@@ -4492,7 +4492,7 @@
       "abr": "crescendoanole",
       "category": "Animals",
       "defname": "AA_CrescendoAnole",
-      "price": -10
+      "price": 750
     },
     {
       "abr": "crystallinecaracal",
@@ -6448,7 +6448,7 @@
       "abr": "slimejelly",
       "category": "Animal products",
       "defname": "SlimeJelly",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "cowgirlmilk",
@@ -6568,7 +6568,7 @@
       "abr": "epicureandelight",
       "category": "Meals",
       "defname": "MooMF_MealEpicurean",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "mythmaker",
@@ -8800,7 +8800,7 @@
       "abr": "survivalnutrientpastespack",
       "category": "Meals",
       "defname": "SurvivalNutrientPack",
-      "price": -10
+      "price": 23
     },
     {
       "abr": "farmmarkermap",
@@ -9304,73 +9304,73 @@
       "abr": "classicpotatochips",
       "category": "Meals",
       "defname": "AM_PotatoChipsA",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "tomatopotatochips",
       "category": "Meals",
       "defname": "AM_PotatoChipsB",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "cucumberpotatochips",
       "category": "Meals",
       "defname": "AM_PotatoChipsC",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "steakpotatochips",
       "category": "Meals",
       "defname": "AM_PotatoChipsD",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "lemonpotatochips",
       "category": "Meals",
       "defname": "AM_PotatoChipsE",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "italianredstewpotatochips",
       "category": "Meals",
       "defname": "AM_PotatoChipsF",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "militaryration",
       "category": "Meals",
       "defname": "AM_MRE",
-      "price": -10
+      "price": 42
     },
     {
       "abr": "cannedbraisedpork",
       "category": "Meals",
       "defname": "AM_CannedBraisedPorkbelly",
-      "price": -10
+      "price": 117
     },
     {
       "abr": "cannedherring",
       "category": "Meals",
       "defname": "AM_CannedHerring",
-      "price": -10
+      "price": 100
     },
     {
       "abr": "cannedpeas",
       "category": "Meals",
       "defname": "AM_CannedPeas",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "cannedstewedmuffalo",
       "category": "Meals",
       "defname": "AM_CannedStewedBeef",
-      "price": -10
+      "price": 100
     },
     {
       "abr": "deluxecannedmuffalo",
       "category": "Meals",
       "defname": "AM_DeliciousCannedBeef",
-      "price": -10
+      "price": 200
     },
     {
       "abr": "tsingtao",
@@ -9394,25 +9394,25 @@
       "abr": "coca-cola",
       "category": "Meals",
       "defname": "AM_Coca",
-      "price": -10
+      "price": 42
     },
     {
       "abr": "fanta",
       "category": "Meals",
       "defname": "AM_Fanta",
-      "price": -10
+      "price": 42
     },
     {
       "abr": "pepsi",
       "category": "Meals",
       "defname": "AM_Pepsi",
-      "price": -10
+      "price": 42
     },
     {
       "abr": "sprite",
       "category": "Meals",
       "defname": "AM_Sprite",
-      "price": -10
+      "price": 42
     },
     {
       "abr": "bakingthermometer",
@@ -9562,7 +9562,7 @@
       "abr": "goldenroosterstatue",
       "category": "Rare items",
       "defname": "AM_GoldenRoosterStatue",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "sicc",
@@ -10708,61 +10708,61 @@
       "abr": "apples",
       "category": "Raw fruits",
       "defname": "VCE_RawApple",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "peaches",
       "category": "Raw fruits",
       "defname": "VCE_RawPeach",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "cherries",
       "category": "Raw fruits",
       "defname": "VCE_RawCherry",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "plums",
       "category": "Raw fruits",
       "defname": "VCE_RawPlum",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "prunes",
       "category": "Raw fruits",
       "defname": "VCE_RawPrunes",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "pears",
       "category": "Raw fruits",
       "defname": "VCE_RawPear",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "pricklypears",
       "category": "Raw fruits",
       "defname": "VCE_RawPricklyPear",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "bearberries",
       "category": "Raw fruits",
       "defname": "VCE_Bearberry",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "bananas",
       "category": "Raw fruits",
       "defname": "VCE_RawBanana",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "oranges",
       "category": "Raw fruits",
       "defname": "VCE_RawOrange",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "onions",
@@ -10822,7 +10822,7 @@
       "abr": "nukomilk",
       "category": "Animal products",
       "defname": "MaidnukosMilk",
-      "price": -10
+      "price": 11
     },
     {
       "abr": "nukoidbell",
@@ -10840,13 +10840,13 @@
       "abr": "nuko",
       "category": "Animals",
       "defname": "Maidnukos",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "nuko",
       "category": "Animals",
       "defname": "SeniorMaidnukos",
-      "price": -10
+      "price": 2167
     },
     {
       "abr": "rncqbdesk",
@@ -12094,7 +12094,7 @@
       "abr": "psytrainer(waterskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Waterskip",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "psytrainer(flashstorm)",
