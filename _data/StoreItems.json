@@ -820,7 +820,7 @@
       "abr": "kibble",
       "category": "Foods",
       "defname": "Kibble",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "pemmican",
@@ -1348,7 +1348,7 @@
       "abr": "psychicshocklance",
       "category": "Utility",
       "defname": "Apparel_PsychicShockLance",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "psychicinsanitylance",
@@ -5200,7 +5200,7 @@
       "abr": "gasmask",
       "category": "Headgear",
       "defname": "CE_Apparel_GasMask",
-      "price": 193
+      "price": -10
     },
     {
       "abr": "improvisedgasmask",
@@ -8122,7 +8122,7 @@
       "abr": "plasmarifle",
       "category": "Federation weapons",
       "defname": "AD_Sentinel",
-      "price": 4817
+      "price": -10
     },
     {
       "abr": "auxiliarypistol",
@@ -11998,7 +11998,7 @@
       "abr": "psytrainer(stun)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Stun",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "psytrainer(burden)",
@@ -12028,7 +12028,7 @@
       "abr": "psytrainer(vertigopulse)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VertigoPulse",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "psytrainer(chaosskip)",
@@ -12112,7 +12112,7 @@
       "abr": "psytrainer(solarpinhole)",
       "category": "Psytrainers",
       "defname": "Psytrainer_SolarPinhole",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "psytrainer(wordoftrust)",
@@ -12616,7 +12616,7 @@
       "abr": "riflecartridge(ap-i)",
       "category": "Full power rifle ammo",
       "defname": "Ammo_Rifle_Incendiary",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "riflecartridge(ap-he)",
