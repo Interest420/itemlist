@@ -100,7 +100,7 @@
       "abr": "archotecharm",
       "category": "Archotech",
       "defname": "ArchotechArm",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "archotechleg",
@@ -12688,7 +12688,7 @@
       "abr": "magnumriflecartridge(ap-he)",
       "category": "Magnum rifle ammo",
       "defname": "Ammo_RifleMagnum_HE",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "magnumriflecartridge(sabot)",
