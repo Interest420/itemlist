@@ -1102,7 +1102,7 @@
       "abr": "hyperweave",
       "category": "Textiles",
       "defname": "Hyperweave",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "sheepwool",
@@ -12076,7 +12076,7 @@
       "abr": "psytrainer(berserkpulse)",
       "category": "Psytrainers",
       "defname": "Psytrainer_BerserkPulse",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psytrainer(manhunterpulse)",
@@ -12682,7 +12682,7 @@
       "abr": "magnumriflecartridge(ap-i)",
       "category": "Magnum rifle ammo",
       "defname": "Ammo_RifleMagnum_Incendiary",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "magnumriflecartridge(ap-he)",
