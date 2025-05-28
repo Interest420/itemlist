@@ -6472,7 +6472,7 @@
       "abr": "thrumbogirlwool",
       "category": "Wools",
       "defname": "MG_ThrumbogirlWool",
-      "price": -10
+      "price": 23
     },
     {
       "abr": "foxgirlfur",
@@ -11992,7 +11992,7 @@
       "abr": "psytrainer(painblock)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Painblock",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "psytrainer(stun)",
