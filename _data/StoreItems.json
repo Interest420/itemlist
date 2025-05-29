@@ -112,61 +112,61 @@
       "abr": "bioniceye",
       "category": "Bionic",
       "defname": "BionicEye",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "bionicarm",
       "category": "Bionic",
       "defname": "BionicArm",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "bionicleg",
       "category": "Bionic",
       "defname": "BionicLeg",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "bionicspine",
       "category": "Bionic",
       "defname": "BionicSpine",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "bionicheart",
       "category": "Bionic",
       "defname": "BionicHeart",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "bionicstomach",
       "category": "Bionic",
       "defname": "BionicStomach",
-      "price": -10
+      "price": 1308
     },
     {
       "abr": "deathacidifier",
       "category": "Bionic",
       "defname": "DeathAcidifier",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "bionicear",
       "category": "Bionic",
       "defname": "BionicEar",
-      "price": -10
+      "price": 1308
     },
     {
       "abr": "bionictongue",
       "category": "Bionic",
       "defname": "BionicTongue",
-      "price": -10
+      "price": 942
     },
     {
       "abr": "bionicjaw",
       "category": "Bionic",
       "defname": "BionicJaw",
-      "price": -10
+      "price": 1308
     },
     {
       "abr": "heart",
@@ -196,43 +196,43 @@
       "abr": "prostheticleg",
       "category": "Prosthetic",
       "defname": "SimpleProstheticLeg",
-      "price": -10
+      "price": 433
     },
     {
       "abr": "prostheticarm",
       "category": "Prosthetic",
       "defname": "SimpleProstheticArm",
-      "price": -10
+      "price": 433
     },
     {
       "abr": "prostheticheart",
       "category": "Prosthetic",
       "defname": "SimpleProstheticHeart",
-      "price": -10
+      "price": 383
     },
     {
       "abr": "cochlearimplant",
       "category": "Prosthetic",
       "defname": "CochlearImplant",
-      "price": -10
+      "price": 367
     },
     {
       "abr": "powerclaw",
       "category": "Prosthetic",
       "defname": "PowerClaw",
-      "price": -10
+      "price": 642
     },
     {
       "abr": "joywire",
       "category": "Prosthetic",
       "defname": "Joywire",
-      "price": -10
+      "price": 367
     },
     {
       "abr": "painstopper",
       "category": "Prosthetic",
       "defname": "Painstopper",
-      "price": -10
+      "price": 367
     },
     {
       "abr": "urn",
@@ -2062,151 +2062,151 @@
       "abr": "neurocalculator",
       "category": "Bionic",
       "defname": "Neurocalculator",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "learningassistant",
       "category": "Bionic",
       "defname": "LearningAssistant",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "gastro-analyzer",
       "category": "Bionic",
       "defname": "GastroAnalyzer",
-      "price": -10
+      "price": 1383
     },
     {
       "abr": "immunoenhancer",
       "category": "Bionic",
       "defname": "Immunoenhancer",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "coagulator",
       "category": "Bionic",
       "defname": "Coagulator",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "healingenhancer",
       "category": "Bionic",
       "defname": "HealingEnhancer",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "toughskingland",
       "category": "Bionic",
       "defname": "ToughskinGland",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "armorskingland",
       "category": "Bionic",
       "defname": "ArmorskinGland",
-      "price": -10
+      "price": 2458
     },
     {
       "abr": "stoneskingland",
       "category": "Bionic",
       "defname": "StoneskinGland",
-      "price": -10
+      "price": 3200
     },
     {
       "abr": "aestheticshaper",
       "category": "Bionic",
       "defname": "AestheticShaper",
-      "price": -10
+      "price": 1383
     },
     {
       "abr": "aestheticnose",
       "category": "Bionic",
       "defname": "AestheticNose",
-      "price": -10
+      "price": 975
     },
     {
       "abr": "loveenhancer",
       "category": "Bionic",
       "defname": "LoveEnhancer",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "sterilizingstomach",
       "category": "Bionic",
       "defname": "DetoxifierStomach",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "reprocessorstomach",
       "category": "Bionic",
       "defname": "ReprocessorStomach",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "nuclearstomach",
       "category": "Bionic",
       "defname": "NuclearStomach",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "circadianassistant",
       "category": "Bionic",
       "defname": "CircadianAssistant",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "circadianhalf-cycler",
       "category": "Bionic",
       "defname": "CircadianHalfCycler",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "mindscrew",
       "category": "Prosthetic",
       "defname": "Mindscrew",
-      "price": -10
+      "price": 350
     },
     {
       "abr": "drillarm",
       "category": "Prosthetic",
       "defname": "DrillArm",
-      "price": -10
+      "price": 708
     },
     {
       "abr": "fieldhand",
       "category": "Prosthetic",
       "defname": "FieldHand",
-      "price": -10
+      "price": 708
     },
     {
       "abr": "handtalon",
       "category": "Prosthetic",
       "defname": "HandTalon",
-      "price": -10
+      "price": 592
     },
     {
       "abr": "elbowblade",
       "category": "Prosthetic",
       "defname": "ElbowBlade",
-      "price": -10
+      "price": 592
     },
     {
       "abr": "kneespike",
       "category": "Prosthetic",
       "defname": "KneeSpike",
-      "price": -10
+      "price": 592
     },
     {
       "abr": "venomfangs",
       "category": "Prosthetic",
       "defname": "VenomFangs",
-      "price": -10
+      "price": 592
     },
     {
       "abr": "venomtalon",
       "category": "Prosthetic",
       "defname": "VenomTalon",
-      "price": -10
+      "price": 592
     },
     {
       "abr": "drape",
@@ -2872,13 +2872,13 @@
       "abr": "detoxifierlung",
       "category": "Bionic",
       "defname": "DetoxifierLung",
-      "price": -10
+      "price": 1542
     },
     {
       "abr": "detoxifierkidney",
       "category": "Bionic",
       "defname": "DetoxifierKidney",
-      "price": -10
+      "price": 1800
     },
     {
       "abr": "mechlink",
@@ -3298,7 +3298,7 @@
       "abr": "revenantvertebrae",
       "category": "Bionic",
       "defname": "RevenantVertebrae",
-      "price": -10
+      "price": 3158
     },
     {
       "abr": "holdingplatform",
@@ -5908,7 +5908,7 @@
       "abr": "archotechspine",
       "category": "Archotech",
       "defname": "LTS_ArchotechSpine",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "signalbooster(standard)",
@@ -5992,79 +5992,79 @@
       "abr": "dreadheart",
       "category": "Bionic",
       "defname": "Dreadheart",
-      "price": -10
+      "price": 3158
     },
     {
       "abr": "psychicagonizer",
       "category": "Bionic",
       "defname": "PsychicAgonizer",
-      "price": -10
+      "price": 3158
     },
     {
       "abr": "blacksightdevice",
       "category": "Bionic",
       "defname": "BlacksightDevice",
-      "price": -10
+      "price": 6492
     },
     {
       "abr": "psychicbeguiler",
       "category": "Bionic",
       "defname": "PsychicBeguiler",
-      "price": -10
+      "price": 3492
     },
     {
       "abr": "metalhorrorsymbiont",
       "category": "Bionic",
       "defname": "MetalhorrorSymbiont",
-      "price": -10
+      "price": 875
     },
     {
       "abr": "alkalicoatimplant",
       "category": "Bionic",
       "defname": "DeacidifierMembrane",
-      "price": -10
+      "price": 858
     },
     {
       "abr": "deadlifecoil",
       "category": "Bionic",
       "defname": "DeadlifeCollar",
-      "price": -10
+      "price": 875
     },
     {
       "abr": "retributiveimpaler",
       "category": "Bionic",
       "defname": "DefensiveImpaler",
-      "price": -10
+      "price": 858
     },
     {
       "abr": "hyper-adrenalinegland",
       "category": "Bionic",
       "defname": "HyperAdrenalineGland",
-      "price": -10
+      "price": 858
     },
     {
       "abr": "slayer'scollar",
       "category": "Bionic",
       "defname": "SlayersCollar",
-      "price": -10
+      "price": 875
     },
     {
       "abr": "psychicsustainer",
       "category": "Bionic",
       "defname": "PsychicSustainer",
-      "price": -10
+      "price": 858
     },
     {
       "abr": "voidlink",
       "category": "Bionic",
       "defname": "LTS_Voidlink",
-      "price": -10
+      "price": 875
     },
     {
       "abr": "psychicreaper",
       "category": "Bionic",
       "defname": "LTS_PsychicReaper",
-      "price": -10
+      "price": 875
     },
     {
       "abr": "nerveshredderclaw",
@@ -6106,91 +6106,91 @@
       "abr": "gourmandtongue",
       "category": "Bionic",
       "defname": "GourmandTongue",
-      "price": -10
+      "price": 1383
     },
     {
       "abr": "prestigesubdermalarmour",
       "category": "Bionic",
       "defname": "LTS_PrestigeSubdermalArmour",
-      "price": -10
+      "price": 4658
     },
     {
       "abr": "eltexadornments",
       "category": "Bionic",
       "defname": "EltexAdornments",
-      "price": -10
+      "price": 1808
     },
     {
       "abr": "neuralheatsink",
       "category": "Bionic",
       "defname": "NeuralHeatsink",
-      "price": -10
+      "price": 2492
     },
     {
       "abr": "hackingport",
       "category": "Bionic",
       "defname": "HackingPortImplant",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "strengthenhancer",
       "category": "Bionic",
       "defname": "StrengthEnhancer",
-      "price": -10
+      "price": 1383
     },
     {
       "abr": "synthmarrow",
       "category": "Bionic",
       "defname": "Synthmarrow",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "bionicwomb",
       "category": "Bionic",
       "defname": "Synthwomb",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "subdermalarmour",
       "category": "Bionic",
       "defname": "LTS_SubdermalArmour",
-      "price": -10
+      "price": 3758
     },
     {
       "abr": "bio-tuner",
       "category": "Bionic",
       "defname": "BiotunerImplant",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "electromagneticinsulation",
       "category": "Bionic",
       "defname": "CranialInsulation",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "biochameleondevice",
       "category": "Bionic",
       "defname": "BiochameleonDevice",
-      "price": -10
+      "price": 1975
     },
     {
       "abr": "cellularadaptor",
       "category": "Bionic",
       "defname": "LTS_CellularAdapter",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "memorydatabank",
       "category": "Bionic",
       "defname": "LTS_MemoryDatabank",
-      "price": -10
+      "price": 1975
     },
     {
       "abr": "firesuppressionsystem",
       "category": "Bionic",
       "defname": "LTS_FireSupressionSystem",
-      "price": -10
+      "price": 1383
     },
     {
       "abr": "psychiclevitator",
@@ -6220,103 +6220,103 @@
       "abr": "internalclimatecontrol",
       "category": "Prosthetic",
       "defname": "InternalClimateControlImplant",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "cryptosleepadaptor",
       "category": "Prosthetic",
       "defname": "CryptoWakeImplant",
-      "price": -10
+      "price": 533
     },
     {
       "abr": "skeletalbracing",
       "category": "Prosthetic",
       "defname": "SkeletalBracing",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "lacto-stimulator",
       "category": "Prosthetic",
       "defname": "LactoStimulator",
-      "price": -10
+      "price": 433
     },
     {
       "abr": "brainshocker",
       "category": "Prosthetic",
       "defname": "LTS_NeuralStunner",
-      "price": -10
+      "price": 342
     },
     {
       "abr": "braindetonator",
       "category": "Prosthetic",
       "defname": "LTS_BrainDetonator",
-      "price": -10
+      "price": 342
     },
     {
       "abr": "voicelock",
       "category": "Prosthetic",
       "defname": "LTS_Voicelock",
-      "price": -10
+      "price": 342
     },
     {
       "abr": "activecamouflage",
       "category": "Bionic",
       "defname": "LTS_StealthSystem",
-      "price": -10
+      "price": 2383
     },
     {
       "abr": "bionicfaceplate",
       "category": "Bionic",
       "defname": "LTS_FaceplateArachnid",
-      "price": -10
+      "price": 2608
     },
     {
       "abr": "vanguardaccelerator",
       "category": "Bionic",
       "defname": "LTS_Vanguard",
-      "price": -10
+      "price": 2608
     },
     {
       "abr": "shoulderturret",
       "category": "Prosthetic",
       "defname": "LTS_ShoulderTurret",
-      "price": -10
+      "price": 708
     },
     {
       "abr": "shoulderchargeturret",
       "category": "Bionic",
       "defname": "LTS_ShoulderChargeTurret",
-      "price": -10
+      "price": 1867
     },
     {
       "abr": "shoulderrocketpod",
       "category": "Bionic",
       "defname": "LTS_ShoulderRocketPod",
-      "price": -10
+      "price": 2275
     },
     {
       "abr": "shouldermortar",
       "category": "Bionic",
       "defname": "LTS_ShoulderMortar",
-      "price": -10
+      "price": 2275
     },
     {
       "abr": "venomtail",
       "category": "Bionic",
       "defname": "LTS_ScorpionTail",
-      "price": -10
+      "price": 2275
     },
     {
       "abr": "bionictail",
       "category": "Bionic",
       "defname": "LTS_BionicTail",
-      "price": -10
+      "price": 2275
     },
     {
       "abr": "clawtail",
       "category": "Bionic",
       "defname": "LTS_ManipulationTail",
-      "price": -10
+      "price": 2275
     },
     {
       "abr": "dreadmeldcore",
@@ -6340,49 +6340,49 @@
       "abr": "faketail",
       "category": "Prosthetic",
       "defname": "MG_FakeTail",
-      "price": -10
+      "price": 240
     },
     {
       "abr": "fakehorn",
       "category": "Prosthetic",
       "defname": "MG_FakeHorn",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "steelhorn",
       "category": "Prosthetic",
       "defname": "MG_SteelHorn",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "silverhorn",
       "category": "Prosthetic",
       "defname": "MG_SilverHorn",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "goldenhorn",
       "category": "Prosthetic",
       "defname": "MG_GoldHorn",
-      "price": -10
+      "price": 6667
     },
     {
       "abr": "jadehorn",
       "category": "Prosthetic",
       "defname": "MG_JadeHorn",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "plasteelhorn",
       "category": "Prosthetic",
       "defname": "MG_PlasteelHorn",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "bionictail",
       "category": "Bionic",
       "defname": "MG_BionicTail",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "thrumbogirlhorn",
@@ -7078,7 +7078,7 @@
       "abr": "bioniccattail",
       "category": "Bionic",
       "defname": "Nr_BioCatTail",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "nyaronleather",
@@ -8362,13 +8362,13 @@
       "abr": "bionicbladder",
       "category": "Bionic",
       "defname": "BionicBladder",
-      "price": -10
+      "price": 1308
     },
     {
       "abr": "hygieneenhancer",
       "category": "Bionic",
       "defname": "HygieneEnhancer",
-      "price": -10
+      "price": 1308
     },
     {
       "abr": "plumbingvalve",
@@ -8812,13 +8812,13 @@
       "abr": "integratedparasitearmor",
       "category": "Bionic",
       "defname": "AM_IntegratedTorsoArmor",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "rampageparasite",
       "category": "Bionic",
       "defname": "AM_RampageParasite",
-      "price": -10
+      "price": 3667
     },
     {
       "abr": "compositeassaultdress",
@@ -12070,7 +12070,7 @@
       "abr": "psytrainer(invisibility)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Invisibility",
-      "price": -10
+      "price": 1417
     },
     {
       "abr": "psytrainer(berserkpulse)",
@@ -12526,7 +12526,7 @@
       "abr": "launchergrenade(emp)",
       "category": "Launcher Grenade",
       "defname": "Ammo_LauncherGrenade_EMP",
-      "price": -10
+      "price": 8
     },
     {
       "abr": "launchergrenade(smoke)",
@@ -13091,7 +13091,13 @@
       "category": "Light cannon shell",
       "defname": "Ammo_LightCannonShell_Sabot",
       "price": 22
+    },
+    {
+      "abr": "zombrella",
+      "category": "Misc",
+      "defname": "Zombrella",
+      "price": 3333
     }
   ],
-  "total": 2182
+  "total": 2183
 }
