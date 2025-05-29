@@ -640,7 +640,7 @@
       "abr": "iedtrap",
       "category": "Security",
       "defname": "TrapIED_HighExplosive",
-      "price": -10
+      "price": 131
     },
     {
       "abr": "iedincendiarytrap",
@@ -724,7 +724,7 @@
       "abr": "psychicsoothepulser",
       "category": "Artifacts",
       "defname": "PsychicSoothePulser",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "personacore",
