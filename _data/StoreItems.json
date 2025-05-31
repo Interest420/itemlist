@@ -3364,7 +3364,7 @@
       "abr": "ieddeadlifetrap",
       "category": "Security",
       "defname": "TrapIED_Deadlife",
-      "price": -10
+      "price": 133
     },
     {
       "abr": "electroharvester",
@@ -12376,7 +12376,7 @@
       "abr": "ultra-densityalloy",
       "category": "Semi-molten Alloy Round",
       "defname": "Ammo_JI_Alloy",
-      "price": -10
+      "price": 6
     },
     {
       "abr": "teuniversalpowercell(ke)",
