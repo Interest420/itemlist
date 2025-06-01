@@ -1042,7 +1042,7 @@
       "abr": "silver",
       "category": "Raw resources",
       "defname": "Silver",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "gold",
@@ -1120,7 +1120,7 @@
       "abr": "megaslothwool",
       "category": "Wools",
       "defname": "WoolMegasloth",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "muffalowool",
@@ -5104,7 +5104,7 @@
       "abr": "chargeblasterauto-turret",
       "category": "Security",
       "defname": "Turret_Blaster",
-      "price": -10
+      "price": 1783
     },
     {
       "abr": "heavyauto-turret",
@@ -6196,7 +6196,7 @@
       "abr": "psychiclevitator",
       "category": "Archotech",
       "defname": "PsychicLevitator",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "archotechwomb",
@@ -6382,7 +6382,7 @@
       "abr": "bionictail",
       "category": "Bionic",
       "defname": "MG_BionicTail",
-      "price": 1717
+      "price": -10
     },
     {
       "abr": "thrumbogirlhorn",
@@ -7078,7 +7078,7 @@
       "abr": "bioniccattail",
       "category": "Bionic",
       "defname": "Nr_BioCatTail",
-      "price": 1717
+      "price": -10
     },
     {
       "abr": "nyaronleather",
@@ -8656,7 +8656,7 @@
       "abr": "archotechshieldgenerator",
       "category": "Special",
       "defname": "VFES_ShieldGenerator_Archotech",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "chargeturret",
@@ -12106,7 +12106,7 @@
       "abr": "psytrainer(skipshield)",
       "category": "Psytrainers",
       "defname": "Psytrainer_BulletShield",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psytrainer(solarpinhole)",
@@ -12502,7 +12502,7 @@
       "abr": "chargedriflecartridge(ion)",
       "category": "Charged Rifle Ammo",
       "defname": "Ammo_RifleCharged_Ion",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "launchergrenade(he)",
