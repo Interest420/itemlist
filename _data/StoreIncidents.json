@@ -1,6 +1,11 @@
 {
 	"incitems" : [
 	{
+		"abr": "tornado",
+		"price": 5000,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -41,6 +46,36 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "heatwave",
+		"price": 750,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "flashstorm",
+		"price": 400,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "coldsnap",
+		"price": 800,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "solarflare",
+		"price": 1000,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "toxicfallout",
+		"price": 7500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "volcanicwinter",
+		"price": 3000,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "eclipse",
 		"price": 450,
 		"karmatype": "Bad"
@@ -63,11 +98,6 @@
 	{
 		"abr": "tradercaravan",
 		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "orbitaltraderarrival",
-		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
@@ -101,11 +131,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "shipchunkdrop",
-		"price": 300,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "skillincrease",
 		"price": 200,
 		"karmatype": "Good"
@@ -119,16 +144,6 @@
 		"abr": "alphabeavers",
 		"price": 600,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "shippartpoison",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "shippartpsychic",
-		"price": 1500,
-		"karmatype": "Bad"
 	},
 	{
 		"abr": "militaryaid",
@@ -156,11 +171,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "mechanoidraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "infestation",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -183,6 +193,11 @@
 	{
 		"abr": "reviveanypawn",
 		"price": 3000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "pawn",
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -306,5 +321,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 61
+	"total": 64
 }
