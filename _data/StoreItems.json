@@ -166,7 +166,7 @@
       "abr": "animalbed",
       "category": "Furniture",
       "defname": "AnimalBed",
-      "price": -10
+      "price": 136
     },
     {
       "abr": "stool",
@@ -616,7 +616,7 @@
       "abr": "lavishmeal",
       "category": "Meals",
       "defname": "MealLavish",
-      "price": -10
+      "price": 67
     },
     {
       "abr": "vegetarianlavishmeal",
@@ -11890,7 +11890,7 @@
       "abr": "druidxenogerm",
       "category": "Items",
       "defname": "Xenogerm_MSSRPG_Druid",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "dustypocketwatch",
@@ -11950,7 +11950,7 @@
       "abr": "eltexianxenogerm",
       "category": "Items",
       "defname": "Xenogerm_MSSRPG_Eltexian",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "emptyinfuser",
@@ -12118,7 +12118,7 @@
       "abr": "giantkiller",
       "category": "Melee weapons",
       "defname": "RK_GiantKiller",
-      "price": -10
+      "price": 3217
     },
     {
       "abr": "gildedarquebus",
@@ -12658,13 +12658,13 @@
       "abr": "magexenogerm",
       "category": "Items",
       "defname": "Xenogerm_MSSRPG_Mage",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "magisterxenogerm",
       "category": "Items",
       "defname": "Xenogerm_MSSRPG_Magister",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "manger",
@@ -12730,7 +12730,7 @@
       "abr": "murineblackberrycin",
       "category": "Drugs",
       "defname": "RA_BlackberryNeedle",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "nightcheese",
@@ -12760,7 +12760,7 @@
       "abr": "nullkindxenogerm",
       "category": "Items",
       "defname": "Xenogerm_MSSRPG_Nullkind",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "oakbarrel",
@@ -13588,7 +13588,7 @@
       "abr": "warlockxenogerm",
       "category": "Items",
       "defname": "Xenogerm_MSSRPG_Warlock",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "weaponrack",
