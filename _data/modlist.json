@@ -9,7 +9,7 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "2.3.1.0"
+    "version": "2.3.4.0"
   },
   {
     "author": "bradson",
@@ -36,6 +36,30 @@
     "version": null
   },
   {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.1"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Roo",
+    "name": "Anty the war ant race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Arachne Race (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Zaljerem",
     "name": "Better Infestations (Continued)",
     "steamId": "3285516766",
@@ -46,6 +70,12 @@
     "name": "Better ModMismatch Window",
     "steamId": "1872244972",
     "version": "1.1.3"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Bombardment Raid (Continued)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "void",
@@ -64,12 +94,6 @@
     "name": "Compact Hediffs",
     "steamId": "2031734067",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "miyamiya, twsta and vokaerian",
-    "name": "Compressed Raid",
-    "steamId": "3227665030",
-    "version": "1.5"
   },
   {
     "author": "Spdskatr and CaesarV6",
@@ -108,10 +132,16 @@
     "version": "1.0.0+2534407508e276c66794b6b0ba18f36e2117384e"
   },
   {
+    "author": "trigger",
+    "name": "Elite Raid 精英化袭击",
+    "steamId": "3492954974",
+    "version": "1.0.0"
+  },
+  {
     "author": "Soul, Phaneron and Bradson",
     "name": "Adaptive Storage Framework",
     "steamId": "3033901359",
-    "version": "1.2.1+1b3d12d07c712c020aabac8255d0a856a9d12cce"
+    "version": "1.2.4+40787e9e0746aab12c0bcfb376f67bdeaffd6bdd"
   },
   {
     "author": "Owlchemist",
@@ -130,6 +160,12 @@
     "name": "Erin's Cat Overhaul",
     "steamId": "2763428090",
     "version": "1.0.8865.29426"
+  },
+  {
+    "author": "Wemd",
+    "name": "Expanded Floors",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Citrus",
@@ -168,6 +204,12 @@
     "version": null
   },
   {
+    "author": "Adamas",
+    "name": "Hospital",
+    "steamId": "2992224079",
+    "version": "1.4.0.0"
+  },
+  {
     "author": "latta",
     "name": "FSharp.Core",
     "steamId": null,
@@ -180,28 +222,16 @@
     "version": null
   },
   {
+    "author": "LTS",
+    "name": "Integrated Implants",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "キャデグ",
     "name": "Killfeed",
     "steamId": "1362098265",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Zaljerem",
-    "name": "JecsLite - A RimWorld of Magic",
-    "steamId": "3312959701",
-    "version": "1.0.2.0"
-  },
-  {
-    "author": "Torann",
-    "name": "A RimWorld of Magic",
-    "steamId": "1201382956",
-    "version": "2.6.3.4"
-  },
-  {
-    "author": "Kure",
-    "name": "Kure's Rimworld of Magic Class Expansion Pack",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "svc_bot",
@@ -216,28 +246,22 @@
     "version": "1.12.17+6db7d75d6e1005522b3ed749fab1d56e12fc2a46"
   },
   {
-    "author": "BotchJob",
-    "name": "Medieval Fantasy Themed Rare Resources",
-    "steamId": null,
-    "version": null
+    "author": "Ancot",
+    "name": "Ancot Library",
+    "steamId": "2988801276",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Ancot",
+    "name": "Milira Race",
+    "steamId": "3256974620",
+    "version": "1.0.0.0"
   },
   {
     "author": "Antaios",
     "name": "Mod Medicine Patch",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Imranfish",
-    "name": "XML Extensions",
-    "steamId": "2574315206",
-    "version": "1.7.1"
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
   },
   {
     "author": "Razar1",
@@ -294,12 +318,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Cooking Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "SeoHyeon",
     "name": "Optimization: Meats - C# Edition",
     "steamId": "2542931556",
@@ -318,18 +336,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "BotchJob",
-    "name": "Medieval Fantasy Themed Quest Rewards",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Botch_Job",
-    "name": "Possessed Weapons",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "iamrespawn",
     "name": "Prosthetic No Missing Body Parts (Continued)",
     "steamId": "2739055353",
@@ -346,36 +352,6 @@
     "name": "QualityBuilder",
     "steamId": "754637870",
     "version": "1.0.18"
-  },
-  {
-    "author": "Orion",
-    "name": "Hospitality",
-    "steamId": "753498552",
-    "version": "1.5.0.8"
-  },
-  {
-    "author": "Jaxe",
-    "name": "RimHUD",
-    "steamId": "1508850027",
-    "version": "1.15.3.0"
-  },
-  {
-    "author": "Ogam;Taranchuk;ILuvSilicon",
-    "name": "Rimedieval",
-    "steamId": "2516523040",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Trunken and XeoNovaDan",
-    "name": "Vanilla Furniture Expanded - Security",
-    "steamId": "1845154007",
-    "version": "1.1.1.0"
-  },
-  {
-    "author": "MrSamuelStreamer, Feldoh, Skullywag and Sandwish",
-    "name": "RPG Adventure Flavour Pack",
-    "steamId": "2916348220",
-    "version": "0.0.0.0"
   },
   {
     "author": "Sandy",
@@ -400,12 +376,6 @@
     "name": "Ratkin Anomaly+",
     "steamId": "3293914637",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "PPONN",
-    "name": "Ratkin Apparel+(unofficial))",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Feng Xinzi",
@@ -450,7 +420,7 @@
     "version": "1.1.0.0"
   },
   {
-    "author": "OskarPotocki, Atlas, Kikohi and Sarg",
+    "author": "OskarPotocki, Sokyran, Kikohi and Sarg",
     "name": "Vanilla Furniture Expanded",
     "steamId": "1718190143",
     "version": "1.1.0"
@@ -469,13 +439,31 @@
   },
   {
     "author": "Sierra",
-    "name": "RimTraits: General Traits",
+    "name": "RimTraits - General Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Security Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal Faction Pack - Federation",
     "steamId": null,
     "version": null
   },
   {
     "author": "katana",
-    "name": "Scenario Amender [1.5]",
+    "name": "Scenario Amender [1.5 - 1.6]",
     "steamId": null,
     "version": null
   },
@@ -486,10 +474,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Roolo",
-    "name": "Search and Destroy (Unofficial Update)",
-    "steamId": null,
-    "version": null
+    "author": "MemeGoddess",
+    "name": "Search and Destroy (Continued)",
+    "steamId": "3232242247",
+    "version": "1.0.0+4046c54016f50e4f8e75a26617c0c3481a0c399f"
   },
   {
     "author": "PeteTimesSix",
@@ -546,12 +534,6 @@
     "version": "1.1.0.0"
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Cooking Expanded - Stews",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki, dninemfive, Kikohi and Sarg",
     "name": "Vanilla Furniture Expanded - Farming",
     "steamId": "1957158779",
@@ -577,12 +559,6 @@
   },
   {
     "author": "1trickPwnyta",
-    "name": "Unlimited Threat Scale",
-    "steamId": "2562732435",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "1trickPwnyta",
     "name": "Visible Raid Points",
     "steamId": "2562730174",
     "version": "1.0.0.0"
@@ -598,12 +574,6 @@
     "name": "Xenotype Xenogerms (Continued)",
     "steamId": "3272195098",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Kiame Vivacity, Taranchuk and Fishpear",
-    "name": "[1.5][KV] Save Storage, Outfit, Crafting, Drug, & Operation Settings ",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "none",
@@ -636,16 +606,28 @@
     "version": null
   },
   {
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.7.7366"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Rimatomics",
+    "steamId": "1127530465",
+    "version": "1.7.7368"
+  },
+  {
     "author": "Mehni",
     "name": "Pick Up And Haul",
     "steamId": "1279012058",
     "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
   },
   {
-    "author": "Oskar Potocki, xrushha, Taranchuk, Sarg Bjornson and Oracle of Thessia",
-    "name": "Vanilla Factions Expanded - Medieval 2",
-    "steamId": "3444347874",
-    "version": "1.0.6.0"
+    "author": "Oskar Potocki, Trunken and XeoNovaDan",
+    "name": "Vanilla Furniture Expanded - Security",
+    "steamId": "1845154007",
+    "version": "1.1.1.0"
   },
   {
     "author": "FrozenSnowFox",
@@ -660,10 +642,16 @@
     "version": "1.5.0"
   },
   {
-    "author": "GloomyLynx NukaFrog",
-    "name": "GloomyFurniture",
-    "steamId": "1558635181",
-    "version": "1.0.4"
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Ideology Expanded - Memes and Structures",
+    "steamId": "2636329500",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson, Helixien, Cassie, Luizi and Allie",
+    "name": "Alpha Memes",
+    "steamId": "2661356814",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
@@ -678,16 +666,28 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Ideology Expanded - Memes and Structures",
-    "steamId": "2636329500",
-    "version": "1.0.0.0"
+    "author": "Owlchemist",
+    "name": "Simple Utilities: Fridge",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Kikohi, Helixien and Sarg",
+    "name": "Vanilla Events Expanded",
+    "steamId": "1938420742",
+    "version": "1.1.0"
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
     "name": "Vanilla Plants Expanded",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Jaxe",
+    "name": "RimHUD",
+    "steamId": "1508850027",
+    "version": "1.16.0.0"
   },
   {
     "author": "legodude17 and Oskar Potocki",
@@ -714,6 +714,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Kiame Vivacity, Taranchuk and Fishpear",
+    "name": "[KV] Save Storage, Outfit, Crafting, Drug, & Operation Settings [1.5/1.6]",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "DerekBickley",
     "name": "[LTO] Colony Groups",
     "steamId": "2345493945",
@@ -721,7 +727,7 @@
   },
   {
     "author": "salt_babe",
-    "name": "[L] House Maid Nukos 1.5",
+    "name": "[L] House Maid Nukos 1.6",
     "steamId": null,
     "version": null
   },
@@ -730,12 +736,6 @@
     "name": "[SYR] Harvest Yield (Continued)",
     "steamId": "3253521389",
     "version": "1.5.1"
-  },
-  {
-    "author": "Wemd",
-    "name": "[WD] Expanded Floors",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Krkr",
