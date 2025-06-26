@@ -514,7 +514,7 @@
       "abr": "vanometricpowercell",
       "category": "Special",
       "defname": "VanometricPowerCell",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "infinitechemreactor",
@@ -1720,7 +1720,7 @@
       "abr": "megaspider",
       "category": "Animals",
       "defname": "Megaspider",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "thrumbo",
@@ -1906,7 +1906,7 @@
       "abr": "unstablepowercell",
       "category": "Special",
       "defname": "UnstablePowerCell",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "mechnode",
@@ -5842,7 +5842,7 @@
       "abr": "lampendtable",
       "category": "Furniture",
       "defname": "Table_LightEndTable",
-      "price": 169
+      "price": -10
     },
     {
       "abr": "largebin",
@@ -6298,175 +6298,175 @@
       "abr": "psytrainer(beckon)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Beckon",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "psytrainer(berserkpulse)",
       "category": "Psytrainers",
       "defname": "Psytrainer_BerserkPulse",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "psytrainer(berserk)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Berserk",
-      "price": 1417
+      "price": -10
     },
     {
       "abr": "psytrainer(blindingpulse)",
       "category": "Psytrainers",
       "defname": "Psytrainer_BlindingPulse",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "psytrainer(burden)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Burden",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "psytrainer(chaosskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_ChaosSkip",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "psytrainer(chunkskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Chunkskip",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "psytrainer(farskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Farskip",
-      "price": 1417
+      "price": -10
     },
     {
       "abr": "psytrainer(flashstorm)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Flashstorm",
-      "price": 1417
+      "price": -10
     },
     {
       "abr": "psytrainer(focus)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Focus",
-      "price": 1167
+      "price": -10
     },
     {
       "abr": "psytrainer(invisibility)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Invisibility",
-      "price": 1417
+      "price": -10
     },
     {
       "abr": "psytrainer(manhunterpulse)",
       "category": "Psytrainers",
       "defname": "Psytrainer_ManhunterPulse",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "psytrainer(masschaosskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_MassChaosSkip",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "psytrainer(neuralheatdump)",
       "category": "Psytrainers",
       "defname": "Psytrainer_EntropyDump",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "psytrainer(neuroquake)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Neuroquake",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "psytrainer(painblock)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Painblock",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "psytrainer(skip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Skip",
-      "price": 1167
+      "price": -10
     },
     {
       "abr": "psytrainer(skipshield)",
       "category": "Psytrainers",
       "defname": "Psytrainer_BulletShield",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "psytrainer(smokepop)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Smokepop",
-      "price": 1167
+      "price": -10
     },
     {
       "abr": "psytrainer(solarpinhole)",
       "category": "Psytrainers",
       "defname": "Psytrainer_SolarPinhole",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "psytrainer(stun)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Stun",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "psytrainer(vertigopulse)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VertigoPulse",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "psytrainer(wallraise)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Wallraise",
-      "price": 1167
+      "price": -10
     },
     {
       "abr": "psytrainer(waterskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Waterskip",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "psytrainer(wordofinspiration)",
       "category": "Psytrainers",
       "defname": "Psytrainer_WordOfInspiration",
-      "price": 1417
+      "price": -10
     },
     {
       "abr": "psytrainer(wordofjoy)",
       "category": "Psytrainers",
       "defname": "Psytrainer_WordOfJoy",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "psytrainer(wordoflove)",
       "category": "Psytrainers",
       "defname": "Psytrainer_WordOfLove",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "psytrainer(wordofserenity)",
       "category": "Psytrainers",
       "defname": "Psytrainer_WordOfSerenity",
-      "price": 1167
+      "price": -10
     },
     {
       "abr": "psytrainer(wordoftrust)",
       "category": "Psytrainers",
       "defname": "Psytrainer_WordOfTrust",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "reflactorcarapace",
@@ -7498,7 +7498,7 @@
       "abr": "yuranchargefirelock",
       "category": "Ranged weapons",
       "defname": "YR_WP_MonoGun",
-      "price": 1942
+      "price": -10
     },
     {
       "abr": "yurancheongpung",
@@ -7834,7 +7834,7 @@
       "abr": "biomutationpulser",
       "category": "Artifacts",
       "defname": "BiomutationPulser",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "bionicjaw",
@@ -8476,7 +8476,7 @@
       "abr": "antybutcher-chart",
       "category": "Misc",
       "defname": "AT_Chart",
-      "price": 467
+      "price": -10
     },
     {
       "abr": "antycapecoat",
@@ -10756,7 +10756,7 @@
       "abr": "ratkincannonshell",
       "category": "Ratkin Cannon Shell",
       "defname": "Big_mouse",
-      "price": 92
+      "price": -10
     },
     {
       "abr": "ratkincardigan",
@@ -11038,7 +11038,7 @@
       "abr": "ratkinprototypepulserifle",
       "category": "Ranged weapons",
       "defname": "RK_PrototypePulseRifle",
-      "price": 2150
+      "price": -10
     },
     {
       "abr": "ratkinresearchgown",
@@ -11560,7 +11560,7 @@
       "abr": "tanningrack",
       "category": "Furniture",
       "defname": "ReelStorageTanningRack",
-      "price": 154
+      "price": -10
     },
     {
       "abr": "tapinomaxenogerm",
@@ -11746,13 +11746,13 @@
       "abr": "wyvernammo(normal)",
       "category": "Manufactured",
       "defname": "RK_WyvernAmmo_NormalType",
-      "price": 92
+      "price": -10
     },
     {
       "abr": "wyvernammo(spread)",
       "category": "Manufactured",
       "defname": "RK_WyvernAmmo_SpreadType",
-      "price": 92
+      "price": -10
     },
     {
       "abr": "xmasantlers",
@@ -11800,55 +11800,55 @@
       "abr": "adamantineknightscissors",
       "category": "Melee weapons",
       "defname": "RA_PlayerScissors_Close",
-      "price": 8000
+      "price": -10
     },
     {
       "abr": "adamantineknightscissors",
       "category": "Melee weapons",
       "defname": "RA_PlayerScissors_Open",
-      "price": 8000
+      "price": -10
     },
     {
       "abr": "alc",
       "category": "Rimatomics Product",
       "defname": "ALC",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "alternativeorganismarm",
       "category": "Prosthetic",
       "defname": "AT_ExoProstheticArm",
-      "price": 525
+      "price": -10
     },
     {
       "abr": "alternativeorganismleg",
       "category": "Prosthetic",
       "defname": "AT_ExoProstheticLeg",
-      "price": 525
+      "price": -10
     },
     {
       "abr": "ancientlockerbank",
       "category": "Furniture",
       "defname": "AM_AncientLockerBank",
-      "price": 425
+      "price": -10
     },
     {
       "abr": "animaldatabase",
       "category": "Misc",
       "defname": "AM_AnimalDatabase",
-      "price": 154
+      "price": -10
     },
     {
       "abr": "anti-personnelmine",
       "category": "Security",
       "defname": "RKTrap_AP",
-      "price": 60
+      "price": -10
     },
     {
       "abr": "anti-tankmine",
       "category": "Security",
       "defname": "RKTrap_AT",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "anti-tankrifle",
@@ -11890,7 +11890,7 @@
       "abr": "atom",
       "category": "Rimatomics Product",
       "defname": "ATOM",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "auxiliaryaimingsniperrifle",
@@ -11902,7 +11902,7 @@
       "abr": "ballistabolt(firework)",
       "category": "Ballista bolt",
       "defname": "BallistaBolt_FA",
-      "price": 92
+      "price": -10
     },
     {
       "abr": "bayonetcharge",
@@ -11914,43 +11914,43 @@
       "abr": "beamsplitter",
       "category": "Rimatomics Product",
       "defname": "BeamSplitter",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "blackberrywine",
       "category": "Misc",
       "defname": "RA_BlackberryWine",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "blunttrap",
       "category": "Security",
       "defname": "AM_TrapBlunt",
-      "price": 112
+      "price": -10
     },
     {
       "abr": "bravetinsoldier",
       "category": "Furniture",
       "defname": "RA_BraveTinSoldier",
-      "price": 13
+      "price": -10
     },
     {
       "abr": "buddhistslab(broad)",
       "category": "Furniture",
       "defname": "AM_BuddhistSlab_Broad",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "buddhistslab(medium)",
       "category": "Furniture",
       "defname": "AM_BuddhistSlab_Medium",
-      "price": 342
+      "price": -10
     },
     {
       "abr": "cannon",
       "category": "Security",
       "defname": "Turret_RSCannon",
-      "price": 1058
+      "price": -10
     },
     {
       "abr": "cellularadaptor",
@@ -11962,25 +11962,25 @@
       "abr": "chiseleddoublebed",
       "category": "Furniture",
       "defname": "VFE_Bed_StoneSlabDouble",
-      "price": 318
+      "price": -10
     },
     {
       "abr": "christianslab(broad)",
       "category": "Furniture",
       "defname": "AM_ChristianSlab_Broad",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "christianslab(medium)",
       "category": "Furniture",
       "defname": "AM_ChristianSlab_Medium",
-      "price": 342
+      "price": -10
     },
     {
       "abr": "coffeetable",
       "category": "Furniture",
       "defname": "VFE_CoffeeTable",
-      "price": 121
+      "price": -10
     },
     {
       "abr": "combatplatform:mechcontrolunit",
@@ -11992,103 +11992,103 @@
       "abr": "controlrodactuator",
       "category": "Rimatomics Product",
       "defname": "ControlRodActuator",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "corpserumvat",
       "category": "Misc",
       "defname": "AM_RumBurialSpot",
-      "price": 492
+      "price": -10
     },
     {
       "abr": "corsairslab(broad)",
       "category": "Furniture",
       "defname": "AM_CorsairSlab_Broad",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "corsairslab(medium)",
       "category": "Furniture",
       "defname": "AM_CorsairSlab_Medium",
-      "price": 342
+      "price": -10
     },
     {
       "abr": "crudestonetable(1x2)",
       "category": "Furniture",
       "defname": "AM_Neolithic_StoneTable_1x2c",
-      "price": 98
+      "price": -10
     },
     {
       "abr": "crudestonetable(2x2)",
       "category": "Furniture",
       "defname": "AM_Neolithic_StoneTable_2x2c",
-      "price": 176
+      "price": -10
     },
     {
       "abr": "crudestonetable(2x4)",
       "category": "Furniture",
       "defname": "AM_Neolithic_StoneTable_2x4c",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "crudestonetable(3x3)",
       "category": "Furniture",
       "defname": "AM_Neolithic_StoneTable_3x3c",
-      "price": 350
+      "price": -10
     },
     {
       "abr": "crudewoodentable(1x2)",
       "category": "Furniture",
       "defname": "AM_Neolithic_WoodenTable_1x2c",
-      "price": 98
+      "price": -10
     },
     {
       "abr": "crudewoodentable(2x2)",
       "category": "Furniture",
       "defname": "AM_Neolithic_WoodenTable_2x2c",
-      "price": 176
+      "price": -10
     },
     {
       "abr": "crudewoodentable(2x4)",
       "category": "Furniture",
       "defname": "AM_Neolithic_WoodenTable_2x4c",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "crudewoodentable(3x3)",
       "category": "Furniture",
       "defname": "AM_Neolithic_WoodenTable_3x3c",
-      "price": 350
+      "price": -10
     },
     {
       "abr": "cubicbed",
       "category": "Furniture",
       "defname": "AM_CubicBed",
-      "price": 155
+      "price": -10
     },
     {
       "abr": "cubiccrib",
       "category": "Furniture",
       "defname": "AM_CubicCrib",
-      "price": 86
+      "price": -10
     },
     {
       "abr": "cubichospitalbed",
       "category": "Furniture",
       "defname": "AM_CubicHospitalBed",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "cubicslab(broad)",
       "category": "Furniture",
       "defname": "AM_CubicSlab_Broad",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "cubicslab(medium)",
       "category": "Furniture",
       "defname": "AM_CubicSlab_Medium",
-      "price": 342
+      "price": -10
     },
     {
       "abr": "darkinsulin",
@@ -12100,13 +12100,13 @@
       "abr": "depleteduranium",
       "category": "Rimatomics Product",
       "defname": "DepletedUraniumPellets",
-      "price": 13
+      "price": -10
     },
     {
       "abr": "desklamp",
       "category": "Furniture",
       "defname": "VFE_DeskLamp",
-      "price": 49
+      "price": -10
     },
     {
       "abr": "detonator",
@@ -12124,25 +12124,25 @@
       "abr": "doublecubicbed",
       "category": "Furniture",
       "defname": "AM_DoubleCubicBed",
-      "price": 292
+      "price": -10
     },
     {
       "abr": "doublehoraxianbed",
       "category": "Furniture",
       "defname": "AM_DoubleHoraxianBed",
-      "price": 292
+      "price": -10
     },
     {
       "abr": "doublestone-framedbedroll",
       "category": "Furniture",
       "defname": "AM_DoubleStoneBedroll",
-      "price": 295
+      "price": -10
     },
     {
       "abr": "driveactuator",
       "category": "Rimatomics Product",
       "defname": "DriveActuator",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "dusabotround",
@@ -12154,13 +12154,13 @@
       "abr": "dummy",
       "category": "Security",
       "defname": "RSDummy",
-      "price": 282
+      "price": -10
     },
     {
       "abr": "dustypocketwatch",
       "category": "Misc",
       "defname": "RA_DustyWatch",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "earphone",
@@ -12172,7 +12172,7 @@
       "abr": "ers",
       "category": "Rimatomics Product",
       "defname": "ERS",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "evilprophecy:curseflame",
@@ -12202,19 +12202,19 @@
       "abr": "fleshslab(broad)",
       "category": "Furniture",
       "defname": "AM_FleshSlab_Broad",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "fleshslab(medium)",
       "category": "Furniture",
       "defname": "AM_FleshSlab_Medium",
-      "price": 342
+      "price": -10
     },
     {
       "abr": "floorlamp",
       "category": "Furniture",
       "defname": "VFE_FloorLamp",
-      "price": 66
+      "price": -10
     },
     {
       "abr": "fragmissile",
@@ -12238,37 +12238,37 @@
       "abr": "fuelbarrel",
       "category": "Security",
       "defname": "FuelBarrel",
-      "price": 188
+      "price": -10
     },
     {
       "abr": "fuelrods",
       "category": "Nuclear fuel",
       "defname": "FuelRods",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "fuelrodsmox",
       "category": "Nuclear fuel",
       "defname": "FuelRodsMOX",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "futuristicgreatpyramid",
       "category": "Misc",
       "defname": "AM_FuturisticPyramid",
-      "price": 29800
+      "price": -10
     },
     {
       "abr": "futuristicobelisk",
       "category": "Misc",
       "defname": "AM_FuturisticObelisk",
-      "price": 1392
+      "price": -10
     },
     {
       "abr": "futuristicstele",
       "category": "Misc",
       "defname": "AM_FuturisticStele",
-      "price": 1392
+      "price": -10
     },
     {
       "abr": "genocide",
@@ -12286,13 +12286,13 @@
       "abr": "grandgate",
       "category": "Misc",
       "defname": "AM_GrandGate",
-      "price": 1783
+      "price": -10
     },
     {
       "abr": "greatpyramid",
       "category": "Misc",
       "defname": "AM_GreatPyramid",
-      "price": 32400
+      "price": -10
     },
     {
       "abr": "guardianshieldbelt",
@@ -12316,97 +12316,97 @@
       "abr": "hinduslab(broad)",
       "category": "Furniture",
       "defname": "AM_HinduSlab_Broad",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "hinduslab(medium)",
       "category": "Furniture",
       "defname": "AM_HinduSlab_Medium",
-      "price": 342
+      "price": -10
     },
     {
       "abr": "horaxianbed",
       "category": "Furniture",
       "defname": "AM_HoraxianBed",
-      "price": 155
+      "price": -10
     },
     {
       "abr": "horaxianslab(broad)",
       "category": "Furniture",
       "defname": "AM_HoraxianSlab_Broad",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "horaxianslab(medium)",
       "category": "Furniture",
       "defname": "AM_HoraxianSlab_Medium",
-      "price": 342
+      "price": -10
     },
     {
       "abr": "islamicslab(broad)",
       "category": "Furniture",
       "defname": "AM_IslamicSlab_Broad",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "islamicslab(medium)",
       "category": "Furniture",
       "defname": "AM_IslamicSlab_Medium",
-      "price": 342
+      "price": -10
     },
     {
       "abr": "jainslab(broad)",
       "category": "Furniture",
       "defname": "AM_JainSlab_Broad",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "jainslab(medium)",
       "category": "Furniture",
       "defname": "AM_JainSlab_Medium",
-      "price": 342
+      "price": -10
     },
     {
       "abr": "jewishslab(broad)",
       "category": "Furniture",
       "defname": "AM_JewishSlab_Broad",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "jewishslab(medium)",
       "category": "Furniture",
       "defname": "AM_JewishSlab_Medium",
-      "price": 342
+      "price": -10
     },
     {
       "abr": "kemeticslab(broad)",
       "category": "Furniture",
       "defname": "AM_KemeticSlab_Broad",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "kemeticslab(medium)",
       "category": "Furniture",
       "defname": "AM_KemeticSlab_Medium",
-      "price": 342
+      "price": -10
     },
     {
       "abr": "kineticsniperturret",
       "category": "Security",
       "defname": "Turret_SuvTurret",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "lensmodule",
       "category": "Rimatomics Product",
       "defname": "LenseModule",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "longplantpot",
       "category": "Furniture",
       "defname": "VFE_LongPlantPot",
-      "price": 68
+      "price": -10
     },
     {
       "abr": "lounger",
@@ -12418,19 +12418,19 @@
       "abr": "luxuriantfruit",
       "category": "Vegetarian",
       "defname": "RA_Fruit",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "machinegun",
       "category": "Security",
       "defname": "Turret_NestMMG",
-      "price": 850
+      "price": -10
     },
     {
       "abr": "megalith",
       "category": "Misc",
       "defname": "AM_Megalith",
-      "price": 1950
+      "price": -10
     },
     {
       "abr": "memorypocketwatch",
@@ -12442,13 +12442,13 @@
       "abr": "meps",
       "category": "Rimatomics Product",
       "defname": "MEPS",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "milian",
       "category": "Animal",
       "defname": "Milian_Race",
-      "price": 4167
+      "price": -10
     },
     {
       "abr": "miliraconceptweaponry:cyclops",
@@ -12508,19 +12508,19 @@
       "abr": "missilefuselage",
       "category": "Rimatomics Product",
       "defname": "MissileFuselage",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "missilelauncher",
       "category": "Security",
       "defname": "Turret_NestMissile",
-      "price": 1025
+      "price": -10
     },
     {
       "abr": "modularcouch",
       "category": "Furniture",
       "defname": "VFE_ModularCouch",
-      "price": 375
+      "price": -10
     },
     {
       "abr": "moltenshell",
@@ -12568,19 +12568,19 @@
       "abr": "mummified",
       "category": "Art",
       "defname": "AM_MummyMale",
-      "price": 197
+      "price": -10
     },
     {
       "abr": "mummified",
       "category": "Art",
       "defname": "AM_MummyFemale",
-      "price": 197
+      "price": -10
     },
     {
       "abr": "murineblackberrycin",
       "category": "Drugs",
       "defname": "RA_BlackberryNeedle",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "nightcap",
@@ -12598,7 +12598,7 @@
       "abr": "nuclearwarhead",
       "category": "Rimatomics Product",
       "defname": "FissionWarhead",
-      "price": 24000
+      "price": -10
     },
     {
       "abr": "painterdress",
@@ -12664,7 +12664,7 @@
       "abr": "photoframe",
       "category": "Furniture",
       "defname": "RA_PhotoFrame",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "plasmapulsesniperrifle",
@@ -12676,25 +12676,25 @@
       "abr": "plutonium",
       "category": "Rimatomics Product",
       "defname": "Plutonium",
-      "price": 100
+      "price": -10
     },
     {
       "abr": "portablereactor",
       "category": "Power",
       "defname": "PortableReactor",
-      "price": 2775
+      "price": -10
     },
     {
       "abr": "potassiumiodide",
       "category": "Drugs",
       "defname": "PotassiumIodide",
-      "price": 53
+      "price": -10
     },
     {
       "abr": "pristinelimestoneblocks",
       "category": "Stone blocks",
       "defname": "AM_BlocksPristineLimestone",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "psyknife",
@@ -12706,13 +12706,13 @@
       "abr": "pyramid",
       "category": "Art",
       "defname": "AM_Pyramid",
-      "price": 4800
+      "price": -10
     },
     {
       "abr": "r.t.g",
       "category": "Nuclear",
       "defname": "RimatomicsRTG",
-      "price": 4333
+      "price": -10
     },
     {
       "abr": "radiationmask",
@@ -12826,25 +12826,25 @@
       "abr": "restoredancientbed",
       "category": "Furniture",
       "defname": "AM_AncientBed",
-      "price": 105
+      "price": -10
     },
     {
       "abr": "restoredancientdoublebed",
       "category": "Furniture",
       "defname": "AM_AncientDoubleBed",
-      "price": 242
+      "price": -10
     },
     {
       "abr": "restoredancientoperatingtable",
       "category": "Furniture",
       "defname": "AM_AncientOperatingTable",
-      "price": 650
+      "price": -10
     },
     {
       "abr": "rocketengine",
       "category": "Rimatomics Product",
       "defname": "RocketEngine",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "royalstandinglamp",
@@ -12868,13 +12868,13 @@
       "abr": "scad",
       "category": "Rimatomics Product",
       "defname": "SCAD",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "shardsentry",
       "category": "Security",
       "defname": "Turret_ShardSentry",
-      "price": 1825
+      "price": -10
     },
     {
       "abr": "signalgun",
@@ -12886,13 +12886,13 @@
       "abr": "sikhslab(broad)",
       "category": "Furniture",
       "defname": "AM_SikhSlab_Broad",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "sikhslab(medium)",
       "category": "Furniture",
       "defname": "AM_SikhSlab_Medium",
-      "price": 342
+      "price": -10
     },
     {
       "abr": "simpledoublebed",
@@ -12904,13 +12904,13 @@
       "abr": "singularitymine",
       "category": "Security",
       "defname": "ImpactMine",
-      "price": 270
+      "price": -10
     },
     {
       "abr": "skyburialspot",
       "category": "Misc",
       "defname": "AM_SkyBurialSpot",
-      "price": 143
+      "price": -10
     },
     {
       "abr": "smallpainttray",
@@ -12922,7 +12922,7 @@
       "abr": "smartmine",
       "category": "Security",
       "defname": "Turret_Smartmine",
-      "price": 800
+      "price": -10
     },
     {
       "abr": "spadescartridgebag",
@@ -12934,25 +12934,25 @@
       "abr": "sphinx",
       "category": "Misc",
       "defname": "AM_Sphynx",
-      "price": 16200
+      "price": -10
     },
     {
       "abr": "steampunkslab(broad)",
       "category": "Furniture",
       "defname": "AM_SteampunkSlab_Broad",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "steampunkslab(medium)",
       "category": "Furniture",
       "defname": "AM_SteampunkSlab_Medium",
-      "price": 342
+      "price": -10
     },
     {
       "abr": "stone-framedbedroll",
       "category": "Furniture",
       "defname": "AM_StoneBedroll",
-      "price": 159
+      "price": -10
     },
     {
       "abr": "strangetastebean",
@@ -12976,13 +12976,13 @@
       "abr": "sweetcandy",
       "category": "Foods",
       "defname": "RA_Candy",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "targetingchip",
       "category": "Rimatomics Product",
       "defname": "TargetingChip",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "techprint(chargedammo)",
@@ -12994,7 +12994,7 @@
       "abr": "tinsoldier",
       "category": "Furniture",
       "defname": "RA_TinSoldier",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "tinypencil",
@@ -13006,7 +13006,7 @@
       "abr": "turbineblades",
       "category": "Rimatomics Product",
       "defname": "turbineBlade",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "typeafirstaidkit",
@@ -13024,25 +13024,25 @@
       "abr": "unshackleddryad",
       "category": "Animals",
       "defname": "AM_UnshackledDryad",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "uraniumpellets",
       "category": "Rimatomics Product",
       "defname": "UraniumPellets",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "urn",
       "category": "Furniture",
       "defname": "AM_Urn",
-      "price": 70
+      "price": -10
     },
     {
       "abr": "waveemmiter",
       "category": "Security",
       "defname": "Turret_WaveEmitter",
-      "price": 2442
+      "price": -10
     },
     {
       "abr": "woodensword",
@@ -13054,13 +13054,13 @@
       "abr": "yuranbaeg-yeong",
       "category": "Yuran Apparel",
       "defname": "YR_AP_SecretYukataA",
-      "price": 203
+      "price": -10
     },
     {
       "abr": "yuranroyalslavecloth",
       "category": "Yuran Apparel",
       "defname": "YR_AP_RoyalSlave",
-      "price": 303
+      "price": -10
     }
   ],
   "total": 2177
