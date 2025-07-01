@@ -6601,18 +6601,6 @@
       "price": -10
     },
     {
-      "abr": "▼▼",
-      "category": "Animals",
-      "defname": "YR_Sikigami_Snake_Noroi",
-      "price": -10
-    },
-    {
-      "abr": "▽▽",
-      "category": "Animals",
-      "defname": "YR_Sikigami_Snake",
-      "price": -10
-    },
-    {
       "abr": "am-yeonghairband",
       "category": "Yuran hat",
       "defname": "YR_AP_CombatCloth_Black_Ribbon",
@@ -7261,22 +7249,10 @@
       "price": 833
     },
     {
-      "abr": "proofofcontract(raccoonshikigami)",
-      "category": "Misc",
-      "defname": "YR_Skigami_BuildingRacoon",
-      "price": -10
-    },
-    {
       "abr": "proofofcontract(turtleshikigami)",
       "category": "Misc",
       "defname": "YR_Skigami_BuildingTurtle",
       "price": -10
-    },
-    {
-      "abr": "racoonshikigami",
-      "category": "Animals",
-      "defname": "YR_Sikigami_Racoon",
-      "price": 333
     },
     {
       "abr": "redwood",
@@ -7361,12 +7337,6 @@
       "category": "Ranged weapons",
       "defname": "Gun_ToxbombLauncher",
       "price": 633
-    },
-    {
-      "abr": "turtleshikigami",
-      "category": "Animals",
-      "defname": "YR_Sikigami_Turtle",
-      "price": -10
     },
     {
       "abr": "wickerman",
@@ -13061,6 +13031,36 @@
       "category": "Yuran Apparel",
       "defname": "YR_AP_RoyalSlave",
       "price": -10
+    },
+    {
+      "abr": "▼▼",
+      "category": "Animals",
+      "defname": "YR_Shikigami_Snake_Noroi",
+      "price": 333
+    },
+    {
+      "abr": "▽▽",
+      "category": "Animals",
+      "defname": "YR_Shikigami_Snake",
+      "price": 333
+    },
+    {
+      "abr": "proofofcontract(raccoonshikigami)",
+      "category": "Misc",
+      "defname": "YR_Skigami_BuildingRaccoon",
+      "price": 958
+    },
+    {
+      "abr": "raccoonshikigami",
+      "category": "Animals",
+      "defname": "YR_Shikigami_Raccoon",
+      "price": 333
+    },
+    {
+      "abr": "turtleshikigami",
+      "category": "Animals",
+      "defname": "YR_Shikigami_Turtle",
+      "price": 333
     }
   ],
   "total": 2177

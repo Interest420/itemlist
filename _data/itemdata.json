@@ -26899,7 +26899,7 @@
     "Mod": "Yuran race",
     "KarmaType": null
   },
-  "YR_Skigami_BuildingRacoon": {
+  "YR_Shikigami_Snake_Noroi": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -26909,7 +26909,7 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": true,
+    "IsUsable": false,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -27339,17 +27339,17 @@
     "Mod": "Yuran race",
     "KarmaType": null
   },
-  "YR_Sikigami_Turtle": {
+  "YR_Shikigami_Snake": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": 5,
+    "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": true,
+    "IsUsable": false,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -27359,17 +27359,17 @@
     "Mod": "Yuran race",
     "KarmaType": null
   },
-  "YR_Sikigami_Racoon": {
+  "YR_Shikigami_Raccoon": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": 5,
+    "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": true,
+    "IsUsable": false,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -27379,17 +27379,17 @@
     "Mod": "Yuran race",
     "KarmaType": null
   },
-  "YR_Sikigami_Snake": {
+  "YR_Shikigami_Turtle": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": 5,
+    "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": true,
+    "IsUsable": false,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -27399,17 +27399,17 @@
     "Mod": "Yuran race",
     "KarmaType": null
   },
-  "YR_Sikigami_Snake_Noroi": {
+  "YR_Skigami_BuildingRaccoon": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": 5,
+    "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": true,
+    "IsUsable": false,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
