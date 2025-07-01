@@ -13036,13 +13036,13 @@
       "abr": "▼▼",
       "category": "Animals",
       "defname": "YR_Shikigami_Snake_Noroi",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "▽▽",
       "category": "Animals",
       "defname": "YR_Shikigami_Snake",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "proofofcontract(raccoonshikigami)",
