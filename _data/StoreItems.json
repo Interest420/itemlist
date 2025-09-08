@@ -7870,7 +7870,7 @@
       "abr": "uniqueassaultrifle",
       "category": "Unique weapons",
       "defname": "Gun_AssaultRifle_Unique",
-      "price": 800
+      "price": -10
     },
     {
       "abr": "uniquebeamrepeater",
