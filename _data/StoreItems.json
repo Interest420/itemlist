@@ -8224,7 +8224,7 @@
       "abr": "essenceofmagic",
       "category": "Magic artifacts",
       "defname": "TM_MagicArtifact_MagicEssence",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "essenceofmight",
@@ -10567,21 +10567,9 @@
       "price": -10
     },
     {
-      "abr": "arcticwolfhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Wolf_Arctic",
-      "price": -10
-    },
-    {
       "abr": "arcticwolfrug(2x2)",
       "category": "Furniture",
       "defname": "DankPyon_RugWolfArctic2x2c",
-      "price": -10
-    },
-    {
-      "abr": "armadilloleatherhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Leather_Armadillo",
       "price": -10
     },
     {
@@ -10843,12 +10831,6 @@
       "price": -10
     },
     {
-      "abr": "birdleatherhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Leather_Bird",
-      "price": -10
-    },
-    {
       "abr": "birdpost",
       "category": "Misc",
       "defname": "DankPyon_BirdPost",
@@ -10894,12 +10876,6 @@
       "abr": "boarskin",
       "category": "Leathers",
       "defname": "DankPyon_Leather_DireBoar",
-      "price": -10
-    },
-    {
-      "abr": "boarskinhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Leather_DireBoar",
       "price": -10
     },
     {
@@ -11041,12 +11017,6 @@
       "price": -10
     },
     {
-      "abr": "camelhidehide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Leather_Camel",
-      "price": -10
-    },
-    {
       "abr": "candle",
       "category": "Furniture",
       "defname": "DankPyon_Candle",
@@ -11173,12 +11143,6 @@
       "price": -10
     },
     {
-      "abr": "chinchillafurhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Leather_Chinchilla",
-      "price": -10
-    },
-    {
       "abr": "cider",
       "category": "Drugs",
       "defname": "DankPyon_Cider",
@@ -11281,12 +11245,6 @@
       "price": -10
     },
     {
-      "abr": "cougarhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Cougar",
-      "price": -10
-    },
-    {
       "abr": "cougarrug(2x2)",
       "category": "Furniture",
       "defname": "DankPyon_RugCougar2x2c",
@@ -11356,12 +11314,6 @@
       "abr": "daerleather",
       "category": "Leathers",
       "defname": "DankPyon_Leather_Daer",
-      "price": -10
-    },
-    {
-      "abr": "daerleatherhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Leather_Daer",
       "price": -10
     },
     {
@@ -11491,12 +11443,6 @@
       "price": -10
     },
     {
-      "abr": "dogleatherhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Leather_Dog",
-      "price": -10
-    },
-    {
       "abr": "doublefurbed",
       "category": "Furniture",
       "defname": "DankPyon_BedFurDouble",
@@ -11518,18 +11464,6 @@
       "abr": "doublewickerbed",
       "category": "Furniture",
       "defname": "DankPyon_BedWickerDouble",
-      "price": -10
-    },
-    {
-      "abr": "dragonscaleshide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_MG_Dragon_Scales",
-      "price": -10
-    },
-    {
-      "abr": "dreadleatherhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Leather_Dread",
       "price": -10
     },
     {
@@ -11590,12 +11524,6 @@
       "abr": "einkorn",
       "category": "Grains",
       "defname": "DankPyon_RawSpelt",
-      "price": -10
-    },
-    {
-      "abr": "elephantleatherhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Leather_Elephant",
       "price": -10
     },
     {
@@ -11950,12 +11878,6 @@
       "abr": "forestlindwurm",
       "category": "Animals",
       "defname": "DankPyon_LindwurmForest",
-      "price": -10
-    },
-    {
-      "abr": "foxfurhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Leather_Fox",
       "price": -10
     },
     {
@@ -12337,12 +12259,6 @@
       "price": -10
     },
     {
-      "abr": "griffonleatherhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Leather_Griffon",
-      "price": -10
-    },
-    {
       "abr": "griffonwine",
       "category": "Drugs",
       "defname": "DankPyon_Wine_Griffon",
@@ -12379,21 +12295,9 @@
       "price": -10
     },
     {
-      "abr": "grizzlybearhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Bear_Grizzly",
-      "price": -10
-    },
-    {
       "abr": "grizzlybearrug(3x3)",
       "category": "Furniture",
       "defname": "DankPyon_RugGrizzlyBear3x3c",
-      "price": -10
-    },
-    {
-      "abr": "guineapigfurhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Leather_GuineaPig",
       "price": -10
     },
     {
@@ -12523,18 +12427,6 @@
       "price": -10
     },
     {
-      "abr": "heavyfurhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Leather_Bluefur",
-      "price": -10
-    },
-    {
-      "abr": "heavyfurhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Leather_Heavy",
-      "price": -10
-    },
-    {
       "abr": "heavyhauberk",
       "category": "Apparel",
       "defname": "DankPyon_Apparel_Heavy_Hauberk",
@@ -12607,12 +12499,6 @@
       "price": -10
     },
     {
-      "abr": "hippoleatherhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Leather_Hippo",
-      "price": -10
-    },
-    {
       "abr": "hood",
       "category": "Headgear",
       "defname": "DankPyon_Headgear_Hood",
@@ -12655,12 +12541,6 @@
       "price": -10
     },
     {
-      "abr": "humanleatherhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Leather_Human",
-      "price": -10
-    },
-    {
       "abr": "humanrug(1x2)",
       "category": "Furniture",
       "defname": "DankPyon_RugHuman1x2c",
@@ -12688,12 +12568,6 @@
       "abr": "hyenafur",
       "category": "Leathers",
       "defname": "DankPyon_Leather_Hyena",
-      "price": -10
-    },
-    {
-      "abr": "hyenafurhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Leather_Hyena",
       "price": -10
     },
     {
@@ -13051,12 +12925,6 @@
       "price": -10
     },
     {
-      "abr": "lindwurmscaleshide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Leather_Lindwurm",
-      "price": -10
-    },
-    {
       "abr": "lindwurmshield",
       "category": "Shields",
       "defname": "DankPyon_ShieldLindwurm",
@@ -13201,12 +13069,6 @@
       "price": -10
     },
     {
-      "abr": "mastodonleatherhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Leather_Mastodon",
-      "price": -10
-    },
-    {
       "abr": "mead",
       "category": "Drugs",
       "defname": "DankPyon_Mead",
@@ -13264,12 +13126,6 @@
       "abr": "miningtools",
       "category": "Misc",
       "defname": "DankPyon_MiningTools",
-      "price": -10
-    },
-    {
-      "abr": "minkfurhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Leather_Mink",
       "price": -10
     },
     {
@@ -13405,12 +13261,6 @@
       "price": -10
     },
     {
-      "abr": "nyaronleatherhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Leather_Nyaron",
-      "price": -10
-    },
-    {
       "abr": "oillamp",
       "category": "Furniture",
       "defname": "DankPyon_RusticLamp",
@@ -13522,12 +13372,6 @@
       "abr": "paddedsurcoat",
       "category": "Apparel",
       "defname": "DankPyon_Apparel_Padded_Surcoat",
-      "price": -10
-    },
-    {
-      "abr": "pantherhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Panther",
       "price": -10
     },
     {
@@ -13651,12 +13495,6 @@
       "price": -10
     },
     {
-      "abr": "pigskinhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Leather_Pig",
-      "price": -10
-    },
-    {
       "abr": "pike",
       "category": "Melee weapons",
       "defname": "DankPyon_MeleeWeapon_Pike",
@@ -13690,12 +13528,6 @@
       "abr": "pitchfork",
       "category": "Melee weapons",
       "defname": "DankPyon_MeleeWeapon_Pitchfork",
-      "price": -10
-    },
-    {
-      "abr": "plainhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Plain",
       "price": -10
     },
     {
@@ -13738,12 +13570,6 @@
       "abr": "poisongland",
       "category": "Loot",
       "defname": "DankPyon_PoisonGland",
-      "price": -10
-    },
-    {
-      "abr": "polarbearhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Bear_Polar",
       "price": -10
     },
     {
@@ -14026,12 +13852,6 @@
       "abr": "roxleather",
       "category": "Leathers",
       "defname": "DankPyon_Leather_Rox",
-      "price": -10
-    },
-    {
-      "abr": "roxleatherhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Leather_Rox",
       "price": -10
     },
     {
@@ -14545,12 +14365,6 @@
       "price": -10
     },
     {
-      "abr": "scaleleatherhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Leather_Lizard",
-      "price": -10
-    },
-    {
       "abr": "scholarspell:feyblessing",
       "category": "Scrolls",
       "defname": "SpellOf_FeyBlessing",
@@ -14572,12 +14386,6 @@
       "abr": "scrollofspiritbinding",
       "category": "Magic artifacts",
       "defname": "MagicArtifact_RerollSpiritBond",
-      "price": -10
-    },
-    {
-      "abr": "sealskinhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Leather_Sealskin",
       "price": -10
     },
     {
@@ -14935,12 +14743,6 @@
       "price": -10
     },
     {
-      "abr": "softfurhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Leather_Light",
-      "price": -10
-    },
-    {
       "abr": "solarcrystal",
       "category": "Manufactured",
       "defname": "Milira_SolarCrystal",
@@ -15094,7 +14896,7 @@
       "abr": "steakwithwine",
       "category": "Meals",
       "defname": "DankPyon_MealSteakWithWine",
-      "price": -10
+      "price": 92
     },
     {
       "abr": "steelingotstack(1x1)",
@@ -15481,12 +15283,6 @@
       "price": -10
     },
     {
-      "abr": "thickscaleleatherhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Leather_Rhinoceros",
-      "price": -10
-    },
-    {
       "abr": "thickunholdfur",
       "category": "Loot",
       "defname": "DankPyon_ThickUnholdFur",
@@ -15517,12 +15313,6 @@
       "price": -10
     },
     {
-      "abr": "thrumbohide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Thrumbo",
-      "price": -10
-    },
-    {
       "abr": "thrumborug(3x3)",
       "category": "Furniture",
       "defname": "DankPyon_RugThrumbo3x3c",
@@ -15532,12 +15322,6 @@
       "abr": "thrumbosaber",
       "category": "Melee",
       "defname": "TM_ThrumboSaber",
-      "price": -10
-    },
-    {
-      "abr": "thrumbomanehide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Leather_AlphaThrumbo",
       "price": -10
     },
     {
@@ -15556,12 +15340,6 @@
       "abr": "timber(2x2)",
       "category": "Furniture",
       "defname": "DankPyon_Timber2x2c",
-      "price": -10
-    },
-    {
-      "abr": "timberwolfhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Wolf_Timber",
       "price": -10
     },
     {
@@ -15982,12 +15760,6 @@
       "abr": "trollleather",
       "category": "Leathers",
       "defname": "DankPyon_Leather_Troll",
-      "price": -10
-    },
-    {
-      "abr": "trollleatherhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Leather_Troll",
       "price": -10
     },
     {
@@ -16444,18 +16216,6 @@
       "abr": "wolfskin",
       "category": "Leathers",
       "defname": "DankPyon_Leather_Direwolf",
-      "price": -10
-    },
-    {
-      "abr": "wolfskinhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Leather_Wolf",
-      "price": -10
-    },
-    {
-      "abr": "wolfskinhide",
-      "category": "Hides",
-      "defname": "DankPyon_Hide_Leather_Direwolf",
       "price": -10
     },
     {
@@ -17041,11 +16801,11 @@
       "price": -10
     },
     {
-      "abr": "zombrella",
-      "category": "Misc",
-      "defname": "Zombrella",
-      "price": -10
+      "abr": "plasmasmg",
+      "category": "Ranged weapons",
+      "defname": "Milira_PlasmaSMG",
+      "price": 3817
     }
   ],
-  "total": 2841
+  "total": 2801
 }
