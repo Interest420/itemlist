@@ -54599,7 +54599,7 @@
       },
       "description": "Miko serves and manages the village as a kind of duty for Yuran belonging to a family of special lineage.",
       "defName": "Yuran_Race_Miko",
-      "enabled": true,
+      "enabled": false,
       "name": "Yuran Miko",
       "price": 10000
     },
