@@ -28,7 +28,7 @@
       "abr": "luciferium",
       "category": "Drugs",
       "defname": "Luciferium",
-      "price": -10
+      "price": 117
     },
     {
       "abr": "penoxycyline",
@@ -15310,7 +15310,7 @@
       "abr": "thrumboaxe",
       "category": "Melee",
       "defname": "TM_ThrumboAxe",
-      "price": -10
+      "price": 7750
     },
     {
       "abr": "thrumborug(3x3)",
