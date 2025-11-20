@@ -3838,7 +3838,7 @@
       "abr": "archotecheye",
       "category": "Archotech",
       "defname": "ArchotechEye",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "archotechleg",
@@ -7156,7 +7156,7 @@
       "abr": "arcalleum",
       "category": "Raw resources",
       "defname": "TM_Arcalleum",
-      "price": -10
+      "price": 22
     },
     {
       "abr": "arcanegemofacceleration",
@@ -7618,13 +7618,13 @@
       "abr": "bracersofdeflection",
       "category": "Magic artifacts",
       "defname": "TM_Artifact_BracersOfDeflection",
-      "price": -10
+      "price": 1558
     },
     {
       "abr": "bracersofthepacifist",
       "category": "Magic artifacts",
       "defname": "TM_Artifact_BracersOfThePacifist",
-      "price": -10
+      "price": 6375
     },
     {
       "abr": "brightmagespell:spiritoflight",
@@ -8074,7 +8074,7 @@
       "abr": "demonscale",
       "category": "Raw resources",
       "defname": "TM_Demonscale",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "direwolf",
@@ -10276,7 +10276,7 @@
       "abr": "additionalfurpadding",
       "category": "Apparel",
       "defname": "DankPyon_Apparel_AdditionalFurPadding",
-      "price": -10
+      "price": 1108
     },
     {
       "abr": "adrenalinegland",
@@ -15304,7 +15304,7 @@
       "abr": "thrumbow",
       "category": "Ranged",
       "defname": "TM_ThrumBow",
-      "price": -10
+      "price": 7467
     },
     {
       "abr": "thrumboaxe",
@@ -16810,13 +16810,13 @@
       "abr": "yurangrilledcorn",
       "category": "Meals",
       "defname": "YR_yedoensisBerries_GrilledCorn",
-      "price": 25
+      "price": -10
     },
     {
       "abr": "yuranriceball",
       "category": "Meals",
       "defname": "YR_yedoensisBerries_RiceBall",
-      "price": 25
+      "price": -10
     }
   ],
   "total": 2803
