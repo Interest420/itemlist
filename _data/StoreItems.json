@@ -9082,7 +9082,7 @@
       "abr": "manaweave",
       "category": "Textiles",
       "defname": "TM_Manaweave",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "mantleofprotection",
@@ -12916,7 +12916,7 @@
       "abr": "lindwurmscalehelmet",
       "category": "Headgear",
       "defname": "DankPyon_Headgear_Lindwurm",
-      "price": -10
+      "price": 5633
     },
     {
       "abr": "lindwurmscales",
