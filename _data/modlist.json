@@ -6,12 +6,6 @@
     "version": "2.4.2.0"
   },
   {
-    "author": "UnlimitedHugs",
-    "name": "HugsLib",
-    "steamId": "818773962",
-    "version": "12.0.0"
-  },
-  {
     "author": "dninemfive",
     "name": "Ambrosial Longevity",
     "steamId": null,
@@ -70,6 +64,12 @@
     "name": "DragSelect",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Central Heating",
+    "steamId": "2619214952",
+    "version": "2.7.7366"
   },
   {
     "author": "Dubwise",
@@ -168,6 +168,12 @@
     "version": null
   },
   {
+    "author": "LTS",
+    "name": "Integrated Implants",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Mehni",
     "name": "Pick Up And Haul",
     "steamId": "1279012058",
@@ -186,20 +192,8 @@
     "version": "0.1.0.0+1d79e230076df719c2e8a97f2f9ae0c149c347ca"
   },
   {
-    "author": "Zaljerem",
-    "name": "JecsLite - A RimWorld of Magic",
-    "steamId": "3312959701",
-    "version": "1.0.4.0"
-  },
-  {
-    "author": "Torann",
-    "name": "A RimWorld of Magic",
-    "steamId": "1201382956",
-    "version": "2.6.4.3"
-  },
-  {
-    "author": "Kure",
-    "name": "Kure's Rimworld of Magic Class Expansion Pack",
+    "author": "chad gamer",
+    "name": "Land Ship On Any Tile",
     "steamId": null,
     "version": null
   },
@@ -220,42 +214,6 @@
     "name": "Map Preview",
     "steamId": "2800857642",
     "version": "1.12.22+4336584678fcfe9f7f1985e828d72bfe11813566"
-  },
-  {
-    "author": "BotchJob",
-    "name": "Medieval Fantasy Themed Rare Resources",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Bonible",
-    "name": "Medieval Melee Sounds",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Syrchalis",
-    "name": "[SYR] Processor Framework",
-    "steamId": "3210544395",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "SirLalaPyon",
-    "name": "Medieval Overhaul",
-    "steamId": "3219596926",
-    "version": "0.0.0.0"
-  },
-  {
-    "author": "Evil Eye Guy",
-    "name": "Medieval Overhaul: Royalty",
-    "steamId": "2646321064",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Viral Reaction",
-    "name": "Medieval Overhaul Patches",
-    "steamId": "3015529451",
-    "version": "1.0.0.0"
   },
   {
     "author": "Ancot",
@@ -348,18 +306,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "BotchJob",
-    "name": "Medieval Fantasy Themed Quest Rewards",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Botch_Job",
-    "name": "Possessed Weapons",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "iamrespawn",
     "name": "Prosthetic No Missing Body Parts (Continued)",
     "steamId": "2739055353",
@@ -417,13 +363,7 @@
     "author": "Uuugggg",
     "name": "Replace Stuff - Continued",
     "steamId": "3526354009",
-    "version": "1.0.0+f60155fb0ecde1e0c69ee15888d7e9504c54d53c"
-  },
-  {
-    "author": "Sierra",
-    "name": "RimFantasy - Medieval Overhaul Edition",
-    "steamId": null,
-    "version": null
+    "version": "1.0.0+9faf5e73648bad336daa8f83766c7da9e2117bc2"
   },
   {
     "author": "aRandomKiwi",
@@ -438,10 +378,34 @@
     "version": null
   },
   {
+    "author": "rooki1",
+    "name": "Rimsenal: Murder diversified",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Security Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal Faction Pack - Federation",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "katana",
     "name": "Scenario Amender [1.5 - 1.6]",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Fair",
+    "name": "Scheduled Events (Continued)",
+    "steamId": "2126125070",
+    "version": "1.6.0"
   },
   {
     "author": "2blockdude",
@@ -465,6 +429,18 @@
     "author": "ray1203",
     "name": "SimpleCameraSetting",
     "steamId": "3232415388",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "NebulaeFlood",
+    "name": "NebulaeFlood's Lib",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NebulaeFlood",
+    "name": "Simply More Roofs",
+    "steamId": "3536657775",
     "version": "1.0.0.0"
   },
   {
@@ -510,8 +486,26 @@
     "version": "1.1.0.0"
   },
   {
+    "author": "OskarPotocki, Atlas, Kikohi, Sarg and Sokyran",
+    "name": "Vanilla Furniture Expanded",
+    "steamId": "1718190143",
+    "version": "1.1.0"
+  },
+  {
     "author": "Oskar Potocki and Sarg Bjornson",
     "name": "Vanilla Furniture Expanded - Art",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, dninemfive, Kikohi and Sarg",
+    "name": "Vanilla Furniture Expanded - Farming",
+    "steamId": "1957158779",
+    "version": "1.0.1.0"
+  },
+  {
+    "author": "legodude17 and Oskar Potocki",
+    "name": "Vanilla Outposts Expanded",
     "steamId": null,
     "version": null
   },
@@ -534,26 +528,26 @@
     "version": null
   },
   {
-    "author": "m00nl1ght",
-    "name": "World Tech Level",
-    "steamId": "3414187030",
-    "version": "1.1.6+bf90ea8ff0feda8d371e4abab9ecf71ba95f85b6"
-  },
-  {
     "author": "Gege",
     "name": "Xenotype Xenogerms (Continued)",
     "steamId": "3504402340",
     "version": "1.0.0.0"
   },
   {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Better Exploration Loot",
+    "author": "Nemonian.MY",
+    "name": "[1.6] Moyo - from the depth",
+    "steamId": "3240244292",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Nemonian",
+    "name": "[1.6] Moyo - The Cartel Arrives",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Evil Eye Guy",
-    "name": "Medieval Overhaul: Toggleable Stuff",
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Better Exploration Loot",
     "steamId": null,
     "version": null
   },
@@ -582,6 +576,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Plants Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
@@ -596,8 +596,8 @@
   {
     "author": "Roo",
     "name": "Yuran race",
-    "steamId": null,
-    "version": null
+    "steamId": "2844129100",
+    "version": "1.0.0.0"
   },
   {
     "author": "FrozenSnowFox",
@@ -626,12 +626,6 @@
   {
     "author": "SaltBabe",
     "name": "[L] House Maid Nukos 1.6",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Okagrim",
-    "name": "[Odyssey] Aethric Ship",
     "steamId": null,
     "version": null
   },
