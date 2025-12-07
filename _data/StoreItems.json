@@ -664,7 +664,7 @@
       "abr": "lavishmeal",
       "category": "Meals",
       "defname": "MealLavish",
-      "price": -10
+      "price": 67
     },
     {
       "abr": "vegetarianlavishmeal",
@@ -3382,7 +3382,7 @@
       "abr": "beamgraser",
       "category": "Ranged weapons",
       "defname": "Gun_BeamGraser",
-      "price": 1875
+      "price": -10
     },
     {
       "abr": "tome",
